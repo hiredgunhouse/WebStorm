@@ -1,0 +1,80 @@
+<templateSet group="React">
+  <template name="bf" value="this.$functionName$ = this.$functionName$.bind(this)&#10;$END$" description="bind function" toReformat="true" toShortenFQNames="true">
+    <variable name="functionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ts" value="this.state.$END$" description="this state" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tp" value="this.props.$END$" description="this props" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ctor" value="constructor(props) {&#10;  super(props)&#10;  $END$&#10;}&#10;" description="constructor" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tss" value="this.setState({&#10;  $END$&#10;})" description="this set state" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="cc" value="class $name$Component extends React.Component {&#10;  constructor(props) {&#10;    super(props)&#10;  }&#10;&#10;  render () {&#10;    return (&#10;      $END$&#10;    )&#10;  }&#10;}&#10;" description="component class" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fsc" value="let $name$ = (props) =&gt; (&#10;  $END$&#10;)&#10;" description="functional stateles component" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tse" value="this.state = {&#10;  $END$&#10;}" description="this state extended" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="r" value="render() {&#10;  return (&#10;    $END$&#10;  )&#10;}" description="render" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cdm" value="componentDidMount() {&#10;  $END$&#10;}&#10;" description="component did mount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwm" value="componentWillMount() {&#10;  $END$&#10;}&#10;" description="component will mount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sis" value="setInitialState() {&#10;  $END$&#10;}&#10;" description="set initial state" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwu" value="componentWillUnmount() {&#10;  $END$&#10;}" description="component will unmount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="irfr" value="import React from 'react'" description="import React from 'react'" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="icfr" value="import { Component } from 'react'" description="import Component from 'react'" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
