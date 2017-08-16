@@ -276,7 +276,7 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="92" column="42" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1502872293233">
+      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1502873500021">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="127" column="42" />
         <mark key="]" line="127" column="69" />
@@ -372,12 +372,12 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1502872547243">
-        <mark key="'" line="47" column="18" />
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="26" />
-        <mark key="." line="48" column="26" />
-        <mark key="^" line="48" column="26" />
+      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1502873381590">
+        <mark key="'" line="48" column="27" />
+        <mark key="[" line="57" column="11" />
+        <mark key="]" line="57" column="10" />
+        <mark key="." line="57" column="10" />
+        <mark key="^" line="57" column="10" />
       </file>
       <file name="R:/Rem/source/web/src/utils/testUtils.js" timestamp="1501243322937">
         <mark key="[" line="7" column="3" />
@@ -946,7 +946,7 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502871551358">
+      <file name="/Dummy.txt" timestamp="1502873307173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -1107,7 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
       <jump line="34" column="24" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="71" column="18" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="22" column="53" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
@@ -1206,14 +1205,15 @@
       <jump line="56" column="11" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="27" column="0" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="47" column="18" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
-      <jump line="13" column="15" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
+      <jump line="48" column="27" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
+      <jump line="13" column="28" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>map</text>
+        <text>order</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>order</text>
       </register>
       <register name="/" type="4">
         <text>transfor</text>
