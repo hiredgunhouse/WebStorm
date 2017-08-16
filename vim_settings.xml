@@ -276,12 +276,12 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="92" column="42" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1502873500021">
+      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1502878835464">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="127" column="42" />
-        <mark key="]" line="127" column="69" />
-        <mark key="." line="127" column="69" />
-        <mark key="^" line="127" column="69" />
+        <mark key="[" line="272" column="34" />
+        <mark key="]" line="272" column="33" />
+        <mark key="." line="272" column="33" />
+        <mark key="^" line="272" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1501080449632">
         <mark key="[" line="3" column="0" />
@@ -1210,16 +1210,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>order</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>transfor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgdHJhbnNmb3JtID0gUi5tYXAoKHtpZDogdmFsdWUsIG5hbWV9KSA9PiAoeyB2YWx1ZSwgbmFtZSB9KSkK</text>
+      <register name="0" type="4">
+        <text>this.handleFilterFieldChange('taxTypes', items)}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gb25DaGFuZ2U9eyhpdGVtcykgPT4gb25DaGFuZ2VDYWxsYmFjaygndGF4VHlwZXMnKX0K</text>
