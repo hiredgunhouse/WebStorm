@@ -276,12 +276,12 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="92" column="42" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1502878835464">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="272" column="34" />
-        <mark key="]" line="272" column="33" />
-        <mark key="." line="272" column="33" />
-        <mark key="^" line="272" column="33" />
+      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1502880165320">
+        <mark key="'" line="87" column="8" />
+        <mark key="[" line="124" column="45" />
+        <mark key="]" line="124" column="45" />
+        <mark key="." line="124" column="45" />
+        <mark key="^" line="124" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1501080449632">
         <mark key="[" line="3" column="0" />
@@ -1107,10 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="24" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="71" column="18" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="22" column="53" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="53" column="33" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="76" column="19" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="23" column="8" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="9" column="7" filename="R:/Rem/source/web/src/utils/formUtils.js" />
@@ -1207,19 +1203,23 @@
       <jump line="47" column="18" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="48" column="27" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="13" column="28" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
+      <jump line="265" column="27" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="270" column="24" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="272" column="74" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="87" column="8" filename="R:/Rem/source/web/src/components/AuctionList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>transfor</text>
+        <text encoding="base64">XDxtaW5TaWduVXBEYXlzQmVmb3JlQXVjdGlvblw+</text>
       </register>
       <register name="0" type="4">
-        <text>this.handleFilterFieldChange('taxTypes', items)}</text>
+        <text>minSignUpDaysBeforeAuction</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gb25DaGFuZ2U9eyhpdGVtcykgPT4gb25DaGFuZ2VDYWxsYmFjaygndGF4VHlwZXMnKX0K</text>
@@ -1253,9 +1253,9 @@
       </register>
     </registers>
     <search>
-      <last-search>transfor</last-search>
+      <last-search encoding="base64">XDxtaW5TaWduVXBEYXlzQmVmb3JlQXVjdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>transfor</last-pattern>
+      <last-pattern encoding="base64">XDxtaW5TaWduVXBEYXlzQmVmb3JlQXVjdGlvblw+</last-pattern>
       <last-replace>FilterField</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
@@ -1263,8 +1263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>filter</entry>
-        <entry encoding="base64">XDxidWlsZExpc3RcPg==</entry>
         <entry encoding="base64">XDx3aXRoRm9ybVw+</entry>
         <entry encoding="base64">XDxjYWxsV2l0aEZvcm1TdGF0ZVw+</entry>
         <entry encoding="base64">XDxyZWdpc3RlckZvcm1TdGF0ZUNhbGxiYWNrXD4=</entry>
@@ -1283,6 +1281,8 @@
         <entry encoding="base64">XDxuZXdGaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxjb21wb3NlXD4=</entry>
         <entry>transfor</entry>
+        <entry encoding="base64">XDxtaW5TaW5nVXBEYXlzXD4=</entry>
+        <entry encoding="base64">XDxtaW5TaWduVXBEYXlzQmVmb3JlQXVjdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RvZG8vdGF4</entry>
