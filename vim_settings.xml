@@ -270,12 +270,12 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="92" column="42" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1502884758354">
+      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1502886861520">
         <mark key="'" line="120" column="20" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="123" column="16" />
+        <mark key="[" line="117" column="40" />
+        <mark key="]" line="118" column="33" />
+        <mark key="." line="118" column="23" />
+        <mark key="^" line="118" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1501080449632">
         <mark key="[" line="3" column="0" />
@@ -1208,7 +1208,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRvSVNPU3RyaW5nID0gZGF0ZSA9PiB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>undefined</text>
@@ -1217,7 +1217,7 @@
         <text encoding="base64">XDx0b0lTT1N0cmluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnYXVjdGlvbkRhdGVGcm9tJywK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRvSVNPU3RyaW5nID0gZGF0ZSA9PiB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
