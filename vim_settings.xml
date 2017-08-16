@@ -276,12 +276,12 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="92" column="42" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1502811108213">
-        <mark key="'" line="128" column="25" />
-        <mark key="[" line="118" column="32" />
-        <mark key="]" line="118" column="36" />
-        <mark key="." line="118" column="36" />
-        <mark key="^" line="118" column="36" />
+      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1502872293233">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="127" column="42" />
+        <mark key="]" line="127" column="69" />
+        <mark key="." line="127" column="69" />
+        <mark key="^" line="127" column="69" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1501080449632">
         <mark key="[" line="3" column="0" />
@@ -372,12 +372,12 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1502457524693">
-        <mark key="'" line="52" column="24" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
+      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1502872547243">
+        <mark key="'" line="47" column="18" />
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="26" />
+        <mark key="^" line="48" column="26" />
       </file>
       <file name="R:/Rem/source/web/src/utils/testUtils.js" timestamp="1501243322937">
         <mark key="[" line="7" column="3" />
@@ -946,7 +946,7 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502869347876">
+      <file name="/Dummy.txt" timestamp="1502871551358">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -1107,12 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="24" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
-      <jump line="22" column="3" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
-      <jump line="28" column="6" filename="R:/Rem/source/web/src/components/ActionsLog.js" />
-      <jump line="29" column="11" filename="R:/Rem/source/web/src/components/AuctionList.js" />
-      <jump line="87" column="13" filename="R:/Rem/source/web/src/components/AuctionList.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
       <jump line="34" column="24" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="71" column="18" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
@@ -1124,7 +1118,6 @@
       <jump line="124" column="14" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="37" column="26" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="38" column="0" filename="R:/Rem/source/web/src/containers/AuctionConfigContainer.js" />
-      <jump line="47" column="15" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="43" column="0" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="49" column="24" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="68" column="2" filename="R:/Rem/source/web/src/utils/dropDownUtils.js" />
@@ -1202,61 +1195,67 @@
       <jump line="95" column="31" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="115" column="30" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="117" column="26" filename="R:/Rem/source/web/src/components/AuctionList.js" />
-      <jump line="120" column="48" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="123" column="6" filename="R:/Rem/source/web/src/components/AuctionList.js" />
-      <jump line="70" column="9" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
-      <jump line="126" column="49" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="127" column="25" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="120" column="35" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="122" column="10" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="125" column="22" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="126" column="6" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="70" column="9" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
+      <jump line="57" column="12" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
+      <jump line="56" column="11" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
+      <jump line="27" column="0" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="47" column="18" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
+      <jump line="13" column="15" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdGaWx0ZXJcPg==</text>
+        <text>transfor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaWx0ZXI6IFxuJyArIEpTT04uc3RyaW5naWZ5KHRoaXMuc3RhdGUuZmlsdGVyKSkK</text>
+        <text encoding="base64">Y29uc3QgdHJhbnNmb3JtID0gUi5tYXAoKHtpZDogdmFsdWUsIG5hbWV9KSA9PiAoeyB2YWx1ZSwgbmFtZSB9KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gb25DaGFuZ2U9eyhpdGVtcykgPT4gb25DaGFuZ2VDYWxsYmFjaygndGF4VHlwZXMnKX0K</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gb25DaGFuZ2U9eyhpdGVtcykgPT4gb25DaGFuZ2VDYWxsYmFjaygndmVoaWNsZVR5cGVzJyl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXVjdGlvbkhvdXNlQnJhbmRzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gb25DaGFuZ2U9eyhpdGVtcykgPT4gb25DaGFuZ2VDYWxsYmFjaygnY2l0aWVzJyl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGFuZGxlRmlsdGVyQ2hhbmdlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gb25DaGFuZ2U9e29uQ2hhbmdlQ2FsbGJhY2t9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKHRoaXMuc3RhdGUuZmlsdGVyKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYXVjdGlvbkhvdXNlQnJhbmRzOiBzZWxlY3RJZHMsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGZpbHRlciA9IHRoaXMuc3RhdGUuZmlsdGVyCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGF1Y3Rpb25Ib3VzZUJyYW5kcyA9IHNlbGVjdElkcyhmaWx0ZXIuYXVjdGlvbkhvdXNlQnJhbmRzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdGaWx0ZXJcPg==</last-search>
+      <last-search>transfor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdGaWx0ZXJcPg==</last-pattern>
+      <last-pattern>transfor</last-pattern>
       <last-replace>FilterField</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
@@ -1264,8 +1263,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdWN0aW9uRGF0ZUZyb21cPg==</entry>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxidWlsZExpc3RcPg==</entry>
         <entry encoding="base64">XDx3aXRoRm9ybVw+</entry>
@@ -1284,6 +1281,8 @@
         <entry encoding="base64">XDxzZXRGaWx0ZXJGaWVsZFw+</entry>
         <entry encoding="base64">XDxhdWN0aW9uSG91c2VCcmFuZHNcPg==</entry>
         <entry encoding="base64">XDxuZXdGaWx0ZXJcPg==</entry>
+        <entry encoding="base64">XDxjb21wb3NlXD4=</entry>
+        <entry>transfor</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RvZG8vdGF4</entry>
@@ -1304,8 +1303,8 @@
         <entry encoding="base64">JzwsJz5zL0ZpZWxkL0ZpbHRlcg==</entry>
         <entry>ws</entry>
         <entry encoding="base64">JzwsJz5zL0ZpZWxkL0ZpbHRlckZpZWxk</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
