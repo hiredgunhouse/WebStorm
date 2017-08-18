@@ -858,11 +858,11 @@
         <mark key="[" line="256" column="0" />
         <mark key="]" line="260" column="30" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/auctionActions.js" timestamp="1503062096864">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-        <mark key="^" line="33" column="36" />
+      <file name="R:/Rem/source/web/src/actions/auctionActions.js" timestamp="1503063597832">
+        <mark key="[" line="36" column="50" />
+        <mark key="]" line="36" column="63" />
+        <mark key="^" line="36" column="63" />
+        <mark key="." line="36" column="63" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducres/todo.js" timestamp="1496066586424">
         <mark key="[" line="8" column="9" />
@@ -876,11 +876,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="R:/Rem/source/web/src/api/auctionApi.js" timestamp="1501580044777">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="18" column="16" />
-        <mark key="." line="19" column="13" />
+      <file name="R:/Rem/source/web/src/api/auctionApi.js" timestamp="1503063643008">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="32" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/gridReducer.js" timestamp="1497453187128">
         <mark key="[" line="14" column="0" />
@@ -1062,44 +1062,44 @@
       <jump line="38" column="11" filename="R:/Rem/source/web/src/constants/actionTypes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEdFVFRJTkdfQVVDVElPTl9TVUNDRUVERUQgPSAnR0VUVElOR19BVUNUSU9OX1NVQ0NFRURFRCcK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>GETTING</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEdFVFRJTkdfQVVDVElPTl9TVUNDRUVERUQgPSAnR0VUVElOR19BVUNUSU9OX1NVQ0NFRURFRCcK</text>
+        <text encoding="base64">ICBjb25zdCBhdWN0aW9uQXBpID0gYXVjdGlvbkFwaUZhY3RvcnkoZGlzcGF0Y2gsIGlkKQoKICByZXR1cm4gYXVjdGlvbkFwaS5nZXRBdWN0aW9uKGdldHRpbmdBdWN0aW9uU3VjY2VlZGVkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoCg==</text>
+        <text encoding="base64">ICBQcm9taXNlLmFsbCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhdWN0aW9uOiBhdWN0aW9uRW50aXR5LAo=</text>
+        <text encoding="base64">ICBjb25zdCByZW1vdmVDYWxscyA9IG1hcChhdWN0aW9uQXBpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmV0Y2hEYXRhKCkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICBjb25zdCByZW1vdmVDYWxsID0gaWQgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gYXVjdGlvbkFwaS5yZW1vdmVBdWN0aW9ucyhyZW1vdmluZ0F1Y3Rpb25zU3VjY2VlZGVkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpc3BhdGNoKCkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlbW92ZUNhbGxzID0gbWFwKGF1Y3Rpb25BcGkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
