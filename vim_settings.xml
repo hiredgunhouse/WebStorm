@@ -205,6 +205,12 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="27" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.js" timestamp="1503398072386">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
       <file name="R:/Rem/source/web/src/actions/errorActions.js" timestamp="1496932186317">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -655,6 +661,12 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="6" column="20" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.es6" timestamp="1503398852749">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+      </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="22" column="56" />
@@ -776,7 +788,6 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="30" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/App.test.js" timestamp="1503397933778" />
       <file name="R:/Rem/source/web/src/actions/auctionActions.js" timestamp="1503324935130">
         <mark key="[" line="38" column="43" />
         <mark key="]" line="38" column="43" />
@@ -830,7 +841,7 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503397745452">
+      <file name="/Dummy.txt" timestamp="1503398801303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -1061,44 +1072,44 @@
       <jump line="49" column="0" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>encode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9uTWFrZUNoYW5nZTogKG1ha2VJZCkgPT4gewogICAgICBkaXNwYXRjaChtb2RlbEFjdGlvbnMubG9hZE1vZGVscyhtYWtlSWQpKQogICAgfSwK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2R1cGEnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ci50b1N0cmluZygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIHIgPSBxdWVyeVN0cmluZyh7aWRzOiBbMSwgMiwgMywgNF19KSAvKj8gJCAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIHIgPSBxdWVyeVN0cmluZyh7aWRzOiBbMSwgMiwgMywgNF19KSAvKj8gJCAqLwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coci50b1N0cmluZygpKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHF1ZXJ5U3RyaW5nIGZyb20gJ3F1ZXJ5LXN0cmluZycK</text>
+        <text encoding="base64">YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHF1ZXJ5U3RyaW5nIGZyb20gJ3F1ZXJ5LXN0cmluZycKCnZhciByID0gcXVlcnlTdHJpbmcoe2lkczogWzEsIDIsIDMsIDRdfSkK</text>
+        <text encoding="base64">dmFyIGEgPSA3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHF1ZXJ5U3RyaW5nIGZyb20gJ3F1ZXJ5LXN0cmluZycK</text>
+        <text encoding="base64">J2R1cGEnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHF1ZXJ5U3RyaW5nIGZyb20gJ3F1ZXJ5LXN0cmluZycKCnZhciByID0gcXVlcnlTdHJpbmcoe2lkczogWzEsIDIsIDMsIDRdfSkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2R1cGEnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICdxdWVyeS1zdHJpbmcnCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2R1cGEnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
