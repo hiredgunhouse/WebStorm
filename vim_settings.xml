@@ -31,6 +31,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1503397898697">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" timestamp="1502191635773">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="39" />
@@ -231,11 +236,6 @@
         <mark key="^" line="202" column="3" />
         <mark key="." line="221" column="32" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1502808427577">
-        <mark key="'" line="12" column="34" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="3" />
-      </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducers/case.js" timestamp="1496223599309">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="11" column="17" />
@@ -424,11 +424,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.js" timestamp="1503397311570">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.js" timestamp="1503397699266">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/Footer.js" timestamp="1496144059712">
         <mark key="[" line="3" column="3" />
@@ -586,6 +586,11 @@
         <mark key="]" line="10" column="22" />
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1503397759363">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/actions/dictionaries/taxTypeActions.js" timestamp="1501582743478">
         <mark key="[" line="1" column="34" />
@@ -753,11 +758,6 @@
         <mark key="." line="33" column="7" />
         <mark key="^" line="33" column="7" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CaseAttribute.js" timestamp="1503047741699">
-        <mark key="'" line="5" column="6" />
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="260" column="30" />
-      </file>
       <file name="R:/Rem/source/web/src/actions/dictionaries/vehicleTypeActions.js" timestamp="1501582725429">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="40" />
@@ -776,6 +776,7 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="30" />
       </file>
+      <file name="R:/Rem/source/web/src/containers/App.test.js" timestamp="1503397933778" />
       <file name="R:/Rem/source/web/src/actions/auctionActions.js" timestamp="1503324935130">
         <mark key="[" line="38" column="43" />
         <mark key="]" line="38" column="43" />
@@ -829,7 +830,7 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503397241229">
+      <file name="/Dummy.txt" timestamp="1503397745452">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -1061,7 +1062,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICdxdWVyeS1zdHJpbmcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Name</text>
@@ -1073,31 +1074,31 @@
         <text encoding="base64">ICAgIG9uTWFrZUNoYW5nZTogKG1ha2VJZCkgPT4gewogICAgICBkaXNwYXRjaChtb2RlbEFjdGlvbnMubG9hZE1vZGVscyhtYWtlSWQpKQogICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICdxdWVyeS1zdHJpbmcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBSLmFzY2VuZChwcm9wKCdhdWN0aW9uRGF0ZScpKSwK</text>
+        <text encoding="base64">dmFyIHIgPSBxdWVyeVN0cmluZyh7aWRzOiBbMSwgMiwgMywgNF19KSAvKj8gJCAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dmFyIHIgPSBxdWVyeVN0cmluZyh7aWRzOiBbMSwgMiwgMywgNF19KSAvKj8gJCAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c29ydEJ5KHByb3AoJ2F1Y3Rpb25EYXRlJykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHF1ZXJ5U3RyaW5nIGZyb20gJ3F1ZXJ5LXN0cmluZycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNvcnRPcmRlcj0iQVNDIgo=</text>
+        <text encoding="base64">aW1wb3J0IHF1ZXJ5U3RyaW5nIGZyb20gJ3F1ZXJ5LXN0cmluZycKCnZhciByID0gcXVlcnlTdHJpbmcoe2lkczogWzEsIDIsIDMsIDRdfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNvcnRDb2x1bW49ImF1Y3Rpb25EYXRlIgo=</text>
+        <text encoding="base64">aW1wb3J0IHF1ZXJ5U3RyaW5nIGZyb20gJ3F1ZXJ5LXN0cmluZycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icm93Ij4K</text>
+        <text encoding="base64">aW1wb3J0IHF1ZXJ5U3RyaW5nIGZyb20gJ3F1ZXJ5LXN0cmluZycKCnZhciByID0gcXVlcnlTdHJpbmcoe2lkczogWzEsIDIsIDMsIDRdfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8UmVtb3ZlQXVjdGlvbnNCdXR0b24KICAgICAgICAgIG9uUmVtb3ZlU2VsZWN0ZWRBdWN0aW9ucz17dGhpcy5yZW1vdmVTZWxlY3RlZEF1Y3Rpb25zfQogICAgICAgIC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0ICBmcm9tICdxdWVyeS1zdHJpbmcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
