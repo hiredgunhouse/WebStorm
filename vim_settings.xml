@@ -254,12 +254,12 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1503403063230">
+      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1503404704105">
         <mark key="'" line="53" column="8" />
-        <mark key="[" line="55" column="13" />
-        <mark key="]" line="55" column="13" />
-        <mark key="." line="55" column="13" />
-        <mark key="^" line="55" column="13" />
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="54" column="14" />
+        <mark key="." line="54" column="14" />
+        <mark key="^" line="54" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1501080449632">
         <mark key="[" line="3" column="0" />
@@ -1088,11 +1088,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAoCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEYXRlRm9ybWF0dGVyXD4=</text>
@@ -1101,31 +1101,31 @@
         <text encoding="base64">Y29uc3QgRGF0ZUZvcm1hdHRlciA9IChwcm9wcykgPT4gewogIHJldHVybiAoCiAgICA8c3Bhbj57bW9tZW50KHByb3BzLnZhbHVlKS5mb3JtYXQoJ1lZWVktTU0tREQnKX08L3NwYW4+CiAgKQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAoCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29tcG9zZSgKICAgICAgICBSLnRyaW0sCiAgICAgICAgKGl0ZW0pID0+IFIudHJpbShpdGVtLm1ha2UgKyAnJyArIGl0ZW0ubW9kZWwpCiAgICAgICksCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">KQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBtYXAoKGl0ZW0pID0+IFIudHJpbShpdGVtLm1ha2UgKyAnJyArIGl0ZW0ubW9kZWwpLCBpdGVtcykK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAoCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29tcG9zZSgKICAgICAgICBSLnRyaW0sCiAgICAgICAgKGl0ZW0pID0+IFIudHJpbShpdGVtLm1ha2UgKyAnJyArIGl0ZW0ubW9kZWwpCiAgICAgICksCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">KQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBtYXAoKGl0ZW0pID0+IFIudHJpbShpdGVtLm1ha2UgKyAnJyArIGl0ZW0ubW9kZWwpLCBpdGVtcykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFIuc29ydFdpdGgoCiAgICAgIFsKICAgICAgICBSLmFzY2VuZChSLmlkZW50aXR5KQogICAgICBdLAo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
