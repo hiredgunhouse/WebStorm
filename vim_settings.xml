@@ -254,12 +254,12 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1503413260820">
-        <mark key="'" line="62" column="6" />
-        <mark key="[" line="379" column="19" />
-        <mark key="]" line="379" column="21" />
-        <mark key="." line="379" column="21" />
-        <mark key="^" line="379" column="21" />
+      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1503414929373">
+        <mark key="'" line="603" column="10" />
+        <mark key="[" line="109" column="48" />
+        <mark key="]" line="109" column="48" />
+        <mark key="." line="109" column="48" />
+        <mark key="^" line="643" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1501080449632">
         <mark key="[" line="3" column="0" />
@@ -781,12 +781,12 @@
         <mark key="]" line="54" column="24" />
         <mark key="." line="54" column="24" />
       </file>
-      <file name="R:/Rem/source/web/src/components/Grid.js" timestamp="1503322675242">
+      <file name="R:/Rem/source/web/src/components/Grid.js" timestamp="1503414322474">
         <mark key="'" line="52" column="33" />
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="7" />
+        <mark key="[" line="145" column="28" />
+        <mark key="]" line="145" column="63" />
+        <mark key="." line="145" column="63" />
+        <mark key="^" line="145" column="63" />
       </file>
       <file name="R:/Rem/source/web/src/actions/dictionaries/vehicleTypeActions.js" timestamp="1501582725429">
         <mark key="[" line="1" column="34" />
@@ -988,9 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="8" filename="R:/Rem/source/web/src/components/AuctionList.js" />
-      <jump line="135" column="6" filename="R:/Rem/source/web/src/components/AuctionList.js" />
-      <jump line="132" column="13" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="131" column="13" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="128" column="8" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="117" column="14" filename="R:/Rem/source/web/src/components/AuctionList.js" />
@@ -1088,49 +1085,52 @@
       <jump line="43" column="8" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="62" column="6" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="262" column="18" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="356" column="3" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="379" column="32" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="603" column="10" filename="R:/Rem/source/web/src/components/AuctionList.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKHJvdykK</text>
+      <register name="&quot;" type="4">
+        <text>Button</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Button</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKHJvdykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEFkZEF1Y3Rpb25CdXR0b24KICAgICAgICAgICAgICBvbkFkZEF1Y3Rpb249e3RoaXMuYWRkQXVjdGlvbn0KICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIGxldCByb3dzID0gdGhpcy5zdGF0ZS5yb3dzLnNsaWNlKCkKICAgIC8vIHJvd3Nbcm93SWR4XSA9IE9iamVjdC5hc3NpZ24oe30sIHJvdywge2lzU2VsZWN0ZWQ6ICFyb3cuaXNTZWxlY3RlZH0pCiAgICAvLyB0aGlzLnNldFN0YXRlKHtyb3dzfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKHJvdykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGJ1dHRvbj5FZGl0OiB7cHJvcHMudmFsdWV9PC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KHJvdy5pZCArICc6ICcgKyByb3cuYXVjdGlvbkhvdXNlQnJhbmROYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKHByb3BzKQo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBFZGl0Rm9ybWF0dGVyID0gKHByb3BzKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGVuYWJsZUNlbGxTZWxlY3Q9e3RydWV9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgRWRpdEZvcm1hdHRlciA9IChwcm9wcykgPT4gewogIGNvbnNvbGUuZGlyKHByb3BzKQogIHJldHVybiAoCiAgICA8YnV0dG9uPkVkaXQ6IHtwcm9wcy52YWx1ZX08L2J1dHRvbj4KICApCn0KCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">fHwgeygpID0+IH19CiAgICAgICAgLz4KICAgICAgPC9kaXY+CiAgICApCiAgfQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7CiAgICBrZXk6ICdpZCcsCiAgICBuYW1lOiAnRWRpdCcsCiAgICBmaWx0ZXJhYmxlOiBmYWxzZSwKICAgIHNvcnRhYmxlOiBmYWxzZSwKICAgIGZvcm1hdHRlcjogRWRpdEZvcm1hdHRlciwKICB9LAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGVkaXRhYmxlOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
