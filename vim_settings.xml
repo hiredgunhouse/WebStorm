@@ -254,12 +254,12 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1503409844248">
-        <mark key="'" line="632" column="21" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="80" column="23" />
+      <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1503413260820">
+        <mark key="'" line="62" column="6" />
+        <mark key="[" line="379" column="19" />
+        <mark key="]" line="379" column="21" />
+        <mark key="." line="379" column="21" />
+        <mark key="^" line="379" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1501080449632">
         <mark key="[" line="3" column="0" />
@@ -988,8 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="8" filename="R:/Rem/source/web/src/components/AuctionList.js" />
-      <jump line="141" column="6" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="137" column="8" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="135" column="6" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="132" column="13" filename="R:/Rem/source/web/src/components/AuctionList.js" />
@@ -1054,7 +1052,6 @@
       <jump line="175" column="10" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="225" column="6" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="255" column="33" filename="R:/Rem/source/web/src/components/AuctionList.js" />
-      <jump line="262" column="33" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="574" column="9" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="343" column="15" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="335" column="2" filename="R:/Rem/source/web/src/components/AuctionList.js" />
@@ -1088,58 +1085,61 @@
       <jump line="9" column="2" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="10" column="2" filename="R:/Rem/source/web/src/components/AuctionList.js" />
       <jump line="632" column="21" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="43" column="8" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="62" column="6" filename="R:/Rem/source/web/src/components/AuctionList.js" />
+      <jump line="262" column="18" filename="R:/Rem/source/web/src/components/AuctionList.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGlkZW50aXR5LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKHJvdykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
         <text>,</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjb2x1bW5zXD4=</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGpvaW4oJzxiciAvPicpLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKHJvdykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGlkZW50aXR5LAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKX0K</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgPGJ1dHRvbj5FZGl0OiB7cHJvcHMudmFsdWV9PC9idXR0b24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByID0+ICgK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKHByb3BzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAge21hcCgK</text>
+        <text encoding="base64">ICBjb25zdCBFZGl0Rm9ybWF0dGVyID0gKHByb3BzKSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgRWRpdEZvcm1hdHRlciA9IChwcm9wcykgPT4gewogIGNvbnNvbGUuZGlyKHByb3BzKQogIHJldHVybiAoCiAgICA8YnV0dG9uPkVkaXQ6IHtwcm9wcy52YWx1ZX08L2J1dHRvbj4KICApCn0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBjb25jYXQgPSAoaXRlbSkgPT4gdHJpbShpdGVtLm1ha2UgKyAnICcgKyAoaXRlbS5tb2RlbCB8fCAnJykpCg==</text>
+        <text encoding="base64">ICB7CiAgICBrZXk6ICdpZCcsCiAgICBuYW1lOiAnRWRpdCcsCiAgICBmaWx0ZXJhYmxlOiBmYWxzZSwKICAgIHNvcnRhYmxlOiBmYWxzZSwKICAgIGZvcm1hdHRlcjogRWRpdEZvcm1hdHRlciwKICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmNhdAo=</text>
+        <text encoding="base64">ICAgIC8vIGVkaXRhYmxlOiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search encoding="base64">XDxjb2x1bW5zXD4=</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern encoding="base64">XDxjb2x1bW5zXD4=</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1147,7 +1147,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addau</entry>
         <entry>onaddau</entry>
         <entry encoding="base64">XDxvblJlbW92ZVNlbGVjdGVkQXVjdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxhZGRBdWN0aW9uXD4=</entry>
@@ -1165,8 +1164,9 @@
         <entry encoding="base64">XDxmZXRjaERhdGFcPg==</entry>
         <entry>Allowed</entry>
         <entry encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</entry>
-        <entry encoding="base64">XDxjb25jYXRBbmRUcmltXD4=</entry>
         <entry>,</entry>
+        <entry encoding="base64">XDxjb25jYXRBbmRUcmltXD4=</entry>
+        <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.noh</entry>
