@@ -261,9 +261,6 @@
         <mark key="." line="9" column="55" />
         <mark key="^" line="9" column="55" />
       </file>
-      <file name="R:/Rem/source/web/node_modules/redux-logger/dist/redux-logger.js" timestamp="1502809549522">
-        <mark key="'" line="0" column="5906" />
-      </file>
       <file name="R:/Rem/source/web/src/containers/DamageAndLossContainer.js" timestamp="1498641977740">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="44" />
@@ -330,12 +327,12 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1503395072793">
+      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1503396527972">
         <mark key="'" line="61" column="16" />
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="0" />
+        <mark key="[" line="94" column="45" />
+        <mark key="]" line="94" column="45" />
+        <mark key="." line="94" column="45" />
+        <mark key="^" line="94" column="45" />
       </file>
       <file name="R:/Rem/source/web/src/utils/testUtils.js" timestamp="1501243322937">
         <mark key="[" line="7" column="3" />
@@ -560,9 +557,6 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1502977425222">
-        <mark key="'" line="30" column="1" />
-      </file>
       <file name="R:/Rem/source/web/src/index.test.js" timestamp="1501166486240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -639,6 +633,10 @@
         <mark key="]" line="68" column="6" />
         <mark key="^" line="68" column="6" />
         <mark key="." line="68" column="6" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/CreateCaseContainer.js" timestamp="1503396511188">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="54" column="5" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/todos.js" timestamp="1496827649787">
         <mark key="[" line="8" column="12" />
@@ -1056,8 +1054,8 @@
       <jump line="49" column="0" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9uTWFrZUNoYW5nZTogKG1ha2VJZCkgPT4gewogICAgICBkaXNwYXRjaChtb2RlbEFjdGlvbnMubG9hZE1vZGVscyhtYWtlSWQpKQogICAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>Name</text>
@@ -1066,7 +1064,7 @@
         <text>Formatter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBSLmFzY2VuZChtb21lbnQocHJvcHMudmFsdWUpLmZvcm1hdCgnWVlZWS1NTS1ERCcpcHJvcCgnYXVjdGlvbkRhdGUnKSksCg==</text>
+        <text encoding="base64">ICAgIG9uTWFrZUNoYW5nZTogKG1ha2VJZCkgPT4gewogICAgICBkaXNwYXRjaChtb2RlbEFjdGlvbnMubG9hZE1vZGVscyhtYWtlSWQpKQogICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBSLmFzY2VuZChwcm9wKCdhdWN0aW9uRGF0ZScpKSwK</text>
