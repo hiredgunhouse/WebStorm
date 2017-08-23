@@ -254,7 +254,7 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AddAuctionButton.js" timestamp="1503475913856">
+      <file name="R:/Rem/source/web/src/components/auction/AddAuctionButton.js" timestamp="1503477542377">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="30" />
@@ -820,11 +820,11 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="30" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1503475923506">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-        <mark key="^" line="4" column="9" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1503477266886">
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="11" />
+        <mark key="^" line="38" column="11" />
       </file>
       <file name="R:/Rem/source/web/src/actions/auctionActions.js" timestamp="1503324935130">
         <mark key="[" line="38" column="43" />
@@ -980,7 +980,7 @@
         <mark key="." line="36" column="30" />
         <mark key="^" line="36" column="30" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/RemoveAuctionButton.js" timestamp="1503475498551">
+      <file name="R:/Rem/source/web/src/components/auction/RemoveAuctionButton.js" timestamp="1503477632253">
         <mark key="'" line="38" column="17" />
         <mark key="[" line="0" column="25" />
         <mark key="]" line="1" column="33" />
@@ -1130,10 +1130,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Add</text>
+        <text>Edit</text>
       </register>
       <register name="-" type="4">
-        <text>Add</text>
+        <text>Edit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
