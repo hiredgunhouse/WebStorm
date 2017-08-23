@@ -54,11 +54,6 @@
         <mark key="^" line="202" column="3" />
         <mark key="." line="221" column="32" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1503479750383">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="34" />
-      </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuctionButton.js" timestamp="1503490273466">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="6" />
@@ -80,12 +75,12 @@
         <mark key="." line="9" column="55" />
         <mark key="^" line="9" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/dropDownUtils.js" timestamp="1502891765947">
+      <file name="R:/Rem/source/web/src/utils/dropDownUtils.js" timestamp="1503501501197">
         <mark key="'" line="36" column="4" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="73" />
-        <mark key="." line="10" column="73" />
-        <mark key="^" line="10" column="73" />
+        <mark key="[" line="88" column="8" />
+        <mark key="]" line="88" column="8" />
+        <mark key="." line="88" column="8" />
+        <mark key="^" line="89" column="15" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/todoActions.js" timestamp="1496067349332">
         <mark key="[" line="14" column="0" />
@@ -130,11 +125,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1503407184151">
-        <mark key="'" line="22" column="29" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="40" column="3" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CaseOverviewContainer.js" timestamp="1501155566275">
         <mark key="[" line="10" column="0" />
@@ -476,11 +466,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVGaWx0ZXJDaGFuZ2VcPg==</text>
@@ -526,7 +516,7 @@
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
