@@ -225,12 +225,12 @@
         <mark key="]" line="22" column="56" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1503486160665">
+      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1503488733437">
         <mark key="'" line="305" column="15" />
-        <mark key="[" line="307" column="10" />
-        <mark key="]" line="307" column="27" />
+        <mark key="[" line="138" column="37" />
+        <mark key="]" line="138" column="37" />
         <mark key="^" line="357" column="12" />
-        <mark key="." line="307" column="28" />
+        <mark key="." line="138" column="37" />
       </file>
       <file name="R:/Rem/source/web/src/components/Error.js" timestamp="1503051139905">
         <mark key="'" line="0" column="0" />
@@ -483,10 +483,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
