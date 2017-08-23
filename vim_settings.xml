@@ -60,12 +60,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="34" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AddAuctionButton.js" timestamp="1503481047316">
+      <file name="R:/Rem/source/web/src/components/auction/AddAuctionButton.js" timestamp="1503483571305">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="29" column="1" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="5" column="35" />
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="24" column="15" />
       </file>
       <file name="R:/Rem/source/web/src/components/AuctionList.js" timestamp="1503474388527">
         <mark key="'" line="657" column="25" />
@@ -225,8 +225,8 @@
         <mark key="]" line="22" column="56" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1503483170946">
-        <mark key="'" line="22" column="33" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1503483798706">
+        <mark key="'" line="533" column="16" />
         <mark key="[" line="534" column="13" />
         <mark key="]" line="534" column="12" />
         <mark key="^" line="534" column="12" />
@@ -298,12 +298,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AddAuctionDialog.js" timestamp="1503481430450">
+      <file name="R:/Rem/source/web/src/components/auction/AddAuctionDialog.js" timestamp="1503483793807">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="25" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1503482464017">
         <mark key="[" line="0" column="0" />
@@ -361,12 +361,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuctionDialog.js" timestamp="1503483155220">
+      <file name="R:/Rem/source/web/src/components/auction/EditAuctionDialog.js" timestamp="1503483533802">
         <mark key="'" line="25" column="3" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="10" column="14" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -466,20 +465,20 @@
       <jump line="250" column="2" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="21" column="25" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="262" column="2" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="533" column="25" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="467" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="22" column="33" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="4" column="6" filename="R:/Rem/source/web/src/components/controls/YesNoDialog.js" />
+      <jump line="533" column="16" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RWRpdEF1Y3Rpb24ucHJvcFR5cGVzID0gewo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>Add</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFZGl0QXVjdGlvbkRpYWxvZ1w+</text>
@@ -488,31 +487,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZWRpdEF1Y3Rpb249e3RoaXMuc3RhdGUuZWRpdEF1Y3Rpb259CiAgICAgICAgICAgIGF1Y3Rpb25JZD17dGhpcy5zdGF0ZS5hdWN0aW9uSWR9CiAgICAgICAgICAgIG9uQXVjdGlvblVwZGF0ZWQ9e3RoaXMub25BdWN0aW9uVXBkYXRlZH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RWRpdEF1Y3Rpb24ucHJvcFR5cGVzID0gewo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNPcGVuPXt0aGlzLnN0YXRlLmVkaXRBdWN0aW9ufQo=</text>
+        <text encoding="base64">ICBoaWRlRGlhbG9nOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWRpdEF1Y3Rpb249e30K</text>
+        <text encoding="base64">ICBzaG93RGlhbG9nOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWRpdEF1Y3Rpb249e3RoaXMuc3RhdGUuZWRpdEF1Y3Rpb259Cg==</text>
+        <text encoding="base64">ICBpc0RpYWxvZ09wZW46IFByb3BUeXBlcy5ib29sLmlzUmVxdWlyZWQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">b25VcGRhdGVBdWN0aW9uOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxFZGl0QXVjdGlvbgo=</text>
+        <text encoding="base64">b25BdWN0aW9uVXBkYXRlZD17dGhpcy5vbkF1Y3Rpb25VcGRhdGVkfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWRpdEF1Y3Rpb249e3RoaXMuc3RhdGUuZWRpdEF1Y3Rpb259CiAgICAgICAgICAgIGF1Y3Rpb25JZD17dGhpcy5zdGF0ZS5hdWN0aW9uSWR9Cg==</text>
+        <text encoding="base64">ICBlZGl0QXVjdGlvbj17dGhpcy5zdGF0ZS5lZGl0QXVjdGlvbn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWRpdEF1Y3Rpb249e3RoaXMuc3RhdGUuZWRpdEF1Y3Rpb259Cg==</text>
+        <text encoding="base64">ICBvbkNsb3NlRGlhbG9nOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
