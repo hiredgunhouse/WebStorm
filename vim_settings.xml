@@ -143,6 +143,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="3" column="77" />
       </file>
+      <file name="R:/Rem/source/web/src/actions/dictionaries/modelActions.js" timestamp="1503407786728">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="99" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1496411034009">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -196,7 +202,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/EditAuctionContainer.js" timestamp="1503485897377" />
+      <file name="R:/Rem/source/web/src/containers/EditAuctionContainer.js" timestamp="1503569790779">
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="59" />
+        <mark key="." line="39" column="59" />
+        <mark key="^" line="39" column="59" />
+      </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/App.js" timestamp="1496229897162">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -467,16 +478,16 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Makes</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Makes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblNhdmVDaGFuZ2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzcGFuIHRpdGxlPXtyZXN1bHR9PntyZXN1bHR9PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2gobWFrZUFjdGlvbnMubG9hZE1ha2VzKCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -516,7 +527,7 @@
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
