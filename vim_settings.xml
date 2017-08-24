@@ -886,12 +886,12 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="178" column="5" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/auctionActions.js" timestamp="1503585494913">
+      <file name="R:/Rem/source/web/src/actions/auctionActions.js" timestamp="1503587455916">
         <mark key="'" line="39" column="34" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="39" column="37" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="39" column="67" />
+        <mark key="]" line="39" column="67" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="39" column="67" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducres/todo.js" timestamp="1496066586424">
         <mark key="[" line="8" column="9" />
@@ -1109,10 +1109,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGluZ0F1Y3Rpb25TdWNjZWVkZWRcPg==</text>
