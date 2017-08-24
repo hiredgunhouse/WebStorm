@@ -8,39 +8,16 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/index.js" timestamp="1501508671074">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-      </file>
       <file name="R:/Rem/source/web/src/helpers/dropDownHelper.js" timestamp="1497878736264">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="4" column="45" />
         <mark key="." line="4" column="45" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/CreateCasePage.js" timestamp="1496656915391">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-      </file>
-      <file name="R:/Rem/source/web/src/config.prod.js" timestamp="1497965418890">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1503397898697">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" timestamp="1502191635773">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="39" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/containers/CaseListPage.js" timestamp="1496242719734">
         <mark key="[" line="11" column="8" />
@@ -54,41 +31,17 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/Footer.js" timestamp="1496676073256">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/api/auctionHouseApi.js" timestamp="1503056104218">
-        <mark key="[" line="9" column="69" />
-        <mark key="]" line="9" column="70" />
-        <mark key="." line="9" column="70" />
-        <mark key="^" line="9" column="68" />
-      </file>
       <file name="R:/Rem/source/web/src/components/controls/NumericField.js" timestamp="1502705402840">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="22" column="7" />
         <mark key="." line="16" column="25" />
         <mark key="^" line="16" column="25" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/HomePage.js" timestamp="1502700209618">
-        <mark key="'" line="14" column="34" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="3" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-      </file>
       <file name="R:/Rem/source/web/src/constants/caseStatuses.js" timestamp="1501243423487">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="2" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/controls/YesNoDialog.js" timestamp="1503490331953">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/actions/appActions.js" timestamp="1496914874857">
         <mark key="[" line="0" column="0" />
@@ -101,29 +54,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/reducers/case.test.js" timestamp="1501230230256">
-        <mark key="[" line="40" column="7" />
-        <mark key="]" line="40" column="7" />
-        <mark key="^" line="40" column="7" />
-        <mark key="." line="40" column="7" />
-      </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/containers/VisibleCreateCase" timestamp="1496222075741">
-        <mark key="[" line="2" column="49" />
-        <mark key="]" line="2" column="48" />
-        <mark key="." line="2" column="48" />
-        <mark key="^" line="2" column="48" />
-      </file>
       <file name="R:/Rem/source/web/src/containers/CaseListOnStockObjectsContainer.js" timestamp="1502114424961">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="27" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/controls/FieldPropTypes.js" timestamp="1498226142628">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducres/case.test.js" timestamp="1496065532358">
         <mark key="[" line="0" column="0" />
@@ -144,17 +79,535 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="38" column="60" />
       </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducers/todo.js" timestamp="1496224972531">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-      </file>
       <file name="D:/tfs/SCBDK.Internal.Remarketing/source/web/src/App.js" timestamp="1495711468183">
         <mark key="[" line="34" column="6" />
         <mark key="]" line="34" column="7" />
         <mark key="." line="34" column="7" />
         <mark key="^" line="34" column="7" />
+      </file>
+      <file name="R:/Rem/source/web/src/index.css" timestamp="1502970980532">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+      </file>
+      <file name="R:/Rem/source/web/src/utils/formUtils.js" timestamp="1503577016859" />
+      <file name="R:/Rem/source/web/src/actions/errorActions.js" timestamp="1496932186317">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/CreateAuction.js" timestamp="1503580083591">
+        <mark key="'" line="273" column="27" />
+        <mark key="[" line="104" column="6" />
+        <mark key="]" line="104" column="6" />
+        <mark key="^" line="255" column="3" />
+        <mark key="." line="104" column="9" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducers/case.js" timestamp="1496223599309">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1501080449632">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/RemoveAuctionsContainer.js" timestamp="1503474688766">
+        <mark key="'" line="9" column="50" />
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="55" />
+        <mark key="." line="9" column="55" />
+        <mark key="^" line="9" column="55" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/Navigation.js" timestamp="1503571411196">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="20" column="54" />
+        <mark key="^" line="20" column="54" />
+        <mark key="." line="26" column="59" />
+      </file>
+      <file name="R:/Rem/source/web/src/utils/dropDownUtils.js" timestamp="1503501501197">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="88" column="8" />
+        <mark key="]" line="88" column="8" />
+        <mark key="." line="88" column="8" />
+        <mark key="^" line="89" column="15" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/Root.prod.js" timestamp="1497964750164">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="36" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/Costs.js" timestamp="1502710644004">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="15" column="20" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/caseActions.test.js" timestamp="1496068425284">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/todoActions.js" timestamp="1496067349332">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/store/configureStore.dev.js" timestamp="1497963939945">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="30" column="13" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/routes.js" timestamp="1496228359709">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/reducers/dictionaries.js" timestamp="1498719664423">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="16" column="35" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/AuctionConfigContainer.js" timestamp="1502968219781">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="55" column="15" />
+        <mark key="^" line="55" column="7" />
+        <mark key="." line="55" column="15" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/EditAuction.js" timestamp="1503580289671">
+        <mark key="'" line="176" column="32" />
+      </file>
+      <file name="R:/Rem/source/web/src/config.dev.js" timestamp="1497965413273">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/TextField.js" timestamp="1501508318283">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/containers/HomePage.js" timestamp="1496242686212">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="2" column="14" />
+      </file>
+      <file name="R:/Rem/source/web/src/actions/noteActions.test.js" timestamp="1501242742451">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="40" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+      </file>
+      <file name="R:/Rem/source/web/src/reducers/gridReducers.js" timestamp="1497452793000">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.js" timestamp="1503397699266">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/Router.js" timestamp="1496241305187">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="21" column="10" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/routes.js" timestamp="1496240539527">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="60" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/index.js" timestamp="1496242262511">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="10" />
+        <mark key="^" line="17" column="10" />
+      </file>
+      <file name="R:/Rem/source/web/src/api/caseApi.test.js" timestamp="1501243159439">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="33" column="4" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/CheckboxTest.js" timestamp="1497623661180">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="26" />
+        <mark key="^" line="48" column="26" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/RemoveAuctions.js" timestamp="1503047275751">
+        <mark key="'" line="214" column="4" />
+        <mark key="[" line="193" column="17" />
+        <mark key="]" line="193" column="24" />
+        <mark key="." line="193" column="24" />
+        <mark key="^" line="193" column="24" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/containers/Root.js" timestamp="1496229333696">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/api/dictApi.js" timestamp="1501582690584">
+        <mark key="[" line="18" column="97" />
+        <mark key="]" line="18" column="97" />
+        <mark key="^" line="18" column="97" />
+        <mark key="." line="18" column="97" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/SantanderNeon.js" timestamp="1496143843636">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/Root.test.js" timestamp="1501236156383">
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="^" line="25" column="39" />
+      </file>
+      <file name="R:/Rem/source/web/src/api/todoApi.js" timestamp="1502701455087">
+        <mark key="'" line="14" column="33" />
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="47" />
+        <mark key="." line="9" column="47" />
+        <mark key="^" line="9" column="47" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/containers/Root.prod.js" timestamp="1496229365602">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/index.test.js" timestamp="1501166486240">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1503397759363">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/actions/dictionaries/taxTypeActions.js" timestamp="1501582743478">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+      </file>
+      <file name="R:/Rem/source/web/src/store/configureStore.prod.js" timestamp="1497964023410">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="13" column="69" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/App.js" timestamp="1496229897162">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/reducers/newTodo.js" timestamp="1500045219731">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="2" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js" timestamp="1502197396553">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/node_modules/react-dom/lib/ReactErrorUtils.js" timestamp="1503323571810">
+        <mark key="[" line="68" column="1" />
+        <mark key="]" line="68" column="6" />
+        <mark key="^" line="68" column="6" />
+        <mark key="." line="68" column="6" />
+      </file>
+      <file name="R:/Rem/source/web/src/reducers/todos.js" timestamp="1496827649787">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="6" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.es6" timestamp="1503398852749">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/TodoListPage.js" timestamp="1497360036334">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="1" column="40" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/AuctionConfigPage.js" timestamp="1502974039912">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="7" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/containers/App.js" timestamp="1496241118097">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="5" column="36" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/TodoPage.js" timestamp="1497359827119">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+      </file>
+      <file name="R:/Rem/source/web/src/actions/index.js" timestamp="1496920371843">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/Loader.js" timestamp="1496647880284">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="28" />
+      </file>
+      <file name="R:/Rem/source/web/src/reducers/app.js" timestamp="1497451838128">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/Grid.js" timestamp="1503496238405">
+        <mark key="'" line="153" column="55" />
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+      </file>
+      <file name="R:/Rem/source/web/src/reducers/newCaseReducer.js" timestamp="1503571915428">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="41" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" timestamp="1503580420943">
+        <mark key="'" line="232" column="0" />
+        <mark key="[" line="231" column="42" />
+        <mark key="]" line="231" column="47" />
+        <mark key="^" line="231" column="47" />
+        <mark key="." line="231" column="47" />
+      </file>
+      <file name="R:/Rem/source/web/src/actions/dictionaries/vehicleTypeActions.js" timestamp="1501582725429">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+      </file>
+      <file name="R:/Rem/source/web/src/api/cityApi.js" timestamp="1498722384722">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/api/caseApi.js" timestamp="1496241988745">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="30" />
+      </file>
+      <file name="R:/Rem/source/web/src/reducers/index.js" timestamp="1503573612770">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/CaseOverviewChecklist.js" timestamp="1499946053316">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="28" />
+        <mark key="." line="86" column="7" />
+        <mark key="^" line="86" column="7" />
+      </file>
+      <file name="R:/Rem/source/web/src/reducers/auctionReducer.js" timestamp="1503579684437">
+        <mark key="'" line="32" column="21" />
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/DamageLossContainer.js" timestamp="1498469221516">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/auction/AddAuctionDialog.js" timestamp="1503490076106">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1503580388592">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="57" />
+        <mark key="." line="0" column="57" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/SelectField.js" timestamp="1501503828777">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/DocumentsContainer.js" timestamp="1498641989667">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="47" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="25" column="20" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/CaseOverview.js" timestamp="1503308683903">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/FieldContainer.js" timestamp="1501587300815">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="8" column="5" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/CaseAttributeContainer.js" timestamp="1498238507583">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/egghead-getting-started-with-redux/public/index.html" timestamp="1496127648047">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="21" column="21" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducers/case.test.js" timestamp="1496074683658">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1502883297839">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="R:/Rem/source/web/src/api/api.js" timestamp="1503482397339">
+        <mark key="'" line="0" column="28" />
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="2" />
+        <mark key="." line="24" column="6" />
+        <mark key="^" line="7" column="6" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/auction/RemoveAuctionButton.js" timestamp="1503480328408">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="14" />
+        <mark key="^" line="35" column="14" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/DateField.js" timestamp="1503577198644" />
+      <file name="R:/Rem/source/web/src/reducers/errorReducers.js" timestamp="1496932047444">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducres/todo.test.js" timestamp="1496066939270">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/index.js" timestamp="1501508671074">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/CreateCasePage.js" timestamp="1496656915391">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+      </file>
+      <file name="R:/Rem/source/web/src/config.prod.js" timestamp="1497965418890">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" timestamp="1502191635773">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/Footer.js" timestamp="1496676073256">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/api/auctionHouseApi.js" timestamp="1503056104218">
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="70" />
+        <mark key="." line="9" column="70" />
+        <mark key="^" line="9" column="68" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/HomePage.js" timestamp="1502700209618">
+        <mark key="'" line="14" column="34" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/YesNoDialog.js" timestamp="1503490331953">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/reducers/case.test.js" timestamp="1501230230256">
+        <mark key="[" line="40" column="7" />
+        <mark key="]" line="40" column="7" />
+        <mark key="^" line="40" column="7" />
+        <mark key="." line="40" column="7" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/containers/VisibleCreateCase" timestamp="1496222075741">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/FieldPropTypes.js" timestamp="1498226142628">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducers/todo.js" timestamp="1496224972531">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/newCase.js" timestamp="1500037114048">
         <mark key="[" line="27" column="0" />
@@ -197,12 +650,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="R:/Rem/source/web/src/index.css" timestamp="1502970980532">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="26" column="24" />
-      </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/Navigation.js" timestamp="1496241000448">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="14" column="27" />
@@ -214,13 +661,6 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
-      </file>
-      <file name="R:/Rem/source/web/src/utils/formUtils.js" timestamp="1503577016859" />
-      <file name="R:/Rem/source/web/src/actions/errorActions.js" timestamp="1496932186317">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="5" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CustomerAndContractContainer.js" timestamp="1498641962017">
         <mark key="[" line="26" column="0" />
@@ -240,25 +680,12 @@
         <mark key="^" line="1" column="49" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CreateAuction.js" timestamp="1503579765837">
-        <mark key="'" line="172" column="30" />
-        <mark key="[" line="270" column="1" />
-        <mark key="]" line="273" column="18" />
-        <mark key="^" line="273" column="18" />
-        <mark key="." line="273" column="18" />
-      </file>
       <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1503577053322">
         <mark key="'" line="12" column="6" />
         <mark key="[" line="12" column="35" />
         <mark key="]" line="13" column="3" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
-      </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducers/case.js" timestamp="1496223599309">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="17" column="17" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuctionButton.js" timestamp="1503490273466">
         <mark key="'" line="0" column="0" />
@@ -274,49 +701,11 @@
         <mark key="." line="109" column="48" />
         <mark key="^" line="643" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1501080449632">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/containers/RemoveAuctionsContainer.js" timestamp="1503474688766">
-        <mark key="'" line="9" column="50" />
-        <mark key="[" line="9" column="55" />
-        <mark key="]" line="9" column="55" />
-        <mark key="." line="9" column="55" />
-        <mark key="^" line="9" column="55" />
-      </file>
       <file name="R:/Rem/source/web/src/containers/DamageAndLossContainer.js" timestamp="1498641977740">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="44" />
         <mark key="^" line="5" column="27" />
         <mark key="." line="24" column="20" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/Navigation.js" timestamp="1503571411196">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="20" column="54" />
-        <mark key="^" line="20" column="54" />
-        <mark key="." line="26" column="59" />
-      </file>
-      <file name="R:/Rem/source/web/src/utils/dropDownUtils.js" timestamp="1503501501197">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="88" column="8" />
-        <mark key="]" line="88" column="8" />
-        <mark key="." line="88" column="8" />
-        <mark key="^" line="89" column="15" />
-      </file>
-      <file name="R:/Rem/source/web/src/containers/Root.prod.js" timestamp="1497964750164">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="36" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/Costs.js" timestamp="1502710644004">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="15" column="20" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducers/todo.test.js" timestamp="1496074782502">
         <mark key="[" line="34" column="24" />
@@ -330,34 +719,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="60" column="21" />
       </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/caseActions.test.js" timestamp="1496068425284">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-      </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/todoActions.js" timestamp="1496067349332">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/store/configureStore.dev.js" timestamp="1497963939945">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="30" column="13" />
-        <mark key="^" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-      </file>
       <file name="R:/Rem/source/web/src/reducers/todoTypes.js" timestamp="1502701426826">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="22" />
-      </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/routes.js" timestamp="1496228359709">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1503500414108">
         <mark key="'" line="14" column="67" />
@@ -371,12 +737,6 @@
         <mark key="]" line="7" column="8" />
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
-      </file>
-      <file name="R:/Rem/source/web/src/reducers/dictionaries.js" timestamp="1498719664423">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="16" column="35" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducers/index.js" timestamp="1496242869124">
         <mark key="[" line="30" column="0" />
@@ -395,28 +755,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionConfigContainer.js" timestamp="1502968219781">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="55" column="15" />
-        <mark key="]" line="55" column="15" />
-        <mark key="^" line="55" column="7" />
-        <mark key="." line="55" column="15" />
-      </file>
       <file name="R:/Rem/source/web/src/components/controls/TextAreaField.js" timestamp="1501508304538">
         <mark key="[" line="7" column="34" />
         <mark key="]" line="8" column="1" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
-      </file>
-      <file name="R:/Rem/source/web/src/config.dev.js" timestamp="1497965413273">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/controls/TextField.js" timestamp="1501508318283">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/newTodo.test.js" timestamp="1496827995585">
         <mark key="[" line="26" column="0" />
@@ -428,28 +771,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/containers/HomePage.js" timestamp="1496242686212">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="2" column="14" />
-      </file>
-      <file name="R:/Rem/source/web/src/actions/noteActions.test.js" timestamp="1501242742451">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="40" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="3" />
-      </file>
       <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1503407184151">
         <mark key="'" line="22" column="29" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="40" column="3" />
-      </file>
-      <file name="R:/Rem/source/web/src/reducers/gridReducers.js" timestamp="1497452793000">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CaseOverviewContainer.js" timestamp="1501155566275">
         <mark key="[" line="10" column="0" />
@@ -460,12 +785,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.js" timestamp="1503397699266">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/withDialog.js" timestamp="1503480459289">
         <mark key="'" line="44" column="9" />
@@ -498,18 +817,6 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/dictionaries/modelActions.js" timestamp="1503407786728">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="36" />
-        <mark key="." line="16" column="36" />
-        <mark key="^" line="16" column="99" />
-      </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/Router.js" timestamp="1496241305187">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="21" column="10" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1496411034009">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -526,30 +833,6 @@
         <mark key="]" line="49" column="34" />
         <mark key="." line="49" column="34" />
       </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/routes.js" timestamp="1496240539527">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="60" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
-      </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/index.js" timestamp="1496242262511">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="10" />
-        <mark key="^" line="17" column="10" />
-      </file>
-      <file name="R:/Rem/source/web/src/api/caseApi.test.js" timestamp="1501243159439">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="33" column="4" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/CheckboxTest.js" timestamp="1497623661180">
-        <mark key="[" line="48" column="15" />
-        <mark key="]" line="48" column="26" />
-        <mark key="." line="48" column="26" />
-        <mark key="^" line="48" column="26" />
-      </file>
       <file name="R:/Rem/source/web/src/actions/todoActions.js" timestamp="1503482460481">
         <mark key="'" line="31" column="32" />
         <mark key="[" line="56" column="2" />
@@ -564,60 +847,11 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/RemoveAuctions.js" timestamp="1503047275751">
-        <mark key="'" line="214" column="4" />
-        <mark key="[" line="193" column="17" />
-        <mark key="]" line="193" column="24" />
-        <mark key="." line="193" column="24" />
-        <mark key="^" line="193" column="24" />
-      </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/containers/Root.js" timestamp="1496229333696">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/api/dictApi.js" timestamp="1501582690584">
-        <mark key="[" line="18" column="97" />
-        <mark key="]" line="18" column="97" />
-        <mark key="^" line="18" column="97" />
-        <mark key="." line="18" column="97" />
-      </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/SantanderNeon.js" timestamp="1496143843636">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/containers/Root.test.js" timestamp="1501236156383">
-        <mark key="[" line="25" column="38" />
-        <mark key="]" line="25" column="39" />
-        <mark key="." line="25" column="39" />
-        <mark key="^" line="25" column="39" />
-      </file>
-      <file name="R:/Rem/source/web/src/api/todoApi.js" timestamp="1502701455087">
-        <mark key="'" line="14" column="33" />
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="9" column="47" />
-        <mark key="^" line="9" column="47" />
-      </file>
       <file name="R:/Rem/source/web/src/reducers/httpReducers.js" timestamp="1496931150880">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="14" column="12" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/containers/Root.prod.js" timestamp="1496229365602">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/index.test.js" timestamp="1501166486240">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducres/case.js" timestamp="1496066570605">
         <mark key="[" line="8" column="9" />
@@ -637,40 +871,24 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1503397759363">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/actions/dictionaries/taxTypeActions.js" timestamp="1501582743478">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="40" />
-        <mark key="^" line="1" column="40" />
-        <mark key="." line="1" column="40" />
-      </file>
       <file name="R:/Rem/source/web/src/api/auctionHouseBranchApi.js" timestamp="1498722313398">
         <mark key="[" line="14" column="78" />
         <mark key="]" line="14" column="86" />
         <mark key="^" line="14" column="86" />
         <mark key="." line="14" column="86" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/EditAuctionContainer.js" timestamp="1503579498250">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="13" column="39" />
+      <file name="R:/Rem/source/web/src/containers/EditAuctionContainer.js" timestamp="1503580280619">
+        <mark key="'" line="8" column="39" />
+        <mark key="[" line="62" column="6" />
+        <mark key="]" line="62" column="9" />
+        <mark key="^" line="62" column="9" />
+        <mark key="." line="62" column="9" />
       </file>
       <file name="R:/Rem/source/web/src/components/DamageAndLoss.js" timestamp="1498471317707">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="1" />
         <mark key="^" line="20" column="14" />
         <mark key="." line="22" column="1" />
-      </file>
-      <file name="R:/Rem/source/web/src/store/configureStore.prod.js" timestamp="1497964023410">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="13" column="69" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/react-playground/src/index.js" timestamp="1495731966892">
         <mark key="[" line="4" column="20" />
@@ -684,58 +902,16 @@
         <mark key="^" line="50" column="96" />
         <mark key="." line="50" column="96" />
       </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/App.js" timestamp="1496229897162">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/reducers/newTodo.js" timestamp="1500045219731">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-        <mark key="^" line="4" column="2" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js" timestamp="1502197396553">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/node_modules/react-dom/lib/ReactErrorUtils.js" timestamp="1503323571810">
-        <mark key="[" line="68" column="1" />
-        <mark key="]" line="68" column="6" />
-        <mark key="^" line="68" column="6" />
-        <mark key="." line="68" column="6" />
+      <file name="R:/Rem/source/web/src/components/auction/CreateAuction.js" timestamp="1503580603268">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/AuctionDetails.js" timestamp="1503474452258" />
-      <file name="R:/Rem/source/web/src/reducers/todos.js" timestamp="1496827649787">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="6" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.es6" timestamp="1503398852749">
-        <mark key="[" line="2" column="55" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="57" />
-        <mark key="^" line="2" column="57" />
-      </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="22" column="56" />
         <mark key="." line="3" column="1" />
-      </file>
-      <file name="R:/Rem/source/web/src/containers/TodoListPage.js" timestamp="1497360036334">
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="5" column="12" />
-        <mark key="^" line="5" column="12" />
-        <mark key="." line="1" column="40" />
-      </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionConfigPage.js" timestamp="1502974039912">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="7" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/api/api.js" timestamp="1496232130622">
         <mark key="[" line="0" column="42" />
@@ -743,14 +919,8 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/containers/App.js" timestamp="1496241118097">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="5" column="36" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1503574707050">
-        <mark key="'" line="343" column="12" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1503580413015">
+        <mark key="'" line="275" column="24" />
         <mark key="[" line="318" column="10" />
         <mark key="]" line="318" column="10" />
         <mark key="^" line="349" column="48" />
@@ -770,12 +940,6 @@
         <mark key="^" line="136" column="10" />
         <mark key="." line="136" column="10" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/TodoPage.js" timestamp="1497359827119">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="32" />
-        <mark key="." line="1" column="32" />
-        <mark key="^" line="1" column="32" />
-      </file>
       <file name="R:/Rem/source/web/src/components/AddAuctionDialog.js" timestamp="1503327977177">
         <mark key="'" line="34" column="25" />
         <mark key="[" line="33" column="0" />
@@ -783,23 +947,12 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="35" column="13" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/index.js" timestamp="1496920371843">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="R:/Rem/source/web/src/components/AuctionConfig.js" timestamp="1502968284037">
         <mark key="'" line="16" column="14" />
         <mark key="[" line="269" column="24" />
         <mark key="]" line="269" column="36" />
         <mark key="^" line="269" column="36" />
         <mark key="." line="269" column="36" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/Loader.js" timestamp="1496647880284">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="28" />
       </file>
       <file name="R:/Rem/source/web/src/containers/VisibleCreateCase.js" timestamp="1496414060216">
         <mark key="[" line="14" column="41" />
@@ -813,63 +966,16 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
       </file>
-      <file name="R:/Rem/source/web/src/reducers/app.js" timestamp="1497451838128">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="R:/Rem/source/web/src/components/Documents.js" timestamp="1502710632939">
         <mark key="[" line="54" column="24" />
         <mark key="]" line="54" column="24" />
         <mark key="." line="54" column="24" />
       </file>
-      <file name="R:/Rem/source/web/src/components/Grid.js" timestamp="1503496238405">
-        <mark key="'" line="153" column="55" />
-        <mark key="[" line="25" column="13" />
-        <mark key="]" line="27" column="11" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="27" column="11" />
-      </file>
-      <file name="R:/Rem/source/web/src/reducers/newCaseReducer.js" timestamp="1503571915428">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="41" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" timestamp="1503495590759">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="231" column="42" />
-        <mark key="]" line="231" column="47" />
-        <mark key="^" line="231" column="47" />
-        <mark key="." line="231" column="47" />
-      </file>
-      <file name="R:/Rem/source/web/src/actions/dictionaries/vehicleTypeActions.js" timestamp="1501582725429">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="40" />
-        <mark key="^" line="1" column="40" />
-      </file>
-      <file name="R:/Rem/source/web/src/api/cityApi.js" timestamp="1498722384722">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="41" />
-        <mark key="." line="14" column="41" />
-        <mark key="^" line="14" column="41" />
-      </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/api/caseApi.js" timestamp="1496241988745">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="38" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="15" column="30" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1503482785293">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/reducers/index.js" timestamp="1503573612770">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="5" column="36" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1503581034881">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+        <mark key="^" line="24" column="32" />
       </file>
       <file name="R:/Rem/source/web/src/actions/auctionActions.js" timestamp="1503571558941">
         <mark key="'" line="21" column="20" />
@@ -877,12 +983,6 @@
         <mark key="]" line="38" column="43" />
         <mark key="^" line="38" column="44" />
         <mark key="." line="38" column="43" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/CaseOverviewChecklist.js" timestamp="1499946053316">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="28" />
-        <mark key="." line="86" column="7" />
-        <mark key="^" line="86" column="7" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducres/todo.js" timestamp="1496066586424">
         <mark key="[" line="8" column="9" />
@@ -902,19 +1002,6 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/reducers/auctionReducer.js" timestamp="1503579684437">
-        <mark key="'" line="32" column="21" />
-        <mark key="[" line="16" column="3" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="3" />
-      </file>
-      <file name="R:/Rem/source/web/src/containers/DamageLossContainer.js" timestamp="1498469221516">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="34" />
-      </file>
       <file name="R:/Rem/source/web/src/reducers/gridReducer.js" timestamp="1497453187128">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -926,23 +1013,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AddAuctionDialog.js" timestamp="1503490076106">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
-      </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/store/configureStore.prod.js" timestamp="1496231153135">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="6" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1503579400734">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="57" />
-        <mark key="." line="0" column="57" />
       </file>
       <file name="R:/Rem/source/web/src/actions/auctionHouseActions.js" timestamp="1497451221436">
         <mark key="[" line="19" column="0" />
@@ -972,73 +1047,14 @@
         <mark key="." line="17" column="44" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/CreateAuctionContainer.js" timestamp="1503579254237">
-        <mark key="'" line="52" column="11" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="62" />
-        <mark key="." line="44" column="87" />
-        <mark key="^" line="44" column="86" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/controls/SelectField.js" timestamp="1501503828777">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-      </file>
-      <file name="R:/Rem/source/web/src/containers/DocumentsContainer.js" timestamp="1498641989667">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="47" />
-        <mark key="^" line="15" column="30" />
-        <mark key="." line="25" column="20" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/CaseOverview.js" timestamp="1503308683903">
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="34" column="29" />
-        <mark key="." line="34" column="29" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/controls/FieldContainer.js" timestamp="1501587300815">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="8" column="5" />
-      </file>
-      <file name="R:/Rem/source/web/src/containers/CaseAttributeContainer.js" timestamp="1498238507583">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/egghead-getting-started-with-redux/public/index.html" timestamp="1496127648047">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="33" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="21" />
+      <file name="R:/Rem/source/web/src/containers/CreateAuctionContainer.js" timestamp="1503580266173">
+        <mark key="'" line="8" column="7" />
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="9" />
+        <mark key="." line="42" column="9" />
+        <mark key="^" line="42" column="9" />
       </file>
       <file name="R:/Rem/source/web/node_modules/react-data-grid/index.js" timestamp="1503496243071" />
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducers/case.test.js" timestamp="1496074683658">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1502883297839">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-      </file>
-      <file name="R:/Rem/source/web/src/api/api.js" timestamp="1503482397339">
-        <mark key="'" line="0" column="28" />
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="24" column="6" />
-        <mark key="^" line="7" column="6" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/auction/RemoveAuctionButton.js" timestamp="1503480328408">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="35" column="42" />
-        <mark key="." line="35" column="14" />
-        <mark key="^" line="35" column="14" />
-      </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducres/index.js" timestamp="1496066472517">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1057,12 +1073,6 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/DateField.js" timestamp="1503577198644" />
-      <file name="R:/Rem/source/web/src/reducers/errorReducers.js" timestamp="1496932047444">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="R:/Rem/source/web/src/components/controls/TextInput.js" timestamp="1498220527046">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="6" column="1" />
@@ -1075,14 +1085,8 @@
         <mark key="^" line="16" column="93" />
         <mark key="." line="16" column="93" />
       </file>
-      <file name="R:/SCBDK.Internal.Remarketing/source/web/src/reducres/todo.test.js" timestamp="1496066939270">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuctionDialog.js" timestamp="1503486312811">
-        <mark key="'" line="25" column="3" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuctionDialog.js" timestamp="1503580428009">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="17" column="10" />
         <mark key="]" line="17" column="10" />
         <mark key="." line="17" column="10" />
@@ -1090,26 +1094,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="21" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="74" column="27" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="232" column="43" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="32" column="38" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="320" column="47" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="201" column="62" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="18" column="36" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="215" column="2" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="13" column="21" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="22" column="18" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="23" column="69" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="305" column="15" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="25" column="21" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="27" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="45" column="33" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="47" column="21" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="49" column="27" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="69" column="33" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="71" column="26" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
       <jump line="73" column="27" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
       <jump line="92" column="33" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
       <jump line="94" column="26" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
@@ -1175,7 +1159,6 @@
       <jump line="12" column="6" filename="R:/Rem/source/web/src/components/controls/Form.js" />
       <jump line="52" column="11" filename="R:/Rem/source/web/src/containers/CreateAuctionContainer.js" />
       <jump line="260" column="37" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
-      <jump line="273" column="2" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
       <jump line="17" column="20" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
       <jump line="18" column="8" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
       <jump line="34" column="7" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
@@ -1190,76 +1173,92 @@
       <jump line="23" column="18" filename="R:/Rem/source/web/src/containers/EditAuctionContainer.js" />
       <jump line="24" column="14" filename="R:/Rem/source/web/src/containers/EditAuctionContainer.js" />
       <jump line="32" column="21" filename="R:/Rem/source/web/src/reducers/auctionReducer.js" />
+      <jump line="250" column="65" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="258" column="0" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="272" column="0" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="276" column="24" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="113" column="8" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="187" column="5" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="213" column="20" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="220" column="0" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="255" column="0" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="257" column="4" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="269" column="0" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="104" column="6" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="273" column="27" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
+      <jump line="8" column="39" filename="R:/Rem/source/web/src/containers/EditAuctionContainer.js" />
+      <jump line="51" column="2" filename="R:/Rem/source/web/src/containers/CreateAuctionContainer.js" />
+      <jump line="8" column="7" filename="R:/Rem/source/web/src/containers/CreateAuctionContainer.js" />
+      <jump line="176" column="32" filename="R:/Rem/source/web/src/components/EditAuction.js" />
+      <jump line="83" column="23" filename="R:/Rem/source/web/src/components/auction/CreateAuction.js" />
+      <jump line="275" column="24" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="232" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
+      <jump line="33" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuctionDialog.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>''</text>
+        <text>Selected</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>Selected</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc2Zvcm1cPg==</text>
+        <text encoding="base64">XDxFZGl0QXVjdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgdHJhbnNmb3JtID0gbWFwKCh7aWQ6IHZhbHVlLCBuYW1lfSkgPT4gKHsgdmFsdWUsIG5hbWUgfSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdHJhbnNmb3JtID0gbWFwKCh7aWQ6IHZhbHVlLCBuYW1lfSkgPT4gKHt2YWx1ZSwgbmFtZX0pKQo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aEZvcm0sIEZvcm0sIFRleHRGaWVsZCwgRGF0ZUZpZWxkLCBTZWxlY3RGaWVsZCB9IGZyb20gJy4uL2NvbnRyb2xzL2luZGV4Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZmllbGRzU2VsZWN0b3IgPSBzdGF0ZSA9PiB7CiAgY29uc3QgYXVjdGlvbiA9IHN0YXRlLmF1Y3Rpb24KCiAgcmV0dXJuIHsKICAgIGlkOiBhdWN0aW9uLmlkLAogICAgYXVjdGlvbkhvdXNlOiBhdWN0aW9uLmF1Y3Rpb25Ib3VzZUlkLAogICAgYXVjdGlvbkRhdGU6IG1vbWVudChhdWN0aW9uLmF1Y3Rpb25EYXRlKS50b0RhdGUoKSwKICAgIHNpZ25VcERheXNCZWZvcmVBdWN0aW9uOiBhdWN0aW9uLnNpZ25VcERheXNCZWZvcmVBdWN0aW9uLAogICAgdmVoaWNsZVR5cGVzOiB0cmFuc2Zvcm0oYXVjdGlvbi52ZWhpY2xlVHlwZXMpLAogICAgdGF4VHlwZXM6IHRyYW5zZm9ybShhdWN0aW9uLnRheFR5cGVzKSwKICAgIC8vIG1ha2U6ICcnLAogICAgLy8gbW9kZWw6ICcnLAogIH0KfQoKY29uc3Qgc2VsZWN0ZWRNb2RlbHMgPSBzdGF0ZSA9PiB7CiAgcmV0dXJuIFtdCn0KCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdG9JU09TdHJpbmcgfSBmcm9tICcuLi8uLi91dGlscy9mdXRpbHMnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIG1vZGVsOiAnJywK</text>
+        <text encoding="base64">Y29uc3QgcmVuZGVyRmllbGRzID0gKGZvcm0pID0+ICgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIG1ha2U6ICcnLAo=</text>
+        <text encoding="base64">ICA8ZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRheFR5cGVzOiAnJywK</text>
+        <text encoding="base64">ICAgIDxTZWxlY3RGaWVsZCBuYW1lPSJhdWN0aW9uSG91c2UiIGxhYmVsPSJBdWN0aW9uIEhvdXNlIiBpdGVtc1Byb3A9ImF1Y3Rpb25Ib3VzZXMiIGZvcm09e2Zvcm19IC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZlaGljbGVUeXBlczogJycsCg==</text>
+        <text encoding="base64">ICAgIDxEYXRlRmllbGQgbmFtZT0iYXVjdGlvbkRhdGUiIGxhYmVsPSJBdWN0aW9uIERhdGUiIGZvcm09e2Zvcm19IC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc2Zvcm1cPg==</last-search>
+      <last-search encoding="base64">XDxFZGl0QXVjdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc2Zvcm1cPg==</last-pattern>
-      <last-replace>stop</last-replace>
-      <last-substitute>start</last-substitute>
+      <last-pattern encoding="base64">XDxFZGl0QXVjdGlvblw+</last-pattern>
+      <last-replace>save</last-replace>
+      <last-substitute>create</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hide</entry>
-        <entry>enableCell</entry>
-        <entry encoding="base64">XDxBdWN0aW9uUm93UmVuZGVyZXJcPg==</entry>
-        <entry encoding="base64">XDxSb3dSZW5kZXJlclw+</entry>
         <entry encoding="base64">XDxpdGVtc1w+</entry>
         <entry encoding="base64">XDxBbGxvd2VkTW9kZWxzRm9ybWF0dGVyXD4=</entry>
         <entry encoding="base64">XDxldm9sdmVcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVGaWx0ZXJGaWVsZENoYW5nZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVGaWx0ZXJDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxvbkNyZWF0ZUF1Y3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxjcmVhdGVBdWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxvblNhdmVDaGFuZ2VzXD4=</entry>
         <entry encoding="base64">XDxHRVRUSU5HX0FVQ1RJT05fU1VDQ0VFREVEXD4=</entry>
         <entry encoding="base64">XDxnZXR0aW5nQXVjdGlvblN1Y2NlZWRlZFw+</entry>
@@ -1269,9 +1268,13 @@
         <entry encoding="base64">XDx1c2VJc0RpcnR5XD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RlZE1vZGVsc1w+</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1cPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVBdWN0aW9uXD4=</entry>
+        <entry>CreateAuc</entry>
+        <entry>Create</entry>
+        <entry>create</entry>
+        <entry encoding="base64">XDxFZGl0QXVjdGlvblw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvXHIs</entry>
         <entry>W</entry>
         <entry>:noh</entry>
         <entry>sw</entry>
@@ -1289,6 +1292,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zdGFydC9zdG9w</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0L3N0b3A=</entry>
+        <entry>s/create/save</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
