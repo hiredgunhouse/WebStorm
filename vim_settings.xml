@@ -120,11 +120,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/Navigation.js" timestamp="1503571411196">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="20" column="54" />
-        <mark key="^" line="20" column="54" />
-        <mark key="." line="26" column="59" />
+      <file name="R:/Rem/source/web/src/components/Navigation.js" timestamp="1503916108379">
+        <mark key="[" line="29" column="71" />
+        <mark key="]" line="29" column="71" />
+        <mark key="^" line="29" column="70" />
+        <mark key="." line="29" column="71" />
       </file>
       <file name="R:/Rem/source/web/src/containers/Root.prod.js" timestamp="1497964750164">
         <mark key="[" line="4" column="0" />
@@ -431,7 +431,7 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503586743626">
+      <file name="/Dummy.txt" timestamp="1503916321573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -534,6 +534,13 @@
         <mark key="]" line="9" column="70" />
         <mark key="." line="9" column="70" />
         <mark key="^" line="9" column="68" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/HomePage.js" timestamp="1503916384336">
+        <mark key="'" line="12" column="34" />
+        <mark key="[" line="119" column="50" />
+        <mark key="]" line="119" column="74" />
+        <mark key="^" line="37" column="101" />
+        <mark key="." line="119" column="50" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/YesNoDialog.js" timestamp="1503490331953">
         <mark key="[" line="36" column="0" />
@@ -1109,16 +1116,16 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IHN0eWxlPXt7Y29sb3I6ICcjMDAwJ319</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IHN0eWxlPXt7Y29sb3I6ICcjMDAwJ319</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGluZ0F1Y3Rpb25TdWNjZWVkZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0QXVjdGlvbiA9IGF1Y3Rpb25BcGkgPT4gc3VjY2VzcyA9PiB7CiAgcmV0dXJuIGF1Y3Rpb25BcGkuZ2V0KHN1Y2Nlc3MpCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICA8TGluayB0bz17Jy9jYXNlcy9hbGwnfSBzdHlsZT17e2NvbG9yOiAnI2ZmZid9fT5BbGwgb2JqZWN0czwvTGluaz4KICAgICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IEdFVFRJTkdfQVVDVElPTl9TVUNDRUVERUQgPSAnR0VUVElOR19BVUNUSU9OX1NVQ0NFRURFRCcK</text>
