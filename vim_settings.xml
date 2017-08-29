@@ -90,12 +90,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1504000333807">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="87" column="27" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1504002360511">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="88" column="5" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/createCaseActions.js" timestamp="1496064098591">
         <mark key="[" line="0" column="0" />
@@ -565,44 +565,44 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG1ha2UgPSB0aGlzLnByb3BzLmZpZWxkcy5tYWtlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>this.props.fields.make</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNoYW5nZUNhbGxiYWNrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvbk1ha2VDaGFuZ2UgKGl0ZW1zKSB7CiAgICBsZXQgbWFrZUlkID0gMAogICAgaWYgKGl0ZW1zLmxlbmd0aCA+IDApIHsKICAgICAgbWFrZUlkID0gaXRlbXNbMF0udmFsdWUKICAgIH0KCiAgICBpZiAobWFrZUlkID4gMCkgewogICAgICB0aGlzLnByb3BzLm9uTWFrZUNoYW5nZShtYWtlSWQpCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1ha2UgPSB0aGlzLnByb3BzLmZpZWxkcy5tYWtlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICApKHdpdGhDRE0oT2JqZWN0RGV0YWlscykpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1ha2UgPSB0aGlzLnByb3BzLmZpZWxkcy5tYWtlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICApKHdpdGhDRE0oT2JqZWN0RGV0YWlscykpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBSZWFjdC5Db21wb25lbnQK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBSZWFjdC5Db21wb25lbnQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5vbkNvbXBvbmVudERpZE1vdW50KCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLm9uQ29tcG9uZW50RGlkTW91bnQpIHsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5vbkNvbXBvbmVudERpZE1vdW50KCkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
