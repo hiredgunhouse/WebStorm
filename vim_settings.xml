@@ -106,11 +106,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/CreateCaseContainer.js" timestamp="1504012476103">
-        <mark key="[" line="70" column="57" />
-        <mark key="]" line="70" column="57" />
-        <mark key="." line="70" column="57" />
-        <mark key="^" line="70" column="56" />
+      <file name="R:/Rem/source/web/src/containers/CreateCaseContainer.js" timestamp="1504015182476">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="14" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="71" column="13" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
@@ -308,7 +308,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504010745700">
+      <file name="/Dummy.txt" timestamp="1504015287755">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -323,12 +323,12 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504012440363">
+      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504015412567">
         <mark key="'" line="84" column="0" />
-        <mark key="[" line="116" column="47" />
-        <mark key="]" line="116" column="54" />
-        <mark key="." line="116" column="54" />
-        <mark key="^" line="116" column="54" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="116" column="13" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/SelectField.js" timestamp="1501503828777">
         <mark key="[" line="10" column="33" />
@@ -362,11 +362,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/dictionaries/modelActions.js" timestamp="1504012786704">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="45" />
-        <mark key="^" line="16" column="45" />
+      <file name="R:/Rem/source/web/src/actions/dictionaries/modelActions.js" timestamp="1504015172626">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="18" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1496411034009">
         <mark key="[" line="0" column="0" />
@@ -539,44 +539,44 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
         <text>make</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHF1ZXJ5U3RyaW5nIGZyb20gJ3F1ZXJ5LXN0cmluZycK</text>
+        <text encoding="base64">ICAgIGlmICh0eXBlb2YgKHRoaXMucHJvcHMubmV3Q2FzZS5tYWtlKSA9PT0gJ3VuZGVmaW5lZCcgJiYgbmV4dFByb3BzLm5ld0Nhc2UubWFrZSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICdxdWVyeXN0cmluZycK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICBmcm9tICdxdWVyeXN0cmluZycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgciA9IHF1ZXJ5U3RyaW5nLnN0cmluZ2lmeSgnSG9uZGEnKQpjb25zb2xlLmxvZyhyKSAvKj8gJCAqLwoKY29uc29sZS5sb2coJ3Rlc3QnKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">Y29uc3QgciA9IHF1ZXJ5U3RyaW5nLnN0cmluZ2lmeSgnSG9uZGEnKQpjb25zb2xlLmxvZyhyKSAvKj8gJCAqLwoKY29uc29sZS5sb2coJ3Rlc3QnKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmRpcih2KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbGlmZWN5Y2xlIH0gZnJvbSAncmVjb21wb3NlJwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmRpcih2KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aENETSB9IGZyb20gJy4uL3V0aWxzL2hvY1V0aWxzJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbGlmZWN5Y2xlIH0gZnJvbSAncmVjb21wb3NlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aENETSB9IGZyb20gJy4uL3V0aWxzL2hvY1V0aWxzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
