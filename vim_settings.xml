@@ -90,12 +90,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1504002360511">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="88" column="5" />
-        <mark key="." line="87" column="0" />
+      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1504004912047">
+        <mark key="'" line="66" column="26" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/createCaseActions.js" timestamp="1496064098591">
         <mark key="[" line="0" column="0" />
@@ -460,10 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="6" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
-      <jump line="273" column="27" filename="R:/Rem/source/web/src/components/CreateAuction.js" />
-      <jump line="8" column="39" filename="R:/Rem/source/web/src/containers/EditAuctionContainer.js" />
-      <jump line="51" column="2" filename="R:/Rem/source/web/src/containers/CreateAuctionContainer.js" />
       <jump line="8" column="7" filename="R:/Rem/source/web/src/containers/CreateAuctionContainer.js" />
       <jump line="176" column="32" filename="R:/Rem/source/web/src/components/EditAuction.js" />
       <jump line="83" column="23" filename="R:/Rem/source/web/src/components/auction/CreateAuction.js" />
@@ -560,28 +555,32 @@
       <jump line="54" column="46" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="35" column="8" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="47" column="6" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="98" column="4" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
+      <jump line="90" column="27" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
+      <jump line="6" column="28" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
+      <jump line="66" column="26" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1ha2UgPSB0aGlzLnByb3BzLmZpZWxkcy5tYWtlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>this.props.fields.make</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkNoYW5nZUNhbGxiYWNrXD4=</text>
+        <text encoding="base64">XDxsb2FkTW9kZWxzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1ha2UgPSB0aGlzLnByb3BzLmZpZWxkcy5tYWtlCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25vIG1ha2UhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1ha2UgPSB0aGlzLnByb3BzLmZpZWxkcy5tYWtlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICApKHdpdGhDRE0oT2JqZWN0RGV0YWlscykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -590,28 +589,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBSZWFjdC5Db21wb25lbnQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9LAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKG1ha2VBY3Rpb25zLmxvYWRNYWtlcygpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBvbkNvbXBvbmVudERpZE1vdW50OiAoKSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5vbkNvbXBvbmVudERpZE1vdW50KCkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1ha2UgPSB0aGlzLnByb3BzLmZpZWxkcy5tYWtlCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkNoYW5nZUNhbGxiYWNrXD4=</last-search>
+      <last-search encoding="base64">XDxsb2FkTW9kZWxzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkNoYW5nZUNhbGxiYWNrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkTW9kZWxzXD4=</last-pattern>
       <last-replace>Edit</last-replace>
       <last-substitute>Create</last-substitute>
       <last-dir>1</last-dir>
@@ -619,7 +618,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onAuctionUpda</entry>
         <entry>onau</entry>
         <entry encoding="base64">XDxvbkF1Y3Rpb25VcGRhdGVkXD4=</entry>
         <entry encoding="base64">XDxvbkF1Y3Rpb25BZGRlZFw+</entry>
@@ -639,6 +637,7 @@
         <entry encoding="base64">XDx3aXRoRm9ybVw+</entry>
         <entry encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxvbkNoYW5nZUNhbGxiYWNrXD4=</entry>
+        <entry encoding="base64">XDxsb2FkTW9kZWxzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0dFVFRJTkcvUkVNT1ZJTkc=</entry>
