@@ -30,7 +30,7 @@
         <mark key="." line="9" column="47" />
         <mark key="^" line="9" column="47" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1504005808129">
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1504008923662">
         <mark key="'" line="54" column="46" />
         <mark key="[" line="91" column="28" />
         <mark key="]" line="91" column="28" />
@@ -90,11 +90,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1504006299951">
-        <mark key="[" line="114" column="41" />
-        <mark key="]" line="114" column="41" />
-        <mark key="." line="114" column="41" />
-        <mark key="^" line="114" column="41" />
+      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1504008813277">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/createCaseActions.js" timestamp="1496064098591">
         <mark key="[" line="0" column="0" />
@@ -546,38 +546,38 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text>debugger</text>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text>debugger</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkTW9kZWxzXD4=</text>
+        <text>Create</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">d2l0aE1vZGVsc1ByZWxvYWRpbmcg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IG1ha2VzID0gdGhpcy5wcm9wcy5tYWtlcwogICAgLy8gaWYgKG1ha2UpIHsKICAgIC8vICAgaWYgKG1ha2VzKSB7CiAgICAvLyAgICAgY29uc3QgZm91bmQgPSBmaW5kKHByb3BFcSgnbmFtZScsIG1ha2UpKShtYWtlcykKICAgIC8vICAgICBpZiAoZm91bmQpIHsKICAgIC8vICAgICAgIGNvbnN0IG1ha2VJZCA9IGZvdW5kLnZhbHVlCiAgICAvLyAgICAgICB0aGlzLnByb3BzLmxvYWRNYWtlcygpLnRoZW4oKCkgPT4KICAgIC8vICAgICAgICAgdGhpcy5wcm9wcy5vbk1ha2VDaGFuZ2UobWFrZUlkKQogICAgLy8gICAgICAgKQogICAgLy8gICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICBjb25zb2xlLmxvZygnWlpaWiBub3QgZm91bmQnKQogICAgLy8gICAgIH0KICAgIC8vICAgfSBlbHNlIHsKICAgIC8vICAgICBjb25zb2xlLmxvZygnWlpaWiBubyBtYWtlcyEnKQogICAgLy8gICB9CiAgICAvLyB9IGVsc2UgewogICAgLy8gICBjb25zb2xlLmxvZygnWlpaWiBubyBtYWtlIScpCiAgICAvLyB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -590,9 +590,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkTW9kZWxzXD4=</last-search>
+      <last-search>Create</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkTW9kZWxzXD4=</last-pattern>
+      <last-pattern>Create</last-pattern>
       <last-replace>Edit</last-replace>
       <last-substitute>Create</last-substitute>
       <last-dir>1</last-dir>
@@ -604,7 +604,6 @@
         <entry encoding="base64">XDxvbkF1Y3Rpb25VcGRhdGVkXD4=</entry>
         <entry encoding="base64">XDxvbkF1Y3Rpb25BZGRlZFw+</entry>
         <entry>Added</entry>
-        <entry>Create</entry>
         <entry encoding="base64">XDx1cGRhdGluZ0F1Y3Rpb25TdWNjZWVkZWRcPg==</entry>
         <entry encoding="base64">XDxUeXBlYWhlYWRcPg==</entry>
         <entry encoding="base64">XDxwcm9wc1w+</entry>
@@ -620,9 +619,9 @@
         <entry encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxvbkNoYW5nZUNhbGxiYWNrXD4=</entry>
         <entry encoding="base64">XDxsb2FkTW9kZWxzXD4=</entry>
+        <entry>Create</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0dFVFRJTkcvUkVNT1ZJTkc=</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxy</entry>
@@ -640,6 +639,7 @@
         <entry>s/Added/Updated</entry>
         <entry encoding="base64">JzwsJz5zL0NyZWF0ZS9FZGl0</entry>
         <entry>W</entry>
+        <entry>s</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
