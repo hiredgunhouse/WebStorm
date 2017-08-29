@@ -30,12 +30,12 @@
         <mark key="." line="9" column="47" />
         <mark key="^" line="9" column="47" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1504008923662">
-        <mark key="'" line="54" column="46" />
-        <mark key="[" line="91" column="28" />
-        <mark key="]" line="91" column="28" />
-        <mark key="." line="91" column="28" />
-        <mark key="^" line="42" column="26" />
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1504011336465">
+        <mark key="'" line="56" column="6" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="62" column="1" />
       </file>
       <file name="R:/Rem/source/web/src/containers/HomePage.js" timestamp="1503916384336">
         <mark key="'" line="12" column="34" />
@@ -90,11 +90,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1504008813277">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1504011179240">
+        <mark key="'" line="73" column="38" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/createCaseActions.js" timestamp="1496064098591">
         <mark key="[" line="0" column="0" />
@@ -106,9 +106,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/CreateCaseContainer.js" timestamp="1503995202182">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="67" />
+      <file name="R:/Rem/source/web/src/containers/CreateCaseContainer.js" timestamp="1504011171376">
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="66" column="13" />
+        <mark key="." line="66" column="13" />
+        <mark key="^" line="66" column="13" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
@@ -193,9 +195,9 @@
         <mark key="]" line="54" column="24" />
         <mark key="." line="54" column="24" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/hocUtils.js" timestamp="1504000044475">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="14" />
+      <file name="R:/Rem/source/web/src/utils/hocUtils.js" timestamp="1504010734727">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="2" />
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
@@ -317,7 +319,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503999523466">
+      <file name="/Dummy.txt" timestamp="1504010745700">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -332,10 +334,12 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1503997681268">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="74" column="15" />
+      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504011311269">
+        <mark key="'" line="162" column="35" />
+        <mark key="[" line="202" column="2" />
+        <mark key="]" line="202" column="11" />
+        <mark key="." line="202" column="11" />
+        <mark key="^" line="202" column="11" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/SelectField.js" timestamp="1501503828777">
         <mark key="[" line="10" column="33" />
@@ -441,15 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="7" filename="R:/Rem/source/web/src/containers/CreateAuctionContainer.js" />
-      <jump line="176" column="32" filename="R:/Rem/source/web/src/components/EditAuction.js" />
-      <jump line="83" column="23" filename="R:/Rem/source/web/src/components/auction/CreateAuction.js" />
-      <jump line="275" column="24" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="232" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="33" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuctionDialog.js" />
-      <jump line="20" column="5" filename="R:/Rem/source/web/package.json" />
-      <jump line="24" column="11" filename="R:/Rem/source/web/package.json" />
-      <jump line="26" column="18" filename="R:/Rem/source/web/package.json" />
       <jump line="28" column="5" filename="R:/Rem/source/web/package.json" />
       <jump line="29" column="5" filename="R:/Rem/source/web/package.json" />
       <jump line="30" column="5" filename="R:/Rem/source/web/package.json" />
@@ -541,58 +536,67 @@
       <jump line="90" column="27" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
       <jump line="6" column="28" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
       <jump line="66" column="26" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
+      <jump line="56" column="6" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="73" column="38" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
+      <jump line="71" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="202" column="2" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="27" column="29" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="39" column="2" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="46" column="26" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="162" column="35" filename="R:/Rem/source/web/src/components/CreateCase.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>debugger</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>debugger</text>
+        <text>onMakeChange</text>
       </register>
       <register name="/" type="4">
-        <text>Create</text>
+        <text>onMakeCha</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">d2l0aE1vZGVsc1ByZWxvYWRpbmcg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCAoKSB7CiAgICB0aGlzLnByb3BzLm9uQ29tcG9uZW50RGlkTW91bnQoKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IG1ha2VzID0gdGhpcy5wcm9wcy5tYWtlcwogICAgLy8gaWYgKG1ha2UpIHsKICAgIC8vICAgaWYgKG1ha2VzKSB7CiAgICAvLyAgICAgY29uc3QgZm91bmQgPSBmaW5kKHByb3BFcSgnbmFtZScsIG1ha2UpKShtYWtlcykKICAgIC8vICAgICBpZiAoZm91bmQpIHsKICAgIC8vICAgICAgIGNvbnN0IG1ha2VJZCA9IGZvdW5kLnZhbHVlCiAgICAvLyAgICAgICB0aGlzLnByb3BzLmxvYWRNYWtlcygpLnRoZW4oKCkgPT4KICAgIC8vICAgICAgICAgdGhpcy5wcm9wcy5vbk1ha2VDaGFuZ2UobWFrZUlkKQogICAgLy8gICAgICAgKQogICAgLy8gICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICBjb25zb2xlLmxvZygnWlpaWiBub3QgZm91bmQnKQogICAgLy8gICAgIH0KICAgIC8vICAgfSBlbHNlIHsKICAgIC8vICAgICBjb25zb2xlLmxvZygnWlpaWiBubyBtYWtlcyEnKQogICAgLy8gICB9CiAgICAvLyB9IGVsc2UgewogICAgLy8gICBjb25zb2xlLmxvZygnWlpaWiBubyBtYWtlIScpCiAgICAvLyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmRpcih2KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgbGlmZWN5Y2xlIH0gZnJvbSAncmVjb21wb3NlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aENETSB9IGZyb20gJy4uL3V0aWxzL2hvY1V0aWxzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgd2l0aE1vZGVsc1ByZWxvYWRpbmcgPSBsaWZlY3ljbGUoewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzIChuZXh0UHJvcHMpIHsKICAgIGlmICh0eXBlb2YgKHRoaXMucHJvcHMubWFrZUlkKSA9PT0gJ3VuZGVmaW5lZCcgJiYgbmV4dFByb3BzLm1ha2VJZCkgewogICAgICB0aGlzLnByb3BzLmxvYWRNb2RlbHMobmV4dFByb3BzLm1ha2VJZCkKICAgIH0KICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>Create</last-search>
+      <last-search>onMakeCha</last-search>
       <last-offset />
-      <last-pattern>Create</last-pattern>
+      <last-pattern>onMakeCha</last-pattern>
       <last-replace>Edit</last-replace>
       <last-substitute>Create</last-substitute>
       <last-dir>1</last-dir>
@@ -600,9 +604,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onau</entry>
-        <entry encoding="base64">XDxvbkF1Y3Rpb25VcGRhdGVkXD4=</entry>
-        <entry encoding="base64">XDxvbkF1Y3Rpb25BZGRlZFw+</entry>
         <entry>Added</entry>
         <entry encoding="base64">XDx1cGRhdGluZ0F1Y3Rpb25TdWNjZWVkZWRcPg==</entry>
         <entry encoding="base64">XDxUeXBlYWhlYWRcPg==</entry>
@@ -620,9 +621,11 @@
         <entry encoding="base64">XDxvbkNoYW5nZUNhbGxiYWNrXD4=</entry>
         <entry encoding="base64">XDxsb2FkTW9kZWxzXD4=</entry>
         <entry>Create</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxyZW5kZXJGaWVsZHNcPg==</entry>
+        <entry>onMakeCha</entry>
       </history-search>
       <history-cmd>
-        <entry>ew</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxy</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxyLw==</entry>
@@ -640,6 +643,7 @@
         <entry encoding="base64">JzwsJz5zL0NyZWF0ZS9FZGl0</entry>
         <entry>W</entry>
         <entry>s</entry>
+        <entry>.,.+89noh</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
