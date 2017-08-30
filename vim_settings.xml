@@ -114,6 +114,12 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/utils/formUtils.js" timestamp="1504079409639">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+      </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="22" column="56" />
@@ -258,12 +264,12 @@
         <mark key="^" line="50" column="37" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1503584713795">
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504079304795">
         <mark key="'" line="126" column="31" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
-        <mark key="^" line="178" column="5" />
+        <mark key="[" line="172" column="49" />
+        <mark key="]" line="173" column="5" />
+        <mark key="." line="173" column="5" />
+        <mark key="^" line="173" column="5" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1501155748821">
         <mark key="[" line="9" column="0" />
@@ -552,11 +558,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>customerName</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
@@ -565,31 +571,31 @@
         <text encoding="base64">ICBjdXN0b21lck5hbWU6ICcnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Ly8gVE9ETzogdXNlIFJhbWRhJ3MgY3VycnkgdG8gYWxsb3cgZm9yIG1vcmUgZmxleGlibGUgY2FsbGluZyBjb252ZW50aW9ucywgbm90IGp1c3Qgb25lIGFyZ3VtZW50IGF0IGEgdGltZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb250cmFjdE51bWJlcjogJycsCg==</text>
+        <text encoding="base64">Ly8gVE9ETzogdXNlIFJhbWRhJ3MgY3VycnkgdG8gYWxsb3cgZm9yIG1vcmUgZmxleGlibGUgY2FsbGluZyBjb252ZW50aW9ucywgbm90IGp1c3Qgb25lIGFyZ3VtZW50IGF0IGEgdGltZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGlmICh0eXBlb2YgKHRoaXMucHJvcHMubmV3Q2FzZS5tYWtlKSA9PT0gJ3VuZGVmaW5lZCcgJiYgbmV4dFByb3BzLm5ld0Nhc2UubWFrZSkgewo=</text>
+        <text encoding="base64">ICBjb250cmFjdE51bWJlcjogJycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC8vIGlmICh0eXBlb2YgKHRoaXMucHJvcHMubmV3Q2FzZS5tYWtlKSA9PT0gJ3VuZGVmaW5lZCcgJiYgbmV4dFByb3BzLm5ld0Nhc2UubWFrZSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
