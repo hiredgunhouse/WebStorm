@@ -257,11 +257,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/DateField.js" timestamp="1504172540683">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="41" />
-        <mark key="." line="21" column="41" />
-        <mark key="^" line="21" column="41" />
+      <file name="R:/Rem/source/web/src/components/controls/NEW/DateField.js" timestamp="1504172966682">
+        <mark key="[" line="21" column="61" />
+        <mark key="]" line="21" column="61" />
+        <mark key="." line="21" column="61" />
+        <mark key="^" line="21" column="61" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" timestamp="1504170050283">
         <mark key="'" line="6" column="6" />
@@ -600,10 +600,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>onChange</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>onChange</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9wc1w+</text>
