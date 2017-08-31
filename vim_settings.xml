@@ -8,18 +8,19 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/TypeaheadField.js" timestamp="1504178385323">
-        <mark key="'" line="92" column="36" />
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="10" />
-        <mark key="^" line="13" column="10" />
-        <mark key="." line="13" column="10" />
+      <file name="R:/Rem/source/web/src/components/controls/NEW/TypeaheadField.js" timestamp="1504182938435">
+        <mark key="'" line="89" column="2" />
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="30" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/SantanderNeon.js" timestamp="1496143843636">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/EditAuction.js" timestamp="1504182409569" />
       <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1503397898697">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -55,9 +56,6 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/package.json" timestamp="1504017012977">
-        <mark key="'" line="37" column="11" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/modelsReducer.js" timestamp="1503995825188">
         <mark key="[" line="2" column="20" />
@@ -301,11 +299,12 @@
         <mark key="^" line="50" column="37" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504178416527">
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504182957997">
         <mark key="'" line="171" column="37" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="59" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="222" column="26" />
+        <mark key="]" line="223" column="21" />
+        <mark key="." line="223" column="21" />
+        <mark key="^" line="223" column="21" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1501155748821">
         <mark key="[" line="9" column="0" />
@@ -515,9 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="39" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
-      <jump line="24" column="14" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
-      <jump line="53" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
       <jump line="3" column="38" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="162" column="13" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="163" column="25" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -615,19 +611,22 @@
       <jump line="92" column="36" filename="R:/Rem/source/web/src/components/controls/NEW/TypeaheadField.js" />
       <jump line="46" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
       <jump line="171" column="37" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="22" column="48" filename="R:/Rem/source/web/src/components/controls/NEW/TypeaheadField.js" />
+      <jump line="27" column="18" filename="R:/Rem/source/web/src/components/controls/NEW/TypeaheadField.js" />
+      <jump line="89" column="2" filename="R:/Rem/source/web/src/components/controls/NEW/TypeaheadField.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgey8qPGZvcm0gY2xhc3NOYW1lPXt0aGlzLnByb3BzLmNsYXNzTmFtZX0+Ki99Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGaWVsZENvbnRleHRUeXBlc1w+</text>
+        <text encoding="base64">XDx0eXBlYWhlYWRUeXBlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgRmllbGRDb250ZXh0VHlwZXMgfSBmcm9tICcuL0ZpZWxkQ29udGV4dFR5cGVzJwo=</text>
@@ -660,13 +659,13 @@
         <text encoding="base64">ICBjb25zdCB0eXBlYWhlYWRUeXBlID0gcHJvcHMufHwgJ2Nob2ljZScK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGaWVsZENvbnRleHRUeXBlc1w+</last-search>
+      <last-search encoding="base64">XDx0eXBlYWhlYWRUeXBlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGaWVsZENvbnRleHRUeXBlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx0eXBlYWhlYWRUeXBlXD4=</last-pattern>
       <last-replace>Typeahead</last-replace>
       <last-substitute>Numeric</last-substitute>
       <last-dir>1</last-dir>
@@ -692,8 +691,8 @@
         <entry>Date</entry>
         <entry encoding="base64">XDxOdW1lcmljRmllbGRcPg==</entry>
         <entry>Numeric</entry>
-        <entry encoding="base64">XDx0eXBlYWhlYWRUeXBlXD4=</entry>
         <entry encoding="base64">XDxGaWVsZENvbnRleHRUeXBlc1w+</entry>
+        <entry encoding="base64">XDx0eXBlYWhlYWRUeXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
@@ -714,8 +713,8 @@
         <entry>s/Select/Date</entry>
         <entry>s/Date/Numeric</entry>
         <entry>s/Numeric/Typeahead</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
