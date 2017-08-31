@@ -366,12 +366,11 @@
         <mark key="]" line="30" column="34" />
         <mark key="." line="30" column="34" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/Form.js" timestamp="1504166003808">
-        <mark key="'" line="2" column="28" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="119" column="26" />
-        <mark key="." line="108" column="0" />
+      <file name="R:/Rem/source/web/src/components/controls/NEW/Form.js" timestamp="1504167472913">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="87" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/Header.js" timestamp="1496143984829">
         <mark key="[" line="0" column="13" />
@@ -489,21 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="7" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
-      <jump line="41" column="7" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
-      <jump line="45" column="41" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
-      <jump line="60" column="11" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
-      <jump line="2" column="6" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
-      <jump line="17" column="16" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
-      <jump line="20" column="2" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
-      <jump line="9" column="2" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
-      <jump line="24" column="11" filename="R:/Rem/source/web/package.json" />
-      <jump line="43" column="5" filename="R:/Rem/source/web/package.json" />
-      <jump line="44" column="5" filename="R:/Rem/source/web/package.json" />
-      <jump line="79" column="7" filename="R:/Rem/source/web/package.json" />
-      <jump line="98" column="7" filename="R:/Rem/source/web/package.json" />
-      <jump line="37" column="11" filename="R:/Rem/source/web/package.json" />
-      <jump line="259" column="39" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="74" column="6" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="90" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="97" column="17" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -574,7 +558,6 @@
       <jump line="27" column="6" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
       <jump line="212" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
       <jump line="40" column="2" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
-      <jump line="18" column="34" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
       <jump line="28" column="6" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
       <jump line="31" column="7" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
       <jump line="26" column="38" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
@@ -589,58 +572,74 @@
       <jump line="10" column="45" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
       <jump line="13" column="28" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
       <jump line="17" column="8" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
+      <jump line="5" column="29" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="51" column="19" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="14" column="6" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="18" column="6" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="50" column="19" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="12" column="6" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="60" column="48" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="77" column="50" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="84" column="2" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="132" column="36" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="153" column="4" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="194" column="32" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="13" column="29" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="11" column="25" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="29" column="2" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="34" column="9" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpdGVtc1w+</text>
+        <text encoding="base64">XDxzZXRGaWVsZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdWN0aW9uRGF0ZVRvOiBtb21lbnQoKS5hZGQoMzEsICdkYXlzJykudG9EYXRlKCksCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y2xhc3NOYW1lIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCAgPSBjb250ZXh0Cg==</text>
+        <text encoding="base64">Ly8gRm9yIG5vdyBpdCBkb2VzIG5vcm1hbGl6ZSBjaGFuZ2UgZXZlbnRzIGEgYml0IGFuZCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBzZWxlY3RUeXBlID0gcHJvcHMuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCAgPSBwcm9wcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLnByb3BzLnJlbmRlcmVyKGZvcm0pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGZvcm0gPSBjcmVhdGVGb3JtKHRoaXMpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IHsgY3JlYXRlRm9ybSB9IGZyb20gJy4uLy4uLy4uL3V0aWxzL2Zvcm1VdGlscycK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZGlzc29jIH0gZnJvbSAncmFtZGEnCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgUiBmcm9tICdyYW1kYScK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMK</text>
+        <text encoding="base64">aW1wb3J0IGRlZXBFcXVhbCBmcm9tICdkZWVwLWVxdWFsJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb3JtQ29udGV4dDogUHJvcFR5cGVzLm9iamVjdCwK</text>
+        <text encoding="base64">ICAvLyBoYW5kbGVGaWVsZENoYW5nZTogUHJvcFR5cGVzLmZ1bmMsCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpdGVtc1w+</last-search>
+      <last-search encoding="base64">XDxzZXRGaWVsZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpdGVtc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRGaWVsZFw+</last-pattern>
       <last-replace>Context</last-replace>
       <last-substitute>Prop</last-substitute>
       <last-dir>1</last-dir>
@@ -648,11 +647,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkFwcENsb3NpbmdcPg==</entry>
-        <entry>var</entry>
-        <entry>Prop</entry>
-        <entry>Form2</entry>
-        <entry>props</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxsYWJlbFw+</entry>
         <entry encoding="base64">XDxmb3JtXD4=</entry>
@@ -668,6 +662,11 @@
         <entry encoding="base64">XDxzZWxlY3RUeXBlXD4=</entry>
         <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDxpdGVtc1w+</entry>
+        <entry encoding="base64">XDx1c2VJc0RpcnR5XD4=</entry>
+        <entry encoding="base64">XDxpc0RpcnR5XD4=</entry>
+        <entry encoding="base64">XDxjYWxsV2l0aEZvcm1TdGF0ZVw+</entry>
+        <entry encoding="base64">XDxvbkFwcENsb3NpbmdcPg==</entry>
+        <entry encoding="base64">XDxzZXRGaWVsZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
