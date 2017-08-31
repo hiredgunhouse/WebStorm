@@ -137,8 +137,8 @@
         <mark key="]" line="22" column="56" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1504185981654">
-        <mark key="'" line="185" column="0" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1504186878699">
+        <mark key="'" line="333" column="13" />
         <mark key="[" line="124" column="23" />
         <mark key="]" line="124" column="26" />
         <mark key="^" line="124" column="26" />
@@ -525,7 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="36" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
       <jump line="28" column="32" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
       <jump line="14" column="27" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
       <jump line="9" column="21" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
@@ -625,6 +624,7 @@
       <jump line="107" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="192" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="185" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="333" column="13" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
