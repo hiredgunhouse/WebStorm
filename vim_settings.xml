@@ -126,11 +126,11 @@
         <mark key="]" line="22" column="56" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1504165655265">
-        <mark key="'" line="346" column="23" />
-        <mark key="[" line="124" column="26" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1504170043328">
+        <mark key="'" line="299" column="10" />
+        <mark key="[" line="124" column="23" />
         <mark key="]" line="124" column="26" />
-        <mark key="^" line="124" column="24" />
+        <mark key="^" line="124" column="26" />
         <mark key="." line="124" column="26" />
       </file>
       <file name="R:/Rem/source/web/src/components/CreateAuction.js" timestamp="1503580083591">
@@ -155,10 +155,10 @@
         <mark key="." line="136" column="10" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/FieldContainer.js" timestamp="1504094083098" />
-      <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1504080023863">
-        <mark key="'" line="175" column="23" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
+      <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1504168932982">
+        <mark key="'" line="104" column="59" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="27" column="5" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="153" column="0" />
       </file>
@@ -257,8 +257,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="19" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" timestamp="1503926174982">
-        <mark key="'" line="198" column="12" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" timestamp="1504170050283">
+        <mark key="'" line="6" column="6" />
         <mark key="[" line="198" column="0" />
         <mark key="]" line="198" column="27" />
         <mark key="^" line="21" column="25" />
@@ -281,12 +281,12 @@
         <mark key="^" line="50" column="37" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504099736763">
-        <mark key="'" line="21" column="6" />
-        <mark key="[" line="174" column="78" />
-        <mark key="]" line="174" column="87" />
-        <mark key="." line="174" column="87" />
-        <mark key="^" line="174" column="87" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504170478287">
+        <mark key="'" line="262" column="0" />
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="47" column="33" />
+        <mark key="." line="47" column="33" />
+        <mark key="^" line="47" column="33" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1501155748821">
         <mark key="[" line="9" column="0" />
@@ -366,11 +366,12 @@
         <mark key="]" line="30" column="34" />
         <mark key="." line="30" column="34" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/Form.js" timestamp="1504167472913">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="87" />
+      <file name="R:/Rem/source/web/src/components/controls/NEW/Form.js" timestamp="1504169665365">
+        <mark key="'" line="9" column="10" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="44" column="14" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/Header.js" timestamp="1496143984829">
         <mark key="[" line="0" column="13" />
@@ -488,27 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="6" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="90" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="97" column="17" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="276" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="66" column="9" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="100" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="258" column="38" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="68" column="35" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="69" column="38" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="134" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="42" column="34" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="18" column="31" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="75" column="6" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="16" column="6" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="247" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="36" column="6" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="235" column="28" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="40" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="140" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="5" column="10" filename="R:/Rem/source/web/src/components/controls/Form2.js" />
-      <jump line="193" column="6" filename="R:/Rem/source/web/src/components/controls/Form2.js" />
       <jump line="4" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="294" column="15" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="100" column="4" filename="R:/Rem/source/web/src/components/controls/Form2.js" />
@@ -588,70 +568,86 @@
       <jump line="11" column="25" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
       <jump line="29" column="2" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
       <jump line="34" column="9" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="167" column="32" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="30" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="25" column="14" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="100" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="28" column="9" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="87" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="44" column="14" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="104" column="59" filename="R:/Rem/source/web/src/components/controls/Form.js" />
+      <jump line="21" column="9" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="9" column="10" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
+      <jump line="178" column="27" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="261" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="116" column="6" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="157" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="158" column="25" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="173" column="49" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="204" column="65" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="213" column="10" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="214" column="25" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="299" column="10" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="6" column="6" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRGaWVsZFw+</text>
+        <text encoding="base64">XDxmaWx0ZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y2xhc3NOYW1lIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkaXNhYmxlZDogZmFsc2UsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gRm9yIG5vdyBpdCBkb2VzIG5vcm1hbGl6ZSBjaGFuZ2UgZXZlbnRzIGEgYml0IGFuZCAK</text>
+        <text encoding="base64">ICB9KSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3YXJuT25VbnNhdmVkQ2hhbmdlczogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aAo=</text>
+        <text encoding="base64">ICAgIC8vIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgY3JlYXRlRm9ybSB9IGZyb20gJy4uLy4uLy4uL3V0aWxzL2Zvcm1VdGlscycK</text>
+        <text encoding="base64">ICAgIC8vICAgdGhpcy5zZXRTdGF0ZSh7c2VsZWN0ZWRNb2RlbHM6IG5leHRQcm9wcy5zZWxlY3RlZE1vZGVsc30pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGlzc29jIH0gZnJvbSAncmFtZGEnCg==</text>
+        <text encoding="base64">ICAgIC8vIGlmICh0aGlzLnN0YXRlLnNlbGVjdGVkTW9kZWxzLmxlbmd0aCA9PSAwKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUiBmcm9tICdyYW1kYScK</text>
+        <text encoding="base64">ICAgICAgaXNEaXJ0eTogdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRlZXBFcXVhbCBmcm9tICdkZWVwLWVxdWFsJwo=</text>
+        <text encoding="base64">ICAgICAgW25hbWVdOiB2YWx1ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBoYW5kbGVGaWVsZENoYW5nZTogUHJvcFR5cGVzLmZ1bmMsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRGaWVsZFw+</last-search>
+      <last-search encoding="base64">XDxmaWx0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRGaWVsZFw+</last-pattern>
-      <last-replace>Context</last-replace>
-      <last-substitute>Prop</last-substitute>
+      <last-pattern encoding="base64">XDxmaWx0ZXJcPg==</last-pattern>
+      <last-replace>Field</last-replace>
+      <last-substitute>Make</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry encoding="base64">XDxsYWJlbFw+</entry>
-        <entry encoding="base64">XDxmb3JtXD4=</entry>
-        <entry encoding="base64">XDxyZXF1aXJlZFw+</entry>
-        <entry encoding="base64">XDxGb3JtXD4=</entry>
         <entry>staet</entry>
         <entry>state</entry>
         <entry>handleFieldCh</entry>
@@ -660,16 +656,20 @@
         <entry>createForm</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RUeXBlXD4=</entry>
-        <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDxpdGVtc1w+</entry>
         <entry encoding="base64">XDx1c2VJc0RpcnR5XD4=</entry>
         <entry encoding="base64">XDxpc0RpcnR5XD4=</entry>
         <entry encoding="base64">XDxjYWxsV2l0aEZvcm1TdGF0ZVw+</entry>
         <entry encoding="base64">XDxvbkFwcENsb3NpbmdcPg==</entry>
         <entry encoding="base64">XDxzZXRGaWVsZFw+</entry>
+        <entry encoding="base64">XDxvbkZpZWxkQ2hhbmdlXD4=</entry>
+        <entry>Make</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZE1vZGVsc0lzRGlydHlcPg==</entry>
+        <entry>setFie</entry>
+        <entry encoding="base64">XDxwcm9wc1w+</entry>
+        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>w3</entry>
         <entry>.,.+4w</entry>
         <entry>2w</entry>
         <entry>120</entry>
@@ -687,6 +687,7 @@
         <entry encoding="base64">JzwsJz5zL1Byb3AvQ29udGV4dA==</entry>
         <entry>ws</entry>
         <entry>.,.+3noh</entry>
+        <entry>s/Make/Field</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
