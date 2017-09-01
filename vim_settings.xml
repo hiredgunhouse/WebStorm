@@ -56,6 +56,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/components/controls/NEW/FieldDefaultProps.js" timestamp="1504278257796">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="R:/Rem/source/web/src/reducers/modelsReducer.js" timestamp="1503995825188">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -124,12 +130,12 @@
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" timestamp="1504275890544">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" timestamp="1504279823512">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="38" />
+        <mark key="^" line="25" column="38" />
+        <mark key="." line="25" column="38" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
@@ -158,11 +164,11 @@
         <mark key="^" line="159" column="19" />
         <mark key="." line="159" column="19" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/FieldContainer.js" timestamp="1504274188240">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="6" column="42" />
-        <mark key="." line="6" column="27" />
+      <file name="R:/Rem/source/web/src/components/controls/NEW/FieldContainer.js" timestamp="1504279085026">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="61" />
+        <mark key="^" line="2" column="61" />
+        <mark key="." line="2" column="61" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1504175719490">
         <mark key="'" line="62" column="4" />
@@ -451,6 +457,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.js" timestamp="1504278909946">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+      </file>
       <file name="R:/Rem/source/web/src/actions/dictionaries/modelActions.js" timestamp="1504016799034">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -523,12 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="6" filename="R:/Rem/source/web/src/store/configureStore.dev.js" />
-      <jump line="62" column="4" filename="R:/Rem/source/web/src/components/controls/Form.js" />
-      <jump line="39" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="34" column="0" filename="R:/Rem/source/web/src/reducers/auctionReducer.js" />
-      <jump line="200" column="18" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="6" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="9" column="34" filename="R:/Rem/source/web/src/components/controls/NEW/NumericField.js" />
       <jump line="201" column="37" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="206" column="27" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -622,59 +628,65 @@
       <jump line="132" column="31" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="189" column="34" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="197" column="83" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="21" column="4" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
+      <jump line="20" column="32" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
+      <jump line="50" column="30" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
+      <jump line="21" column="25" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
+      <jump line="31" column="40" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
+      <jump line="35" column="62" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
+      <jump line="25" column="18" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
+      <jump line="28" column="8" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>valida</text>
+        <text>first</text>
       </register>
       <register name="-" type="4">
-        <text>valida</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0ZVw+</text>
+        <text encoding="base64">XDx2YWxpZGF0aW9uRmFpbGVkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>validations={[required]}</text>
+        <text encoding="base64">dmFsaWRhdGlvbkZhaWxlZCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Lmhhcy1lcnJvci5jaGVja2JveC1pbmxpbmUgbGFiZWwgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Lmhhcy1lcnJvciAuY2hlY2tib3gtaW5saW5lLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lmhhcy1lcnJvci5yYWRpby1pbmxpbmUgbGFiZWwsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Lmhhcy1lcnJvci5jaGVja2JveCBsYWJlbCwK</text>
+        <text encoding="base64">ICAgIDogdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Lmhhcy1lcnJvci5yYWRpbyBsYWJlbCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Lmhhcy1lcnJvci5yYWRpbyBsYWJlbCwK</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0ZVw+</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0aW9uRmFpbGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZGF0aW9uRmFpbGVkXD4=</last-pattern>
       <last-replace>Typeahead</last-replace>
       <last-substitute>Numeric</last-substitute>
       <last-dir>1</last-dir>
@@ -682,10 +694,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbG9zZURpYWxvZ1w+</entry>
-        <entry encoding="base64">XDxzYXZlQXVjdGlvblw+</entry>
-        <entry encoding="base64">XDxvblNhdmVDaGFuZ2VzXD4=</entry>
-        <entry encoding="base64">XDxzZWxlY3RJZHNcPg==</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1lclw+</entry>
         <entry encoding="base64">XDxzZWxlY3RlZE1vZGVsc1w+</entry>
         <entry encoding="base64">XDxpdGVtc1w+</entry>
@@ -702,6 +710,10 @@
         <entry encoding="base64">XDxJbnRlbnRcPg==</entry>
         <entry encoding="base64">XDxyZXF1aXJlZFw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVw+</entry>
+        <entry encoding="base64">XDxGaWVsZFByb3BUeXBlc1w+</entry>
+        <entry encoding="base64">XDxjb25jYXRcPg==</entry>
+        <entry>isInva</entry>
+        <entry encoding="base64">XDx2YWxpZGF0aW9uRmFpbGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
