@@ -302,12 +302,12 @@
         <mark key="^" line="50" column="37" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504520014331">
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504524062024">
         <mark key="'" line="87" column="2" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="33" column="7" />
+        <mark key="[" line="217" column="20" />
+        <mark key="]" line="217" column="20" />
+        <mark key="." line="216" column="98" />
+        <mark key="^" line="220" column="106" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1501155748821">
         <mark key="[" line="9" column="0" />
@@ -634,11 +634,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>validations={[required]}</text>
       </register>
       <register name="-" type="4">
-        <text>handleFieldChange</text>
+        <text>validations={[required]}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblZhbGlkYXRpb25TdGF0ZUNoYW5nZVw+</text>
