@@ -302,12 +302,12 @@
         <mark key="^" line="50" column="37" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504519848276">
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504520014331">
         <mark key="'" line="87" column="2" />
-        <mark key="[" line="38" column="52" />
-        <mark key="]" line="38" column="25" />
-        <mark key="." line="38" column="56" />
-        <mark key="^" line="38" column="25" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1501155748821">
         <mark key="[" line="9" column="0" />
@@ -634,8 +634,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>handleFieldChange</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>handleFieldChange</text>
@@ -647,31 +647,31 @@
         <text>handleValidationStateChange</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25GaWVsZENoYW5nZT17dGhpcy5vbkZpZWxkQ2hhbmdlfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBmaXJzdEVycm9yTWVzc2FnZSA9ICdkdXBhJwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCB2YWxpZGF0aW9uRmFpbGVkID0gdHJ1ZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgID8geyByZXN1bHQ6IGZhbHNlLCBtZXNzYWdlOiAncmVxdWlyZWQnIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvLyAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb25GaWVsZENoYW5nZT17dGhpcy5vbkZpZWxkQ2hhbmdlfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBjb25zdCBmaXJzdEVycm9yTWVzc2FnZSA9ICdkdXBhJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBjb25zdCB2YWxpZGF0aW9uRmFpbGVkID0gdHJ1ZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgID8geyByZXN1bHQ6IGZhbHNlLCBtZXNzYWdlOiAncmVxdWlyZWQnIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
