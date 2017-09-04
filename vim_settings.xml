@@ -135,7 +135,6 @@
         <mark key="]" line="22" column="56" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1504265843677" />
       <file name="R:/Rem/source/web/src/components/CreateAuction.js" timestamp="1503580083591">
         <mark key="'" line="273" column="27" />
         <mark key="[" line="104" column="6" />
@@ -302,7 +301,7 @@
         <mark key="^" line="50" column="37" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504525702953">
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504527704885">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="211" column="40" />
         <mark key="]" line="211" column="40" />
@@ -684,7 +683,7 @@
       <last-replace>Validation</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
