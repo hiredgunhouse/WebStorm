@@ -302,12 +302,12 @@
         <mark key="^" line="50" column="37" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504524736817">
-        <mark key="'" line="87" column="2" />
-        <mark key="[" line="223" column="20" />
-        <mark key="]" line="223" column="20" />
-        <mark key="." line="222" column="98" />
-        <mark key="^" line="220" column="106" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504525702953">
+        <mark key="'" line="41" column="12" />
+        <mark key="[" line="211" column="40" />
+        <mark key="]" line="211" column="40" />
+        <mark key="." line="211" column="54" />
+        <mark key="^" line="211" column="26" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1501155748821">
         <mark key="[" line="9" column="0" />
@@ -529,8 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="48" filename="R:/Rem/source/web/src/components/controls/NEW/TypeaheadField.js" />
-      <jump line="27" column="18" filename="R:/Rem/source/web/src/components/controls/NEW/TypeaheadField.js" />
       <jump line="89" column="2" filename="R:/Rem/source/web/src/components/controls/NEW/TypeaheadField.js" />
       <jump line="77" column="27" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="31" column="30" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -629,22 +627,24 @@
       <jump line="83" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="207" column="42" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="87" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="209" column="45" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="41" column="12" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>validations={[required]}</text>
+        <text>fields</text>
       </register>
       <register name="-" type="4">
-        <text>validations={[required]}</text>
+        <text>fields</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblZhbGlkYXRpb25TdGF0ZUNoYW5nZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>handleValidationStateChange</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzPXt0aGlzLnN0YXRlLmZpZWxkc30K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -684,7 +684,7 @@
       <last-replace>Validation</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
