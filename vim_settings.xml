@@ -133,11 +133,12 @@
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" timestamp="1504601011268">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="21" column="25" />
-        <mark key="." line="16" column="0" />
+      <file name="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" timestamp="1504602094556">
+        <mark key="'" line="54" column="15" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="37" column="19" />
+        <mark key="." line="8" column="14" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
@@ -392,6 +393,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/utils/validationUtils.js" timestamp="1504602074959">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1504534435565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
@@ -537,7 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="192" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="185" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="333" column="13" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
@@ -637,58 +642,59 @@
       <jump line="86" column="15" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
       <jump line="22" column="6" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
       <jump line="59" column="8" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
+      <jump line="89" column="15" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0aW9uUmVzdWx0c1w+</text>
+        <text encoding="base64">XDxmaXJzdEVycm9yTWVzc2FnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCB2YWxpZGF0aW9uUmVzdWx0cyA9IHZhbGlkYXRpb25SZXN1bHRzRm9yKG5hbWUsIGZvcm1Db250ZXh0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgdmFsaWRhdGUgPSBjdXJyeSgodmFsaWRhdGlvbnMsIHZhbHVlKSA9PiB7Ci8vICAgcmV0dXJuIGp1eHQodmFsaWRhdGlvbnMpKFt2YWx1ZV0pCi8vIH0pCi8vCi8vIGNvbnN0IHZhbGlkYXRpb25SZXN1bHRzID0gdmFsaWRhdGUodmFsaWRhdGlvbnMsIHZhbHVlKQoKY29uc3QgaXNSZXN1bHRWYWxpZCA9IHByb3BFcSgncmVzdWx0JywgdHJ1ZSkKCmNvbnN0IHZhbGlkYXRpb25SZXN1bHRzRm9yID0gKG5hbWUsIGZvcm1Db250ZXh0KSA9PiB7CiAgY29uc3QgdmFsaWRhdGlvblJlc3VsdHMgPSBtZXJnZSh7IHZhbGlkYXRpb25SZXN1bHRzOiBbXSB9LCBmb3JtQ29udGV4dC52YWxpZGF0aW9uU3RhdGVbbmFtZV0pLnZhbGlkYXRpb25SZXN1bHRzCgogIHJldHVybiB2YWxpZGF0aW9uUmVzdWx0cwp9Cgpjb25zdCBpc1ZhbGlkID0gKG5hbWUsIGZvcm1Db250ZXh0KSA9PiB7CiAgY29uc3QgdmFsaWRhdGlvblJlc3VsdHMgPSB2YWxpZGF0aW9uUmVzdWx0c0ZvcihuYW1lLCBmb3JtQ29udGV4dCkKCiAgcmV0dXJuICFhbGwoaXNSZXN1bHRWYWxpZCkodmFsaWRhdGlvblJlc3VsdHMpCn0KCmNvbnN0IGZpcnN0RXJyb3IgPSAobmFtZSwgZm9ybUNvbnRleHQpID0+IHsKICBjb25zdCB2YWxpZGF0aW9uUmVzdWx0cyA9IHZhbGlkYXRpb25SZXN1bHRzRm9yKG5hbWUsIGZvcm1Db250ZXh0KQogIGNvbnN0IGZpcnN0RXJyb3IgPSBmaW5kKGNvbXBsZW1lbnQoaXNWYWxpZCksIHZhbGlkYXRpb25SZXN1bHRzKQoKICByZXR1cm4gZmlyc3RFcnJvcgp9Cgpjb25zdCBmaXJzdEVycm9yTWVzc2FnZSA9IChuYW1lLCBmb3JtQ29udGV4dCkgPT4gewogIGNvbnN0IGZpcnN0RXJyb3IgPSBmaXJzdEVycm9yKG5hbWUsIGZvcm1Db250ZXh0KQoKICByZXR1cm4gZmlyc3RFcnJvcgogICAgPyBmaXJzdEVycm9yLm1lc3NhZ2UKICAgIDogJycKfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdGlvblJlc3VsdHMgPSBtZXJnZSh7IHZhbGlkYXRpb25SZXN1bHRzOiBbXSB9LCB2YWxpZGF0aW9uU3RhdGUpLnZhbGlkYXRpb25SZXN1bHRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Y29uc3QgdmFsaWRhdGlvblJlc3VsdHMgPSBtZXJnZSh7IHZhbGlkYXRpb25SZXN1bHRzOiBbXSB9LCB2YWxpZGF0aW9uU3RhdGUpLnZhbGlkYXRpb25SZXN1bHRzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdmFsaWRhdGlvblJlc3VsdHMgPSBtZXJnZSh7IHZhbGlkYXRpb25SZXN1bHRzOiBbXSB9LCB2YWxpZGF0aW9uU3RhdGUpLnZhbGlkYXRpb25SZXN1bHRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gY29uc3QgdmFsaWRhdGlvbkZhaWxlZCA9ICFhbGwoaXNWYWxpZCkodmFsaWRhdGlvblJlc3VsdHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gY29uc3QgZmlyc3RFcnJvciA9IGZpbmQoY29tcGxlbWVudChpc1ZhbGlkKSwgdmFsaWRhdGlvblJlc3VsdHMpCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgdmFsaWRhdGlvbkZhaWxlZCA9ICFhbGwoaXNWYWxpZCkodmFsaWRhdGlvblJlc3VsdHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgZmlyc3RFcnJvciA9IGZpbmQoY29tcGxlbWVudChpc1ZhbGlkKSwgdmFsaWRhdGlvblJlc3VsdHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0aW9uUmVzdWx0c1w+</last-search>
+      <last-search encoding="base64">XDxmaXJzdEVycm9yTWVzc2FnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0aW9uUmVzdWx0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxmaXJzdEVycm9yTWVzc2FnZVw+</last-pattern>
       <last-replace>Validation</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
@@ -714,8 +720,8 @@
         <entry encoding="base64">XDx2YWxpZGF0aW9uU3RhdGVcPg==</entry>
         <entry encoding="base64">XDwsXD4=</entry>
         <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
-        <entry encoding="base64">XDxmaXJzdEVycm9yTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0aW9uUmVzdWx0c1w+</entry>
+        <entry encoding="base64">XDxmaXJzdEVycm9yTWVzc2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
