@@ -311,12 +311,12 @@
         <mark key="^" line="50" column="37" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504604505803">
-        <mark key="'" line="310" column="7" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="206" column="26" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504605934789">
+        <mark key="'" line="218" column="0" />
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1501155748821">
         <mark key="[" line="9" column="0" />
@@ -393,12 +393,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/validationUtils.js" timestamp="1504604616349">
-        <mark key="'" line="10" column="29" />
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="42" />
-        <mark key="^" line="10" column="29" />
-        <mark key="." line="10" column="42" />
+      <file name="R:/Rem/source/web/src/utils/validationUtils.js" timestamp="1504605975321">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1504534435565">
         <mark key="[" line="0" column="0" />
@@ -545,13 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="33" column="28" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="141" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="146" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="143" column="10" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="145" column="10" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="159" column="29" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="244" column="28" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="162" column="62" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="23" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -631,7 +624,6 @@
       <jump line="59" column="24" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
       <jump line="63" column="27" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
       <jump line="67" column="27" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
-      <jump line="2" column="9" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="6" column="6" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="17" column="14" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="206" column="13" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -645,58 +637,66 @@
       <jump line="17" column="6" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="315" column="7" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="10" column="29" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
+      <jump line="44" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="215" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="2" column="6" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
+      <jump line="44" column="10" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
+      <jump line="22" column="4" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
+      <jump line="50" column="49" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
+      <jump line="4" column="17" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>required</text>
+        <text>save</text>
       </register>
-      <register name="0" type="4">
-        <text>validationResult</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB2YWxpZGF0aW9uc0ZvciwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcmVxdWlyZWQgPSAodmFsdWUpID0+IHsKICByZXR1cm4gdmFsdWUgIT0gMAogICAgPyB7IHJlc3VsdDogdHJ1ZSB9CiAgICA6IHsgcmVzdWx0OiBmYWxzZSwgbWVzc2FnZTogJ3JlcXVpcmVkJyB9Cn0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgdmFsaWRhdGlvblJlc3VsdHMgPSB2YWxpZGF0ZSh2YWxpZGF0aW9ucywgdmFsdWUpCg==</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRpb25zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIGxhYmVsLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBbbmFtZV06IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtZXNzYWdlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBoCg==</text>
+        <text encoding="base64">ICAgICAgdmFsaWRhdGlvbnNGb3IoJ2F1Y3Rpb25EYXRlJywgJ0F1Y3Rpb24gRGF0ZScsIFtyZXF1aXJlZF0pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgPE51bWVyaWNGaWVsZCBuYW1lPSIiIGxhYmVsPSIiIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBoCg==</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJycK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>required</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>required</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>Validation</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
@@ -704,7 +704,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGaWVsZFByb3BUeXBlc1w+</entry>
         <entry encoding="base64">XDxjb25jYXRcPg==</entry>
         <entry>isInva</entry>
         <entry encoding="base64">XDx2YWxpZGF0aW9uRmFpbGVkXD4=</entry>
@@ -724,9 +723,9 @@
         <entry encoding="base64">XDxtZXJnZVw+</entry>
         <entry encoding="base64">XDxpc1Jlc3VsdFZhbGlkXD4=</entry>
         <entry>required</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zdGFydC9zdG9w</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0L3N0b3A=</entry>
         <entry>s/create/save</entry>
@@ -744,6 +743,7 @@
         <entry>ws</entry>
         <entry>we</entry>
         <entry>s/Field/Validation</entry>
+        <entry>R</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
