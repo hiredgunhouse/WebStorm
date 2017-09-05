@@ -393,12 +393,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/validationUtils.js" timestamp="1504608742664">
-        <mark key="'" line="59" column="6" />
-        <mark key="[" line="60" column="72" />
-        <mark key="]" line="60" column="72" />
-        <mark key="." line="60" column="72" />
-        <mark key="^" line="60" column="72" />
+      <file name="R:/Rem/source/web/src/utils/validationUtils.js" timestamp="1504610266767">
+        <mark key="'" line="60" column="33" />
+        <mark key="[" line="60" column="29" />
+        <mark key="]" line="61" column="3" />
+        <mark key="." line="61" column="3" />
+        <mark key="^" line="61" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1504534435565">
         <mark key="[" line="0" column="0" />
@@ -545,7 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="86" column="4" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="85" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="220" column="36" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -629,11 +628,9 @@
       <jump line="5" column="0" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="62" column="0" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="3" column="36" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="70" column="22" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="6" column="17" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="75" column="0" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="60" column="6" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="68" column="37" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="175" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="180" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -645,19 +642,22 @@
       <jump line="55" column="6" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="92" column="2" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="59" column="6" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
+      <jump line="0" column="75" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
+      <jump line="66" column="14" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
+      <jump line="60" column="33" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Results</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Results</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1N0YXRlVmFsaWRcPg==</text>
+        <text encoding="base64">XDxwcm9wXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHsgbGFiZWwsIHZhbGlkYXRpb25zIH0gPSB2YWx1ZQo=</text>
@@ -694,9 +694,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1N0YXRlVmFsaWRcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9wXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1N0YXRlVmFsaWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9wXD4=</last-pattern>
       <last-replace>Validation</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
@@ -704,8 +704,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry encoding="base64">XDxzZXRGaWVsZFw+</entry>
         <entry encoding="base64">XDxvbkZpZWxkQ2hhbmdlXD4=</entry>
         <entry encoding="base64">XDxvblZhbGlkYXRpb25TdGF0ZUNoYW5nZVw+</entry>
         <entry>compose</entry>
@@ -721,9 +719,11 @@
         <entry encoding="base64">XDxpc1ZhbGlkXD4=</entry>
         <entry>index</entry>
         <entry>valida</entry>
-        <entry encoding="base64">XDxpc1Jlc3VsdFZhbGlkXD4=</entry>
         <entry encoding="base64">XDx2YWxpZGF0aW9uUmVzdWx0c0Zvclw+</entry>
         <entry encoding="base64">XDxpc1N0YXRlVmFsaWRcPg==</entry>
+        <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
+        <entry encoding="base64">XDxpc1Jlc3VsdFZhbGlkXD4=</entry>
+        <entry encoding="base64">XDxwcm9wXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0L3N0b3A=</entry>
