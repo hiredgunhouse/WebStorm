@@ -58,6 +58,13 @@
         <mark key="^" line="37" column="101" />
         <mark key="." line="119" column="50" />
       </file>
+      <file name="R:/Rem/source/web/src/validation/validations.js" timestamp="1504692566748">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="12" column="87" />
+        <mark key="]" line="12" column="87" />
+        <mark key="." line="12" column="87" />
+        <mark key="^" line="12" column="87" />
+      </file>
       <file name="R:/Rem/source/web/src/components/controls/YesNoDialog.js" timestamp="1503490331953">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -109,11 +116,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.js" timestamp="1504688046374">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.js" timestamp="1504692233857">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/createCaseActions.js" timestamp="1496064098591">
         <mark key="[" line="0" column="0" />
@@ -135,6 +142,13 @@
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
+      </file>
+      <file name="R:/Rem/source/web/src/validation/validationUtils.js" timestamp="1504691998221">
+        <mark key="'" line="8" column="2" />
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="32" />
+        <mark key="." line="36" column="32" />
+        <mark key="^" line="96" column="17" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" timestamp="1504625082908">
         <mark key="'" line="69" column="0" />
@@ -320,12 +334,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="29" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504690203514">
-        <mark key="'" line="120" column="33" />
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="1" />
-        <mark key="^" line="21" column="1" />
-        <mark key="." line="21" column="1" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504691837074">
+        <mark key="'" line="44" column="63" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="11" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="19" column="11" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1501155748821">
         <mark key="[" line="9" column="0" />
@@ -409,7 +423,7 @@
         <mark key="^" line="74" column="7" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504534435565">
+      <file name="/Dummy.txt" timestamp="1504691991064">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -560,29 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="17" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="75" column="0" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="68" column="37" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="180" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="37" column="6" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="38" column="0" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="48" column="5" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="53" column="6" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="55" column="6" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="0" column="75" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="59" column="14" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="110" column="2" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="19" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="170" column="23" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="112" column="8" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="82" column="12" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="73" column="14" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="25" column="8" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
-      <jump line="29" column="55" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
-      <jump line="30" column="46" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
-      <jump line="35" column="13" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
-      <jump line="50" column="8" filename="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" />
-      <jump line="114" column="2" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="113" column="2" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="88" column="6" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="92" column="9" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
@@ -619,7 +610,6 @@
       <jump line="241" column="25" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="13" column="7" filename="R:/Rem/source/web/src/utils/validationUtils.test.js" />
       <jump line="19" column="15" filename="R:/Rem/source/web/src/utils/validationUtils.test.js" />
-      <jump line="44" column="23" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="53" column="45" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="88" column="8" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="90" column="58" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -655,63 +645,87 @@
       <jump line="11" column="0" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="15" column="0" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="125" column="0" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
-      <jump line="20" column="7" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="23" column="7" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="59" column="9" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="21" column="7" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="121" column="33" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="65" column="34" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
+      <jump line="97" column="2" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
+      <jump line="35" column="6" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
+      <jump line="45" column="11" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
+      <jump line="54" column="4" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
+      <jump line="51" column="6" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
+      <jump line="93" column="2" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
+      <jump line="70" column="6" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
+      <jump line="96" column="2" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
+      <jump line="39" column="6" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
+      <jump line="22" column="0" filename="R:/Rem/source/web/src/validation/validations.js" />
+      <jump line="20" column="0" filename="R:/Rem/source/web/src/validation/validations.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
+      <jump line="0" column="9" filename="R:/Rem/source/web/src/validation/validations.js" />
+      <jump line="11" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="78" column="23" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="12" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="153" column="28" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="10" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="166" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="9" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="13" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="20" column="25" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="44" column="63" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="8" column="2" filename="R:/Rem/source/web/src/validation/validationUtils.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwo=</text>
+      <register name="&quot;" type="4">
+        <text>DD</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>DD</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfXD4=</text>
+        <text>require</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vZGVsQWxyZWFkeVNlbGVjdGVkID0gXy5maW5kKHRoaXMuc3RhdGUuc2VsZWN0ZWRNb2RlbHMsIHNlbGVjdGVkTW9kZWwpCg==</text>
+        <text encoding="base64">ICAgID8gdmFsaWRhdGlvblJlc3VsdCh0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwo=</text>
+        <text encoding="base64">ICAgICAgOiB2YWxpZGF0aW9uUmVzdWx0KGZhbHNlLCAnbXVzdCBiZSBhZnRlciAnICsgbW9tZW50KG1pbkRhdGUpLmZvcm1hdCgnZm9ybWF0KFwnWVlZWSBNTSBERFwnKTspCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vZGVsQWxyZWFkeVNlbGVjdGVkID0gXy5maW5kKHRoaXMuc3RhdGUuc2VsZWN0ZWRNb2RlbHMsIHNlbGVjdGVkTW9kZWwpCg==</text>
+        <text encoding="base64">ICAgID8gdmFsaWRhdGlvblJlc3VsdCh0cnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFIuZmluZCgpCg==</text>
+        <text encoding="base64">ICAgICAgPyB2YWxpZGF0aW9uUmVzdWx0KHRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdG9JU09TdHJpbmcgfSBmcm9tICcuLi8uLi91dGlscy9mdXRpbHMnCg==</text>
+        <text encoding="base64">ICByZXF1aXJlZCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwo=</text>
+        <text encoding="base64">ICBndGUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBhZnRlciwKICBlbXB0eVZhbGlkYXRpb25TdGF0ZSwKICBndGUsCiAgaXNTdGF0ZVZhbGlkLAogIHJlcXVpcmVkLAogIHVwZGF0ZVZhbGlkYXRpb25TdGF0ZUZvciwKICB2YWxpZGF0aW9uU3RhdGVGb3IsCiAgdmFsaWRhdGlvbnMsCiAgdmFsaWRhdGlvbnNGb3IsCn0gZnJvbSAnLi4vLi4vdXRpbHMvdmFsaWRhdGlvblV0aWxzJwo=</text>
+        <text encoding="base64">ICBhZnRlciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSBmcm9tICcuLi9jb250cm9scy9pbmRleCcK</text>
+        <text encoding="base64">ICB2YWxpZGF0aW9uc0ZvciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aXRoRm9ybSwK</text>
+        <text encoding="base64">ICB2YWxpZGF0aW9ucywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsK</text>
+        <text encoding="base64">ICB2YWxpZGF0aW9uU3RhdGVGb3IsCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfXD4=</last-search>
+      <last-search>require</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfXD4=</last-pattern>
+      <last-pattern>require</last-pattern>
       <last-replace>Validation</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
@@ -719,29 +733,28 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXF1aXJlZFw+</entry>
-        <entry encoding="base64">XDx2YWxpZGF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxsYWJlbFw+</entry>
-        <entry>multiple</entry>
-        <entry encoding="base64">XDxGaWVsZERlZmF1bHRQcm9wc1w+</entry>
-        <entry>validation</entry>
-        <entry>validationState</entry>
-        <entry>validateform</entry>
         <entry>results</entry>
         <entry encoding="base64">XDx2YWxpZGF0aW9uUmVzdWx0c0Zvclw+</entry>
         <entry encoding="base64">XDxyZWR1Y2VcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0aW9uU3RhdGVGb3JGaWVsZFw+</entry>
-        <entry encoding="base64">XDx2YWxpZGF0aW9uU3RhdGVGb3JcPg==</entry>
-        <entry encoding="base64">XDx1cGRhdGVWYWxpZGF0aW9uU3RhdGVGb3JcPg==</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZVZhbHVlXD4=</entry>
         <entry encoding="base64">XDx2YWxpZGF0aW9uUmVzdWx0c1w+</entry>
         <entry>reduce</entry>
         <entry encoding="base64">XDxhc3NvY1w+</entry>
         <entry encoding="base64">XDxkZWVwRXF1YWxcPg==</entry>
         <entry encoding="base64">XDxfXD4=</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVZhbHVlXD4=</entry>
+        <entry encoding="base64">XDxpc0ZpZWxkVmFsaWRcPg==</entry>
+        <entry encoding="base64">XDx2YWxpZGF0aW9uUmVzdWx0XD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVWYWxpZGF0aW9uU3RhdGVGb3JcPg==</entry>
+        <entry encoding="base64">XDx2YWxpZGF0aW9uU3RhdGVGb3JcPg==</entry>
+        <entry encoding="base64">XDxpc1N0YXRlVmFsaWRcPg==</entry>
+        <entry encoding="base64">XDxlbXB0eVZhbGlkYXRpb25TdGF0ZVw+</entry>
+        <entry encoding="base64">XDx2YWxpZGF0aW9uc1w+</entry>
+        <entry encoding="base64">XDxhZnRlclw+</entry>
+        <entry encoding="base64">XDxqdXh0XD4=</entry>
+        <entry>require</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0NyZWF0ZS9FZGl0</entry>
         <entry>s</entry>
         <entry>.,.+89noh</entry>
         <entry encoding="base64">JzwsJz5zL1Byb3AvQ29udGV4dA==</entry>
@@ -758,6 +771,7 @@
         <entry>sort</entry>
         <entry>ew</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
         <entry>noh</entry>
