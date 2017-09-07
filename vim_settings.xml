@@ -438,12 +438,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="29" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504698147665">
-        <mark key="'" line="221" column="11" />
-        <mark key="[" line="226" column="12" />
-        <mark key="]" line="226" column="18" />
-        <mark key="^" line="35" column="22" />
-        <mark key="." line="35" column="22" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504776444790">
+        <mark key="'" line="226" column="32" />
+        <mark key="[" line="197" column="60" />
+        <mark key="]" line="197" column="63" />
+        <mark key="^" line="197" column="63" />
+        <mark key="." line="197" column="63" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/Form2.js" timestamp="1504092233001">
         <mark key="'" line="58" column="33" />
@@ -667,7 +667,6 @@
       <jump line="43" column="8" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
       <jump line="42" column="2" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
       <jump line="52" column="33" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
-      <jump line="226" column="32" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="35" column="6" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="22" column="17" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
       <jump line="37" column="19" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
@@ -683,58 +682,59 @@
       <jump line="163" column="0" filename="R:/Rem/source/web/src/App.css" />
       <jump line="45" column="14" filename="R:/Rem/source/web/src/containers/App.js" />
       <jump line="109" column="0" filename="R:/Rem/source/web/src/App.css" />
+      <jump line="226" column="32" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXNGb3JtRGlydHk6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>gray</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Form</text>
+        <text encoding="base64">XDxpc0Zvcm1EaXJ0eVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjY2VjZWNlICFpbXBvcnRhbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgaXNGb3JtRGlydHk6IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lypjb2xvcjogI2NlY2VjZSAhaW1wb3J0YW50OyovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvcDogMjBweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJpZ2h0OiAyMHB4Owo=</text>
+        <text encoding="base64">Lypjb2xvcjogI2NlY2VjZSAhaW1wb3J0YW50OyovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
+        <text encoding="base64">ICAgIHRvcDogMjBweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHotaW5kZXg6IDEwOwo=</text>
+        <text encoding="base64">ICAgIHJpZ2h0OiAyMHB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBncmF5Owo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RvcCc6ICcyMCcsCg==</text>
+        <text encoding="base64">ICAgIHotaW5kZXg6IDEwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JpZ2h0JzogJzIwJywK</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBncmF5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>Form</last-search>
+      <last-search encoding="base64">XDxpc0Zvcm1EaXJ0eVw+</last-search>
       <last-offset />
-      <last-pattern>Form</last-pattern>
+      <last-pattern encoding="base64">XDxpc0Zvcm1EaXJ0eVw+</last-pattern>
       <last-replace>Validation</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
@@ -759,9 +759,9 @@
         <entry encoding="base64">XDxjYW5jZWxDaGFuZ2VzXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVWYWxpZGF0aW9uU3RhdGVDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxvbkFwcENsb3NpbmdcPg==</entry>
-        <entry encoding="base64">XDxpc0Zvcm1EaXJ0eVw+</entry>
         <entry>isDirty</entry>
         <entry>Form</entry>
+        <entry encoding="base64">XDxpc0Zvcm1EaXJ0eVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
