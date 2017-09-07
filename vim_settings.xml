@@ -18,11 +18,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/CheckboxField.js" timestamp="1504786736929">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="32" column="0" />
+      <file name="R:/Rem/source/web/src/components/controls/NEW/CheckboxField.js" timestamp="1504788158408">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="23" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" timestamp="1504539551142">
         <mark key="'" line="5" column="9" />
@@ -93,12 +93,12 @@
         <mark key="^" line="255" column="3" />
         <mark key="." line="104" column="9" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/FieldContainer.js" timestamp="1504623563866">
+      <file name="R:/Rem/source/web/src/components/controls/NEW/FieldContainer.js" timestamp="1504788065358">
         <mark key="'" line="2" column="63" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="26" column="1" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="26" column="1" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1504697074584">
         <mark key="'" line="20" column="30" />
@@ -159,10 +159,10 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/DateField.js" timestamp="1504786612082">
+      <file name="R:/Rem/source/web/src/components/controls/NEW/DateField.js" timestamp="1504788553494">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="52" />
+        <mark key="]" line="44" column="53" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="25" column="5" />
       </file>
@@ -202,6 +202,13 @@
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/components/controls/MultiSelectField.js" timestamp="1504788615431">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="40" />
+        <mark key="^" line="49" column="40" />
+        <mark key="." line="49" column="40" />
+      </file>
       <file name="R:/Rem/source/web/src/config.dev.js" timestamp="1497965413273">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -222,11 +229,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504786412788">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="37" />
-        <mark key="." line="4" column="37" />
+      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504788702748">
+        <mark key="'" line="70" column="4" />
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
         <mark key="^" line="4" column="36" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CaseOverviewContainer.js" timestamp="1501155566275">
@@ -321,11 +328,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/YesNoReadonlyField.js" timestamp="1504786841869">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="R:/Rem/source/web/src/components/controls/NEW/YesNoReadonlyField.js" timestamp="1504788082869">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="35" column="1" />
+        <mark key="^" line="24" column="18" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1503397759363">
         <mark key="[" line="0" column="0" />
@@ -473,6 +480,13 @@
         <mark key="." line="36" column="25" />
         <mark key="^" line="36" column="20" />
       </file>
+      <file name="R:/Rem/source/web/src/components/controls/NEW/TextAreaField.js" timestamp="1504788400837">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+      </file>
       <file name="R:/Rem/source/web/src/reducers/auctionReducer.js" timestamp="1504175856378">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="55" column="13" />
@@ -504,7 +518,7 @@
         <mark key="^" line="74" column="7" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504786126916">
+      <file name="/Dummy.txt" timestamp="1504788575661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -554,6 +568,13 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
+      <file name="R:/Rem/source/web/src/components/controls/NEW/TextField.js" timestamp="1504788648746">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+      </file>
       <file name="R:/Rem/source/web/src/api/api.js" timestamp="1504273402136">
         <mark key="'" line="66" column="113" />
         <mark key="[" line="4" column="0" />
@@ -595,12 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="33" filename="R:/Rem/source/web/src/components/controls/Form.js" />
-      <jump line="19" column="9" filename="R:/Rem/source/web/src/components/controls/Form.js" />
-      <jump line="53" column="42" filename="R:/Rem/source/web/src/components/controls/Form.js" />
-      <jump line="70" column="44" filename="R:/Rem/source/web/src/components/controls/Form.js" />
-      <jump line="78" column="2" filename="R:/Rem/source/web/src/components/controls/Form.js" />
-      <jump line="118" column="11" filename="R:/Rem/source/web/src/components/controls/Form.js" />
       <jump line="121" column="32" filename="R:/Rem/source/web/src/components/controls/Form.js" />
       <jump line="148" column="4" filename="R:/Rem/source/web/src/components/controls/Form.js" />
       <jump line="185" column="28" filename="R:/Rem/source/web/src/components/controls/Form.js" />
@@ -663,7 +678,6 @@
       <jump line="141" column="2" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="209" column="16" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="233" column="20" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="70" column="25" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="218" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="279" column="91" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="240" column="15" filename="R:/Rem/source/web/src/components/CreateCase.js" />
@@ -695,73 +709,78 @@
       <jump line="31" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/CheckboxField.js" />
       <jump line="56" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/CheckboxField.js" />
       <jump line="36" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/YesNoReadonlyField.js" />
+      <jump line="41" column="45" filename="R:/Rem/source/web/src/components/controls/NEW/YesNoReadonlyField.js" />
+      <jump line="42" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/TextAreaField.js" />
+      <jump line="42" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/TextField.js" />
+      <jump line="17" column="0" filename="R:/Rem/source/web/src/components/controls/MultiSelectField.js" />
+      <jump line="251" column="16" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="275" column="20" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="70" column="4" filename="R:/Rem/source/web/src/components/CreateCase.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Checkbox</text>
+        <text encoding="base64">XDxvbkNoYW5nZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q2hlY2tib3hGaWVsZC5wcm9wVHlwZXMgPSBtZXJnZShGaWVsZFByb3BUeXBlcywge30pCkNoZWNrYm94RmllbGQuZGVmYXVsdFByb3BzID0gbWVyZ2UoRmllbGREZWZhdWx0UHJvcHMsIHt9KQpDaGVja2JveEZpZWxkLmNvbnRleHRUeXBlcyA9IG1lcmdlKEZpZWxkQ29udGV4dFR5cGVzLCB7fSkK</text>
+        <text encoding="base64">RGF0ZUZpZWxkLnByb3BUeXBlcyA9IG1lcmdlKEZpZWxkUHJvcFR5cGVzLCB7fSkKRGF0ZUZpZWxkLmRlZmF1bHRQcm9wcyA9IG1lcmdlKEZpZWxkRGVmYXVsdFByb3BzLCB7fSkKRGF0ZUZpZWxkLmNvbnRleHRUeXBlcyA9IG1lcmdlKEZpZWxkQ29udGV4dFR5cGVzLCB7fSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHRoaXMub25DaGFuZ2UgPSB0aGlzLm9uQ2hhbmdlLmJpbmQodGhpcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDaGVja2JveEZpZWxkLAo=</text>
+        <text encoding="base64">VGV4dEZpZWxkLnByb3BUeXBlcyA9IE9iamVjdC5hc3NpZ24oe30sIEZpZWxkUHJvcFR5cGVzLCB7fSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHsK</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZD17cmVxdWlyZWR9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgVGV4dEZpZWxkID0gKHtuYW1lLCBsYWJlbCwgZm9ybSwgcmVxdWlyZWQsIHBsYWNlSG9sZGVyfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCAgPSBwcm9wcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q2hlY2tib3hGaWVsZC5wcm9wVHlwZXMgPSBtZXJnZShGaWVsZFByb3BUeXBlcywge30pCkNoZWNrYm94RmllbGQuZGVmYXVsdFByb3BzID0gbWVyZ2UoRmllbGREZWZhdWx0UHJvcHMsIHt9KQpDaGVja2JveEZpZWxkLmNvbnRleHRUeXBlcyA9IG1lcmdlKEZpZWxkQ29udGV4dFR5cGVzLCB7fSkKCg==</text>
+        <text encoding="base64">VGV4dEFyZWFGaWVsZC5wcm9wVHlwZXMgPSBPYmplY3QuYXNzaWduKHt9LCBGaWVsZFByb3BUeXBlcywge30pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgQ2hlY2tib3hGaWVsZCA9IHByb3BzID0+IHsKICBjb25zdCB7IG5hbWUsIGxhYmVsLCBmb3JtIH0gPSBwcm9wcwogIGNvbnN0IHZhbHVlID0gZm9ybS5zdGF0ZVtuYW1lXSB8fCBmYWxzZQoKICByZXR1cm4gKAogICAgPEZpZWxkQ29udGFpbmVyIG5hbWU9e25hbWV9IGxhYmVsPXtsYWJlbH0+CiAgICAgIDxDaGVja2JveAogICAgICAgIGNoZWNrZWQ9e3ZhbHVlfQogICAgICAgIG9uQ2hhbmdlPXtoYW5kbGVDaGFuZ2VFdmVudChmb3JtLm9uQ2hhbmdlKX0KICAgICAgICBuYW1lPXtuYW1lfQogICAgICAgIGRpc2FibGVkPXtmb3JtLnByb3BzLmRpc2FibGVkID8gJ2Rpc2FibGVkJyA6ICcnfQogICAgICAvPgogICAgPC9GaWVsZENvbnRhaW5lcj4KICApCn0K</text>
+        <text encoding="base64">ICBjb25zdCAgPSBwcm9wcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBDaGVja2JveEZpZWxkLAo=</text>
+        <text encoding="base64">ICBwcm9wcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBZZXNOb1JlYWRvbmx5RmllbGQK</text>
+        <text encoding="base64">ICBjb25zdCA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>Checkbox</last-search>
+      <last-search encoding="base64">XDxvbkNoYW5nZVw+</last-search>
       <last-offset />
-      <last-pattern>Checkbox</last-pattern>
-      <last-replace>YesNoReadonly</last-replace>
-      <last-substitute>Checkbox</last-substitute>
+      <last-pattern encoding="base64">XDxvbkNoYW5nZVw+</last-pattern>
+      <last-replace>Text</last-replace>
+      <last-substitute>Date</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JtSGFzVW5zYXZlZENoYW5nZXNcPg==</entry>
         <entry>dirty</entry>
         <entry encoding="base64">XDx3aXRoRm9ybVw+</entry>
         <entry>didmount</entry>
         <entry>mount</entry>
         <entry>\cmount</entry>
         <entry>receive</entry>
-        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
         <entry>button</entry>
         <entry encoding="base64">XDxnZXROYW1lXD4=</entry>
         <entry encoding="base64">XDxvblNhdmVDaGFuZ2VzXD4=</entry>
@@ -772,15 +791,13 @@
         <entry>closeDia</entry>
         <entry>validateForm</entry>
         <entry encoding="base64">XDx3aXRoQ0RNXD4=</entry>
-        <entry>Date</entry>
         <entry>Checkbox</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry>Date</entry>
+        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Make/Field</entry>
-        <entry>s/Select/Date</entry>
-        <entry>s/Date/Numeric</entry>
         <entry>s/Numeric/Typeahead</entry>
-        <entry>ws</entry>
         <entry>we</entry>
         <entry>s/Field/Validation</entry>
         <entry>R</entry>
@@ -794,6 +811,10 @@
         <entry encoding="base64">JzwsJz5zL0RhdGUvQ2hlY2tib3g=</entry>
         <entry>.,.+1noh</entry>
         <entry encoding="base64">JzwsJz5zL0NoZWNrYm94L1llc05vUmVhZG9ubHk=</entry>
+        <entry>ws</entry>
+        <entry>3w</entry>
+        <entry encoding="base64">JzwsJz5zL0RhdGUvVGV4dEFyZWE=</entry>
+        <entry encoding="base64">JzwsJz5zL0RhdGUvVGV4dA==</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
@@ -860,6 +881,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
