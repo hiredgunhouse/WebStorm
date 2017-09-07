@@ -215,11 +215,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504016635607">
-        <mark key="'" line="15" column="2" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504782153560">
+        <mark key="'" line="2" column="9" />
+        <mark key="[" line="214" column="25" />
+        <mark key="]" line="214" column="25" />
+        <mark key="." line="214" column="25" />
         <mark key="^" line="115" column="13" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CaseOverviewContainer.js" timestamp="1501155566275">
@@ -584,7 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="8" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="108" column="41" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="81" column="8" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
       <jump line="85" column="4" filename="R:/Rem/source/web/src/utils/validationUtils.js" />
@@ -684,6 +683,7 @@
       <jump line="76" column="4" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="75" column="48" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="44" column="13" filename="R:/Rem/source/web/src/containers/CreateAuctionContainer.js" />
+      <jump line="2" column="9" filename="R:/Rem/source/web/src/components/CreateCase.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -696,7 +696,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>dirty</text>
+        <text encoding="base64">XDx3aXRoRm9ybVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGF1Y3Rpb25Ib3VzZTogJycsCg==</text>
@@ -733,9 +733,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dirty</last-search>
+      <last-search encoding="base64">XDx3aXRoRm9ybVw+</last-search>
       <last-offset />
-      <last-pattern>dirty</last-pattern>
+      <last-pattern encoding="base64">XDx3aXRoRm9ybVw+</last-pattern>
       <last-replace>Validation</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
@@ -743,7 +743,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0aW9uU3RhdGVGb3JcPg==</entry>
         <entry encoding="base64">XDxpc1N0YXRlVmFsaWRcPg==</entry>
         <entry encoding="base64">XDxlbXB0eVZhbGlkYXRpb25TdGF0ZVw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0aW9uc1w+</entry>
@@ -763,6 +762,7 @@
         <entry encoding="base64">XDxmb3JtSGFzVW5zYWdlZENoYW5nZXNcPg==</entry>
         <entry encoding="base64">XDxmb3JtSGFzVW5zYXZlZENoYW5nZXNcPg==</entry>
         <entry>dirty</entry>
+        <entry encoding="base64">XDx3aXRoRm9ybVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
