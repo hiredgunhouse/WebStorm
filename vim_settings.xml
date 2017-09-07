@@ -8,6 +8,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/validation/validations.test.js" timestamp="1504792841389">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="45" />
+        <mark key="^" line="14" column="47" />
+        <mark key="." line="23" column="48" />
+      </file>
       <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1503397898697">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -229,12 +235,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504791230880">
-        <mark key="'" line="265" column="16" />
-        <mark key="[" line="265" column="16" />
-        <mark key="]" line="265" column="17" />
-        <mark key="." line="265" column="17" />
-        <mark key="^" line="264" column="15" />
+      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504793007662">
+        <mark key="'" line="73" column="45" />
+        <mark key="[" line="203" column="11" />
+        <mark key="]" line="203" column="15" />
+        <mark key="." line="203" column="15" />
+        <mark key="^" line="203" column="15" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CaseOverviewContainer.js" timestamp="1501155566275">
         <mark key="[" line="10" column="0" />
@@ -316,17 +322,18 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="62" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/validation/validations.js" timestamp="1504696493401">
+      <file name="R:/Rem/source/web/src/validation/validations.js" timestamp="1504793182079">
         <mark key="'" line="0" column="9" />
-        <mark key="[" line="12" column="87" />
-        <mark key="]" line="12" column="87" />
-        <mark key="." line="12" column="87" />
-        <mark key="^" line="12" column="87" />
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="25" column="10" />
+        <mark key="^" line="25" column="10" />
+        <mark key="." line="25" column="10" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/FieldDefaultProps.js" timestamp="1504623611099">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="34" />
+      <file name="R:/Rem/source/web/src/components/controls/NEW/FieldDefaultProps.js" timestamp="1504792045761">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/YesNoReadonlyField.js" timestamp="1504788082869">
         <mark key="[" line="32" column="0" />
@@ -369,12 +376,12 @@
         <mark key="^" line="48" column="18" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/validation/validationUtils.js" timestamp="1504691998221">
+      <file name="R:/Rem/source/web/src/validation/validationUtils.js" timestamp="1504792661120">
         <mark key="'" line="8" column="2" />
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="36" column="32" />
-        <mark key="." line="36" column="32" />
-        <mark key="^" line="96" column="17" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="6" />
+        <mark key="." line="60" column="6" />
+        <mark key="^" line="60" column="6" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
@@ -456,6 +463,10 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/validation/validationUtils.test.js" timestamp="1504792517487">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="26" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1504785897715">
         <mark key="'" line="71" column="0" />
@@ -594,6 +605,12 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.js" timestamp="1504792027352">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="11" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="6" column="11" />
+      </file>
       <file name="R:/Rem/source/web/src/reducers/errorReducers.js" timestamp="1496932047444">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -614,21 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="2" filename="R:/Rem/source/web/src/components/controls/Form.js" />
-      <jump line="69" column="42" filename="R:/Rem/source/web/src/components/controls/Form.js" />
-      <jump line="52" column="4" filename="R:/Rem/source/web/src/components/controls/Form.js" />
-      <jump line="18" column="28" filename="R:/Rem/source/web/src/components/controls/Form.js" />
-      <jump line="20" column="30" filename="R:/Rem/source/web/src/components/controls/Form.js" />
-      <jump line="19" column="44" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
-      <jump line="43" column="8" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
-      <jump line="42" column="2" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
-      <jump line="52" column="33" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
-      <jump line="35" column="6" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="22" column="17" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
-      <jump line="37" column="19" filename="R:/Rem/source/web/src/components/controls/NEW/Form.js" />
-      <jump line="329" column="15" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="3" column="38" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="42" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="153" column="10" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="164" column="4" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="165" column="41" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -714,70 +716,80 @@
       <jump line="230" column="17" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="263" column="15" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="265" column="16" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="253" column="11" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="149" column="17" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="287" column="29" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="201" column="2" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="264" column="32" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="61" column="30" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="131" column="2" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="268" column="36" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="72" column="38" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="192" column="2" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="90" column="5" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="290" column="30" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="237" column="2" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="273" column="43" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="73" column="45" filename="R:/Rem/source/web/src/components/CreateCase.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBzdHlsZT17e2Zsb2F0OiAncmlnaHQnfX0gb25DbGljaz17dGhpcy5jcmVhdGVDYXNlfT4KICAgICAgICAgICAgICAgICAgICBDcmVhdGUgY2FzZQogICAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICBjb25zdCBpc051bSA9IC9eXGQrJC8udGVzdCh2YWx1ZSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>onlyDigits</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text>unsaved</text>
       </register>
-      <register name="0" type="4">
-        <text>this.createCase</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3Qgb25seURpZ2l0cyA9IGN1cnJ5KCh2YWx1ZSkgPT4gewogIGNvbnN0IGlzTnVtID0gL15cZCskLy50ZXN0KHZhbHVlKQoKICByZXR1cm4gaXNOdW0gfHwKICAgID8gdmFsaWRhdGlvblJlc3VsdChmYWxzZSwgJ2RpZ2l0cyBvbmx5JykKICAgIDogdmFsaWRhdGlvblJlc3VsdCh0cnVlKQp9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBzdHlsZT17e2Zsb2F0OiAncmlnaHQnfX0gb25DbGljaz17dGhpcy5jcmVhdGVDYXNlfT4KICAgICAgICAgICAgICAgICAgICBDcmVhdGUgY2FzZQogICAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICBjb25zdCBpc051bSA9IC9eXGQrJC8udGVzdCh2YWx1ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHlsZT17e2Zsb2F0OiAncmlnaHQnfX0K</text>
+        <text encoding="base64">ICAgIHZhbHVlID09PSAnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHlsZT17e2Zsb2F0OiAncmlnaHQnfX0K</text>
+        <text encoding="base64">ICAgIHZhbHVlID09PSBudWxsIHx8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Zvcm0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNSZXN1bHRWYWxpZCwgfSBmcm9tICcuL3ZhbGlkYXRpb25VdGlscycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA6d3MK</text>
+        <text encoding="base64">ICB2YWxpZGF0aW9uc0ZvciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMub25DaGFuZ2UgPSB0aGlzLm9uQ2hhbmdlLmJpbmQodGhpcykK</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGV4dEZpZWxkLnByb3BUeXBlcyA9IE9iamVjdC5hc3NpZ24oe30sIEZpZWxkUHJvcFR5cGVzLCB7fSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>button</last-search>
+      <last-search>unsaved</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern>unsaved</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>Date</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>didmount</entry>
-        <entry>mount</entry>
-        <entry>\cmount</entry>
-        <entry>receive</entry>
-        <entry encoding="base64">XDxnZXROYW1lXD4=</entry>
         <entry encoding="base64">XDxvblNhdmVDaGFuZ2VzXD4=</entry>
         <entry encoding="base64">XDxtYWtlXD4=</entry>
         <entry encoding="base64">XDxzZXRGaWVsZFw+</entry>
@@ -793,6 +805,11 @@
         <entry>contractTypes</entry>
         <entry>contract</entry>
         <entry>button</entry>
+        <entry encoding="base64">XDxtZXJnZVByb3BzXD4=</entry>
+        <entry encoding="base64">XDxvbkZpZWxkQ2hhbmdlXD4=</entry>
+        <entry encoding="base64">XDxmb3JtSGFzVW5zYXZlZENoYW5nZXNcPg==</entry>
+        <entry>required</entry>
+        <entry>unsaved</entry>
       </history-search>
       <history-cmd>
         <entry>s/Numeric/Typeahead</entry>
