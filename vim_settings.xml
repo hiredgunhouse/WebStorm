@@ -578,7 +578,8 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CaseOverview.js" timestamp="1504005840792">
+      <file name="R:/Rem/source/web/src/components/CaseOverview.js" timestamp="1504881474960">
+        <mark key="'" line="292" column="36" />
         <mark key="[" line="34" column="29" />
         <mark key="]" line="34" column="29" />
         <mark key="." line="34" column="29" />
@@ -648,8 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="19" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="371" column="19" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="353" column="54" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="3" column="33" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="342" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
@@ -748,6 +747,8 @@
       <jump line="262" column="4" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="151" column="6" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="70" column="36" filename="R:/Rem/source/web/src/containers/CreateCaseContainer.js" />
+      <jump line="31" column="19" filename="R:/Rem/source/web/src/components/CaseOverview.js" />
+      <jump line="292" column="36" filename="R:/Rem/source/web/src/components/CaseOverview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
