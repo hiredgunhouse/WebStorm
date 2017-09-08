@@ -49,6 +49,9 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="R:/Rem/source/web/package.json" timestamp="1504864218406">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="R:/Rem/source/web/src/reducers/modelsReducer.js" timestamp="1503995825188">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -236,12 +239,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504863352436">
-        <mark key="'" line="97" column="11" />
-        <mark key="[" line="222" column="35" />
-        <mark key="]" line="223" column="5" />
-        <mark key="^" line="223" column="5" />
-        <mark key="." line="223" column="5" />
+      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504864284935">
+        <mark key="[" line="216" column="87" />
+        <mark key="]" line="216" column="99" />
+        <mark key="^" line="216" column="99" />
+        <mark key="." line="216" column="99" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CaseOverviewContainer.js" timestamp="1501155566275">
         <mark key="[" line="10" column="0" />
@@ -366,10 +368,11 @@
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" timestamp="1504794416783">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" timestamp="1504864257584">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/CreateAuction.js" timestamp="1503580603268">
         <mark key="[" line="0" column="0" />
@@ -482,6 +485,9 @@
         <mark key="]" line="103" column="29" />
         <mark key="." line="103" column="29" />
         <mark key="^" line="103" column="29" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/App.js" timestamp="1504767131940">
+        <mark key="'" line="45" column="14" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/NumericField.js" timestamp="1504625164596">
         <mark key="'" line="43" column="34" />
@@ -633,19 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/CheckboxField.js" />
-      <jump line="56" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/CheckboxField.js" />
-      <jump line="36" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/YesNoReadonlyField.js" />
-      <jump line="41" column="45" filename="R:/Rem/source/web/src/components/controls/NEW/YesNoReadonlyField.js" />
-      <jump line="42" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/TextAreaField.js" />
-      <jump line="42" column="0" filename="R:/Rem/source/web/src/components/controls/NEW/TextField.js" />
-      <jump line="17" column="0" filename="R:/Rem/source/web/src/components/controls/MultiSelectField.js" />
-      <jump line="251" column="16" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="275" column="20" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="70" column="4" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="31" column="0" filename="R:/Rem/source/web/src/containers/CreateCaseContainer.js" />
-      <jump line="305" column="20" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="306" column="19" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="308" column="20" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="2" column="9" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="230" column="17" filename="R:/Rem/source/web/src/components/CreateCase.js" />
@@ -653,7 +646,6 @@
       <jump line="265" column="16" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="253" column="11" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="149" column="17" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="287" column="29" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="201" column="2" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="264" column="32" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="61" column="30" filename="R:/Rem/source/web/src/components/CreateCase.js" />
@@ -709,7 +701,6 @@
       <jump line="364" column="19" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="365" column="19" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="366" column="19" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="367" column="19" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="371" column="19" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="353" column="54" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="3" column="33" filename="R:/Rem/source/web/src/components/CreateCase.js" />
@@ -733,58 +724,73 @@
       <jump line="85" column="11" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="95" column="11" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="97" column="11" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="287" column="10" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="350" column="41" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="349" column="41" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="286" column="10" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="320" column="30" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="321" column="26" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="367" column="63" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="289" column="4" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="288" column="10" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="214" column="7" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="299" column="10" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="220" column="34" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="304" column="10" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/package.json" />
+      <jump line="7" column="9" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>chars</text>
+        <text>date</text>
       </register>
       <register name="-" type="4">
-        <text>chars</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
-        <text>props</text>
+        <text>moment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc0ZvcigncmVnaXN0cmF0aW9uTnVtYmVyJywgJ1JlZ2lzdHJhdGlvbiBOdW1iZXInLCBbcmVxdWlyZWRdKSwK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc0ZvcignbWlsZWFnZScsICdNaWxlYWdlIEF0IFN0YXJ0IERhdGUnLCBbbnVtYmVyKCldKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gW3JlcXVpcmVkLCBib3RoKCdtdXN0IGUgNyBkaWdpdHMnLCBsZW5ndGgoNyksIGRpZ2l0c09ubHkpXQo=</text>
+        <text encoding="base64">ICAgICAgICA8RGF0ZUZpZWxkIG5hbWU9IiIgbGFiZWw9IiIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc0ZvcignJywgJycsIFtyZXF1aXJlZF0pLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc0ZvcignJywgJycsIFtyZXF1aXJlZF0pLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWlsdXJlKCdkaWdpdHMgb25seScpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc0ZvcignJywgJycsIFtyZXF1aXJlZF0pLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoIWlzTnVtKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgPFNlbGVjdEZpZWxkIG5hbWU9IiIgbGFiZWw9IiIgaXRlbXNQcm9wPSJhdWN0aW9uSG91c2VzIiAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VHlwZWFoZWFkRmllbGQgbmFtZT0icnZHdWFyYW50b3IiIGxhYmVsPSJHdWFyYW50b3IiIGl0ZW1zUHJvcD0icnZHdWFyYW50b3JUeXBlcyIgYWxsb3dOZXcgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBpc051bSA9IC9eXGQrJC8udGVzdCh2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dEZpZWxkIG5hbWU9InJlcHVyY2hhc29yIiBsYWJlbD0iUmVwdXJjaGFzb3IiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dEZpZWxkIG5hbWU9IiIgbGFiZWw9IiIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>props</last-search>
+      <last-search>moment</last-search>
       <last-offset />
-      <last-pattern>props</last-pattern>
+      <last-pattern>moment</last-pattern>
       <last-replace>length7(</last-replace>
       <last-substitute>length(</last-substitute>
       <last-dir>1</last-dir>
@@ -792,9 +798,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx7XD4=</entry>
-        <entry>Date</entry>
-        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
         <entry>contractTypes</entry>
         <entry>button</entry>
         <entry encoding="base64">XDxtZXJnZVByb3BzXD4=</entry>
@@ -812,6 +815,9 @@
         <entry>required</entry>
         <entry>digit</entry>
         <entry>props</entry>
+        <entry encoding="base64">XDxpc05vdFN0ZXAxXD4=</entry>
+        <entry encoding="base64">XDxpc1N0ZXAxXD4=</entry>
+        <entry>moment</entry>
       </history-search>
       <history-cmd>
         <entry>s/Field/Validation</entry>
