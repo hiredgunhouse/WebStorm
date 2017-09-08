@@ -25,12 +25,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/CheckboxField.js" timestamp="1504788158408">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="28" />
-        <mark key="^" line="23" column="28" />
-        <mark key="." line="23" column="28" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" timestamp="1504539551142">
         <mark key="'" line="5" column="9" />
         <mark key="[" line="9" column="14" />
@@ -165,12 +159,6 @@
         <mark key="." line="9" column="55" />
         <mark key="^" line="9" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/hocUtils.js" timestamp="1504875651082">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="35" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.js" timestamp="1504012752183">
         <mark key="'" line="2" column="38" />
         <mark key="[" line="2" column="52" />
@@ -262,10 +250,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504879954542">
-        <mark key="'" line="151" column="6" />
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="0" />
+      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1504885648131">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="26" />
         <mark key="." line="246" column="0" />
         <mark key="^" line="245" column="11" />
       </file>
@@ -349,12 +337,12 @@
         <mark key="." line="9" column="47" />
         <mark key="^" line="9" column="47" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1504884201811">
-        <mark key="'" line="41" column="6" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="58" column="1" />
-        <mark key="." line="57" column="0" />
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1504885802561">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="177" column="1" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/saveButton.js" timestamp="1504883377554">
         <mark key="[" line="0" column="0" />
@@ -372,12 +360,6 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/controls/NEW/YesNoReadonlyField.js" timestamp="1504788082869">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="35" column="1" />
-        <mark key="^" line="24" column="18" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1503397759363">
         <mark key="[" line="0" column="0" />
@@ -419,12 +401,6 @@
         <mark key="]" line="84" column="21" />
         <mark key="^" line="84" column="28" />
         <mark key="." line="84" column="21" />
-      </file>
-      <file name="R:/Rem/source/web/src/validation/validationUtils.js" timestamp="1504868811981">
-        <mark key="[" line="57" column="64" />
-        <mark key="]" line="58" column="4" />
-        <mark key="^" line="58" column="4" />
-        <mark key="." line="58" column="4" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
@@ -656,12 +632,6 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.js" timestamp="1504792027352">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="6" column="11" />
-      </file>
       <file name="R:/Rem/source/web/src/reducers/errorReducers.js" timestamp="1496932047444">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -682,16 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="10" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="320" column="30" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="321" column="26" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="367" column="63" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="289" column="4" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="288" column="10" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="214" column="7" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="299" column="10" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="220" column="34" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="304" column="10" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/package.json" />
       <jump line="7" column="9" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
       <jump line="129" column="24" filename="R:/Rem/source/web/src/validation/validations.test.js" />
@@ -748,7 +708,6 @@
       <jump line="64" column="28" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="384" column="37" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="60" column="13" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
-      <jump line="69" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="79" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="345" column="35" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="105" column="53" filename="R:/Rem/source/web/src/validation/validations.test.js" />
@@ -782,70 +741,76 @@
       <jump line="2" column="7" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
       <jump line="41" column="6" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="137" column="11" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
+      <jump line="72" column="6" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="1" column="9" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="79" column="27" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="68" column="8" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="33" column="10" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="299" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="69" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="242" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="175" column="1" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="25" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
+      <jump line="24" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFIsIHsgZXZvbHZlLCBhc3NvYyB9IGZyb20gJ3JhbWRhJwppbXBvcnQgZGVlcEVxdWFsIGZyb20gJ2RlZXAtZXF1YWwnCmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>react-router-dom</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>headerelement</text>
+        <text>formstate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFJvdXRlciB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCg==</text>
+        <text encoding="base64">aW1wb3J0IFIsIHsgZXZvbHZlLCBhc3NvYyB9IGZyb20gJ3JhbWRhJwppbXBvcnQgZGVlcEVxdWFsIGZyb20gJ2RlZXAtZXF1YWwnCmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9ybVN0YXRlOiBGb3JtU3RhdGUuU3RlcDEsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlQ2FzZVR5cGU6IENyZWF0ZUNhc2VUeXBlLkJ5Q29udHJhY3RObywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25Db21wb25lbnREaWRNb3VudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJlcj17CiAgICAgICAgICByZW5kZXJGaWVsZHMoewogICAgICAgICAgICBvbk1ha2VDaGFuZ2U6IG9uTWFrZUNoYW5nZSh0aGlzLnByb3BzKQogICAgICAgICAgfSkKICAgICAgICB9CiAgICAgICAgey4uLnRoaXMucHJvcHN9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkaXNhYmxlZDogIXN0YXRlLmNhc2VPdmVydmlldy5pc0VkaXRpb25Nb2RlLAo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgID0K</text>
+        <text encoding="base64">Y29uc3QgcmVuZGVyRmllbGRzID0gKHNldHVwKSA9PiAoZm9ybSkgPT4gKAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlZ2lzdHJhdGlvblRheElkOiB2LnJlZ2lzdHJhdGlvblRheElkCg==</text>
+        <text encoding="base64">ICA8ZGl2PgogICAgPGRpdiBjbGFzc05hbWU9ImNvbC1zbS02Ij4KICAgICAgPFNlbGVjdEZpZWxkIG5hbWU9InZlaGljbGVUeXBlSWQiIGxhYmVsPSJWZWhpY2xlIFR5cGUiIGZvcm09e2Zvcm19IGl0ZW1zUHJvcD0idmVoaWNsZVR5cGVzIiAvPgogICAgICA8VHlwZWFoZWFkRmllbGQgbmFtZT0ibWFrZSIgbGFiZWw9Ik1ha2UiIGl0ZW1zUHJvcD0ibWFrZXMiIGZvcm09e2Zvcm19CiAgICAgICAgb25DaGFuZ2U9e3NldHVwLm9uTWFrZUNoYW5nZX0gLz4KICAgICAgPFR5cGVhaGVhZEZpZWxkIG5hbWU9Im1vZGVsIiBsYWJlbD0iTW9kZWwiIGl0ZW1zUHJvcD0ibW9kZWxzIiBmb3JtPXtmb3JtfSAvPgogICAgICA8VGV4dEZpZWxkIG5hbWU9InZpbiIgbGFiZWw9IlZJTiIgZm9ybT17Zm9ybX0gLz4KICAgICAgPERhdGVGaWVsZCBuYW1lPSJyZWdpc3RyYXRpb25EYXRlIiBsYWJlbD0iRmlyc3QgUmVnaXN0cmF0aW9uIERhdGUiIGZvcm09e2Zvcm19IC8+CiAgICAgIDxEYXRlRmllbGQgbmFtZT0ibGljZW5zZVBsYXRlc0NhbmNlbGxlZERhdGUiIGxhYmVsPSJMaWNlbnNlIFBsYXRlcyBDYW5jZWxsZWQiIGZvcm09e2Zvcm19IC8+CiAgICAgIDxDaGVja2JveEZpZWxkIG5hbWU9Imhhc0xpY2Vuc2VQbGF0ZXMiIGxhYmVsPSJMaWNlbnNlUGxhdGVzIiBmb3JtPXtmb3JtfSAvPgogICAgICA8VGV4dEZpZWxkIG5hbWU9Im9iamVjdENsYXNzaWZpY2F0aW9uIiBsYWJlbD0iT2JqZWN0IENsYXNzaWZpY2F0aW9uIiBmb3JtPXtmb3JtfSAvPgogICAgICA8U2VsZWN0RmllbGQgbmFtZT0idmF0SWQiIGxhYmVsPSJWYXQiIGZvcm09e2Zvcm19IGl0ZW1zUHJvcD0idGF4VHlwZXMiIC8+CiAgICAgIDxTZWxlY3RGaWVsZCBuYW1lPSJyZWdpc3RyYXRpb25UYXhJZCIgbGFiZWw9IlJlZy4gVGF4IiBmb3JtPXtmb3JtfSBpdGVtc1Byb3A9InRheFR5cGVzIiAvPgogICAgICA8VGV4dEZpZWxkIG5hbWU9ImVxdWlwbWVudFRyaW0iIGxhYmVsPSJFcXVpcG1lbnQvVHJpbSIgZm9ybT17Zm9ybX0gLz4KICAgICAgPFRleHRBcmVhRmllbGQgbmFtZT0ib2JqZWN0Q29uZGl0aW9uQ29tbWVudHMiIGxhYmVsPSJDb25kaXRpb24iIGZvcm09e2Zvcm19IC8+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtc20tNiI+CiAgICAgIDxUZXh0RmllbGQgbmFtZT0iZGFtYWdlQW1vdW50RXhWQVQiIGxhYmVsPSJEYW1hZ2UgQW1vdW50IEV4IFZBVCIgZm9ybT17Zm9ybX0gLz4KICAgICAgPFRleHRGaWVsZCBuYW1lPSJzaWduaWZpY2FudERhbWFnZSIgbGFiZWw9IlNpZ25pZmljYW50IERhbWFnZSIgZm9ybT17Zm9ybX0gLz4KICAgICAgPFRleHRGaWVsZCBuYW1lPSJkYW1hZ2VQZXJjZW50YWdlIiBsYWJlbD0iRGFtYWdlIGluICUiIGZvcm09e2Zvcm19IC8+CiAgICAgIDxDaGVja2JveEZpZWxkIG5hbWU9InRvdGFsRGFtYWdlZCIgbGFiZWw9IlRvdGFsIERhbWFnZWQiIGZvcm09e2Zvcm19IC8+CiAgICAgIDxDaGVja2JveEZpZWxkIG5hbWU9Imlub3BlcmFibGUiIGxhYmVsPSJJbm9wZXJhYmxlPyIgZm9ybT17Zm9ybX0gLz4KICAgICAgPFRleHRGaWVsZCBuYW1lPSJkYW1hZ2VDb21tZW50IiBsYWJlbD0iRGFtYWdlIENvbW1lbnQiIGZvcm09e2Zvcm19IC8+CiAgICAgIDxUZXh0RmllbGQgbmFtZT0ibWlsZWFnZUF0UmVwb3NzZXNzaW9uIiBsYWJlbD0iTWlsZWFnZSBBdCBSZXBvc3Nlc3Npb24iIGZvcm09e2Zvcm19IC8+CiAgICAgIDxDaGVja2JveEZpZWxkIG5hbWU9ImlzVGF4aSIgbGFiZWw9IlRheGk/IiBmb3JtPXtmb3JtfSAvPgogICAgICA8VGV4dEZpZWxkIG5hbWU9ImNvbG9yIiBsYWJlbD0iQ29sb3IiIGZvcm09e2Zvcm19IC8+CiAgICAgIDxUZXh0RmllbGQgbmFtZT0ibm9PZktleXMiIGxhYmVsPSJOdW1iZXIgb2Yga2V5cyIgZm9ybT17Zm9ybX0gLz4KICAgICAgPENoZWNrYm94RmllbGQgbmFtZT0ic2VsbFdpdGhvdXRLZXlzIiBsYWJlbD0iU2VsbCB3aXRob3V0IGtleXM/IiBmb3JtPXtmb3JtfSAvPgogICAgICA8VGV4dEZpZWxkIG5hbWU9InJlcG9ydENvc3R1bWVyQkNBIiBsYWJlbD0iUmVwb3J0IENvc3R1bWVyIEJDQSIgZm9ybT17Zm9ybX0gLz4KICAgICAgPFRleHRGaWVsZCBuYW1lPSJyZXBvcnREZWFsZXJCQ0EiIGxhYmVsPSJSZXBvcnQgRGVhbGVyIEJDQSIgZm9ybT17Zm9ybX0gLz4KICAgICAgPFRleHRGaWVsZCBuYW1lPSJyZXBvcnRDb3N0dW1lckJpbHNhbGciIGxhYmVsPSJSZXBvcnQgQ29zdHVtZXIgQmlsc2FsZyIgZm9ybT17Zm9ybX0gLz4KICAgICAgPFRleHRGaWVsZCBuYW1lPSJyZXBvcnREZWFsZXJCaWxzYWxnIiBsYWJlbD0iUmVwb3J0IERlYWxlciBCaWxzYWxnIiBmb3JtPXtmb3JtfSAvPgogICAgPC9kaXY+CiAgPC9kaXYK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>headerelement</last-search>
+      <last-search>formstate</last-search>
       <last-offset />
-      <last-pattern>headerelement</last-pattern>
-      <last-replace>digits7</last-replace>
-      <last-substitute>digitsOnly</last-substitute>
+      <last-pattern>formstate</last-pattern>
+      <last-replace />
+      <last-substitute>form={form}</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvYmplY3RDb25kaXRpb25Db21tZW50c1w+</entry>
-        <entry encoding="base64">XDxkYW1hZ2VBbW91bnRFeFZBVFw+</entry>
-        <entry encoding="base64">XDxzaWduaWZpY2FudERhbWFnZVw+</entry>
-        <entry encoding="base64">XDxkYW1hZ2VQZXJjZW50YWdlXD4=</entry>
-        <entry encoding="base64">XDx0b3RhbERhbWFnZWRcPg==</entry>
         <entry encoding="base64">XDxpbm9wZXJhYmxlXD4=</entry>
         <entry encoding="base64">XDxkYW1hZ2VDb21tZW50XD4=</entry>
         <entry encoding="base64">XDxtaWxlYWdlQXRSZXBvc3Nlc3Npb25cPg==</entry>
@@ -861,10 +826,13 @@
         <entry encoding="base64">XDxyZWdpc3RyYXRpb25UYXhJZFw+</entry>
         <entry encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</entry>
         <entry>headerelement</entry>
+        <entry encoding="base64">XDx3aXRoRm9ybVw+</entry>
+        <entry>Multi</entry>
+        <entry>form=\{form\}</entry>
+        <entry>form={form}</entry>
+        <entry>formstate</entry>
       </history-search>
       <history-cmd>
-        <entry>sort</entry>
-        <entry>ew</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -881,6 +849,8 @@
         <entry>359</entry>
         <entry encoding="base64">JzwsJz5zL2RpZ2l0c09ubHkvZGlnaXRzNw==</entry>
         <entry>ws</entry>
+        <entry encoding="base64">JzwsJz5zL2Zvcm09XHtmb3JtXH0vLw==</entry>
+        <entry encoding="base64">JzwsJz5zL2Zvcm09e2Zvcm19Ly8=</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
