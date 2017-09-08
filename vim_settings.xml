@@ -80,12 +80,12 @@
         <mark key="." line="35" column="8" />
         <mark key="^" line="35" column="8" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/caseOverviewHeader.js" timestamp="1504883400714">
+      <file name="R:/Rem/source/web/src/components/caseOverview/caseOverviewHeader.js" timestamp="1504884339436">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/headerElement.js" timestamp="1504883389079">
         <mark key="[" line="2" column="7" />
@@ -93,12 +93,12 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1504883540915">
-        <mark key="'" line="13" column="21" />
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="33" />
-        <mark key="^" line="12" column="33" />
+      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1504884128680">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="51" column="33" />
+        <mark key="]" line="51" column="38" />
+        <mark key="." line="51" column="38" />
+        <mark key="^" line="51" column="38" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/createCaseActions.js" timestamp="1496064098591">
         <mark key="[" line="0" column="0" />
@@ -349,12 +349,12 @@
         <mark key="." line="9" column="47" />
         <mark key="^" line="9" column="47" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1504011556518">
-        <mark key="'" line="56" column="6" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="64" column="4" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="62" column="1" />
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1504884201811">
+        <mark key="'" line="41" column="6" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="58" column="1" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/saveButton.js" timestamp="1504883377554">
         <mark key="[" line="0" column="0" />
@@ -502,8 +502,8 @@
         <mark key="^" line="21" column="25" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1504883455418">
-        <mark key="'" line="17" column="33" />
+      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1504884297179">
+        <mark key="'" line="137" column="11" />
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="28" />
         <mark key="^" line="5" column="28" />
@@ -682,11 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="11" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="97" column="11" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="287" column="10" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="350" column="41" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="349" column="41" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="286" column="10" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="320" column="30" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="321" column="26" filename="R:/Rem/source/web/src/components/CreateCase.js" />
@@ -782,58 +777,63 @@
       <jump line="45" column="0" filename="R:/Rem/source/web/src/components/caseOverview/addTodoButton.js" />
       <jump line="17" column="33" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="12" column="21" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
+      <jump line="15" column="4" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
+      <jump line="47" column="2" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
+      <jump line="2" column="7" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
+      <jump line="41" column="6" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="137" column="11" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>state.caseOverview.vehicle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVmYXVsdCA=</text>
+        <text>react-router-dom</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZWhpY2xlVHlwZUlkXD4=</text>
+        <text>headerelement</text>
       </register>
-      <register name="0" type="4">
-        <text>state.caseOverview.vehicle</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFJvdXRlciB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3dpdGNoIH0gZnJvbSAnQGJsdWVwcmludGpzL2NvcmUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IENhc2VPdmVydmlld0hlYWRlciBmcm9tICcuL2Nhc2VPdmVydmlld0hlYWRlcicK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IENhc2VPdmVydmlld0NoZWNrbGlzdCBmcm9tICcuL0Nhc2VPdmVydmlld0NoZWNrbGlzdCcK</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25Db21wb25lbnREaWRNb3VudCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aEZvcm0gfSBmcm9tICcuLi9jb250cm9scy9pbmRleCcK</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCAoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkaXNhYmxlZDogIXN0YXRlLmNhc2VPdmVydmlldy5pc0VkaXRpb25Nb2RlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEFkZFRvZG9EaWFsb2cgZnJvbSAnLi4vQWRkVG9kb0RpYWxvZycK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TnkgYmVza2VkIG4/ciBqZWcgcHI/dmVyIGF0IGs/cmUgYXV0b3Jlc3QKCgogIFsyOjQ5XQpXVEY/CgoKICBSYXNtdXMgQW5kZXJzZW4KICAgIFsyOjU1IFBNXQpEZW4gaGFyIGlra2UgbGlnZSB0P25rdCBzaWdlIGF0IHBpbGUgYWYuIEVuIHJlYm9vdCB0aWwhCgoKICBNaWNoYWVsIFNrb3ZzbHVuZAogIFsyOjU2IFBNXQpEYW1uCgoKUmFzbXVzIEFuZGVyc2VuCiAgWzM6MDIgUE1dClJlYm9vdCBoamFscCBpa2tlIDpoZWFydDoKCgogIFszOjAyXQpJbnRlcm5ldHRldCBoYXIgaWtrZSBtYW5nZSBnb2RlIGJ1ZAoKClJhc211cyBBbmRlcnNlbgogIFszOjA4IFBNXQpidW0sIGlra2UgbWVyZSBrbGllbnQtIG9nIHNkay11ZHZpa2xpbmcgdGlsIG1pZwoKCiAgWzM6MDhdCmplZyBtPyBoP3JlIHNlcnZpY2VkZXNrIHA/IG1hbmRhZwoKCk1pY2hhZWwgU2tvdnNsdW5kCiAgWzM6MDggUE1dCjpqb3k6CgoKICBSYXNtdXMgQW5kZXJzZW4KICBbMzoyNiBQTV0KV2V3LiBHaXQgbWVudGUsIGF0IGplZyBoYXZkZSBlbiA/bmRyaW5nIHRpbCBhdXRvcmVzdC5leGUKCgogIFszOjI2XQpFbiB1bmRvIHNlbmVyZSBlciBhbHQgb2sgaWdlbgoKCiAgWzM6MjZdCiAgPz8/CgoKICBSYXNtdXMgQW5kZXJzZW4KICAgIFszOjM1IFBNXQpCP3JuZWhlbnQgbnUuIEdvZCB3ZWVrZW5kIQoKCiAgTWljaGFlbCBTa292c2x1bmQKICBbNDowNCBQTV0KVGFrIGkgbGlnZSBtP2RlCgoKUmFzbXVzIEFuZGVyc2VuCiAgWzQ6MDQgUE1dCkI/cm5laGVudCBmP3JkaWcuIGthbiBuPyBsaWR0IG1lcmUgbnUgOnNsaWdodGx5X3NtaWxpbmdfZmFjZToKCgogIE1pY2hhZWwgU2tvdnNsdW5kIFs0OjA2IFBNXQo6KzE6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQWRkVG9kb0J1dHRvbiBleHRlbmRzIENvbXBvbmVudCB7CiAgY29uc3RydWN0b3IgKHByb3BzKSB7CiAgICBzdXBlcihwcm9wcykKICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIGlzRGlhbG9nT3BlbjogZmFsc2UKICAgIH0KCiAgICB0aGlzLnNob3dEaWFsb2cgPSB0aGlzLnNob3dEaWFsb2cuYmluZCh0aGlzKQogICAgdGhpcy5oaWRlRGlhbG9nID0gdGhpcy5oaWRlRGlhbG9nLmJpbmQodGhpcykKICB9CgogIHNob3dEaWFsb2cgKCkgewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIGlzRGlhbG9nT3BlbjogdHJ1ZQogICAgfSkKICB9CgogIGhpZGVEaWFsb2cgKCkgewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIGlzRGlhbG9nT3BlbjogZmFsc2UKICAgIH0pCiAgfQoKICByZW5kZXIgKCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdj4KICAgICAgICA8YnV0dG9uCiAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICBjbGFzc05hbWU9InB0LWJ1dHRvbiBwdC1pY29uLWFkZCBwdC1maWxsIgogICAgICAgICAgbmFtZT0iYWRkVG9kb0J1dHRvbiIKICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuc2hvd0RpYWxvZ30KICAgICAgICA+CiAgICAgICAgICBBZGQgVG9kbwogICAgICAgIDwvYnV0dG9uPgogICAgICAgIDxBZGRUb2RvRGlhbG9nCiAgICAgICAgICBpc09wZW49e3RoaXMuc3RhdGUuaXNEaWFsb2dPcGVufQogICAgICAgICAgaGlkZURpYWxvZz17dGhpcy5oaWRlRGlhbG9nfQogICAgICAgICAgY2FzZUlkPXt0aGlzLnByb3BzLmNhc2VJZH0KICAgICAgICAvPgogICAgICA8L2Rpdj4KICAgICkKICB9Cn0K</text>
+        <text encoding="base64">ICB2YXIgID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlZ2lzdHJhdGlvblRheElkOiB2LnJlZ2lzdHJhdGlvblRheElkCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZWhpY2xlVHlwZUlkXD4=</last-search>
+      <last-search>headerelement</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZWhpY2xlVHlwZUlkXD4=</last-pattern>
+      <last-pattern>headerelement</last-pattern>
       <last-replace>digits7</last-replace>
       <last-substitute>digitsOnly</last-substitute>
       <last-dir>1</last-dir>
@@ -841,26 +841,26 @@
     </search>
     <history>
       <history-search>
-        <entry>abandon</entry>
-        <entry>newCase</entry>
-        <entry encoding="base64">XDxtZXJnZVByb3BzXD4=</entry>
-        <entry>clearVali</entry>
-        <entry encoding="base64">XDxjbGVhclZhbGlkYXRpb25TdGF0ZVw+</entry>
-        <entry encoding="base64">XDxzZXRWYWxpZGF0aW9uc1w+</entry>
-        <entry encoding="base64">XDxuRGlnaXRzXD4=</entry>
-        <entry>setfield</entry>
-        <entry encoding="base64">XDx2YWxpZGF0aW9uUmVzdWx0c0Zvclw+</entry>
-        <entry>didmou</entry>
-        <entry>props</entry>
-        <entry encoding="base64">XDxhYmFuZG9uQ2FzZVw+</entry>
-        <entry encoding="base64">XDxpbml0aWFsU3RhdGVcPg==</entry>
-        <entry>debugger</entry>
-        <entry encoding="base64">XDxjb3JlVmlld0Nhc2VJZFw+</entry>
-        <entry>digitsOnly</entry>
-        <entry>\/\/</entry>
-        <entry encoding="base64">XDx3aXRoRm9ybVw+</entry>
-        <entry encoding="base64">XDxBZGRUb2RvQnV0dG9uXD4=</entry>
-        <entry encoding="base64">XDx2ZWhpY2xlVHlwZUlkXD4=</entry>
+        <entry encoding="base64">XDxvYmplY3RDb25kaXRpb25Db21tZW50c1w+</entry>
+        <entry encoding="base64">XDxkYW1hZ2VBbW91bnRFeFZBVFw+</entry>
+        <entry encoding="base64">XDxzaWduaWZpY2FudERhbWFnZVw+</entry>
+        <entry encoding="base64">XDxkYW1hZ2VQZXJjZW50YWdlXD4=</entry>
+        <entry encoding="base64">XDx0b3RhbERhbWFnZWRcPg==</entry>
+        <entry encoding="base64">XDxpbm9wZXJhYmxlXD4=</entry>
+        <entry encoding="base64">XDxkYW1hZ2VDb21tZW50XD4=</entry>
+        <entry encoding="base64">XDxtaWxlYWdlQXRSZXBvc3Nlc3Npb25cPg==</entry>
+        <entry encoding="base64">XDxpc1RheGlcPg==</entry>
+        <entry encoding="base64">XDxjb2xvclw+</entry>
+        <entry encoding="base64">XDxub09mS2V5c1w+</entry>
+        <entry encoding="base64">XDxzZWxsV2l0aG91dEtleXNcPg==</entry>
+        <entry encoding="base64">XDxyZXBvcnRDb3N0dW1lckJDQVw+</entry>
+        <entry encoding="base64">XDxyZXBvcnREZWFsZXJCQ0FcPg==</entry>
+        <entry encoding="base64">XDxyZXBvcnRDb3N0dW1lckJpbHNhbGdcPg==</entry>
+        <entry encoding="base64">XDxyZXBvcnREZWFsZXJCaWxzYWxnXD4=</entry>
+        <entry encoding="base64">XDx2YXRJZFw+</entry>
+        <entry encoding="base64">XDxyZWdpc3RyYXRpb25UYXhJZFw+</entry>
+        <entry encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</entry>
+        <entry>headerelement</entry>
       </history-search>
       <history-cmd>
         <entry>sort</entry>
