@@ -337,12 +337,12 @@
         <mark key="." line="9" column="47" />
         <mark key="^" line="9" column="47" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1504885802561">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="177" column="1" />
-        <mark key="." line="20" column="0" />
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1505125272182">
+        <mark key="'" line="220" column="12" />
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="222" column="27" />
+        <mark key="." line="1" column="7" />
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/saveButton.js" timestamp="1504883377554">
         <mark key="[" line="0" column="0" />
@@ -652,10 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="R:/Rem/source/web/package.json" />
-      <jump line="7" column="9" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
-      <jump line="129" column="24" filename="R:/Rem/source/web/src/validation/validations.test.js" />
-      <jump line="209" column="77" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="5" column="6" filename="R:/Rem/source/web/src/reducers/newCaseReducer.js" />
       <jump line="58" column="3" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="249" column="6" filename="R:/Rem/source/web/src/components/CreateCase.js" />
@@ -751,20 +747,24 @@
       <jump line="242" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
       <jump line="175" column="1" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="25" column="0" filename="R:/Rem/source/web/src/components/CreateCase.js" />
-      <jump line="24" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="257" column="27" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="222" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="24" column="6" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="52" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="220" column="12" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFIsIHsgZXZvbHZlLCBhc3NvYyB9IGZyb20gJ3JhbWRhJwppbXBvcnQgZGVlcEVxdWFsIGZyb20gJ2RlZXAtZXF1YWwnCmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50Jwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">eyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">eyA=</text>
       </register>
       <register name="/" type="4">
-        <text>formstate</text>
+        <text encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFIsIHsgZXZvbHZlLCBhc3NvYyB9IGZyb20gJ3JhbWRhJwppbXBvcnQgZGVlcEVxdWFsIGZyb20gJ2RlZXAtZXF1YWwnCmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50Jwo=</text>
@@ -801,9 +801,9 @@
       </register>
     </registers>
     <search>
-      <last-search>formstate</last-search>
+      <last-search encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>formstate</last-pattern>
+      <last-pattern encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</last-pattern>
       <last-replace />
       <last-substitute>form={form}</last-substitute>
       <last-dir>1</last-dir>
@@ -824,13 +824,13 @@
         <entry encoding="base64">XDxyZXBvcnREZWFsZXJCaWxzYWxnXD4=</entry>
         <entry encoding="base64">XDx2YXRJZFw+</entry>
         <entry encoding="base64">XDxyZWdpc3RyYXRpb25UYXhJZFw+</entry>
-        <entry encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</entry>
         <entry>headerelement</entry>
         <entry encoding="base64">XDx3aXRoRm9ybVw+</entry>
         <entry>Multi</entry>
         <entry>form=\{form\}</entry>
         <entry>form={form}</entry>
         <entry>formstate</entry>
+        <entry encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
