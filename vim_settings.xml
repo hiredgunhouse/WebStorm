@@ -14,12 +14,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/validation/validations.test.js" timestamp="1505215627591">
-        <mark key="'" line="165" column="1" />
-        <mark key="[" line="165" column="2" />
-        <mark key="]" line="166" column="0" />
-        <mark key="^" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+      <file name="R:/Rem/source/web/src/validation/validations.test.js" timestamp="1505217989251">
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="0" />
+        <mark key="." line="263" column="0" />
+        <mark key="^" line="260" column="24" />
       </file>
       <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1503397898697">
         <mark key="[" line="4" column="0" />
@@ -424,12 +423,12 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1505215459810">
-        <mark key="'" line="133" column="27" />
-        <mark key="[" line="140" column="77" />
-        <mark key="]" line="140" column="89" />
-        <mark key="^" line="140" column="89" />
-        <mark key="." line="140" column="89" />
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1505217563432">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="148" column="78" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/saveButton.js" timestamp="1504883377554">
         <mark key="[" line="0" column="0" />
@@ -437,12 +436,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/validation/validations.js" timestamp="1505215503717">
-        <mark key="'" line="104" column="28" />
-        <mark key="[" line="83" column="46" />
-        <mark key="]" line="83" column="48" />
-        <mark key="." line="83" column="48" />
-        <mark key="^" line="83" column="48" />
+      <file name="R:/Rem/source/web/src/validation/validations.js" timestamp="1505217876820">
+        <mark key="'" line="170" column="9" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/FieldDefaultProps.js" timestamp="1504792045761">
         <mark key="[" line="2" column="2" />
@@ -787,20 +786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/CaseAttribute.js" />
-      <jump line="23" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="161" column="2" filename="R:/Rem/source/web/src/components/CaseAttribute.js" />
-      <jump line="43" column="2" filename="R:/Rem/source/web/src/containers/CaseAttributeContainer.js" />
-      <jump line="107" column="2" filename="R:/Rem/source/web/package.json" />
-      <jump line="151" column="16" filename="R:/Rem/source/web/src/components/Documents.js" />
-      <jump line="29" column="0" filename="R:/Rem/source/web/src/App.css" />
-      <jump line="183" column="68" filename="R:/Rem/source/web/src/App.css" />
-      <jump line="17" column="2" filename="R:/Rem/source/web/src/containers/CaseOverviewContainer.js" />
-      <jump line="33" column="43" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="34" column="25" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="39" column="9" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="43" column="9" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="47" column="9" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="51" column="9" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="56" column="32" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="57" column="34" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
@@ -887,71 +872,79 @@
       <jump line="77" column="28" filename="R:/Rem/source/web/src/validation/validations.js" />
       <jump line="15" column="36" filename="R:/Rem/source/web/src/validation/validations.test.js" />
       <jump line="165" column="1" filename="R:/Rem/source/web/src/validation/validations.test.js" />
+      <jump line="82" column="4" filename="R:/Rem/source/web/src/validation/validations.js" />
+      <jump line="146" column="13" filename="R:/Rem/source/web/src/validation/validations.js" />
+      <jump line="110" column="0" filename="R:/Rem/source/web/src/validation/validations.js" />
+      <jump line="143" column="43" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="147" column="55" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="208" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="144" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="133" column="0" filename="R:/Rem/source/web/src/validation/validations.test.js" />
+      <jump line="232" column="3" filename="R:/Rem/source/web/src/validation/validations.test.js" />
+      <jump line="231" column="35" filename="R:/Rem/source/web/src/validation/validations.test.js" />
+      <jump line="158" column="13" filename="R:/Rem/source/web/src/validation/validations.js" />
+      <jump line="174" column="9" filename="R:/Rem/source/web/src/validation/validations.js" />
+      <jump line="21" column="2" filename="R:/Rem/source/web/src/validation/validations.test.js" />
+      <jump line="265" column="3" filename="R:/Rem/source/web/src/validation/validations.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpdCgnc3VjY2VzcyBmb3IgXCdhYmNkZWZcJycsICgpID0+IHsKICAgIGV4cGVjdChpc1Jlc3VsdFZhbGlkKGlzVXJsKCdhYmNkZWYnKSkpLnRvQmUodHJ1ZSkKICB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>afterToday</text>
+        <text>startsWithAbc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ2FmdGVyIHRvZGF5IGVvZCcsICgpID0+IHsKICBjb25zdCBhZnRlclRvZGF5ID0gYWZ0ZXIobW9tZW50KCkuZW5kT2YoJ2RheScpLnRvRGF0ZSgpKQogIGl0KCdzdWNjZXNzIGZvciB1bmRlZmluZWQnLCAoKSA9PiB7CiAgICBleHBlY3QoaXNSZXN1bHRWYWxpZChhZnRlclRvZGF5KHVuZGVmaW5lZCkpKS50b0JlKHRydWUpCiAgfSkKICBpdCgnc3VjY2VzcyBmb3IgbnVsbCcsICgpID0+IHsKICAgIGV4cGVjdChpc1Jlc3VsdFZhbGlkKGFmdGVyVG9kYXkobnVsbCkpKS50b0JlKHRydWUpCiAgfSkKICBpdCgnZmFpbHVyZSBmb3IgMCcsICgpID0+IHsKICAgIGV4cGVjdChpc1Jlc3VsdFZhbGlkKGFmdGVyVG9kYXkoMCkpKS50b0JlKGZhbHNlKQogIH0pCiAgaXQoJ3N1Y2Nlc3MgZm9yIGVtcHR5IHN0cmluZycsICgpID0+IHsKICAgIGV4cGVjdChpc1Jlc3VsdFZhbGlkKGFmdGVyVG9kYXkoJycpKSkudG9CZSh0cnVlKQogIH0pCiAgaXQoJ2ZhaWx1cmUgZm9yIGVtcHR5IGFycmF5JywgKCkgPT4gewogICAgZXhwZWN0KGlzUmVzdWx0VmFsaWQoYWZ0ZXJUb2RheShbXSkpKS50b0JlKGZhbHNlKQogIH0pCiAgaXQoJ2ZhaWx1cmUgZm9yIGVtcHR5IG9iamVjdCcsICgpID0+IHsKICAgIGV4cGVjdChpc1Jlc3VsdFZhbGlkKGFmdGVyVG9kYXkoe30pKSkudG9CZShmYWxzZSkKICB9KQogIGl0KCdmYWlsdXJlIGZvciB0b2RheScsICgpID0+IHsKICAgIGV4cGVjdChpc1Jlc3VsdFZhbGlkKGFmdGVyVG9kYXkobmV3IERhdGUoKSkpKS50b0JlKGZhbHNlKQogIH0pCiAgaXQoJ2ZhaWx1cmUgZm9yIHllc3RlcmRheScsICgpID0+IHsKICAgIGV4cGVjdChpc1Jlc3VsdFZhbGlkKGFmdGVyVG9kYXkobW9tZW50KCkuc3VidHJhY3QoMSwgJ2RheXMnKS50b0RhdGUoKSkpKS50b0JlKGZhbHNlKQogIH0pCiAgaXQoJ2ZhaWx1cmUgZm9yIHRvZGF5IGVvZCcsICgpID0+IHsKICAgIGV4cGVjdChpc1Jlc3VsdFZhbGlkKGFmdGVyVG9kYXkobW9tZW50KCkuZW5kT2YoJ2RheScpLnRvRGF0ZSgpKSkpLnRvQmUoZmFsc2UpCiAgfSkKICBpdCgnc3VjY2VzcyBmb3IgdG9tb3Jyb3cnLCAoKSA9PiB7CiAgICBleHBlY3QoaXNSZXN1bHRWYWxpZChhZnRlclRvZGF5KG1vbWVudCgpLmFkZCgxLCAnZGF5cycpLnRvRGF0ZSgpKSkpLnRvQmUodHJ1ZSkKICB9KQp9KQo=</text>
+        <text encoding="base64">ICBpdCgnc3VjY2VzcyBmb3IgXCdodHRwOi8vXCcnLCAoKSA9PiB7CiAgICBleHBlY3QoaXNSZXN1bHRWYWxpZChpc1VybCgnaHR0cDovLycpKSkudG9CZSh0cnVlKQogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpdCgnc3VjY2VzcyBmb3IgXCdhYmNkZWZcJycsICgpID0+IHsKICAgIGV4cGVjdChpc1Jlc3VsdFZhbGlkKGlzVXJsKCdhYmNkZWYnKSkpLnRvQmUodHJ1ZSkKICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRvZGF5ID0gbW9tZW50KCkudG9EYXRlKCkK</text>
+        <text encoding="base64">ICBpdCgnZmFpbHVyZSBmb3IgXCdhYlwnJywgKCkgPT4gewogICAgZXhwZWN0KGlzUmVzdWx0VmFsaWQoaXNVcmwoJ2FiJykpKS50b0JlKGZhbHNlKQogIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPERhdGVGaWVsZCBuYW1lPSIiIGxhYmVsPSIiIC8+Cg==</text>
+        <text encoding="base64">ICBjb25zdCBpcyA9IHN0YXJ0c1dpdGgoJ2FiYycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPFNlbGVjdEZpZWxkIG5hbWU9IiIgbGFiZWw9IiIgaXRlbXNQcm9wPSJhdWN0aW9uSG91c2VzIiAvPgo=</text>
+        <text encoding="base64">ICBpZiAoIXZhbHVlKSB7CiAgICByZXR1cm4gc3VjY2VzcygpCiAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPENoZWNrYm94RmllbGQgbmFtZT0ib25TdG9jayIgbGFiZWw9Ik9uIFN0b2NrPyIgLz4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyBhZGQgdmFsaWRhdGlvbnMgaGVyZQo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPERhdGVGaWVsZCBuYW1lPSIiIGxhYmVsPSIiIC8+Cg==</text>
+        <text encoding="base64">ICBpdCgnZmFpbHVyZSBmb3IgdG9kYXkgc29kJywgKCkgPT4gewogICAgZXhwZWN0KGlzUmVzdWx0VmFsaWQoc3RhcnRzV2l0aChtb21lbnQoKS5zdGFydE9mKCdkYXknKS50b0RhdGUoKSkpKS50b0JlKGZhbHNlKQogIH0pCiAgaXQoJ2ZhaWx1cmUgZm9yIHRvbW9ycm93JywgKCkgPT4gewogICAgZXhwZWN0KGlzUmVzdWx0VmFsaWQoc3RhcnRzV2l0aChtb21lbnQoKS5hZGQoMSwgJ2RheXMnKS50b0RhdGUoKSkpKS50b0JlKGZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyBhZGQgdmFsaWRhdGlvbnMgaGVyZQo=</text>
+        <text encoding="base64">ICAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>afterToday</last-search>
+      <last-search>startsWithAbc</last-search>
       <last-offset />
-      <last-pattern>afterToday</last-pattern>
-      <last-replace>beforeToday</last-replace>
-      <last-substitute>afterToday</last-substitute>
+      <last-pattern>startsWithAbc</last-pattern>
+      <last-replace>isUrl</last-replace>
+      <last-substitute>startsWithAbc</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXJlZ2lzdGVyU2F2ZUNoYW5nZXNcPg==</entry>
-        <entry>form={form}</entry>
-        <entry>validations</entry>
-        <entry>cancel</entry>
-        <entry encoding="base64">XDxjYW5jZWxDaGFuZ2VzXD4=</entry>
-        <entry>savechanges</entry>
         <entry encoding="base64">XDxjYXNlSWRcPg==</entry>
         <entry>todoTypes</entry>
         <entry encoding="base64">XDxjcmVhdGVUb2RvXD4=</entry>
@@ -966,11 +959,14 @@
         <entry>today</entry>
         <entry>after</entry>
         <entry>afterToday</entry>
+        <entry>length</entry>
+        <entry>damage</entry>
+        <entry>beforeToday</entry>
+        <entry>startsWith</entry>
+        <entry encoding="base64">XDxzdGFydHNXaXRoXD4=</entry>
+        <entry>startsWithAbc</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0RhdGUvQ2hlY2tib3g=</entry>
-        <entry>.,.+1noh</entry>
-        <entry encoding="base64">JzwsJz5zL0NoZWNrYm94L1llc05vUmVhZG9ubHk=</entry>
         <entry>3w</entry>
         <entry encoding="base64">JzwsJz5zL0RhdGUvVGV4dEFyZWE=</entry>
         <entry encoding="base64">JzwsJz5zL0RhdGUvVGV4dA==</entry>
@@ -982,12 +978,15 @@
         <entry>&quot;w</entry>
         <entry>ws</entry>
         <entry>.,.+4noh</entry>
-        <entry>we</entry>
         <entry encoding="base64">JzwsJz5zL2Zvcm09e2Zvcm19Ly8=</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz5zL2FmdGVyVG9kYXkvYmVmb3JlVG9kYXkv</entry>
-        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2JlZm9yZVRvZGF5L3N0YXJ0c1dpdGgv</entry>
+        <entry encoding="base64">JzwsJz5zL3N0YXJ0c1dpdGgvc3RhcnRzV2l0aEFiYw==</entry>
+        <entry encoding="base64">JzwsJz5zL3N0YXJ0c1dpdGhBYmMvaXNVcmw=</entry>
+        <entry>we</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
