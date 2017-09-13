@@ -33,6 +33,13 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
+      <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1505316153592">
+        <mark key="'" line="49" column="6" />
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+        <mark key="^" line="20" column="44" />
+      </file>
       <file name="R:/Rem/source/web/src/components/TodoList.js" timestamp="1505310529302">
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="14" />
@@ -699,7 +706,7 @@
         <mark key="^" line="74" column="7" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505311840243">
+      <file name="/Dummy.txt" timestamp="1505315966240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -802,9 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="64" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="139" column="54" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="209" column="38" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="133" column="6" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="127" column="0" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="128" column="0" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
@@ -902,34 +906,39 @@
       <jump line="9" column="6" filename="R:/Rem/source/web/src/validation/validations.test.js" />
       <jump line="11" column="12" filename="R:/Rem/source/web/src/validation/validations.test.js" />
       <jump line="12" column="12" filename="R:/Rem/source/web/src/validation/validations.test.js" />
+      <jump line="8" column="10" filename="R:/Rem/source/web/src/api/basicApi.js" />
+      <jump line="15" column="12" filename="R:/Rem/source/web/src/api/basicApi.js" />
+      <jump line="48" column="6" filename="R:/Rem/source/web/src/api/basicApi.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc051bVw+</text>
+        <text>var</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSgKICAgICAgICAocHJldlN0YXRlKSA9PiB7CiAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICBmaWx0ZXI6IHsKICAgICAgICAgICAgICAuLi5wcmV2U3RhdGUuZmlsdGVyLAogICAgICAgICAgICAgIGFsbE9yRnV0dXJlT25seTogdmFsdWUsCiAgICAgICAgICAgICAgYXVjdGlvbkRhdGVGcm9tOiB0aGlzLmluaXRpYWxGaWx0ZXJTdGF0ZS5hdWN0aW9uRGF0ZUZyb20sCiAgICAgICAgICAgICAgYXVjdGlvbkRhdGVUbzogdGhpcy5pbml0aWFsRmlsdGVyU3RhdGUuYXVjdGlvbkRhdGVGcm9tLAogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICAoKSA9PiB7IHRoaXMuaGFuZGxlRmlsdGVyQ2hhbmdlKCkgfQogICAgICApCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      <register name="1" type="4">
+        <text>request = createRequest(config.API_BASE_URL + 'ActionsLog/isNewFailed/' + id)
+
+      fetch(</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXVjdGlvbkRhdGVUbzogbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYXVjdGlvbkRhdGVUbzogbnVsbCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -938,22 +947,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ2FsbE9yRnV0dXJlT25seScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgJ2FsbE9yRnV0dXJlT25seScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc051bVw+</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc051bVw+</last-pattern>
+      <last-pattern>var</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>isUrl</last-substitute>
       <last-dir>1</last-dir>
@@ -961,8 +970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isUrl</entry>
-        <entry encoding="base64">XDxvbk9yQWZ0ZXJTYWxlc0RhdGVcPg==</entry>
         <entry encoding="base64">XDxhZnRlckFycml2YWxEYXRlXD4=</entry>
         <entry encoding="base64">XDxvbk9yQWZ0ZXJBcnJpdmFsRGF0ZVw+</entry>
         <entry encoding="base64">XDxvcmlnaW5hbFNhbGVzUHJpY2VcPg==</entry>
@@ -981,6 +988,8 @@
         <entry>debugger</entry>
         <entry encoding="base64">XDxpbml0aWFsRmlsdGVyU3RhdGVcPg==</entry>
         <entry encoding="base64">XDxpc051bVw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xlbmd0aDcvYWZ0ZXJUb2RheQ==</entry>
