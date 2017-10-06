@@ -432,12 +432,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionDetails.js" timestamp="1507283003797">
-        <mark key="'" line="42" column="37" />
-        <mark key="[" line="226" column="82" />
-        <mark key="]" line="226" column="97" />
-        <mark key="^" line="226" column="97" />
-        <mark key="." line="226" column="97" />
+      <file name="R:/Rem/source/web/src/components/AuctionDetails.js" timestamp="1507290129412">
+        <mark key="'" line="60" column="23" />
+        <mark key="[" line="226" column="44" />
+        <mark key="]" line="226" column="44" />
+        <mark key="^" line="226" column="43" />
+        <mark key="." line="226" column="44" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CreateCaseContainer.js" timestamp="1506338835665">
         <mark key="'" line="70" column="36" />
@@ -723,14 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="3" filename="R:/Rem/source/web/src/validation/validations.test.js" />
-      <jump line="43" column="35" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="122" column="2" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="165" column="73" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="42" column="37" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="86" column="12" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
-      <jump line="126" column="40" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
-      <jump line="37" column="4" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
       <jump line="61" column="0" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
       <jump line="85" column="12" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
       <jump line="125" column="40" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
@@ -823,19 +815,27 @@
       <jump line="352" column="17" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="68" column="23" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="226" column="14" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
+      <jump line="1" column="26" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
+      <jump line="214" column="28" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
+      <jump line="27" column="6" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
+      <jump line="28" column="22" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
+      <jump line="57" column="48" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
+      <jump line="59" column="8" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
+      <jump line="60" column="23" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>click</text>
+        <text encoding="base64">XDxmaWVsZHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB2ZWhpY2xlVHlwZXMK</text>
@@ -872,9 +872,9 @@
       </register>
     </registers>
     <search>
-      <last-search>click</last-search>
+      <last-search encoding="base64">XDxmaWVsZHNcPg==</last-search>
       <last-offset />
-      <last-pattern>click</last-pattern>
+      <last-pattern encoding="base64">XDxmaWVsZHNcPg==</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>isUrl</last-substitute>
       <last-dir>1</last-dir>
@@ -882,8 +882,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clearfil</entry>
-        <entry encoding="base64">XDxoYW5kbGVGaWx0ZXJGaWVsZENoYW5nZVw+</entry>
         <entry encoding="base64">XDxjbGVhclNlbGVjdGVkSW5kZXhlc1w+</entry>
         <entry encoding="base64">XDxjbGVhckZpbHRlckZpZWxkc1w+</entry>
         <entry encoding="base64">XDxoYW5kbGVDbGVhckZpbHRlclw+</entry>
@@ -902,6 +900,8 @@
         <entry>auction</entry>
         <entry>vehicle</entry>
         <entry>click</entry>
+        <entry encoding="base64">XDxvbkZpZWxkQ2hhbmdlXD4=</entry>
+        <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xlbmd0aDcvYWZ0ZXJUb2RheQ==</entry>
