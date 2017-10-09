@@ -135,7 +135,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/toastActions.js" timestamp="1507535560802" />
       <file name="R:/Rem/source/web/src/components/controls/NEW/SelectField.js" timestamp="1504625082908">
         <mark key="'" line="69" column="0" />
         <mark key="[" line="61" column="0" />
@@ -238,8 +237,8 @@
         <mark key="." line="56" column="65" />
         <mark key="^" line="56" column="65" />
       </file>
-      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1506341111070">
-        <mark key="'" line="50" column="4" />
+      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1507559821530">
+        <mark key="'" line="9" column="12" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="16" />
         <mark key="." line="37" column="11" />
@@ -507,7 +506,6 @@
         <mark key="^" line="269" column="36" />
         <mark key="." line="269" column="36" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.test.js" timestamp="1507542139747" />
       <file name="R:/Rem/source/web/src/reducers/app.js" timestamp="1497451838128">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -548,12 +546,12 @@
         <mark key="^" line="185" column="53" />
         <mark key="." line="185" column="26" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1507542479145">
-        <mark key="'" line="20" column="7" />
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="20" column="43" />
-        <mark key="." line="20" column="43" />
-        <mark key="^" line="20" column="42" />
+      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1507560155994">
+        <mark key="'" line="102" column="45" />
+        <mark key="[" line="102" column="22" />
+        <mark key="]" line="102" column="22" />
+        <mark key="." line="102" column="22" />
+        <mark key="^" line="102" column="22" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/FieldPropTypes.js" timestamp="1504094825634">
         <mark key="[" line="5" column="0" />
@@ -579,6 +577,12 @@
         <mark key="]" line="103" column="29" />
         <mark key="." line="103" column="29" />
         <mark key="^" line="103" column="29" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/App.js" timestamp="1507560022120">
+        <mark key="[" line="39" column="16" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="40" column="27" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/NumericField.js" timestamp="1504625164596">
         <mark key="'" line="43" column="34" />
@@ -733,8 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="4" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="68" column="4" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="74" column="4" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="116" column="6" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="134" column="34" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
@@ -818,7 +820,6 @@
       <jump line="59" column="8" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="60" column="23" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="93" column="0" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="33" column="23" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/SearchBar.js" />
       <jump line="90" column="27" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
@@ -833,37 +834,40 @@
       <jump line="64" column="9" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="71" column="9" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="20" column="7" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
+      <jump line="9" column="12" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
+      <jump line="33" column="19" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
+      <jump line="102" column="45" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIlUFVCTElDX1VSTCUvanMvY2xpcGJvYXJkLmpzIj48L3NjcmlwdD4K</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>clipboard</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGlwYm9hcmRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWRkVG9kb0J1dHRvbiB9IGZyb20gJy4vYWRkVG9kb0J1dHRvbicK</text>
+      <register name="0" type="4">
+        <text>this.props.match.params.id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIlUFVCTElDX1VSTCUvanMvY2xpcGJvYXJkLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW50ZW50IH0gZnJvbSAnQGJsdWVwcmludGpzL2NvcmUnCg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIlUFVCTElDX1VSTCUvanMvY2xpcGJvYXJkLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSW50ZW50IH0gZnJvbSAnQGJsdWVwcmludGpzL2NvcmUnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0FjdGlvbjonLCBlLmFjdGlvbikK</text>
+        <text encoding="base64">ICAgICAgdGhpcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0FjdGlvbjonLCBlLmFjdGlvbikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -872,13 +876,13 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXRDbGlwYm9hcmQoKSB7CiAgICB0aGlzLmNsaXBib2FyZCA9IG5ldyB3aW5kb3cuQ2xpcGJvYXJkKCcuaGVhZGVyLWVsZW1lbnQnKTsKICB9CgogIGNsZWFyQ2xpcGJvYXJkKCkgewogICAgdGhpcy5jbGlwYm9hcmQuZGVzdHJveSgpOwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzZXRDbGlwYm9hcmQoKSB7CiAgICB0aGlzLmNsaXBib2FyZCA9IG5ldyB3aW5kb3cuQ2xpcGJvYXJkKCcuaGVhZGVyLWVsZW1lbnQnKTsKICB9CgogIGNsZWFyQ2xpcGJvYXJkKCkgewogICAgdGhpcy5jbGlwYm9hcmQuZGVzdHJveSgpOwogIH0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -932,8 +936,8 @@
         <entry encoding="base64">JzwsJz5zL2lzVXJsL2VtYWlsLw==</entry>
         <entry>2</entry>
         <entry>we</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
