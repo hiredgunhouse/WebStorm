@@ -551,11 +551,12 @@
         <mark key="^" line="185" column="53" />
         <mark key="." line="185" column="26" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1507620437872">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1507636303691">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="99" column="76" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/FieldPropTypes.js" timestamp="1504094825634">
         <mark key="[" line="5" column="0" />
@@ -741,8 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="34" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="136" column="41" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="157" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="158" column="25" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="173" column="49" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
@@ -841,49 +840,51 @@
       <jump line="52" column="11" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.test.js" />
       <jump line="204" column="15" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
+      <jump line="98" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
+      <jump line="23" column="33" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgey8qPC9kaXY+Ki99Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHRhYk5hbWUgPSAnQ2FzZSAnICsgdGhpcy5wcm9wcy5tYXRjaC5wYXJhbXMuaWQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyAg</text>
+        <text>.params.id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGlwYm9hcmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLmlkKQogICAgY29uc3QgdGFiTmFtZSA9IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRhYk5hbWUgPSAnQ2FzZSAnICsgdGhpcy5wcm9wcy5tYXRjaC5wYXJhbXMuaWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgey8qPC9kaXY+Ki99Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHRhYk5hbWUgPSAnQ2FzZSAnICsgdGhpcy5wcm9wcy5tYXRjaC5wYXJhbXMuaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8L0hlbG1ldD4qL30K</text>
+        <text encoding="base64">ICAgICAgey8qPC9kaXY+Ki99Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKjx0aXRsZT5UZXN0PC90aXRsZT4qL30K</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8L0hlbG1ldD4qL30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8SGVsbWV0PiovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKjx0aXRsZT5UZXN0PC90aXRsZT4qL30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8aGVhZD48dGl0bGU+VGVzdDwvdGl0bGU+PC9oZWFkPiovfQo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8SGVsbWV0PiovfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgey8qPGRpdj4qL30K</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8aGVhZD48dGl0bGU+VGVzdDwvdGl0bGU+PC9oZWFkPiovfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0YWJOYW1lOiAnICsgdGFiTmFtZSkK</text>
+        <text encoding="base64">ICAgICAgey8qPGRpdj4qL30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLmlkKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0YWJOYW1lOiAnICsgdGFiTmFtZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRhYk5hbWUgPSAnQ2FzZSAnICsgdGhpcy5wcm9wcy5tYXRjaC5wYXJhbXMuaWQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLmlkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
