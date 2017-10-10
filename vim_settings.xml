@@ -400,6 +400,12 @@
         <mark key="^" line="148" column="78" />
         <mark key="." line="149" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1507641586586">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
       <file name="R:/Rem/source/web/src/validation/validations.js" timestamp="1505227735266">
         <mark key="'" line="218" column="10" />
         <mark key="[" line="218" column="6" />
@@ -742,9 +748,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="158" column="25" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="173" column="49" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="177" column="8" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="204" column="65" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="206" column="36" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
@@ -842,13 +845,16 @@
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="98" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
       <jump line="23" column="33" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
+      <jump line="153" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" />
+      <jump line="39" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" />
+      <jump line="150" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHRhYk5hbWUgPSAnQ2FzZSAnICsgdGhpcy5wcm9wcy5tYXRjaC5wYXJhbXMuaWQK</text>
+        <text encoding="base64">MDIuMDkuMjAxNiAxMTowMTogMDEK</text>
       </register>
       <register name="-" type="4">
         <text>.params.id</text>
@@ -860,31 +866,31 @@
         <text encoding="base64">ICAgIGNvbnN0IHRhYk5hbWUgPSAnQ2FzZSAnICsgdGhpcy5wcm9wcy5tYXRjaC5wYXJhbXMuaWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHRhYk5hbWUgPSAnQ2FzZSAnICsgdGhpcy5wcm9wcy5tYXRjaC5wYXJhbXMuaWQK</text>
+        <text encoding="base64">MDIuMDkuMjAxNiAxMTowMTogMDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgey8qPC9kaXY+Ki99Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHRhYk5hbWUgPSAnQ2FzZSAnICsgdGhpcy5wcm9wcy5tYXRjaC5wYXJhbXMuaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8L0hlbG1ldD4qL30K</text>
+        <text encoding="base64">ICAgICAgey8qPC9kaXY+Ki99Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKjx0aXRsZT5UZXN0PC90aXRsZT4qL30K</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8L0hlbG1ldD4qL30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8SGVsbWV0PiovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKjx0aXRsZT5UZXN0PC90aXRsZT4qL30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8aGVhZD48dGl0bGU+VGVzdDwvdGl0bGU+PC9oZWFkPiovfQo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8SGVsbWV0PiovfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgey8qPGRpdj4qL30K</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8aGVhZD48dGl0bGU+VGVzdDwvdGl0bGU+PC9oZWFkPiovfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0YWJOYW1lOiAnICsgdGFiTmFtZSkK</text>
+        <text encoding="base64">ICAgICAgey8qPGRpdj4qL30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLmlkKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0YWJOYW1lOiAnICsgdGFiTmFtZSkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
