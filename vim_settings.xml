@@ -231,6 +231,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="25" column="5" />
       </file>
+      <file name="R:/jest-manual-mock-test/src/App.js" timestamp="1507736312506">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+      </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/todoActions.js" timestamp="1496067349332">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -354,6 +360,12 @@
         <mark key="^" line="118" column="90" />
         <mark key="." line="118" column="90" />
       </file>
+      <file name="R:/jest-manual-mock-test/src/calc.js" timestamp="1507736355658">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
       <file name="R:/Rem/source/web/src/actions/todoActions.js" timestamp="1505201972833">
         <mark key="'" line="30" column="32" />
         <mark key="[" line="26" column="6" />
@@ -426,10 +438,11 @@
         <mark key="." line="218" column="6" />
         <mark key="^" line="228" column="9" />
       </file>
-      <file name="R:/Rem/source/web/src/components/SearchBar.js" timestamp="1507536100850">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="41" />
+      <file name="R:/jest-manual-mock-test/src/adder.js" timestamp="1507736391753">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1503397759363">
         <mark key="[" line="0" column="0" />
@@ -480,6 +493,12 @@
         <mark key="]" line="26" column="39" />
         <mark key="^" line="84" column="28" />
         <mark key="." line="84" column="21" />
+      </file>
+      <file name="R:/jest-manual-mock-test/src/calc.test.js" timestamp="1507736727717">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="10" column="27" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
@@ -570,6 +589,10 @@
         <mark key="^" line="61" column="88" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="R:/jest-manual-mock-test/src/App.test.js" timestamp="1507736437120">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="2" />
+      </file>
       <file name="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" timestamp="1506340063993">
         <mark key="'" line="23" column="12" />
         <mark key="[" line="185" column="26" />
@@ -589,10 +612,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/App.test.js" timestamp="1507733063632">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="R:/Rem/source/web/src/containers/App.test.js" timestamp="1507736648985">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1506338820038">
         <mark key="'" line="235" column="44" />
@@ -677,6 +701,12 @@
         <mark key="^" line="74" column="7" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="R:/jest-manual-mock-test/src/__mocks__/adder.js" timestamp="1507736398001">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="/Dummy.txt" timestamp="1507728487828">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
@@ -694,9 +724,9 @@
         <mark key="." line="47" column="70" />
         <mark key="^" line="47" column="33" />
       </file>
-      <file name="R:/Rem/source/web/src/api/__mocks__/basicApi.js" timestamp="1507734499308">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="25" />
+      <file name="R:/Rem/source/web/src/api/__mocks__/basicApi.js" timestamp="1507736629998">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="12" column="1" />
         <mark key="^" line="5" column="12" />
         <mark key="." line="15" column="25" />
       </file>
@@ -744,6 +774,12 @@
         <mark key="]" line="8" column="37" />
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
+      </file>
+      <file name="R:/jest-manual-mock-test/src/MockMe.js" timestamp="1507736187376">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/RemoveAuctionButton.js" timestamp="1503480328408">
         <mark key="'" line="38" column="0" />
@@ -885,43 +921,43 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Mock</text>
+        <text encoding="base64">ICgpID0+IHs=</text>
       </register>
       <register name="-" type="4">
-        <text>Mock</text>
+        <text encoding="base64">ICgpID0+IHs=</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgYmFzaWNBcGlNb2NrCg==</text>
+        <text encoding="base64">Ly8gamVzdC5tb2NrKCcuL2FkZGVyJywgKCkgPT4gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">amVzdC5tb2NrKCcuL2FkZGVyJywgKCkgPT4gewogIHJldHVybiAoeCwgeSkgPT4gewogICAgcmV0dXJuIHggKiB5CiAgfQp9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZHVwYSA9IDEK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2ljQXBpIGZyb20gJy4uL2FwaS9iYXNpY0FwaScK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZHVwYScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2ljQXBpIGZyb20gJycK</text>
+        <text encoding="base64">ICBjb25zdCBkaXYgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVxdWVzdCA9IGNyZWF0ZVJlcXVlc3QoY29uZmlnLkFQSV9CQVNFX1VSTCArICdBY3Rpb25zTG9nL2lzTmV3RmFpbGVkLycgKyBpZCkK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaW5zaWRlIGJhc2ljQXBpTW9jayA6RCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -960,7 +996,6 @@
         <entry>jest</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2xlbmd0aDcvYWZ0ZXJUb2RheQ==</entry>
         <entry>359</entry>
         <entry encoding="base64">JzwsJz5zL2RpZ2l0c09ubHkvZGlnaXRzNw==</entry>
         <entry encoding="base64">JzwsJz5zL2Zvcm09XHtmb3JtXH0vLw==</entry>
@@ -978,6 +1013,7 @@
         <entry encoding="base64">JzwsJz5zL2lzVXJsL2VtYWlsLw==</entry>
         <entry>2</entry>
         <entry>we</entry>
+        <entry>wq</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
