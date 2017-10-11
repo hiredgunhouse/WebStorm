@@ -569,6 +569,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/containers/App.test.js" timestamp="1507728060811" />
       <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1506338820038">
         <mark key="'" line="235" column="44" />
         <mark key="[" line="36" column="0" />
@@ -589,10 +590,10 @@
         <mark key="." line="103" column="29" />
         <mark key="^" line="103" column="29" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/App.js" timestamp="1507560022120">
+      <file name="R:/Rem/source/web/src/containers/App.js" timestamp="1507728627747">
         <mark key="[" line="39" column="16" />
         <mark key="]" line="40" column="27" />
-        <mark key="." line="40" column="27" />
+        <mark key="." line="43" column="124" />
         <mark key="^" line="40" column="27" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/NumericField.js" timestamp="1504625164596">
@@ -652,7 +653,7 @@
         <mark key="^" line="74" column="7" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507302648513">
+      <file name="/Dummy.txt" timestamp="1507728487828">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
