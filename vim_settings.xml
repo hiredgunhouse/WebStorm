@@ -694,11 +694,11 @@
         <mark key="." line="47" column="70" />
         <mark key="^" line="47" column="33" />
       </file>
-      <file name="R:/Rem/source/web/src/api/__mocks__/basicApi.js" timestamp="1507733844860">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="5" column="2" />
-        <mark key="." line="14" column="0" />
+      <file name="R:/Rem/source/web/src/api/__mocks__/basicApi.js" timestamp="1507734499308">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="15" column="25" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/Header.js" timestamp="1496143984829">
         <mark key="[" line="0" column="13" />
@@ -884,11 +884,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Mock</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>Mock</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
