@@ -117,12 +117,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="50" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/caseOverviewHeader.js" timestamp="1507282660362">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="50" column="41" />
-        <mark key="]" line="50" column="41" />
-        <mark key="." line="50" column="41" />
-      </file>
       <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1507299964237">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="12" column="0" />
@@ -194,12 +188,6 @@
         <mark key="]" line="109" column="48" />
         <mark key="." line="109" column="48" />
         <mark key="^" line="643" column="14" />
-      </file>
-      <file name="R:/Rem/source/web/src/actions/caseActions.js" timestamp="1507302618696">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/containers/RemoveAuctionsContainer.js" timestamp="1503474688766">
         <mark key="'" line="9" column="50" />
@@ -404,12 +392,6 @@
         <mark key="^" line="23" column="51" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/api/todoApi.js" timestamp="1507302614833">
-        <mark key="'" line="14" column="33" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="R:/Rem/source/web/src/reducers/vehicleLocationsReducer.js" timestamp="1507284087333">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="55" />
@@ -422,12 +404,6 @@
         <mark key="]" line="193" column="84" />
         <mark key="^" line="148" column="78" />
         <mark key="." line="149" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1507641586586">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/validation/validations.js" timestamp="1505227735266">
         <mark key="'" line="218" column="10" />
@@ -760,17 +736,11 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1507283872074">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1507906916281">
+        <mark key="[" line="63" column="51" />
+        <mark key="]" line="63" column="51" />
+        <mark key="." line="63" column="51" />
         <mark key="^" line="78" column="51" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/CreateTodo.js" timestamp="1507302646386">
-        <mark key="'" line="20" column="6" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/TextField.js" timestamp="1504788648746">
         <mark key="'" line="41" column="0" />
@@ -928,11 +898,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJqZXN0IjogImplc3QiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
