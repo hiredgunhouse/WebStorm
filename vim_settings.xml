@@ -25,12 +25,12 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509012538584">
-        <mark key="'" line="221" column="20" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
-        <mark key="^" line="216" column="19" />
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509022039154">
+        <mark key="'" line="228" column="20" />
+        <mark key="[" line="205" column="34" />
+        <mark key="]" line="205" column="38" />
+        <mark key="." line="205" column="38" />
+        <mark key="^" line="205" column="38" />
       </file>
       <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationPage.js" timestamp="1509014561669">
         <mark key="[" line="0" column="25" />
@@ -101,6 +101,12 @@
         <mark key="]" line="108" column="26" />
         <mark key="." line="108" column="74" />
         <mark key="^" line="108" column="26" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/YesNoReadonlyField.js" timestamp="1509022017988">
+        <mark key="[" line="21" column="108" />
+        <mark key="]" line="21" column="108" />
+        <mark key="." line="21" column="108" />
+        <mark key="^" line="21" column="108" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/App.js" timestamp="1496229897162">
         <mark key="[" line="6" column="0" />
@@ -372,11 +378,6 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CustomerAndContract.js" timestamp="1509006314377">
-        <mark key="'" line="188" column="74" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="193" column="17" />
-      </file>
       <file name="R:/Rem/source/web/src/api/api.js" timestamp="1509012051759">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="73" column="0" />
@@ -514,41 +515,41 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnQuc2V0RGF0ZShzdGFydC5nZXREYXRlKCkgLSAxKQo=</text>
+      <register name="&quot;" type="4">
+        <text>tick</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>tick</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncmlkUHJvcHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3RhcnQgPSBtb21lbnQoKS5zdWJ0cmFjdCgxLCAnZGF5cycpLnRvRGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgeWVzSWNvbj0icHQtaWNvbi10aWNrIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnQuc2V0RGF0ZShzdGFydC5nZXREYXRlKCkgLSAxKQo=</text>
+        <text encoding="base64">ICBjb25zdCB5ZXNJY29uID0geWVzSWNvbiB8fCAncHQtaScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHN0YXJ0ID0gbmV3IERhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgc3RhcnQuc2V0RGF0ZShzdGFydC5nZXREYXRlKCkgLSAxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHN0YXJ0ID0gbmV3IERhdGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc3RhcnQyID0gbW9tZW50KCkuYWRkKCdkYXlzJywgLTEpCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RhcnQyLnNldERhdGUoMikK</text>
+        <text encoding="base64">Y29uc3Qgc3RhcnQyID0gbW9tZW50KCkuYWRkKCdkYXlzJywgLTEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc3RhcnQyID0gbmV3IERhdGUoKS5zZXREYXRlKG5ldyBEYXRlKCkuZ2V0RGF0ZSgpIC0gMSkpCg==</text>
+        <text encoding="base64">c3RhcnQyLnNldERhdGUoMikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RhcnQuc2V0RGF0ZSgK</text>
+        <text encoding="base64">Y29uc3Qgc3RhcnQyID0gbmV3IERhdGUoKS5zZXREYXRlKG5ldyBEYXRlKCkuZ2V0RGF0ZSgpIC0gMSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGlzcGF0Y2goYWN0aW9uc0xvZ0FjdGlvbnMuZ2V0QWN0aW9uc0xvZyhzdGFydC50b0lTT1N0cmluZygpLCBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCkpKQo=</text>
+        <text encoding="base64">c3RhcnQuc2V0RGF0ZSgK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ZGlzcGF0Y2goYWN0aW9uc0xvZ0FjdGlvbnMuZ2V0QWN0aW9uc0xvZyhzdGFydC50b0lTT1N0cmluZygpLCBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCkpKQo=</text>
