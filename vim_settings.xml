@@ -24,12 +24,12 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509008471965">
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509012538584">
         <mark key="'" line="221" column="20" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
-        <mark key="^" line="222" column="29" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
+        <mark key="^" line="216" column="19" />
       </file>
       <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1507738219593">
         <mark key="'" line="63" column="0" />
@@ -195,7 +195,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/caseActions.js" timestamp="1509008520092">
+      <file name="R:/Rem/source/web/src/actions/caseActions.js" timestamp="1509010953443">
         <mark key="'" line="170" column="20" />
         <mark key="[" line="173" column="0" />
         <mark key="]" line="173" column="0" />
@@ -227,6 +227,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="22" />
+      </file>
+      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1509009985655">
+        <mark key="[" line="136" column="28" />
+        <mark key="]" line="136" column="64" />
+        <mark key="." line="136" column="64" />
+        <mark key="^" line="136" column="64" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/FieldContextTypes.js" timestamp="1504101523004">
         <mark key="[" line="11" column="0" />
@@ -293,7 +299,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509004742935">
+      <file name="/Dummy.txt" timestamp="1509011228041">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -341,12 +347,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1509008238101">
+      <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1509011095144">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="52" column="18" />
-        <mark key="." line="52" column="18" />
-        <mark key="^" line="52" column="18" />
+        <mark key="[" line="68" column="56" />
+        <mark key="]" line="68" column="56" />
+        <mark key="." line="68" column="56" />
+        <mark key="^" line="68" column="56" />
       </file>
       <file name="R:/jest-manual-mock-test/src/MockMe.js" timestamp="1507736187376">
         <mark key="[" line="6" column="15" />
@@ -358,6 +364,13 @@
         <mark key="'" line="188" column="74" />
         <mark key="[" line="175" column="0" />
         <mark key="]" line="193" column="17" />
+      </file>
+      <file name="R:/Rem/source/web/src/api/api.js" timestamp="1509012051759">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="73" column="15" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="R:/jest-manual-mock-test/src/calc.js" timestamp="1507736355658">
         <mark key="[" line="3" column="17" />
@@ -378,7 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/validation/validations.test.js" />
       <jump line="9" column="6" filename="R:/Rem/source/web/src/validation/validations.test.js" />
       <jump line="11" column="12" filename="R:/Rem/source/web/src/validation/validations.test.js" />
       <jump line="12" column="12" filename="R:/Rem/source/web/src/validation/validations.test.js" />
@@ -478,66 +490,66 @@
       <jump line="108" column="76" filename="R:/Rem/source/web/src/constants/actionTypes.js" />
       <jump line="152" column="21" filename="R:/Rem/source/web/src/actions/caseActions.js" />
       <jump line="170" column="20" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="35" column="0" filename="R:/Rem/source/web/src/api/api.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdj5zZGZhc2ZkPC9kaXY+Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>r</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxVUERBVEVfVkVISUNMRV9SRUdJU1RSQVRJT05fU1RBVFVTX1NVQ0NFRURFRFw+</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgdXBkYXRlQ29sbGF0ZXJhbFN0YXR1cyA9IGNhc2VBcGkgPT4gc3VjY2VzcyA9PiB7CiAgcmV0dXJuIGNhc2VBcGkucHV0KHt9LCBzdWNjZXNzKQp9Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdj5zZGZhc2ZkPC9kaXY+Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
+      <register name="-" type="4">
+        <text>+</text>
+      </register>
+      <register name="/" type="4">
+        <text>debugger</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNhc2UgYWN0aW9uVHlwZXMuVVBEQVRFX0NPTExBVEVSQUxfU1RBVFVTX1NVQ0NFRURFRDoK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovfQo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKgo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxZZXNOb1JlYWRvbmx5RmllbGQgbmFtZT0iaXNBZGRpdGlvbmFsQ29sbGF0ZXJhbCIgbGFiZWw9IkFkZGl0aW9uYWwgQ29sbGF0ZXJhbCIgLz4K</text>
+        <text encoding="base64">ICAgIGNhc2UgYWN0aW9uVHlwZXMuVVBEQVRFX0NPTExBVEVSQUxfU1RBVFVTX1NVQ0NFRURFRDoK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVUERBVEVfVkVISUNMRV9SRUdJU1RSQVRJT05fU1RBVFVTX1NVQ0NFRURFRFw+</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVUERBVEVfVkVISUNMRV9SRUdJU1RSQVRJT05fU1RBVFVTX1NVQ0NFRURFRFw+</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-replace>Registration</last-replace>
       <last-substitute>Collateral</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aXRoQ0RNXD4=</entry>
         <entry>License</entry>
         <entry>Last COll</entry>
         <entry>Last Coll</entry>
@@ -557,6 +569,7 @@
         <entry>REGIST</entry>
         <entry>REGISTR</entry>
         <entry encoding="base64">XDxVUERBVEVfVkVISUNMRV9SRUdJU1RSQVRJT05fU1RBVFVTX1NVQ0NFRURFRFw+</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
