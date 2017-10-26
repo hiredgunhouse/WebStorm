@@ -24,7 +24,7 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509005959863">
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509006272159">
         <mark key="'" line="221" column="20" />
         <mark key="[" line="201" column="0" />
         <mark key="]" line="201" column="0" />
@@ -93,6 +93,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/constants/actionTypes.js" timestamp="1509006460603">
+        <mark key="'" line="108" column="20" />
+        <mark key="[" line="106" column="60" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="0" />
+      </file>
       <file name="R:/Rem/source/web/src/components/controls/YesNoReadonlyField.js" timestamp="1509004383706">
         <mark key="[" line="8" column="49" />
         <mark key="]" line="8" column="49" />
@@ -114,6 +121,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="12" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1509006355959">
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="43" column="50" />
+        <mark key="." line="43" column="50" />
+        <mark key="^" line="43" column="49" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/createCaseActions.js" timestamp="1496064098591">
         <mark key="[" line="0" column="0" />
@@ -141,6 +154,10 @@
         <mark key="]" line="7" column="20" />
         <mark key="." line="7" column="20" />
         <mark key="^" line="10" column="27" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/CustomerAndContractContainer.js" timestamp="1509006307447">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="62" column="2" />
       </file>
       <file name="R:/Rem/source/web/src/components/valuation/ValuationPageHeader.js" timestamp="1508843167320">
         <mark key="[" line="1" column="0" />
@@ -177,6 +194,13 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/actions/caseActions.js" timestamp="1509006404919">
+        <mark key="'" line="172" column="1" />
+        <mark key="[" line="170" column="27" />
+        <mark key="]" line="170" column="38" />
+        <mark key="." line="170" column="38" />
+        <mark key="^" line="170" column="38" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/app.js" timestamp="1497451838128">
         <mark key="[" line="30" column="0" />
@@ -318,11 +342,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1507906916281">
-        <mark key="[" line="63" column="51" />
-        <mark key="]" line="63" column="51" />
-        <mark key="." line="63" column="51" />
-        <mark key="^" line="78" column="51" />
+      <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1509006614769">
+        <mark key="'" line="84" column="4" />
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+        <mark key="^" line="52" column="23" />
       </file>
       <file name="R:/jest-manual-mock-test/src/MockMe.js" timestamp="1507736187376">
         <mark key="[" line="6" column="15" />
@@ -330,8 +355,8 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CustomerAndContract.js" timestamp="1509004228568">
-        <mark key="'" line="72" column="0" />
+      <file name="R:/Rem/source/web/src/components/CustomerAndContract.js" timestamp="1509006314377">
+        <mark key="'" line="188" column="74" />
         <mark key="[" line="175" column="0" />
         <mark key="]" line="193" column="17" />
       </file>
@@ -354,12 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="240" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="46" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="244" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="137" column="31" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="213" column="2" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="240" column="2" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="23" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
       <jump line="124" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
@@ -454,22 +473,28 @@
       <jump line="9" column="8" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="72" column="0" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="221" column="20" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="188" column="74" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
+      <jump line="108" column="0" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="172" column="1" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/src/constants/actionTypes.js" />
+      <jump line="108" column="20" filename="R:/Rem/source/web/src/constants/actionTypes.js" />
+      <jump line="80" column="4" filename="R:/Rem/source/web/src/api/caseApi.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>''align: 'al}}</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwiXD4=</text>
+        <text>Collateral</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sLW1kLTUiPgo=</text>
+        <text encoding="base64">Y29uc3QgdXBkYXRlQ29sbGF0ZXJhbFN0YXR1cyA9IGNhc2VBcGkgPT4gc3VjY2VzcyA9PiB7CiAgcmV0dXJuIGNhc2VBcGkucHV0KHt9LCBzdWNjZXNzKQp9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -503,21 +528,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwiXD4=</last-search>
+      <last-search>Collateral</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
-      <last-replace>email</last-replace>
-      <last-substitute>isUrl</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>Collateral</last-pattern>
+      <last-replace>Registration</last-replace>
+      <last-substitute>Collateral</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
-        <entry>location</entry>
-        <entry>\ctoast</entry>
-        <entry>clipbo</entry>
-        <entry encoding="base64">XDxzZXRDbGlwYm9hcmRcPg==</entry>
         <entry encoding="base64">XDxDbGlwYm9hcmRcPg==</entry>
         <entry encoding="base64">XDxsYXN0SWRcPg==</entry>
         <entry encoding="base64">XDxpc0FjdGlvbnNMb2dSZWFkXD4=</entry>
@@ -533,10 +553,13 @@
         <entry>last coll</entry>
         <entry>style</entry>
         <entry encoding="base64">XDwiXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVDb2xsYXRlcmFsU3RhdHVzXD4=</entry>
+        <entry>COll</entry>
+        <entry>collater</entry>
+        <entry>COLLATERAL</entry>
+        <entry>Collateral</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Zvcm09XHtmb3JtXH0vLw==</entry>
-        <entry>&quot;w</entry>
         <entry>ws</entry>
         <entry>.,.+4noh</entry>
         <entry encoding="base64">JzwsJz5zL2Zvcm09e2Zvcm19Ly8=</entry>
@@ -553,6 +576,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>.,.+5noh</entry>
+        <entry encoding="base64">JzwsJz5zL0NPTExBVEVSQUwvUkVHSVNUUkFUSU9O</entry>
+        <entry encoding="base64">JzwsJz5zL0NvbGxhdGVyYWwvUmVnaXN0cmF0aW9u</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
