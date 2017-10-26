@@ -24,12 +24,12 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509005205289">
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509005959863">
         <mark key="'" line="221" column="20" />
-        <mark key="[" line="221" column="50" />
-        <mark key="]" line="221" column="51" />
-        <mark key="." line="221" column="51" />
-        <mark key="^" line="221" column="51" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
+        <mark key="^" line="210" column="19" />
       </file>
       <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1507738219593">
         <mark key="'" line="63" column="0" />
@@ -459,61 +459,60 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>''align: 'al}}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>''align: 'al}}</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text encoding="base64">XDwiXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cmVnaXN0cmF0aW9uU3RhdHVzTGFzdENoZWNrRGF0ZSAKICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sLW1kLTUiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPERhdGVGaWVsZCBuYW1lPSJsaWNlbnNlUGxhdGVzQ2FuY2VsbGVkRGF0ZSIgbGFiZWw9IkxpY2Vuc2UgUGxhdGVzIENhbmNlbGxlZCBEYXRlIiAvPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKi99Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgey8qCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKi99Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgey8qCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICovfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxZZXNOb1JlYWRvbmx5RmllbGQgbmFtZT0iaXNBZGRpdGlvbmFsQ29sbGF0ZXJhbCIgbGFiZWw9IkFkZGl0aW9uYWwgQ29sbGF0ZXJhbCIgLz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxZZXNOb1JlYWRvbmx5RmllbGQgbmFtZT0iaXNFeHRlcm5hbENvbGxhdGVyYWwiIGxhYmVsPSJFeHRlcm5hbCBDb2xsYXRlcmFsIiAvPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgeWVzQ29sb3I9ImJsYWNrIiAvPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxZZXNOb1JlYWRvbmx5RmllbGQgbmFtZT0iaXNJbnRlcm5hbENvbGxhdGVyYWwiIGxhYmVsPSJJbnRlcm5hbCBDb2xsYXRlcmFsIiBub0NvbG9yPSJibGFjayIK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaWNlbnNlUGxhdGVzQ2FuY2VsbGVkOiB0aGlzLnByb3BzLmZpZWxkcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPERhdGVGaWVsZCBuYW1lPSJsaWNlbnNlUGxhdGVzQ2FuY2VsbGVkRGF0ZSIgbGFiZWw9IkxpY2Vuc2UgUGxhdGVzIENhbmNlbGxlZCBEYXRlIiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>style</last-search>
+      <last-search encoding="base64">XDwiXD4=</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>isUrl</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkZpZWxkQ2hhbmdlXD4=</entry>
         <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
         <entry>location</entry>
         <entry>\ctoast</entry>
@@ -533,9 +532,9 @@
         <entry>Last Coll</entry>
         <entry>last coll</entry>
         <entry>style</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RpZ2l0c09ubHkvZGlnaXRzNw==</entry>
         <entry encoding="base64">JzwsJz5zL2Zvcm09XHtmb3JtXH0vLw==</entry>
         <entry>&quot;w</entry>
         <entry>ws</entry>
@@ -553,6 +552,7 @@
         <entry>we</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>.,.+5noh</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
