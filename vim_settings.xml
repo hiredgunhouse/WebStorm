@@ -24,12 +24,12 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509003174330">
-        <mark key="'" line="9" column="8" />
-        <mark key="[" line="197" column="58" />
-        <mark key="]" line="197" column="61" />
-        <mark key="^" line="197" column="61" />
-        <mark key="." line="197" column="61" />
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509005205289">
+        <mark key="'" line="221" column="20" />
+        <mark key="[" line="221" column="50" />
+        <mark key="]" line="221" column="51" />
+        <mark key="." line="221" column="51" />
+        <mark key="^" line="221" column="51" />
       </file>
       <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1507738219593">
         <mark key="'" line="63" column="0" />
@@ -93,7 +93,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/YesNoReadonlyField.js" timestamp="1505203812706">
+      <file name="R:/Rem/source/web/src/components/controls/YesNoReadonlyField.js" timestamp="1509004383706">
         <mark key="[" line="8" column="49" />
         <mark key="]" line="8" column="49" />
         <mark key="." line="8" column="49" />
@@ -183,10 +183,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="R:/jest-manual-mock-test/src/App.test.js" timestamp="1507736437120">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="2" />
-      </file>
       <file name="R:/jest-manual-mock-test/src/App.js" timestamp="1507736312506">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="8" column="3" />
@@ -274,7 +270,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507728487828">
+      <file name="/Dummy.txt" timestamp="1509004742935">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -334,9 +330,10 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="R:/Rem/source/web/src/api/api.js" timestamp="1507738598428">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="56" />
+      <file name="R:/Rem/source/web/src/components/CustomerAndContract.js" timestamp="1509004228568">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="193" column="17" />
       </file>
       <file name="R:/jest-manual-mock-test/src/calc.js" timestamp="1507736355658">
         <mark key="[" line="3" column="17" />
@@ -357,8 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="21" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
-      <jump line="185" column="11" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
       <jump line="213" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
       <jump line="240" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
       <jump line="46" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionListFilter.js" />
@@ -457,58 +452,60 @@
       <jump line="41" column="21" filename="R:/Rem/source/web/src/containers/CreateCaseContainer.js" />
       <jump line="18" column="9" filename="R:/Rem/source/web/src/containers/CreateCaseContainer.js" />
       <jump line="9" column="8" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="72" column="0" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
+      <jump line="221" column="20" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>''align: 'al}}</text>
       </register>
       <register name="-" type="4">
-        <text>onCom</text>
+        <text>''align: 'al}}</text>
       </register>
       <register name="/" type="4">
-        <text>License</text>
+        <text>style</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3Qgc29ydEJ5TmFtZSA9IHNvcnRCeShwcm9wKCduYW1lJykpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmVnaXN0cmF0aW9uU3RhdHVzTGFzdENoZWNrRGF0ZSAKICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPERhdGVGaWVsZCBuYW1lPSJsaWNlbnNlUGxhdGVzQ2FuY2VsbGVkRGF0ZSIgbGFiZWw9IkxpY2Vuc2UgUGxhdGVzIENhbmNlbGxlZCBEYXRlIiAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25Db21wb25lbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKi99Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc29ydEJ5QWdlID0gc29ydEJ5KHByb3AoJ2FnZScpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgey8qCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKi99Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5leHRQcm9wcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgey8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJqZXN0IjogImplc3QiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gamVzdC5tb2NrKCcuLi9hcGkvYXBpJywgKCkgPT4gewovLyAgIHJldHVybiB7Ci8vICAgICByZXN0QXBpRmFjdG9yeTogKCkgPT4gewovLyAgICAgICByZXR1cm4gewovLyAgICAgICAgIGdldDogKCkgPT4gewovLyAgICAgICAgICAgcmV0dXJuIHt9Ci8vICAgICAgICAgfQovLyAgICAgICB9Ci8vICAgICB9Ci8vICAgfQovLyB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBsaWNlbnNlUGxhdGVzQ2FuY2VsbGVkOiB0aGlzLnByb3BzLmZpZWxkcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IGJhc2ljQXBpID0gKGRpc3BhdGNoKSA9PiB7CiAgY29uc29sZS5sb2coJ2luc2lkZSBiYXNpY0FwaU1vY2soLi4pJykKICByZXR1cm4gewogICAgaXNOZXdGYWlsZWRFdmVudDogKGlkLCBzdWNjZXNzKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdpbnNpZGUgYmFzaWNBcGlNb2NrKC4uKS5pc05ld0ZhaWxlZEV2ZW50KC4uKScpCiAgICB9CiAgfQp9CgpleHBvcnQgZGVmYXVsdCBiYXNpY0FwaQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKi99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>License</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>License</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>isUrl</last-substitute>
       <last-dir>1</last-dir>
@@ -516,10 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>city</entry>
-        <entry>auction</entry>
-        <entry>vehicle</entry>
-        <entry>click</entry>
         <entry encoding="base64">XDxvbkZpZWxkQ2hhbmdlXD4=</entry>
         <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
         <entry>location</entry>
@@ -536,6 +529,10 @@
         <entry encoding="base64">XDxzb3J0QnlOYW1lXD4=</entry>
         <entry encoding="base64">XDx3aXRoQ0RNXD4=</entry>
         <entry>License</entry>
+        <entry>Last COll</entry>
+        <entry>Last Coll</entry>
+        <entry>last coll</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RpZ2l0c09ubHkvZGlnaXRzNw==</entry>
