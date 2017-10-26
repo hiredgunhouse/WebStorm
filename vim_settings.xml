@@ -31,11 +31,11 @@
         <mark key="." line="216" column="0" />
         <mark key="^" line="216" column="19" />
       </file>
-      <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1507738219593">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationPage.js" timestamp="1509014561669">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/TodoList.js" timestamp="1505310529302">
         <mark key="[" line="132" column="0" />
@@ -59,12 +59,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="34" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/package.json" timestamp="1507738965011">
-        <mark key="'" line="47" column="5" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/modelsReducer.js" timestamp="1503995825188">
         <mark key="[" line="2" column="20" />
@@ -143,12 +137,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/CreateCaseContainer.js" timestamp="1508751341379">
-        <mark key="'" line="18" column="9" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="R:/jest-manual-mock-test/src/calc.test.js" timestamp="1507736727717">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="20" />
@@ -200,6 +188,12 @@
         <mark key="[" line="173" column="0" />
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/Router.js" timestamp="1509014478210">
+        <mark key="[" line="35" column="51" />
+        <mark key="]" line="35" column="57" />
+        <mark key="." line="35" column="57" />
+        <mark key="^" line="35" column="57" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/app.js" timestamp="1497451838128">
         <mark key="[" line="30" column="0" />
@@ -299,7 +293,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509011228041">
+      <file name="/Dummy.txt" timestamp="1509014395345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -318,12 +312,6 @@
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1508751331759">
-        <mark key="'" line="362" column="86" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/api/__mocks__/api.js" timestamp="1507738794574">
         <mark key="[" line="4" column="38" />
@@ -496,17 +484,17 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>ion</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>ion</text>
       </register>
       <register name="/" type="4">
         <text>debugger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgYWN0aW9uVHlwZXMuVVBEQVRFX0NPTExBVEVSQUxfU1RBVFVTX1NVQ0NFRURFRDoK</text>
+        <text encoding="base64">ICAgICAgICA8Um91dGUgcGF0aD0iL3ZhbHVhdGlvbiIgY29tcG9uZW50PXtWYWx1YXRpb25QYWdlfSAvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
