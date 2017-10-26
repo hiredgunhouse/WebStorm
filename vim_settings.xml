@@ -189,11 +189,12 @@
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/Router.js" timestamp="1509014478210">
-        <mark key="[" line="35" column="51" />
-        <mark key="]" line="35" column="57" />
-        <mark key="." line="35" column="57" />
-        <mark key="^" line="35" column="57" />
+      <file name="R:/Rem/source/web/src/Router.js" timestamp="1509015202332">
+        <mark key="'" line="36" column="55" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/app.js" timestamp="1497451838128">
         <mark key="[" line="30" column="0" />
@@ -379,7 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="6" filename="R:/Rem/source/web/src/validation/validations.test.js" />
       <jump line="11" column="12" filename="R:/Rem/source/web/src/validation/validations.test.js" />
       <jump line="12" column="12" filename="R:/Rem/source/web/src/validation/validations.test.js" />
       <jump line="15" column="12" filename="R:/Rem/source/web/src/api/basicApi.js" />
@@ -479,13 +479,14 @@
       <jump line="152" column="21" filename="R:/Rem/source/web/src/actions/caseActions.js" />
       <jump line="170" column="20" filename="R:/Rem/source/web/src/actions/caseActions.js" />
       <jump line="35" column="0" filename="R:/Rem/source/web/src/api/api.js" />
+      <jump line="35" column="55" filename="R:/Rem/source/web/src/Router.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>ion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFZhbHVhdGlvblBhZ2UgZnJvbSAnLi9jb250YWluZXJzL1ZhbHVhdGlvblBhZ2UnCg==</text>
       </register>
       <register name="-" type="4">
         <text>ion</text>
@@ -494,7 +495,7 @@
         <text>debugger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Um91dGUgcGF0aD0iL3ZhbHVhdGlvbiIgY29tcG9uZW50PXtWYWx1YXRpb25QYWdlfSAvPgo=</text>
+        <text encoding="base64">aW1wb3J0IFZhbHVhdGlvblBhZ2UgZnJvbSAnLi9jb250YWluZXJzL1ZhbHVhdGlvblBhZ2UnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
