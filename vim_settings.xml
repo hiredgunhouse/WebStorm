@@ -14,16 +14,22 @@
         <mark key="^" line="15" column="8" />
         <mark key="." line="27" column="8" />
       </file>
+      <file name="R:/Rem/source/web/src/containers/valuation/ObjectDetailsContainer.js" timestamp="1509121670644">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="22" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="22" />
+      </file>
       <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationPage.js" timestamp="1509014561669">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewLeftMenu.js" timestamp="1509113287083">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="33" />
-        <mark key="." line="5" column="33" />
+      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewLeftMenu.js" timestamp="1509120057695">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
         <mark key="^" line="5" column="33" />
       </file>
       <file name="R:/Rem/source/web/src/components/TodoList.js" timestamp="1505310529302">
@@ -73,6 +79,13 @@
         <mark key="." line="108" column="74" />
         <mark key="^" line="108" column="26" />
       </file>
+      <file name="R:/Rem/source/web/src/components/valuation/Valuation.js" timestamp="1509119491922">
+        <mark key="'" line="214" column="23" />
+        <mark key="[" line="214" column="24" />
+        <mark key="]" line="214" column="24" />
+        <mark key="." line="214" column="24" />
+        <mark key="^" line="9" column="10" />
+      </file>
       <file name="R:/Rem/source/web/src/components/controls/YesNoReadonlyField.js" timestamp="1509022017988">
         <mark key="[" line="21" column="108" />
         <mark key="]" line="21" column="108" />
@@ -85,7 +98,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="50" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/caseOverviewHeader.js" timestamp="1509113497307" />
       <file name="R:/Rem/source/web/src/components/caseOverview/headerElement.js" timestamp="1507535394645">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -120,14 +132,16 @@
         <mark key="." line="11" column="8" />
         <mark key="^" line="11" column="8" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/CustomerAndContractContainer.js" timestamp="1509006307447">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="62" column="2" />
-      </file>
       <file name="R:/Rem/source/web/src/components/valuation/ValuationPageHeader.js" timestamp="1508843167320">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/valuation/ValuationContainer.js" timestamp="1509121743348">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1508752203320">
         <mark key="'" line="164" column="6" />
@@ -177,16 +191,12 @@
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/CaseOverviewPage.js" timestamp="1509107214140">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1509118457656">
-        <mark key="'" line="135" column="19" />
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="17" column="27" />
+      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1509121631515">
+        <mark key="'" line="146" column="44" />
+        <mark key="[" line="143" column="52" />
+        <mark key="]" line="139" column="88" />
+        <mark key="." line="143" column="92" />
+        <mark key="^" line="139" column="88" />
       </file>
       <file name="R:/Rem/source/web/src/containers/AuctionDetailsContainer.js" timestamp="1507302606208">
         <mark key="[" line="16" column="0" />
@@ -208,23 +218,22 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/dictionaryUtils.js" timestamp="1509118072989">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="12" column="0" />
+      <file name="R:/Rem/source/web/src/utils/dictionaryUtils.js" timestamp="1509121339436">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/makesReducer.js" timestamp="1507284157113">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/withDialog.js" timestamp="1509108103834" />
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewHeader.js" timestamp="1509117755984">
-        <mark key="'" line="51" column="16" />
-        <mark key="[" line="51" column="19" />
-        <mark key="]" line="51" column="19" />
-        <mark key="." line="51" column="19" />
+      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewHeader.js" timestamp="1509119677706">
+        <mark key="'" line="23" column="43" />
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
         <mark key="^" line="13" column="55" />
       </file>
       <file name="R:/Rem/source/web/src/utils/futils.js" timestamp="1505210173277">
@@ -249,11 +258,6 @@
         <mark key="]" line="5" column="28" />
         <mark key="^" line="5" column="28" />
         <mark key="." line="1" column="72" />
-      </file>
-      <file name="R:/Rem/source/web/src/containers/VehicleValuationOverviewContainer.js" timestamp="1509113472282">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="8" />
-        <mark key="." line="39" column="8" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/SantanderNeon.js" timestamp="1496143843636">
         <mark key="[" line="3" column="0" />
@@ -289,12 +293,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewHeader.js" timestamp="1509118294428">
+      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewHeader.js" timestamp="1509121445469">
         <mark key="'" line="17" column="103" />
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="2" column="20" />
+        <mark key="[" line="17" column="88" />
+        <mark key="]" line="17" column="88" />
+        <mark key="^" line="17" column="87" />
+        <mark key="." line="17" column="88" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/App.js" timestamp="1496229897162">
         <mark key="[" line="6" column="0" />
@@ -312,6 +316,13 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="10" column="27" />
       </file>
+      <file name="R:/Rem/source/web/src/containers/valuation/VehicleValuationOverviewContainer.js" timestamp="1509119977202">
+        <mark key="'" line="21" column="6" />
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="1" />
+        <mark key="." line="21" column="1" />
+        <mark key="^" line="21" column="1" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.js" timestamp="1509116728984">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="15" />
@@ -322,6 +333,13 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="22" column="56" />
         <mark key="." line="3" column="1" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/todos/AddTodoButton.js" timestamp="1509119621470">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="47" column="18" />
+        <mark key="]" line="47" column="27" />
+        <mark key="." line="47" column="27" />
+        <mark key="^" line="47" column="27" />
       </file>
       <file name="R:/Rem/source/web/src/containers/TodoListContainer.js" timestamp="1505212610021">
         <mark key="[" line="10" column="0" />
@@ -357,9 +375,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1509112641111">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="202" column="36" />
+      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1509119581338">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/FieldPropTypes.js" timestamp="1504094825634">
         <mark key="[" line="5" column="0" />
@@ -371,6 +391,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="22" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.js" timestamp="1509120652940">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/SaveButton.js" timestamp="1509118355516">
         <mark key="[" line="2" column="14" />
@@ -396,10 +422,10 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/CaseListAllObjectsContainer.js" timestamp="1505212617790">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="7" column="41" />
+      <file name="R:/Rem/source/web/src/containers/CaseListAllObjectsContainer.js" timestamp="1509119202021">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
         <mark key="^" line="7" column="41" />
       </file>
       <file name="R:/Rem/source/web/src/index.js" timestamp="1508751439311">
@@ -458,6 +484,12 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
       </file>
+      <file name="R:/Rem/source/web/src/components/valuation/ObjectDetails.js" timestamp="1509119451243">
+        <mark key="[" line="1" column="103" />
+        <mark key="]" line="1" column="103" />
+        <mark key="^" line="1" column="103" />
+        <mark key="." line="1" column="103" />
+      </file>
       <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1509011095144">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="68" column="56" />
@@ -497,23 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="9" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="20" column="7" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="9" column="12" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
-      <jump line="33" column="19" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="102" column="45" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="52" column="11" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.test.js" />
-      <jump line="204" column="15" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="98" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="23" column="33" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
-      <jump line="153" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" />
-      <jump line="39" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" />
-      <jump line="150" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" />
-      <jump line="30" column="12" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
-      <jump line="34" column="8" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
-      <jump line="35" column="8" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
-      <jump line="29" column="67" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
       <jump line="20" column="2" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
       <jump line="12" column="25" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
       <jump line="17" column="21" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
@@ -597,72 +612,86 @@
       <jump line="112" column="13" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="5" column="13" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="135" column="19" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="152" column="17" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="146" column="44" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="22" column="6" filename="R:/Rem/source/web/src/components/valuation/Valuation.js" />
+      <jump line="122" column="54" filename="R:/Rem/source/web/src/components/valuation/Valuation.js" />
+      <jump line="123" column="42" filename="R:/Rem/source/web/src/components/valuation/Valuation.js" />
+      <jump line="124" column="53" filename="R:/Rem/source/web/src/components/valuation/Valuation.js" />
+      <jump line="127" column="39" filename="R:/Rem/source/web/src/components/valuation/Valuation.js" />
+      <jump line="173" column="19" filename="R:/Rem/source/web/src/components/valuation/Valuation.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/valuation/Valuation.js" />
+      <jump line="214" column="23" filename="R:/Rem/source/web/src/components/valuation/Valuation.js" />
+      <jump line="162" column="17" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" />
+      <jump line="7" column="25" filename="R:/Rem/source/web/src/components/todos/AddTodoButton.js" />
+      <jump line="45" column="0" filename="R:/Rem/source/web/src/components/todos/AddTodoButton.js" />
+      <jump line="3" column="0" filename="R:/Rem/source/web/src/components/todos/AddTodoButton.js" />
+      <jump line="23" column="43" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewHeader.js" />
+      <jump line="21" column="6" filename="R:/Rem/source/web/src/containers/valuation/VehicleValuationOverviewContainer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Case</text>
+        <text>case</text>
       </register>
-      <register name="0" type="4">
-        <text>VehicleValuationOverviewHeader</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRocm93IEVycm9yKCdkaWN0aW9uYXJ5IGlzIHVuZGVmaW5lZCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gY29uc3QgY29weVRvQ2xpcGJvYXJkID0gKCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBkZWZhdWx0TGFiZWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBmaXJzdEVsZW0gPSBkaWN0aW9uYXJ5WzBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZmluZFZhbHVlID0gUi5jdXJyeSgodmFsdWUsIHhzKSA9Pgo=</text>
+        <text encoding="base64">ICAgIHRocm93IEVycm9yKCdkaWN0aW9uYXJ5IGlzIHVuZGVmaW5lZCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbmRWYWx1ZSh2YWx1ZSwgZGljdGlvbmFyeSkpCg==</text>
+        <text encoding="base64">ICBoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmaW5kKHByb3BFcSgndmFsdWUnLCB2YWx1ZSkpKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpY3Rpb25hcnkpCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbmQoCiAgICAgIHByb3BFcSgndmFsdWUnLCB2YWx1ZSksCiAgICAgIGRpY3Rpb25hcnkpKQo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IEF1Y3Rpb25EZXRhaWxzIGZyb20gJy4uLy4uL2NvbnRhaW5lcnMvQXVjdGlvbkRldGFpbHNDb250YWluZXInCi8vIGltcG9ydCBDdXN0b21lckFuZENvbnRyYWN0IGZyb20gJy4uLy4uL2NvbnRhaW5lcnMvQ3VzdG9tZXJBbmRDb250cmFjdENvbnRhaW5lcicKLy8gaW1wb3J0IERvY3VtZW50cyBmcm9tICcuLi8uLi9jb250YWluZXJzL0RvY3VtZW50c0NvbnRhaW5lcicKLy8gaW1wb3J0IENvc3RzIGZyb20gJy4uLy4uL2NvbnRhaW5lcnMvQ29zdHNDb250YWluZXInCi8vIGltcG9ydCBOb3Rlc0FuZEF0dHJpYnV0ZXMgZnJvbSAnLi4vLi4vY29udGFpbmVycy9Ob3Rlc0FuZEF0dHJpYnV0ZXNDb250YWluZXInCi8vIGltcG9ydCBJbnN1cmFuY2UgZnJvbSAnLi4vLi4vY29udGFpbmVycy9JbnN1cmFuY2VDb250YWluZXInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IENhc2VPdmVydmlld0NoZWNrbGlzdCBmcm9tICcuL0Nhc2VPdmVydmlld0NoZWNrbGlzdCcK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>Case</last-search>
+      <last-search>case</last-search>
       <last-offset />
-      <last-pattern>Case</last-pattern>
-      <last-replace>VehicleValuation</last-replace>
-      <last-substitute>Case</last-substitute>
+      <last-pattern>case</last-pattern>
+      <last-replace>vehicle</last-replace>
+      <last-substitute>case</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkZpZWxkQ2hhbmdlXD4=</entry>
-        <entry encoding="base64">XDxzZXRGaWVsZFw+</entry>
         <entry encoding="base64">XDxpc0VkaXRpb25Nb2RlXD4=</entry>
         <entry encoding="base64">XDxWZWhpY2xlVmFsdXRpb25PdmVydmlld0xlZnRNZW51XD4=</entry>
         <entry>leftmenu</entry>
         <entry encoding="base64">XDxWZWhpY2xlVmFsdWF0aW9uT3ZlcnZpZXdMZWZ0TWVudVw+</entry>
-        <entry>case</entry>
         <entry>type</entry>
         <entry encoding="base64">XDxjYXNlU3RhdHVzZXNcPg==</entry>
         <entry encoding="base64">XDxjb250cmFjdFR5cGVzXD4=</entry>
@@ -676,11 +705,11 @@
         <entry>caseOwner</entry>
         <entry encoding="base64">XDxWZWhpY2xlVmFsdWF0aW9uT3ZlcnZpZXdIZWFkZXJcPg==</entry>
         <entry>Case</entry>
+        <entry encoding="base64">XDxWYWx1YXRpb25cPg==</entry>
+        <entry>button</entry>
+        <entry>case</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2JlZm9yZVRvZGF5L3N0YXJ0c1dpdGgv</entry>
-        <entry encoding="base64">JzwsJz5zL3N0YXJ0c1dpdGgvc3RhcnRzV2l0aEFiYw==</entry>
-        <entry encoding="base64">JzwsJz5zL3N0YXJ0c1dpdGhBYmMvaXNVcmw=</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz5zL2FmdGVyVG9kYXkvb25Ub2RheQ==</entry>
         <entry encoding="base64">JzwsJz5zL2lzVXJsL2VtYWlsLw==</entry>
@@ -696,6 +725,9 @@
         <entry>s/Case/VehicleValuation</entry>
         <entry>s/Case/VehicleValuation/g</entry>
         <entry>we</entry>
+        <entry>s/case/vehicle</entry>
+        <entry>ws</entry>
+        <entry>.,.+1noh</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
