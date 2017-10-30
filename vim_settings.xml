@@ -209,8 +209,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1509364816037">
-        <mark key="'" line="74" column="4" />
+      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1509366966107">
+        <mark key="'" line="40" column="4" />
         <mark key="[" line="75" column="4" />
         <mark key="]" line="75" column="18" />
         <mark key="." line="6" column="0" />
@@ -599,8 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="8" filename="R:/Rem/source/web/src/api/caseApi.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="78" column="20" filename="R:/Rem/source/web/src/constants/actionTypes.js" />
       <jump line="94" column="78" filename="R:/Rem/source/web/src/constants/actionTypes.js" />
       <jump line="108" column="76" filename="R:/Rem/source/web/src/constants/actionTypes.js" />
@@ -699,6 +697,8 @@
       <jump line="159" column="2" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="194" column="19" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
       <jump line="212" column="57" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
+      <jump line="42" column="15" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
+      <jump line="40" column="4" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -711,7 +711,7 @@
         <text>contractType</text>
       </register>
       <register name="/" type="4">
-        <text>sell</text>
+        <text>damage</text>
       </register>
       <register name="0" type="4">
         <text>contractSubType</text>
@@ -748,13 +748,13 @@
       </register>
     </registers>
     <search>
-      <last-search>sell</last-search>
+      <last-search>damage</last-search>
       <last-offset />
-      <last-pattern>sell</last-pattern>
+      <last-pattern>damage</last-pattern>
       <last-replace>contract</last-replace>
       <last-substitute>tax</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -765,7 +765,6 @@
         <entry>equi</entry>
         <entry>condition</entry>
         <entry>costumer</entry>
-        <entry>damage</entry>
         <entry encoding="base64">XDxWYWx1YXRpb25PYmplY3REZXRhaWxzXD4=</entry>
         <entry>provision</entry>
         <entry>repair</entry>
@@ -778,6 +777,7 @@
         <entry encoding="base64">XDxjb250cmFjdFR5cGVcPg==</entry>
         <entry encoding="base64">XDxjb250cmFjdFR5cGVzXD4=</entry>
         <entry>sell</entry>
+        <entry>damage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FmdGVyVG9kYXkvb25Ub2RheQ==</entry>
