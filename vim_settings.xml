@@ -203,8 +203,8 @@
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1509360807236">
-        <mark key="'" line="139" column="55" />
+      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1509362797025">
+        <mark key="'" line="159" column="2" />
         <mark key="[" line="8" column="59" />
         <mark key="]" line="8" column="67" />
         <mark key="." line="8" column="67" />
@@ -338,7 +338,7 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/valuation/VehicleValuationOverviewContainer.js" timestamp="1509119977202">
+      <file name="R:/Rem/source/web/src/containers/valuation/VehicleValuationOverviewContainer.js" timestamp="1509362810179">
         <mark key="'" line="21" column="6" />
         <mark key="[" line="21" column="2" />
         <mark key="]" line="21" column="1" />
@@ -560,8 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/constants/actionTypes.js" />
-      <jump line="80" column="4" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="69" column="8" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="84" column="69" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="79" column="8" filename="R:/Rem/source/web/src/api/caseApi.js" />
@@ -660,6 +658,8 @@
       <jump line="10" column="0" filename="R:/Rem/source/web/src/containers/valuation/ValuationContainer.js" />
       <jump line="33" column="18" filename="R:/Rem/source/web/src/containers/valuation/ValuationContainer.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/actions/actionsLogActions.js" />
+      <jump line="8" column="19" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="159" column="2" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -672,7 +672,7 @@
         <text>={this.props.caseTypes}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWYWx1YXRpb25WYWx1YXRpb25cPg==</text>
+        <text encoding="base64">XDx0b2dnbGVWZWhpY2xlVmFsdWF0aW9uT3ZlcnZpZXdFZGl0aW9uTW9kZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2VTdGF0dXNlczogW10sCg==</text>
@@ -709,9 +709,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWYWx1YXRpb25WYWx1YXRpb25cPg==</last-search>
+      <last-search encoding="base64">XDx0b2dnbGVWZWhpY2xlVmFsdWF0aW9uT3ZlcnZpZXdFZGl0aW9uTW9kZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWYWx1YXRpb25WYWx1YXRpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0b2dnbGVWZWhpY2xlVmFsdWF0aW9uT3ZlcnZpZXdFZGl0aW9uTW9kZVw+</last-pattern>
       <last-replace>contract</last-replace>
       <last-substitute>tax</last-substitute>
       <last-dir>1</last-dir>
@@ -719,7 +719,6 @@
     </search>
     <history>
       <history-search>
-        <entry>case</entry>
         <entry>contracttype</entry>
         <entry>contractType</entry>
         <entry>tax</entry>
@@ -739,6 +738,7 @@
         <entry>keys</entry>
         <entry>valuation</entry>
         <entry encoding="base64">XDxWYWx1YXRpb25WYWx1YXRpb25cPg==</entry>
+        <entry encoding="base64">XDx0b2dnbGVWZWhpY2xlVmFsdWF0aW9uT3ZlcnZpZXdFZGl0aW9uTW9kZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FmdGVyVG9kYXkvb25Ub2RheQ==</entry>
