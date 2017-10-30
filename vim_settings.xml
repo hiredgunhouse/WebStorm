@@ -175,6 +175,11 @@
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/containers/valuation/ValuationObjectDetailsContainer.js" timestamp="1509364820742">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+      </file>
       <file name="R:/jest-manual-mock-test/src/App.js" timestamp="1507736312506">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="8" column="3" />
@@ -192,10 +197,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1509356469945">
+      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1509364816037">
         <mark key="'" line="74" column="4" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="16" />
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="18" />
         <mark key="." line="6" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/FieldContextTypes.js" timestamp="1504101523004">
@@ -514,6 +519,17 @@
         <mark key="." line="216" column="0" />
         <mark key="^" line="196" column="11" />
       </file>
+      <file name="R:/Rem/source/web/src/components/controls/SelectField.js" timestamp="1509363917905">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/FieldContainer.js" timestamp="1509363933650">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+      </file>
       <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1509011095144">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="68" column="56" />
@@ -534,12 +550,12 @@
         <mark key="^" line="73" column="15" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1509358541964">
-        <mark key="'" line="21" column="48" />
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="78" />
-        <mark key="^" line="18" column="1" />
-        <mark key="." line="18" column="1" />
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1509364179672">
+        <mark key="'" line="194" column="78" />
+        <mark key="[" line="198" column="25" />
+        <mark key="]" line="198" column="25" />
+        <mark key="^" line="198" column="32" />
+        <mark key="." line="198" column="25" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/DateField.js" timestamp="1505203849979">
         <mark key="[" line="2" column="19" />
@@ -560,7 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="8" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="84" column="69" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="79" column="8" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/api/caseApi.js" />
@@ -660,58 +675,59 @@
       <jump line="0" column="0" filename="R:/Rem/source/web/src/actions/actionsLogActions.js" />
       <jump line="8" column="19" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="159" column="2" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="194" column="78" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>={this.props.caseTypes}</text>
+        <text>contractType</text>
       </register>
       <register name="-" type="4">
-        <text>={this.props.caseTypes}</text>
+        <text>contractType</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2dnbGVWZWhpY2xlVmFsdWF0aW9uT3ZlcnZpZXdFZGl0aW9uTW9kZVw+</text>
+        <text encoding="base64">XDxjb250cmFjdFR5cGVzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2VTdGF0dXNlczogW10sCg==</text>
+      <register name="0" type="4">
+        <text>contractSubType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnRyYWN0VHlwZTogc3RhdGUuY2FzZU92ZXJ2aWV3LmNvbnRyYWN0LmNvbnRyYWN0VHlwZSwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGgK</text>
+        <text encoding="base64">ICAgICAga2V5PXtuYW1lfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gKi99CgogICAgICAgICAgICA8bGFiZWw+VmFsdWF0aW9uIERldGFpbHM8L2xhYmVsPgogICAgICAgICAgICA8RGF0ZUZpZWxkIG5hbWU9InJlYWR5Rm9yU2FsZURhdGUiIGxhYmVsPSJSZWFkeSBGb3IgU2FsZSBEYXRlIiAvPgogICAgICAgICAgICA8VGV4dEZpZWxkIG5hbWU9ImJjYVZhbHVhdGlvbiIgbGFiZWw9IkJDQSBWYWx1YXRpb24iIC8+CiAgICAgICAgICAgIDxEYXRlRmllbGQgbmFtZT0iYXBwcm92YWxEYXRlIiBsYWJlbD0iQXBwcm92YWwgRGF0ZSIgLz4KICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJhcHByb3ZlZEJ5IiBsYWJlbD0iQXBwcm92ZWQgYnkiIC8+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJsb3NzQ29tbWVudCIgbGFiZWw9Ikxvc3MgQ29tbWVudCIgLz4K</text>
+        <text encoding="base64">ICAgIGgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJleHBlY3RlZExvc3NBbW91bnQiIGxhYmVsPSJFeHBlY3RlZCBMb3NzIEFtb3VudCIgLz4KICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJleHBlY3RlZExvc3NQZXJjZW50YWdlIiBsYWJlbD0iRXhwZWN0ZWQgTG9zcyBpbiAlIiAvPgogICAgICAgICAgICA8VGV4dEZpZWxkIG5hbWU9ImFjdHVhbExvc3NBbW91bnQiIGxhYmVsPSJBY3R1YWwgTG9zcyBBbW91bnQiIC8+CiAgICAgICAgICAgIDxUZXh0RmllbGQgbmFtZT0iYWN0dWFsTG9zc1BlcmNlbnRhZ2UiIGxhYmVsPSJBY3R1YWwgTG9zcyBpbiAlIiAvPgogICAgICAgICAgICA8VGV4dEZpZWxkIG5hbWU9Im1pblByaWNlRGV2aWF0aW9uIiBsYWJlbD0iTWluIFByaWNlIERldmlhdGlvbiIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsPkxvc3M8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gKi99CgogICAgICAgICAgICA8bGFiZWw+VmFsdWF0aW9uIERldGFpbHM8L2xhYmVsPgogICAgICAgICAgICA8RGF0ZUZpZWxkIG5hbWU9InJlYWR5Rm9yU2FsZURhdGUiIGxhYmVsPSJSZWFkeSBGb3IgU2FsZSBEYXRlIiAvPgogICAgICAgICAgICA8VGV4dEZpZWxkIG5hbWU9ImJjYVZhbHVhdGlvbiIgbGFiZWw9IkJDQSBWYWx1YXRpb24iIC8+CiAgICAgICAgICAgIDxEYXRlRmllbGQgbmFtZT0iYXBwcm92YWxEYXRlIiBsYWJlbD0iQXBwcm92YWwgRGF0ZSIgLz4KICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJhcHByb3ZlZEJ5IiBsYWJlbD0iQXBwcm92ZWQgYnkiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJhdWN0aW9uSGlzdG9yeSIgbGFiZWw9IkF1Y3Rpb24gSGlzdG9yeSIgLz4KICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJ2YWx1YXRpb25IaXN0b3J5IiBsYWJlbD0iVmFsdWF0aW9uIEhpc3RvcnkiIC8+CiAgICAgICAgICAgIDxUZXh0RmllbGQgbmFtZT0iYmlkRnJvbU90aGVyRGVhbGVycyIgbGFiZWw9IkJpZCBGcm9tIE90aGVyIERlYWxlcnMiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJsb3NzQ29tbWVudCIgbGFiZWw9Ikxvc3MgQ29tbWVudCIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2dnbGVWZWhpY2xlVmFsdWF0aW9uT3ZlcnZpZXdFZGl0aW9uTW9kZVw+</last-search>
+      <last-search encoding="base64">XDxjb250cmFjdFR5cGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2dnbGVWZWhpY2xlVmFsdWF0aW9uT3ZlcnZpZXdFZGl0aW9uTW9kZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb250cmFjdFR5cGVzXD4=</last-pattern>
       <last-replace>contract</last-replace>
       <last-substitute>tax</last-substitute>
       <last-dir>1</last-dir>
@@ -719,9 +735,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contracttype</entry>
-        <entry>contractType</entry>
-        <entry>tax</entry>
         <entry>subtype</entry>
         <entry>first</entry>
         <entry>vat</entry>
@@ -739,6 +752,9 @@
         <entry>valuation</entry>
         <entry encoding="base64">XDxWYWx1YXRpb25WYWx1YXRpb25cPg==</entry>
         <entry encoding="base64">XDx0b2dnbGVWZWhpY2xlVmFsdWF0aW9uT3ZlcnZpZXdFZGl0aW9uTW9kZVw+</entry>
+        <entry encoding="base64">XDxsYWJlbFw+</entry>
+        <entry encoding="base64">XDxjb250cmFjdFR5cGVcPg==</entry>
+        <entry encoding="base64">XDxjb250cmFjdFR5cGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FmdGVyVG9kYXkvb25Ub2RheQ==</entry>
@@ -756,9 +772,9 @@
         <entry>s/Case/VehicleValuation/g</entry>
         <entry>we</entry>
         <entry>s/case/vehicle</entry>
-        <entry>ws</entry>
         <entry>.,.+1noh</entry>
         <entry encoding="base64">JzwsJz5zL3RheC9jb250cmFjdA==</entry>
+        <entry>ws</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
