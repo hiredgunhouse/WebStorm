@@ -235,8 +235,8 @@
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1509371310394">
-        <mark key="'" line="158" column="2" />
+      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1509440607590">
+        <mark key="'" line="83" column="2" />
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
@@ -623,7 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="19" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
       <jump line="212" column="57" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
       <jump line="42" column="15" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
       <jump line="40" column="4" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
@@ -723,6 +722,7 @@
       <jump line="204" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="205" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="206" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
+      <jump line="83" column="2" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
