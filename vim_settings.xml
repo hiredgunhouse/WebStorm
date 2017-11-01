@@ -127,11 +127,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="12" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1509008347985">
-        <mark key="[" line="43" column="38" />
-        <mark key="]" line="43" column="44" />
-        <mark key="." line="43" column="44" />
-        <mark key="^" line="43" column="44" />
+      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1509549637603">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="52" />
       </file>
       <file name="R:/Rem/source/web/src/components/CancelButton.js" timestamp="1509118438003">
         <mark key="[" line="2" column="7" />
@@ -342,11 +342,12 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509438636436">
-        <mark key="'" line="252" column="33" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="65" />
-        <mark key="." line="122" column="0" />
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509549845390">
+        <mark key="'" line="144" column="34" />
+        <mark key="[" line="107" column="12" />
+        <mark key="]" line="107" column="34" />
+        <mark key="." line="107" column="34" />
+        <mark key="^" line="107" column="34" />
       </file>
       <file name="R:/Rem/source/web/src/api/actionsLogApi.js" timestamp="1509016538075">
         <mark key="[" line="7" column="6" />
@@ -542,7 +543,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509442584154">
+      <file name="/Dummy.txt" timestamp="1509549835228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -651,7 +652,6 @@
       <jump line="170" column="29" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="205" column="24" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="196" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="142" column="32" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="237" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="238" column="33" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="253" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
@@ -691,7 +691,6 @@
       <jump line="235" column="31" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="188" column="32" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="17" column="33" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="252" column="33" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="117" column="0" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="184" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="115" column="35" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
@@ -732,22 +731,24 @@
       <jump line="39" column="17" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
       <jump line="118" column="22" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="175" column="13" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
+      <jump line="252" column="33" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="142" column="34" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJ0ZXJtQXRSZXBvc3Nlc3Npb24iIGxhYmVsPSJUZXJtLiBBdCBSZXBvc3Nlc3Npb24iIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9jYXRpb24g</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZXh0RmllbGRcPg==</text>
+        <text>tax</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJ0ZXJtQXRSZXBvc3Nlc3Npb24iIGxhYmVsPSJUZXJtLiBBdCBSZXBvc3Nlc3Npb24iIC8+Cg==</text>
+      <register name="0" type="4">
+        <text>registrationTax</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRlcm1BdFJlcG9zc2Vzc2lvbjogY29udHJhY3QudGVybUF0UmVwb3NzZXNzaW9uLAo=</text>
@@ -781,9 +782,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUZXh0RmllbGRcPg==</last-search>
+      <last-search>tax</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZXh0RmllbGRcPg==</last-pattern>
+      <last-pattern>tax</last-pattern>
       <last-replace>toast</last-replace>
       <last-substitute>case</last-substitute>
       <last-dir>1</last-dir>
@@ -791,7 +792,6 @@
     </search>
     <history>
       <history-search>
-        <entry>auctionHis</entry>
         <entry encoding="base64">XDxhdWN0aW9uSGlzdG9yeVw+</entry>
         <entry encoding="base64">XDx2YWx1YXRpb25IaXN0b3J5XD4=</entry>
         <entry encoding="base64">XDxiaWRGcm9tT3RoZXJEZWFsZXJzXD4=</entry>
@@ -811,6 +811,7 @@
         <entry>contract</entry>
         <entry encoding="base64">XDx0ZXJtQXRSZXBvc3Nlc3Npb25cPg==</entry>
         <entry encoding="base64">XDxUZXh0RmllbGRcPg==</entry>
+        <entry>tax</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
