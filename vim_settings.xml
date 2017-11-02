@@ -8,11 +8,11 @@
         <mark key="]" line="3" column="54" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1509629403131">
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1509635771170">
         <mark key="'" line="184" column="29" />
-        <mark key="[" line="215" column="77" />
+        <mark key="[" line="216" column="79" />
         <mark key="]" line="215" column="91" />
-        <mark key="." line="215" column="91" />
+        <mark key="." line="216" column="93" />
         <mark key="^" line="215" column="91" />
       </file>
       <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1509016692205">
@@ -366,12 +366,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1509627208526">
+      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1509635759267">
         <mark key="'" line="202" column="29" />
-        <mark key="[" line="202" column="77" />
-        <mark key="]" line="202" column="91" />
-        <mark key="^" line="202" column="91" />
-        <mark key="." line="202" column="91" />
+        <mark key="[" line="203" column="79" />
+        <mark key="]" line="203" column="93" />
+        <mark key="^" line="203" column="93" />
+        <mark key="." line="203" column="93" />
       </file>
       <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewHeader.js" timestamp="1509121445469">
         <mark key="'" line="17" column="103" />
@@ -541,7 +541,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509629463477">
+      <file name="/Dummy.txt" timestamp="1509635739095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
