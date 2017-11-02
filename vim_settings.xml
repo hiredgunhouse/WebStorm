@@ -8,12 +8,12 @@
         <mark key="]" line="3" column="54" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1509438777032">
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1509629403131">
         <mark key="'" line="184" column="29" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="127" column="1" />
+        <mark key="[" line="215" column="77" />
+        <mark key="]" line="215" column="91" />
+        <mark key="." line="215" column="91" />
+        <mark key="^" line="215" column="91" />
       </file>
       <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1509016692205">
         <mark key="[" line="27" column="4" />
@@ -53,11 +53,11 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NumericField.js" timestamp="1505203710643">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="22" />
+      <file name="R:/Rem/source/web/src/components/controls/NumericField.js" timestamp="1509629841982">
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="61" />
+        <mark key="." line="14" column="61" />
+        <mark key="^" line="14" column="29" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/YesNoDialog.js" timestamp="1505203801908">
         <mark key="[" line="1" column="0" />
@@ -69,11 +69,11 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/CheckboxField.js" timestamp="1505203639347">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="18" />
+      <file name="R:/Rem/source/web/src/components/controls/CheckboxField.js" timestamp="1509629738326">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="14" column="63" />
       </file>
       <file name="$USER_HOME$/projects/react-playground/src/App.test.js" timestamp="1495730694364">
         <mark key="[" line="6" column="0" />
@@ -236,6 +236,18 @@
         <mark key="." line="33" column="41" />
         <mark key="^" line="33" column="41" />
       </file>
+      <file name="R:/Rem/source/web/src/components/controls/MultiSelectField.js" timestamp="1509629828006">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="47" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="47" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/TextAreaField.js" timestamp="1509629876109">
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="60" />
+        <mark key="^" line="14" column="60" />
+        <mark key="." line="14" column="60" />
+      </file>
       <file name="R:/Rem/source/web/src/config.dev.js" timestamp="1497965413273">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -245,6 +257,13 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/TextField.js" timestamp="1509629654118">
+        <mark key="'" line="28" column="15" />
+        <mark key="[" line="14" column="61" />
+        <mark key="]" line="14" column="61" />
+        <mark key="^" line="14" column="60" />
+        <mark key="." line="14" column="61" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/index.js" timestamp="1498723053072">
         <mark key="[" line="3" column="0" />
@@ -365,9 +384,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/reducers/salesChannelsReducer.js" timestamp="1509554714373">
-        <mark key="'" line="16" column="4" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/CreateAuction.js" timestamp="1503580603268">
         <mark key="[" line="0" column="0" />
@@ -525,7 +541,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509610874588">
+      <file name="/Dummy.txt" timestamp="1509629463477">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -558,10 +574,11 @@
         <mark key="." line="216" column="0" />
         <mark key="^" line="196" column="11" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/SelectField.js" timestamp="1509363917905">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="R:/Rem/source/web/src/components/controls/SelectField.js" timestamp="1509629857535">
+        <mark key="[" line="22" column="60" />
+        <mark key="]" line="22" column="60" />
+        <mark key="." line="22" column="60" />
+        <mark key="^" line="22" column="60" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/FieldContainer.js" timestamp="1509363933650">
         <mark key="[" line="3" column="6" />
@@ -589,18 +606,24 @@
         <mark key="^" line="73" column="15" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1509438492876">
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1509629442193">
         <mark key="'" line="141" column="22" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="^" line="141" column="77" />
-        <mark key="." line="137" column="0" />
+        <mark key="[" line="201" column="80" />
+        <mark key="]" line="201" column="81" />
+        <mark key="^" line="201" column="80" />
+        <mark key="." line="201" column="80" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/DateField.js" timestamp="1505203849979">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="3" column="12" />
+      <file name="R:/Rem/source/web/src/components/controls/TypeaheadField.js" timestamp="1509629889549">
+        <mark key="[" line="39" column="16" />
+        <mark key="]" line="39" column="15" />
+        <mark key="^" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/controls/DateField.js" timestamp="1509629763198">
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="61" />
+        <mark key="." line="14" column="61" />
+        <mark key="^" line="14" column="29" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/errorReducers.js" timestamp="1496932047444">
         <mark key="[" line="11" column="0" />
@@ -615,8 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="22" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
-      <jump line="175" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="241" column="55" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="242" column="67" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="160" column="17" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
@@ -715,19 +736,21 @@
       <jump line="61" column="12" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
       <jump line="206" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="202" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
+      <jump line="14" column="8" filename="R:/Rem/source/web/src/components/controls/TextField.js" />
+      <jump line="28" column="15" filename="R:/Rem/source/web/src/components/controls/TextField.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">fSA=</text>
+        <text encoding="base64">IHx8ICcn</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fSA=</text>
+        <text encoding="base64">IHx8ICcn</text>
       </register>
       <register name="/" type="4">
-        <text>expected</text>
+        <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGRlYnVnVW5kZWZpbmVkID0gdmFsdWUgPT4gewogIGlmICh2YWx1ZSA9PT0gdW5kZWZpbmVkKSB7CiAgICBkZWJ1Z2dlcgogIH0KCiAgcmV0dXJuIHZhbHVlCn0K</text>
@@ -764,9 +787,9 @@
       </register>
     </registers>
     <search>
-      <last-search>expected</last-search>
+      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern>expected</last-pattern>
+      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
       <last-replace>SalesChannels</last-replace>
       <last-substitute>VehicleLocations</last-substitute>
       <last-dir>1</last-dir>
@@ -788,12 +811,12 @@
         <entry encoding="base64">XDxnZXRWZWhpY2xlTG9jYXRpb25zXD4=</entry>
         <entry>VehicleLocations</entry>
         <entry>vat</entry>
-        <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry>damage</entry>
         <entry>expectedLoss</entry>
         <entry>expectedloss</entry>
         <entry encoding="base64">XDxleHBlY3RlZExvc3NBbW91bnRcPg==</entry>
         <entry>expected</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NPTExBVEVSQUwvUkVHSVNUUkFUSU9O</entry>
@@ -809,11 +832,11 @@
         <entry>ws</entry>
         <entry>s/case/tax</entry>
         <entry encoding="base64">JzwsJz5zL3RheC9jb250cmFjdA==</entry>
-        <entry>we</entry>
         <entry encoding="base64">JzwsJz5zL2Nhc2UvdG9hc3Q=</entry>
         <entry>:W</entry>
         <entry encoding="base64">JzwsJz5zL1ZFSElDTEVfTE9DQVRJT05TL1NBTEVTX0NIQU5ORUxT</entry>
         <entry encoding="base64">JzwsJz5zL1ZlaGljbGVMb2NhdGlvbnMvU2FsZXNDaGFubmVscw==</entry>
+        <entry>we</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
