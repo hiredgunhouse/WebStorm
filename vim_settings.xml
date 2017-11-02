@@ -203,12 +203,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1509610751018">
-        <mark key="'" line="38" column="18" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="104" column="26" />
-        <mark key="." line="61" column="0" />
+      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1509619546144">
+        <mark key="'" line="61" column="12" />
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="53" column="23" />
+        <mark key="^" line="53" column="26" />
+        <mark key="." line="53" column="23" />
       </file>
       <file name="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" timestamp="1509436297428">
         <mark key="'" line="35" column="0" />
@@ -323,11 +323,11 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509613547526">
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509619562234">
         <mark key="'" line="147" column="55" />
-        <mark key="[" line="246" column="82" />
-        <mark key="]" line="246" column="82" />
-        <mark key="." line="246" column="82" />
+        <mark key="[" line="246" column="67" />
+        <mark key="]" line="246" column="67" />
+        <mark key="." line="246" column="67" />
         <mark key="^" line="246" column="82" />
       </file>
       <file name="R:/Rem/source/web/src/api/actionsLogApi.js" timestamp="1509016538075">
@@ -608,8 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="22" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="255" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="142" column="22" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
       <jump line="175" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="241" column="55" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
@@ -708,16 +706,18 @@
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="146" column="43" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="147" column="55" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="58" column="5" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
+      <jump line="61" column="12" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">fSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">fSA=</text>
       </register>
       <register name="/" type="4">
         <text>damage</text>
