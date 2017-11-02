@@ -347,6 +347,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1509627208526">
+        <mark key="'" line="202" column="29" />
+        <mark key="[" line="202" column="77" />
+        <mark key="]" line="202" column="91" />
+        <mark key="^" line="202" column="91" />
+        <mark key="." line="202" column="91" />
+      </file>
       <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewHeader.js" timestamp="1509121445469">
         <mark key="'" line="17" column="103" />
         <mark key="[" line="17" column="88" />
@@ -654,11 +661,9 @@
       <jump line="198" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="199" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="201" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
-      <jump line="202" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="203" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="204" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="205" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
-      <jump line="206" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="83" column="2" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="107" column="0" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="152" column="0" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
@@ -708,6 +713,8 @@
       <jump line="147" column="55" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="58" column="5" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
       <jump line="61" column="12" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
+      <jump line="206" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
+      <jump line="202" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -720,7 +727,7 @@
         <text encoding="base64">fSA=</text>
       </register>
       <register name="/" type="4">
-        <text>damage</text>
+        <text>expected</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGRlYnVnVW5kZWZpbmVkID0gdmFsdWUgPT4gewogIGlmICh2YWx1ZSA9PT0gdW5kZWZpbmVkKSB7CiAgICBkZWJ1Z2dlcgogIH0KCiAgcmV0dXJuIHZhbHVlCn0K</text>
@@ -757,9 +764,9 @@
       </register>
     </registers>
     <search>
-      <last-search>damage</last-search>
+      <last-search>expected</last-search>
       <last-offset />
-      <last-pattern>damage</last-pattern>
+      <last-pattern>expected</last-pattern>
       <last-replace>SalesChannels</last-replace>
       <last-substitute>VehicleLocations</last-substitute>
       <last-dir>1</last-dir>
@@ -767,10 +774,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGVhckNsaXBib2FyZFw+</entry>
-        <entry encoding="base64">XDxjbGlwYm9hcmRcPg==</entry>
-        <entry encoding="base64">XDxvbkFwcENsb3NpbmdcPg==</entry>
-        <entry encoding="base64">XDxoYXNVbnNhZ2VkQ2hhbmdlc1w+</entry>
         <entry>term</entry>
         <entry encoding="base64">XDxjb250cmFjdFw+</entry>
         <entry>contract</entry>
@@ -787,6 +790,10 @@
         <entry>vat</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry>damage</entry>
+        <entry>expectedLoss</entry>
+        <entry>expectedloss</entry>
+        <entry encoding="base64">XDxleHBlY3RlZExvc3NBbW91bnRcPg==</entry>
+        <entry>expected</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NPTExBVEVSQUwvUkVHSVNUUkFUSU9O</entry>
