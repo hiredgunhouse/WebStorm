@@ -8,12 +8,12 @@
         <mark key="]" line="3" column="54" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1509635771170">
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1509639371415">
         <mark key="'" line="184" column="29" />
-        <mark key="[" line="216" column="79" />
-        <mark key="]" line="215" column="91" />
-        <mark key="." line="216" column="93" />
-        <mark key="^" line="215" column="91" />
+        <mark key="[" line="219" column="83" />
+        <mark key="]" line="219" column="83" />
+        <mark key="." line="219" column="83" />
+        <mark key="^" line="219" column="83" />
       </file>
       <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1509016692205">
         <mark key="[" line="27" column="4" />
@@ -366,12 +366,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1509635759267">
+      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1509639381631">
         <mark key="'" line="202" column="29" />
-        <mark key="[" line="203" column="79" />
-        <mark key="]" line="203" column="93" />
-        <mark key="^" line="203" column="93" />
-        <mark key="." line="203" column="93" />
+        <mark key="[" line="206" column="83" />
+        <mark key="]" line="206" column="83" />
+        <mark key="^" line="206" column="83" />
+        <mark key="." line="206" column="83" />
       </file>
       <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewHeader.js" timestamp="1509121445469">
         <mark key="'" line="17" column="103" />
@@ -541,7 +541,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509635739095">
+      <file name="/Dummy.txt" timestamp="1509639138987">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -743,8 +743,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHx8ICcn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHx8ICcn</text>
@@ -756,31 +756,31 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGRlYnVnVW5kZWZpbmVkID0gdmFsdWUgPT4gewogIGlmICh2YWx1ZSA9PT0gdW5kZWZpbmVkKSB7CiAgICBkZWJ1Z2dlcgogIH0KCiAgcmV0dXJuIHZhbHVlCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICByZXR1cm4gaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAodmFsdWUgPT09IHVuZGVmaW5lZCkgewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBsb2dUb0NvbnNvbGUgPSBjdXJyeSgodGl0bGUsIHZhbHVlKSA9PiBjb25zb2xlLmxvZyhgJHt0aXRsZX06ICR7dmFsdWV9YCkpCg==</text>
+        <text encoding="base64">ICBpZiAodmFsdWUgPT09IHVuZGVmaW5lZCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlZ2lzdHJhdGlvblRheElkOiAnJywK</text>
+        <text encoding="base64">ICBjb25zdCBsb2dUb0NvbnNvbGUgPSBjdXJyeSgodGl0bGUsIHZhbHVlKSA9PiBjb25zb2xlLmxvZyhgJHt0aXRsZX06ICR7dmFsdWV9YCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhdElkOiAnJywK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHJlZ2lzdHJhdGlvblRheElkOiAnJywK</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHZhdElkOiAnJywK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJlZ2lzdHJhdGlvblRheElkOiAnJywK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
