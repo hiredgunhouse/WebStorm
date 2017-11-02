@@ -112,11 +112,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="12" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1509556665619">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="7" column="36" />
+      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1509611357735">
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+        <mark key="^" line="16" column="36" />
       </file>
       <file name="R:/Rem/source/web/src/components/CancelButton.js" timestamp="1509118438003">
         <mark key="[" line="2" column="7" />
@@ -203,12 +203,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1509545332716">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="106" column="22" />
-        <mark key="]" line="106" column="26" />
-        <mark key="^" line="106" column="26" />
-        <mark key="." line="106" column="26" />
+      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1509610751018">
+        <mark key="'" line="38" column="18" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="104" column="26" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" timestamp="1509436297428">
         <mark key="'" line="35" column="0" />
@@ -251,12 +251,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/dictionaryUtils.js" timestamp="1509556649951">
-        <mark key="'" line="3" column="13" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="6" />
-        <mark key="^" line="43" column="6" />
-        <mark key="." line="43" column="6" />
+      <file name="R:/Rem/source/web/src/utils/dictionaryUtils.js" timestamp="1509611976501">
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="44" column="81" />
+        <mark key="]" line="44" column="81" />
+        <mark key="^" line="44" column="81" />
+        <mark key="." line="44" column="81" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/makesReducer.js" timestamp="1507284157113">
         <mark key="[" line="2" column="20" />
@@ -270,11 +270,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="13" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/futils.js" timestamp="1505210173277">
-        <mark key="[" line="16" column="3" />
-        <mark key="]" line="17" column="1" />
-        <mark key="." line="17" column="1" />
-        <mark key="^" line="17" column="1" />
+      <file name="R:/Rem/source/web/src/utils/futils.js" timestamp="1509611302973">
+        <mark key="'" line="9" column="33" />
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="27" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1496411034009">
         <mark key="[" line="0" column="0" />
@@ -345,11 +346,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1509438771986">
-        <mark key="'" line="206" column="29" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="126" column="87" />
       </file>
       <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewHeader.js" timestamp="1509121445469">
         <mark key="'" line="17" column="103" />
@@ -522,7 +518,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509554618663">
+      <file name="/Dummy.txt" timestamp="1509610874588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -612,9 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="24" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="196" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="237" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="238" column="33" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="253" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="254" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
@@ -712,58 +705,61 @@
       <jump line="84" column="5" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="52" column="1" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="3" column="13" filename="R:/Rem/source/web/src/utils/dictionaryUtils.js" />
+      <jump line="37" column="11" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
+      <jump line="38" column="18" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
+      <jump line="9" column="33" filename="R:/Rem/source/web/src/utils/futils.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFIsIHsgcGF0aE9yIH0gZnJvbSAncmFtZGEnCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>VehicleLocations</text>
+        <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhdElkOiBnZXRJZChwYXRoT3IobnVsbCwgWyd2YXQnXVsnaWQnXSwgdmVoaWNsZSksCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGRlYnVnVW5kZWZpbmVkID0gdmFsdWUgPT4gewogIGlmICh2YWx1ZSA9PT0gdW5kZWZpbmVkKSB7CiAgICBkZWJ1Z2dlcgogIH0KCiAgcmV0dXJuIHZhbHVlCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFIsIHsgcGF0aE9yIH0gZnJvbSAncmFtZGEnCg==</text>
+        <text encoding="base64">ICByZXR1cm4gaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgaWRGb3IgPSAocHJvcE5hbWUsIG9iaikgPT4gcGF0aE9yKG51bGwsIFtwcm9wTmFtZV1bJ2lkJ10sIG9iaikKCg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhdElkOiB2ZWhpY2xlLnZhdC5pZCwK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFIsIHsgcGF0aE9SIH0gZnJvbSAncmFtZGEnCg==</text>
+        <text encoding="base64">ICBpZiAodmFsdWUgPT09IHVuZGVmaW5lZCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCBsb2dUb0NvbnNvbGUgPSBjdXJyeSgodGl0bGUsIHZhbHVlKSA9PiBjb25zb2xlLmxvZyhgJHt0aXRsZX06ICR7dmFsdWV9YCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGgK</text>
+        <text encoding="base64">ICAgIHJlZ2lzdHJhdGlvblRheElkOiAnJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbG9hZFZlaGljbGVMb2NhdGlvbnNTdWNjZWVkZWQgPSB2ZWhpY2xlTG9jYXRpb25zID0+ICh7CiAgdHlwZTogYWN0aW9uVHlwZXMuTE9BRElOR19WRUhJQ0xFX0xPQ0FUSU9OU19TVUNDRUVERUQsCiAgcGF5bG9hZDogdmVoaWNsZUxvY2F0aW9ucwp9KQoK</text>
+        <text encoding="base64">ICAgIHZhdElkOiAnJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNhbGVzQ2hhbm5lbHMgZnJvbSAnLi9zYWxlc0NoYW5uZWxzUmVkdWNlcicK</text>
+        <text encoding="base64">ICAgIHJlZ2lzdHJhdGlvblRheElkOiAnJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhdElkOiAnJywK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>VehicleLocations</last-search>
+      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern>VehicleLocations</last-pattern>
+      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
       <last-replace>SalesChannels</last-replace>
       <last-substitute>VehicleLocations</last-substitute>
       <last-dir>1</last-dir>
@@ -771,8 +767,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3R1YWxMb3NzUGVyY2VudGFnZVw+</entry>
-        <entry encoding="base64">XDxtaW5QcmljZURldmlhdGlvblw+</entry>
         <entry encoding="base64">XDxzZXRDbGlwYm9hcmRcPg==</entry>
         <entry encoding="base64">XDxjbGVhckNsaXBib2FyZFw+</entry>
         <entry encoding="base64">XDxjbGlwYm9hcmRcPg==</entry>
@@ -791,6 +785,8 @@
         <entry>location</entry>
         <entry encoding="base64">XDxnZXRWZWhpY2xlTG9jYXRpb25zXD4=</entry>
         <entry>VehicleLocations</entry>
+        <entry>vat</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NPTExBVEVSQUwvUkVHSVNUUkFUSU9O</entry>
