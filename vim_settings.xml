@@ -323,12 +323,12 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509549845390">
-        <mark key="'" line="144" column="34" />
-        <mark key="[" line="107" column="12" />
-        <mark key="]" line="107" column="34" />
-        <mark key="." line="107" column="34" />
-        <mark key="^" line="107" column="34" />
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509613547526">
+        <mark key="'" line="147" column="55" />
+        <mark key="[" line="246" column="82" />
+        <mark key="]" line="246" column="82" />
+        <mark key="." line="246" column="82" />
+        <mark key="^" line="246" column="82" />
       </file>
       <file name="R:/Rem/source/web/src/api/actionsLogApi.js" timestamp="1509016538075">
         <mark key="[" line="7" column="6" />
@@ -608,9 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="33" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="253" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="254" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="148" column="22" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="255" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="142" column="22" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
@@ -626,7 +623,6 @@
       <jump line="248" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="145" column="40" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="249" column="33" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="146" column="22" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="161" column="31" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="250" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="251" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
@@ -708,6 +704,10 @@
       <jump line="37" column="11" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
       <jump line="38" column="18" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
       <jump line="9" column="33" filename="R:/Rem/source/web/src/utils/futils.js" />
+      <jump line="95" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="146" column="43" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="147" column="55" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -720,7 +720,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWx1ZVw+</text>
+        <text>damage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGRlYnVnVW5kZWZpbmVkID0gdmFsdWUgPT4gewogIGlmICh2YWx1ZSA9PT0gdW5kZWZpbmVkKSB7CiAgICBkZWJ1Z2dlcgogIH0KCiAgcmV0dXJuIHZhbHVlCn0K</text>
@@ -757,9 +757,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
+      <last-search>damage</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
+      <last-pattern>damage</last-pattern>
       <last-replace>SalesChannels</last-replace>
       <last-substitute>VehicleLocations</last-substitute>
       <last-dir>1</last-dir>
@@ -767,7 +767,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRDbGlwYm9hcmRcPg==</entry>
         <entry encoding="base64">XDxjbGVhckNsaXBib2FyZFw+</entry>
         <entry encoding="base64">XDxjbGlwYm9hcmRcPg==</entry>
         <entry encoding="base64">XDxvbkFwcENsb3NpbmdcPg==</entry>
@@ -787,6 +786,7 @@
         <entry>VehicleLocations</entry>
         <entry>vat</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry>damage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NPTExBVEVSQUwvUkVHSVNUUkFUSU9O</entry>
