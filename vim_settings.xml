@@ -14,8 +14,8 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1509712229468">
-        <mark key="'" line="190" column="16" />
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1509999297248">
+        <mark key="'" line="180" column="18" />
         <mark key="[" line="196" column="56" />
         <mark key="]" line="196" column="56" />
         <mark key="." line="196" column="56" />
@@ -353,7 +353,7 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509619562234">
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509802319460">
         <mark key="'" line="147" column="55" />
         <mark key="[" line="246" column="67" />
         <mark key="]" line="246" column="67" />
@@ -482,7 +482,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="5" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1509704611749" />
       <file name="R:/Rem/source/web/src/components/controls/NEW/FieldPropTypes.js" timestamp="1504094825634">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -561,7 +560,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509720725050">
+      <file name="/Dummy.txt" timestamp="1509999270625">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -658,11 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="22" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
-      <jump line="186" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
-      <jump line="142" column="17" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
-      <jump line="191" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
-      <jump line="124" column="22" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="140" column="2" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="197" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="198" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
@@ -751,13 +745,18 @@
       <jump line="224" column="35" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="134" column="44" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="135" column="45" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
-      <jump line="180" column="10" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="28" column="4" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="196" column="10" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="185" column="89" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="2" column="41" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="190" column="16" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="45" column="13" filename="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" />
+      <jump line="265" column="29" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="45" column="61" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="137" column="30" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="148" column="59" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="179" column="19" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="180" column="18" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -770,7 +769,7 @@
         <text encoding="base64">UHJpY2Ug</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2FzdEFjdGlvbnNcPg==</text>
+        <text>salesPrice</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG9uQWRkVG9hc3Q6ICh0b2FzdCkgPT4gewogICAgICBkaXNwYXRjaCh0b2FzdEFjdGlvbnMuYWRkVG9hc3QodG9hc3QpKQogICAgfSwK</text>
@@ -807,9 +806,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2FzdEFjdGlvbnNcPg==</last-search>
+      <last-search>salesPrice</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2FzdEFjdGlvbnNcPg==</last-pattern>
+      <last-pattern>salesPrice</last-pattern>
       <last-replace>Retail</last-replace>
       <last-substitute>Valuation</last-substitute>
       <last-dir>1</last-dir>
@@ -817,8 +816,6 @@
     </search>
     <history>
       <history-search>
-        <entry>VehicleLocations</entry>
-        <entry>vat</entry>
         <entry>damage</entry>
         <entry>expectedLoss</entry>
         <entry>expectedloss</entry>
@@ -837,6 +834,8 @@
         <entry encoding="base64">XDxzYW50YW5kZXJQcm92aXNpb25cPg==</entry>
         <entry encoding="base64">XDxleHBlY3RlZFRhcmdldFByaWNlXD4=</entry>
         <entry encoding="base64">XDx0b2FzdEFjdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxtaW5QcmljZURldmlhdGlvblw+</entry>
+        <entry>salesPrice</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+8noh</entry>
