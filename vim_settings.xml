@@ -353,8 +353,8 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1509802319460">
-        <mark key="'" line="147" column="55" />
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1510045076966">
+        <mark key="'" line="251" column="29" />
         <mark key="[" line="246" column="67" />
         <mark key="]" line="246" column="67" />
         <mark key="." line="246" column="67" />
@@ -560,7 +560,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509999270625">
+      <file name="/Dummy.txt" timestamp="1510045042577">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -657,8 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="2" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
-      <jump line="197" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="198" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="199" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="201" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
@@ -757,6 +755,8 @@
       <jump line="148" column="59" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="179" column="19" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="180" column="18" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="148" column="22" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="251" column="29" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -769,7 +769,7 @@
         <text encoding="base64">UHJpY2Ug</text>
       </register>
       <register name="/" type="4">
-        <text>salesPrice</text>
+        <text encoding="base64">XDxtaWxlYWdlQXRSZXBvc3Nlc3Npb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG9uQWRkVG9hc3Q6ICh0b2FzdCkgPT4gewogICAgICBkaXNwYXRjaCh0b2FzdEFjdGlvbnMuYWRkVG9hc3QodG9hc3QpKQogICAgfSwK</text>
@@ -806,9 +806,9 @@
       </register>
     </registers>
     <search>
-      <last-search>salesPrice</last-search>
+      <last-search encoding="base64">XDxtaWxlYWdlQXRSZXBvc3Nlc3Npb25cPg==</last-search>
       <last-offset />
-      <last-pattern>salesPrice</last-pattern>
+      <last-pattern encoding="base64">XDxtaWxlYWdlQXRSZXBvc3Nlc3Npb25cPg==</last-pattern>
       <last-replace>Retail</last-replace>
       <last-substitute>Valuation</last-substitute>
       <last-dir>1</last-dir>
@@ -816,7 +816,6 @@
     </search>
     <history>
       <history-search>
-        <entry>damage</entry>
         <entry>expectedLoss</entry>
         <entry>expectedloss</entry>
         <entry encoding="base64">XDxleHBlY3RlZExvc3NBbW91bnRcPg==</entry>
@@ -836,6 +835,7 @@
         <entry encoding="base64">XDx0b2FzdEFjdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxtaW5QcmljZURldmlhdGlvblw+</entry>
         <entry>salesPrice</entry>
+        <entry encoding="base64">XDxtaWxlYWdlQXRSZXBvc3Nlc3Npb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+8noh</entry>
