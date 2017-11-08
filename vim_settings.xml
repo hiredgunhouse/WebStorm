@@ -14,12 +14,12 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1510147329273">
-        <mark key="'" line="220" column="29" />
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="^" line="220" column="87" />
-        <mark key="." line="219" column="0" />
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1510158091107">
+        <mark key="'" line="234" column="29" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="5" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="18" column="5" />
       </file>
       <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1509016692205">
         <mark key="[" line="27" column="4" />
@@ -402,12 +402,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1510156019778">
-        <mark key="'" line="131" column="30" />
-        <mark key="[" line="119" column="33" />
-        <mark key="]" line="119" column="33" />
-        <mark key="^" line="118" column="1" />
-        <mark key="." line="119" column="33" />
+      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1510158095572">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
       </file>
       <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewHeader.js" timestamp="1509704334868">
         <mark key="'" line="17" column="103" />
@@ -674,13 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="21" column="0" filename="R:/Rem/source/web/src/reducers/salesChannelsReducer.js" />
-      <jump line="0" column="6" filename="R:/Rem/source/web/src/reducers/salesChannelsReducer.js" />
-      <jump line="14" column="30" filename="R:/Rem/source/web/src/reducers/salesChannelsReducer.js" />
-      <jump line="16" column="4" filename="R:/Rem/source/web/src/reducers/salesChannelsReducer.js" />
-      <jump line="30" column="7" filename="R:/Rem/source/web/src/reducers/index.js" />
-      <jump line="162" column="0" filename="R:/Rem/source/web/src/actions/caseActions.js" />
       <jump line="172" column="1" filename="R:/Rem/source/web/src/actions/caseActions.js" />
       <jump line="48" column="6" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="83" column="18" filename="R:/Rem/source/web/src/api/caseApi.js" />
@@ -770,62 +763,69 @@
       <jump line="12" column="39" filename="R:/Rem/source/web/src/reducers/valuatedBysReducer.js" />
       <jump line="209" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="182" column="69" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
-      <jump line="128" column="59" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="177" column="37" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="187" column="71" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="121" column="30" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
+      <jump line="221" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
+      <jump line="133" column="84" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
+      <jump line="120" column="2" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
+      <jump line="128" column="13" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
+      <jump line="134" column="85" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
+      <jump line="16" column="10" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
+      <jump line="43" column="9" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
+      <jump line="17" column="2" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YWZ0ZXJWYWx1YXRpb25EYXRlIA==</text>
+        <text>digits</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWZ0ZXJWYWx1YXRpb25EYXRlIA==</text>
+        <text>digits</text>
       </register>
       <register name="/" type="4">
-        <text>salesPrice</text>
+        <text encoding="base64">XDxndGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>notSmallerThanMinPriceDeviation</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkaWdpdHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsaWRhdGlvbnNGb3IoJ2V4cGVjdGVkU2FsZXNQcmljZScsICdFeHBlY3RlZCBTYWxlcyBQcmljZScsIFtkaWdpdHNPbmx5XSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9InB0LWNvbnRyb2wtZ3JvdXAgcHQtZmlsbCI+Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsaWRhdGlvbnNGb3IoJ2V4cGVjdGVkU2FsZXNQcmljZScsICdFeHBlY3RlZCBTYWxlcyBQcmljZScsIFtkaWdpdHNPbmx5LCB0aGlzLmd0ZSgnbWluUHJpY2VEZXZpYXRpb24nKV0pLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgey8qPGRpdiBjbGFzc05hbWU9InB0LWNvbnRyb2wtZ3JvdXAiPiovfQo=</text>
+        <text encoding="base64">ICAgIC8vIE5PVEU6CiAgICAvLyB0aGlzIGlzIGFuIGV4YW1wbGUgb2YgYSBjb21wbGljYXRlZCBjcm9zcyBmaWVsZCB2YWxpZGF0aW9uIDovIHdoaWNoIGlzIG5vdCBwZXJmZWN0LCBoZXJlJ3Mgd2h5OgogICAgLy8gaW4gY2FzZSBvZiB0aGlzIHZhbGlkYXRpb24gYmVpbmcgY2FsbGVkIGZyb20gc2V0RmllbGQgKGR1cmluZyB1cGRhdGUgb2YgdmFsaWRhdGlvblN0YXRlKQogICAgLy8gdGhpcyBkb2VzIG5vdCBkZXBlbmQgb24gcHJldlN0YXRlIHdoaWNoIHdvdWxkIGJlIHRoZSBjb3JyZWN0IHdheSB0byBkbyBpdAogICAgLy8gaG93ZXZlciBJIGJlbGlldmUgdGhpcyBwcm9ibGVtIHNob3VsZCBub3QgYmUgb2JzZXJ2YWJsZSBpbiBvdXIgY2FzZQogICAgLy8gVE9ETyBjb25zaWRlciBhZGRpbmcgc29tZSBmb3JtIGNvbnRleHQgdG8gdmFsaWRhdGlvbiBzbyB0aGF0IGNyb3NzIGZpZWxkIHZhbGlkYXRpb25zIGFyZSBlYXNpZXIgdG8gZG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgey8qPGRpdiBjbGFzc05hbWU9InB0LWZpbGwiPiovfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnN0YXRlLmZpZWxkcy52YWx1YXRpb25EYXRlLCB2YWx1ZSkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7Lyp7Y2hpbGRyZW59Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ey8qPC9kaXY+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9InB0LWNvbnRyb2wtZ3JvdXAgcHQtZmlsbCI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ey8qPGRpdiBjbGFzc05hbWU9InB0LWNvbnRyb2wtZ3JvdXAgcHQtZmlsbCI+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgey8qPGRpdiBjbGFzc05hbWU9InB0LWNvbnRyb2wtZ3JvdXAiPiovfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgey8qPGRpdiBjbGFzc05hbWU9InB0LWZpbGwiPiovfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>salesPrice</last-search>
+      <last-search encoding="base64">XDxndGVcPg==</last-search>
       <last-offset />
-      <last-pattern>salesPrice</last-pattern>
+      <last-pattern encoding="base64">XDxndGVcPg==</last-pattern>
       <last-replace>ValuatedBys</last-replace>
       <last-substitute>VehicleLocations</last-substitute>
       <last-dir>1</last-dir>
@@ -833,8 +833,6 @@
     </search>
     <history>
       <history-search>
-        <entry>auctionhis</entry>
-        <entry>expecte</entry>
         <entry encoding="base64">XDxzYW50YW5kZXJQcm92aXNpb25cPg==</entry>
         <entry encoding="base64">XDxleHBlY3RlZFRhcmdldFByaWNlXD4=</entry>
         <entry encoding="base64">XDx0b2FzdEFjdGlvbnNcPg==</entry>
@@ -851,8 +849,10 @@
         <entry>VehicleLocations</entry>
         <entry encoding="base64">XDxjcmVhdGVDYXNlXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsU3RhdGVcPg==</entry>
-        <entry encoding="base64">XDxtaW5QcmljZURldmlhdGlvblw+</entry>
         <entry>salesPrice</entry>
+        <entry encoding="base64">XDxtaW5EZXZpYXRpb25QcmljZVw+</entry>
+        <entry encoding="base64">XDxtaW5QcmljZURldmlhdGlvblw+</entry>
+        <entry encoding="base64">XDxndGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/Case/VehicleValuation/g</entry>
