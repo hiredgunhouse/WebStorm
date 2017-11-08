@@ -276,12 +276,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/TextField.js" timestamp="1509709059304">
-        <mark key="'" line="29" column="15" />
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="63" />
-        <mark key="^" line="11" column="63" />
-        <mark key="." line="11" column="63" />
+      <file name="R:/Rem/source/web/src/components/controls/TextField.js" timestamp="1510154827461">
+        <mark key="'" line="30" column="15" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="8" />
+        <mark key="^" line="36" column="11" />
+        <mark key="." line="35" column="8" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/index.js" timestamp="1498723053072">
         <mark key="[" line="3" column="0" />
@@ -397,10 +397,6 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="R:/Rem/source/web/src/components/SearchBar.js" timestamp="1509712139795">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="97" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1503397759363">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -503,10 +499,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/ToastListContainer.js" timestamp="1509712372699">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="5" />
-      </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/FieldPropTypes.js" timestamp="1504094825634">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -585,7 +577,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510151270487">
+      <file name="/Dummy.txt" timestamp="1510154380709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -624,11 +616,11 @@
         <mark key="." line="22" column="60" />
         <mark key="^" line="22" column="60" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/FieldContainer.js" timestamp="1509710054150">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="8" />
-        <mark key="^" line="11" column="45" />
-        <mark key="." line="12" column="8" />
+      <file name="R:/Rem/source/web/src/components/controls/FieldContainer.js" timestamp="1510154831482">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1510149970617">
         <mark key="'" line="6" column="6" />
@@ -787,44 +779,44 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>none</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0aWFsU3RhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0J319Pgo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9InB0LWNvbnRyb2wtZ3JvdXAgcHQtZmlsbCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWF0ZWRCeXM6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9InB0LWNvbnRyb2wtZ3JvdXAgcHQtZmlsbCI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgc2ltcGxlQ2FsbCA9IGNhc2VBcGkgPT4gc3VjY2VzcyA9PiB7CiAgcmV0dXJuIGNhc2VBcGkuZ2V0KHN1Y2Nlc3MpCn0K</text>
+        <text encoding="base64">ICAgICAgey8qPGRpdiBjbGFzc05hbWU9InB0LWNvbnRyb2wtZ3JvdXAiPiovfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgey8qPGRpdiBjbGFzc05hbWU9InB0LWZpbGwiPiovfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWx1YXRlZEJ5cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPFRleHRGaWVsZCBuYW1lPSJ2YWx1YXRlZEJ5IiBsYWJlbD0iVmFsdWF0ZWQgYnkiIC8+Ki99Cg==</text>
+        <text encoding="base64">ICB7Lyp7Y2hpbGRyZW59Ki99Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJ2YWx1YXRlZEJ5IiBsYWJlbD0iVmFsdWF0ZWQgYnkiIC8+Cg==</text>
+        <text encoding="base64">ey8qPC9kaXY+Ki99Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cD4mbmJzcDs8L3A+Cg==</text>
+        <text encoding="base64">ey8qPGRpdiBjbGFzc05hbWU9InB0LWNvbnRyb2wtZ3JvdXAgcHQtZmlsbCI+Ki99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7LyogPGgyPldlbGNvbWUgdG8gUmVtYXJrZXRpbmc8L2gyPiAqL30K</text>
+        <text encoding="base64">ICA8ZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
