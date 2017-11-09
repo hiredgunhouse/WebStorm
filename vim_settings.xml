@@ -21,11 +21,12 @@
         <mark key="^" line="194" column="47" />
         <mark key="." line="194" column="47" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1509016692205">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="4" />
-        <mark key="^" line="15" column="8" />
-        <mark key="." line="27" column="8" />
+      <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1510233328589">
+        <mark key="'" line="35" column="6" />
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="39" column="34" />
+        <mark key="^" line="35" column="29" />
+        <mark key="." line="39" column="34" />
       </file>
       <file name="R:/Rem/source/web/src/containers/valuation/ObjectDetailsContainer.js" timestamp="1509357352213">
         <mark key="'" line="3" column="63" />
@@ -198,10 +199,10 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/caseActions.js" timestamp="1510147947662">
-        <mark key="'" line="192" column="6" />
-        <mark key="[" line="193" column="11" />
-        <mark key="]" line="193" column="11" />
+      <file name="R:/Rem/source/web/src/actions/caseActions.js" timestamp="1510233263572">
+        <mark key="'" line="63" column="25" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="72" column="2" />
         <mark key="." line="193" column="21" />
         <mark key="^" line="191" column="43" />
       </file>
@@ -211,12 +212,12 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/valuation/ValuationObjectDetailsContainer.js" timestamp="1510231679063">
+      <file name="R:/Rem/source/web/src/containers/valuation/ValuationObjectDetailsContainer.js" timestamp="1510233046554">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="72" />
-        <mark key="." line="43" column="49" />
-        <mark key="^" line="43" column="28" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="R:/jest-manual-mock-test/src/App.js" timestamp="1507736312506">
         <mark key="[" line="7" column="28" />
@@ -242,11 +243,12 @@
         <mark key="^" line="53" column="26" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" timestamp="1510224367401">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="35" />
+      <file name="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" timestamp="1510233137846">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="56" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="50" column="69" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/FieldContextTypes.js" timestamp="1504101523004">
         <mark key="[" line="11" column="0" />
@@ -682,18 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="1" filename="R:/Rem/source/web/src/api/caseApi.js" />
-      <jump line="3" column="13" filename="R:/Rem/source/web/src/utils/dictionaryUtils.js" />
-      <jump line="37" column="11" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
-      <jump line="38" column="18" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
-      <jump line="9" column="33" filename="R:/Rem/source/web/src/utils/futils.js" />
-      <jump line="95" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="146" column="43" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="147" column="55" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="58" column="5" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
-      <jump line="61" column="12" filename="R:/Rem/source/web/src/reducers/caseOverview.js" />
-      <jump line="206" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="202" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="14" column="8" filename="R:/Rem/source/web/src/components/controls/TextField.js" />
       <jump line="28" column="15" filename="R:/Rem/source/web/src/components/controls/TextField.js" />
@@ -782,70 +772,77 @@
       <jump line="0" column="0" filename="R:/Rem/source/web/src/Router.js" />
       <jump line="10" column="8" filename="R:/Rem/source/web/src/containers/valuation/ValuationObjectDetailsContainer.js" />
       <jump line="43" column="0" filename="R:/Rem/source/web/src/containers/valuation/ValuationObjectDetailsContainer.js" />
+      <jump line="4" column="44" filename="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" />
+      <jump line="39" column="13" filename="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" />
+      <jump line="5" column="0" filename="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" />
+      <jump line="186" column="40" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="86" column="27" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="90" column="19" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="93" column="23" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/src/actions/valuationActions.js" />
+      <jump line="85" column="0" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="119" column="26" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="63" column="25" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="35" column="6" filename="R:/Rem/source/web/src/actions/valuationActions.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkaXNwYXRjaCh2YWx1YXRpb25BY3Rpb25zLnVwZGF0ZU9iamVjdChjYXNlSWQsIG9iamVjdERldGFpbHMpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>DetailsFromValuation</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZWhpY2xlXD4=</text>
+        <text>caseApi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkaXNwYXRjaCh2YWx1YXRpb25BY3Rpb25zLnVwZGF0ZU9iamVjdChjYXNlSWQsIG9iamVjdERldGFpbHMpKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVwZGF0ZU9iamVjdERldGFpbHMgPSAoaWQsIG9iamVjdERldGFpbHMpID0+IGRpc3BhdGNoID0+IHsKICBjb25zdCBjYXNlQXBpID0gY2FzZUFwaUZhY3RvcnkoZGlzcGF0Y2gsIGlkKQoKICByZXR1cm4gY2FzZUFwaS51cGRhdGVPYmplY3REZXRhaWxzKG9iamVjdERldGFpbHMsIHVwZGF0ZU9iamVjdERldGFpbHNTdWNjZWVkZWQpCn0KCmNvbnN0IHVwZGF0ZU9iamVjdERldGFpbHNTdWNjZWVkZWQgPSBjYXNlRW50aXR5ID0+ICh7CiAgdHlwZTogYWN0aW9uVHlwZXMuVVBEQVRFX09CSkVDVF9ERVRBSUxTX1NVQ0NFRURFRCwKICBjYXNlOiBjYXNlRW50aXR5Cn0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1ha2U6IHZlaGljbGUubW9kZWwubWFrZS5uYW1lLAogICAgbW9kZWw6IHZlaGljbGUubW9kZWwubmFtZSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhc2VJZCA9IG93blByb3BzLm1hdGNoLnBhcmFtcy5pZAogICAgcmV0dXJuIGRpc3BhdGNoKGNhc2VBY3Rpb25zLnVwZGF0ZVZhbHVhdGlvbkFuZExvc3MoY2FzZUlkLCB2YWx1YXRpb25BbmRMb3NzKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyB9LAo=</text>
+        <text encoding="base64">ICAgIG1ha2U6IHZlaGljbGUubW9kZWwubWFrZS5uYW1lLAogICAgbW9kZWw6IHZlaGljbGUubW9kZWwubmFtZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyAgIGRpc3BhdGNoKG1vZGVsQWN0aW9ucy5sb2FkTW9kZWxzKG1ha2VJZCkpCg==</text>
+        <text encoding="base64">ICAvLyB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBsb2FkTW9kZWxzOiAobWFrZUlkKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAvLyAgIGRpc3BhdGNoKG1vZGVsQWN0aW9ucy5sb2FkTW9kZWxzKG1ha2VJZCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGRpc3BhdGNoKG1ha2VBY3Rpb25zLmxvYWRNYWtlcygpKQo=</text>
+        <text encoding="base64">ICAvLyBsb2FkTW9kZWxzOiAobWFrZUlkKSA9PiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1cGRhdGVWZWhpY2xlUmVnaXN0cmF0aW9uU3RhdHVzOiAoKSA9PiB7CiAgICBjb25zdCBjYXNlSWQgPSBvd25Qcm9wcy5tYXRjaC5wYXJhbXMuaWQKICAgIHJldHVybiBkaXNwYXRjaChjYXNlQWN0aW9ucy51cGRhdGVWZWhpY2xlUmVnaXN0cmF0aW9uU3RhdHVzKGNhc2VJZCkpCiAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIGRpc3BhdGNoKG1ha2VBY3Rpb25zLmxvYWRNYWtlcygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgbW9kZWxBY3Rpb25zIGZyb20gJy4uLy4uL2FjdGlvbnMvZGljdGlvbmFyaWVzL21vZGVsQWN0aW9ucycK</text>
+        <text encoding="base64">ICB1cGRhdGVWZWhpY2xlUmVnaXN0cmF0aW9uU3RhdHVzOiAoKSA9PiB7CiAgICBjb25zdCBjYXNlSWQgPSBvd25Qcm9wcy5tYXRjaC5wYXJhbXMuaWQKICAgIHJldHVybiBkaXNwYXRjaChjYXNlQWN0aW9ucy51cGRhdGVWZWhpY2xlUmVnaXN0cmF0aW9uU3RhdHVzKGNhc2VJZCkpCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgbWFrZUFjdGlvbnMgZnJvbSAnLi4vLi4vYWN0aW9ucy9kaWN0aW9uYXJpZXMvbWFrZUFjdGlvbnMnCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgbW9kZWxBY3Rpb25zIGZyb20gJy4uLy4uL2FjdGlvbnMvZGljdGlvbmFyaWVzL21vZGVsQWN0aW9ucycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHRvYXN0ID0gewogICAgLy8gICBtZXNzYWdlOiAnU2F2aW5nIGlzIG5vdCByZWFkeSB5ZXQhJywKICAgIC8vICAgaW50ZW50OiBJbnRlbnQuV0FSTklORywKICAgIC8vICAgdGltZW91dDogMTAsCiAgICAvLyB9CiAgICAvLyB0b2FzdEFjdGlvbnMuYWRkVG9hc3QodG9hc3QpCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgbWFrZUFjdGlvbnMgZnJvbSAnLi4vLi4vYWN0aW9ucy9kaWN0aW9uYXJpZXMvbWFrZUFjdGlvbnMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZWhpY2xlXD4=</last-search>
+      <last-search>caseApi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZWhpY2xlXD4=</last-pattern>
-      <last-replace>ValuatedBys</last-replace>
-      <last-substitute>VehicleLocations</last-substitute>
+      <last-pattern>caseApi</last-pattern>
+      <last-replace>valuationApi</last-replace>
+      <last-substitute>caseApi</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtaWxlYWdlQXRSZXBvc3Nlc3Npb25cPg==</entry>
-        <entry>valutedBy</entry>
-        <entry encoding="base64">XDxhZnRlclZhbHVhdGlvbkRhdGVcPg==</entry>
-        <entry encoding="base64">XDx2YWx1YXRpb25EYXRlXD4=</entry>
-        <entry>\clocation</entry>
         <entry>location</entry>
         <entry>valuatedBy</entry>
         <entry encoding="base64">XDx2ZWhpY2xlTG9jYXRpb25cPg==</entry>
@@ -861,10 +858,13 @@
         <entry encoding="base64">XDxleHBlY3RlZFRhcmdldFByaWNlXD4=</entry>
         <entry>valua</entry>
         <entry encoding="base64">XDx2ZWhpY2xlXD4=</entry>
+        <entry encoding="base64">XDxjYXNlQWN0aW9uc1w+</entry>
+        <entry>case</entry>
+        <entry>valuation</entry>
+        <entry>\cdetails</entry>
+        <entry>caseApi</entry>
       </history-search>
       <history-cmd>
-        <entry>s/case/vehicle</entry>
-        <entry>.,.+1noh</entry>
         <entry>ws</entry>
         <entry>s/case/tax</entry>
         <entry encoding="base64">JzwsJz5zL3RheC9jb250cmFjdA==</entry>
@@ -881,7 +881,9 @@
         <entry encoding="base64">JzwsJz5zL1ZFSElDTEVfTE9DQVRJT05TL1ZBTFVBVEVEX0JZUw==</entry>
         <entry encoding="base64">JzwsJz5zL1ZlaGljbGVMb2NhdGlvbnMvVmFsdWF0ZWRCeXM=</entry>
         <entry>.,.+40noh</entry>
+        <entry encoding="base64">JzwsJz5zL2Nhc2UvdmFsdWF0aW9u</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2Nhc2VBcGkvdmFsdWF0aW9uQXBp</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
