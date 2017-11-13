@@ -40,6 +40,12 @@
         <mark key="]" line="1" column="34" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="R:/Rem/source/web/package.json" timestamp="1510565546799">
+        <mark key="'" line="8" column="17" />
+        <mark key="[" line="57" column="26" />
+        <mark key="]" line="57" column="26" />
+        <mark key="." line="57" column="26" />
+      </file>
       <file name="R:/Rem/source/web/src/reducers/modelsReducer.js" timestamp="1503995825188">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -164,12 +170,12 @@
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1510561099562">
-        <mark key="'" line="89" column="6" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="52" column="5" />
+      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1510565310793">
+        <mark key="'" line="67" column="6" />
+        <mark key="[" line="47" column="123" />
+        <mark key="]" line="47" column="123" />
+        <mark key="^" line="47" column="123" />
+        <mark key="." line="47" column="123" />
       </file>
       <file name="R:/Rem/source/web/src/containers/AuctionDetailsContainer.js" timestamp="1510147642017">
         <mark key="'" line="21" column="6" />
@@ -271,10 +277,12 @@
         <mark key="." line="246" column="67" />
         <mark key="^" line="246" column="82" />
       </file>
-      <file name="R:/Rem/source/web/src/reducers/valuationReducer.js" timestamp="1510560227377">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="R:/Rem/source/web/src/reducers/valuationReducer.js" timestamp="1510562600910">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
       </file>
       <file name="R:/Rem/source/web/src/api/actionsLogApi.js" timestamp="1510416578064">
         <mark key="'" line="8" column="52" />
@@ -319,12 +327,12 @@
         <mark key="." line="245" column="95" />
         <mark key="^" line="245" column="95" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/valuation/VehicleValuationOverviewContainer.js" timestamp="1510560877880">
+      <file name="R:/Rem/source/web/src/containers/valuation/VehicleValuationOverviewContainer.js" timestamp="1510562828536">
         <mark key="'" line="12" column="50" />
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="25" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="39" column="8" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="17" column="68" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
@@ -393,12 +401,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ValuationGrid.js" timestamp="1510559093999">
-        <mark key="'" line="8" column="9" />
-        <mark key="[" line="107" column="91" />
-        <mark key="]" line="107" column="91" />
-        <mark key="." line="107" column="91" />
-        <mark key="^" line="107" column="91" />
+      <file name="R:/Rem/source/web/src/components/ValuationGrid.js" timestamp="1510564828631">
+        <mark key="'" line="110" column="75" />
+        <mark key="[" line="113" column="20" />
+        <mark key="]" line="113" column="20" />
+        <mark key="." line="113" column="20" />
+        <mark key="^" line="113" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1510560702220">
         <mark key="[" line="0" column="0" />
@@ -448,24 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="8" filename="R:/Rem/source/web/src/containers/valuation/ValuationObjectDetailsContainer.js" />
-      <jump line="43" column="0" filename="R:/Rem/source/web/src/containers/valuation/ValuationObjectDetailsContainer.js" />
-      <jump line="4" column="44" filename="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" />
-      <jump line="39" column="13" filename="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" />
-      <jump line="5" column="0" filename="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" />
-      <jump line="186" column="40" filename="R:/Rem/source/web/src/actions/caseActions.js" />
-      <jump line="86" column="27" filename="R:/Rem/source/web/src/actions/caseActions.js" />
-      <jump line="90" column="19" filename="R:/Rem/source/web/src/actions/caseActions.js" />
-      <jump line="93" column="23" filename="R:/Rem/source/web/src/actions/caseActions.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/actions/valuationActions.js" />
-      <jump line="85" column="0" filename="R:/Rem/source/web/src/actions/caseActions.js" />
-      <jump line="119" column="26" filename="R:/Rem/source/web/src/actions/caseActions.js" />
-      <jump line="63" column="25" filename="R:/Rem/source/web/src/actions/caseActions.js" />
-      <jump line="35" column="6" filename="R:/Rem/source/web/src/actions/valuationActions.js" />
-      <jump line="51" column="63" filename="R:/Rem/source/web/src/actions/valuationActions.js" />
-      <jump line="49" column="2" filename="R:/Rem/source/web/src/actions/valuationActions.js" />
-      <jump line="79" column="32" filename="R:/Rem/source/web/src/api/caseApi.js" />
-      <jump line="94" column="25" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="65" column="0" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="83" column="16" filename="R:/Rem/source/web/src/api/caseApi.js" />
       <jump line="78" column="16" filename="R:/Rem/source/web/src/api/caseApi.js" />
@@ -528,7 +518,6 @@
       <jump line="90" column="17" filename="R:/Rem/source/web/src/components/ValuationGrid.js" />
       <jump line="99" column="16" filename="R:/Rem/source/web/src/components/ValuationGrid.js" />
       <jump line="5" column="46" filename="R:/Rem/source/web/src/components/ValuationGrid.js" />
-      <jump line="41" column="2" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="55" column="26" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="59" column="9" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="11" column="0" filename="R:/Rem/source/web/src/components/ValuationGrid.js" />
@@ -536,7 +525,6 @@
       <jump line="6" column="18" filename="R:/Rem/source/web/src/components/ValuationGrid.js" />
       <jump line="102" column="0" filename="R:/Rem/source/web/src/components/ValuationGrid.js" />
       <jump line="232" column="27" filename="R:/Rem/source/web/src/components/ValuationGrid.js" />
-      <jump line="107" column="91" filename="R:/Rem/source/web/src/components/ValuationGrid.js" />
       <jump line="8" column="9" filename="R:/Rem/source/web/src/components/ValuationGrid.js" />
       <jump line="42" column="18" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="77" column="0" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
@@ -548,58 +536,78 @@
       <jump line="0" column="0" filename="R:/Rem/source/web/src/containers/valuation/VehicleValuationOverviewContainer.js" />
       <jump line="12" column="50" filename="R:/Rem/source/web/src/containers/valuation/VehicleValuationOverviewContainer.js" />
       <jump line="45" column="6" filename="R:/Rem/source/web/src/components/Grid.js" />
+      <jump line="128" column="37" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="34" column="0" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="129" column="18" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="17" column="16" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="132" column="17" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="41" column="0" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="47" column="0" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="54" column="7" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="20" column="8" filename="R:/Rem/source/web/src/reducers/valuationReducer.js" />
+      <jump line="135" column="8" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="107" column="75" filename="R:/Rem/source/web/src/components/ValuationGrid.js" />
+      <jump line="124" column="2" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="218" column="33" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="130" column="47" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="65" column="6" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="79" column="3" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="33" column="0" filename="R:/Rem/source/web/package.json" />
+      <jump line="1" column="0" filename="R:/Rem/source/web/package.json" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/package.json" />
+      <jump line="8" column="17" filename="R:/Rem/source/web/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
-        <text>toast</text>
+        <text>\^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25BZGRUb2FzdCh7IG1lc3NhZ2U6IG1zZywgaW50ZW50OiBJbnRlbnQuUFJJTUFSWSwgdGltZW91dDogNTAwMCB9KQo=</text>
+        <text encoding="base64">ICAgICAgY3Jvc3N0YWIub2ZmKGNyb3NzdGFiRXZlbnRzLlNFVF9WRUhJQ0xFU19GT1JfVkFMVUFUSU9OKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyb3NzdGFiLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nb3RJdGVtc0ZvclZhbHVhdGlvbiA9IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmFkZFRvYXN0KCkK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nb3RJdGVtc0ZvclZhbHVhdGlvbiA9IHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyBwdXQgaXQgaW4gcmVkdXggZm9yIG5leHQvcHJldiB0byBzZWUKICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgaXRlbXMsCiAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2godmFsdWF0aW9uQWN0aW9ucy5nb1RvUHJldkl0ZW0oKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2godmFsdWF0aW9uQWN0aW9ucy5nb1RvTmV4dEl0ZW0oKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaGlzdG9yeS5wdXNoKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uR290b05leHRJdGVtOiAoaWQpID0+IHsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>toast</last-search>
+      <last-search>\^</last-search>
       <last-offset />
-      <last-pattern>toast</last-pattern>
+      <last-pattern>\^</last-pattern>
       <last-replace>valuation</last-replace>
       <last-substitute>toast</last-substitute>
       <last-dir>1</last-dir>
@@ -607,13 +615,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDYXNlQXR0cmlidXRlc1w+</entry>
-        <entry encoding="base64">XDxDT1JFVklFV19DQVNFX1VSTFw+</entry>
-        <entry encoding="base64">XDx0b2RvVHlwZUFwaUZhY3RvcnlcPg==</entry>
-        <entry encoding="base64">XDxhY3Rpb25zTG9nQXBpRmFjdG9yeVw+</entry>
-        <entry encoding="base64">XDxmb3JtSGFzVW5zYXZlZENoYW5nZXNcPg==</entry>
-        <entry>component</entry>
-        <entry encoding="base64">XDxGb3JtXD4=</entry>
         <entry>changes</entry>
         <entry encoding="base64">XDxVUERBVEVfVkFMVUFUSU9OX0ZST01fVkFMVUFUSU9OX1NVQ0NFRURFRFw+</entry>
         <entry>prev</entry>
@@ -627,9 +628,15 @@
         <entry>\ctoast</entry>
         <entry>console</entry>
         <entry>toast</entry>
+        <entry>match</entry>
+        <entry encoding="base64">XDxvbkFkZFRvYXN0XD4=</entry>
+        <entry encoding="base64">XDxpdGVtc0ZvclZhbHVhdGlvblw+</entry>
+        <entry encoding="base64">XDxnZXRQcmV2SXRlbUlkXD4=</entry>
+        <entry>^</entry>
+        <entry>cross</entry>
+        <entry>\^</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1ZhbHVhdGlvbi9SZXRhaWw=</entry>
         <entry>2</entry>
         <entry>.,.+42noh</entry>
         <entry>.,.+4noh</entry>
@@ -647,6 +654,7 @@
         <entry encoding="base64">JzwsJz5zL3ByZXYvbmV4dA==</entry>
         <entry>ws</entry>
         <entry encoding="base64">JzwsJz5zL3RvYXN0L3ZhbHVhdGlvbg==</entry>
+        <entry>54</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
