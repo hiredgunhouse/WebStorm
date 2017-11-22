@@ -27,13 +27,14 @@
         <mark key="^" line="194" column="47" />
         <mark key="." line="194" column="47" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1510560279537">
-        <mark key="'" line="55" column="20" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1511365794177">
+        <mark key="'" line="51" column="20" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="52" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1510417391983">
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1511366196322">
         <mark key="'" line="251" column="29" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="66" column="3" />
@@ -193,7 +194,7 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="33" column="18" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1510417690344">
+      <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1511366152707">
         <mark key="'" line="61" column="51" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -274,12 +275,6 @@
         <mark key="]" line="1" column="39" />
         <mark key="^" line="0" column="42" />
         <mark key="." line="1" column="69" />
-      </file>
-      <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1510418159088">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" timestamp="1510233137846">
         <mark key="'" line="5" column="0" />
@@ -401,6 +396,7 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
+      <file name="R:/Rem/source/web/src/components/controls/FieldContainer.js" timestamp="1511366219211" />
       <file name="R:/Rem/source/web/src/containers/CreateTodoContainer.js" timestamp="1510560325385">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="36" />
@@ -424,7 +420,7 @@
         <mark key="." line="175" column="106" />
         <mark key="^" line="175" column="106" />
       </file>
-      <file name="R:/Rem/source/web/src/api/api.js" timestamp="1510560093177">
+      <file name="R:/Rem/source/web/src/api/api.js" timestamp="1511366068907">
         <mark key="'" line="115" column="15" />
         <mark key="[" line="138" column="0" />
         <mark key="]" line="143" column="9" />
@@ -443,7 +439,6 @@
         <mark key="]" line="75" column="38" />
         <mark key="." line="75" column="38" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/ValuationGridContainer.js" timestamp="1510852558580" />
       <file name="R:/Rem/source/web/src/reducers/errorReducers.js" timestamp="1496932047444">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -561,11 +556,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>^</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>items</text>
@@ -574,31 +569,31 @@
         <text encoding="base64">ICAgICAgY3Jvc3N0YWIub2ZmKGNyb3NzdGFiRXZlbnRzLlNFVF9WRUhJQ0xFU19GT1JfVkFMVUFUSU9OKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNyb3NzdGFiLgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nb3RJdGVtc0ZvclZhbHVhdGlvbiA9IHRydWUK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nb3RJdGVtc0ZvclZhbHVhdGlvbiA9IHRydWUK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIGNyb3NzdGFiLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nb3RJdGVtc0ZvclZhbHVhdGlvbiA9IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nb3RJdGVtc0ZvclZhbHVhdGlvbiA9IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
