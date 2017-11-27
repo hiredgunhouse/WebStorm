@@ -154,12 +154,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionDetails.js" timestamp="1511798166934">
-        <mark key="'" line="170" column="22" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="117" />
-        <mark key="." line="245" column="95" />
-        <mark key="^" line="245" column="95" />
+      <file name="R:/Rem/source/web/src/components/AuctionDetails.js" timestamp="1511799768922">
+        <mark key="'" line="133" column="12" />
+        <mark key="[" line="232" column="61" />
+        <mark key="]" line="232" column="68" />
+        <mark key="." line="232" column="68" />
+        <mark key="^" line="232" column="68" />
       </file>
       <file name="R:/Rem/source/web/src/containers/valuation/VehicleValuationOverviewContainer.js" timestamp="1510562828536">
         <mark key="'" line="12" column="50" />
@@ -357,7 +357,7 @@
         <mark key="." line="113" column="20" />
         <mark key="^" line="113" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511798280624">
+      <file name="/Dummy.txt" timestamp="1511799774172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -547,22 +547,22 @@
       <jump line="186" column="2" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="129" column="42" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="132" column="16" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="133" column="12" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="228" column="31" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="170" column="22" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
+      <jump line="133" column="12" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVsbG8gUG9sYW5kIQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Q29tbWVudCA=</text>
       </register>
       <register name="-" type="4">
-        <text>Denmark</text>
+        <text encoding="base64">Q29tbWVudCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcnJpdmFsRGF0ZVw+</text>
+        <text>comment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LnJlYWN0LWdyaWQtQ2VsbC0tbG9ja2VkOmxhc3Qtb2YtdHlwZSB7CiAgICBib3JkZXItcmlnaHQ6IDFweCBzb2xpZCAjZGRkOwogICAgYm94LXNoYWRvdzogbm9uZTsKICAgIHotaW5kZXg6IDk5Cn0K</text>
@@ -599,9 +599,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcnJpdmFsRGF0ZVw+</last-search>
+      <last-search>comment</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcnJpdmFsRGF0ZVw+</last-pattern>
+      <last-pattern>comment</last-pattern>
       <last-replace>valuation</last-replace>
       <last-substitute>toast</last-substitute>
       <last-dir>1</last-dir>
@@ -609,8 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRWZWhpY2xlc0ZvclZhbHVhdGlvblw+</entry>
-        <entry encoding="base64">XDxjcm9zc3RhYkV2ZW50c1w+</entry>
         <entry encoding="base64">XDxnZXRWZWhpY2xlc0ZvclZhbHVhdGlvblw+</entry>
         <entry>fetchData</entry>
         <entry encoding="base64">XDxnZXRJZHNcPg==</entry>
@@ -629,6 +627,8 @@
         <entry>locked</entry>
         <entry>arrival date</entry>
         <entry encoding="base64">XDxhcnJpdmFsRGF0ZVw+</entry>
+        <entry>\ccomment</entry>
+        <entry>comment</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
