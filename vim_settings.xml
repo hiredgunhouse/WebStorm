@@ -299,11 +299,12 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="R:/Rem/source/web/src/components/InspectionReport.js" timestamp="1511881538551">
-        <mark key="'" line="187" column="22" />
-        <mark key="[" line="187" column="22" />
-        <mark key="]" line="187" column="39" />
-        <mark key="." line="290" column="13" />
+      <file name="R:/Rem/source/web/src/components/InspectionReport.js" timestamp="1511882687529">
+        <mark key="'" line="321" column="13" />
+        <mark key="[" line="310" column="0" />
+        <mark key="]" line="310" column="0" />
+        <mark key="^" line="329" column="0" />
+        <mark key="." line="310" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1496411034009">
         <mark key="[" line="0" column="0" />
@@ -317,10 +318,10 @@
         <mark key="^" line="66" column="61" />
         <mark key="." line="66" column="63" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1511875339947">
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1511882602591">
         <mark key="'" line="41" column="29" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="140" column="51" />
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="182" column="16" />
         <mark key="." line="139" column="0" />
         <mark key="^" line="183" column="3" />
       </file>
@@ -355,9 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="29" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
-      <jump line="204" column="26" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
-      <jump line="212" column="49" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="213" column="46" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="214" column="44" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="216" column="33" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
@@ -455,66 +453,68 @@
       <jump line="186" column="22" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="294" column="29" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="187" column="22" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
+      <jump line="281" column="10" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
+      <jump line="303" column="29" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
+      <jump line="324" column="13" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>arrivalDate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBmaW5pc2ggdGhpcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>arrivalDate</text>
+        <text>TextField</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBvcnRSZWNlaXZlZERhdGVcPg==</text>
+        <text>repor</text>
       </register>
       <register name="0" type="4">
-        <text>reportReceivedDate</text>
+        <text encoding="base64">TGlua09yVGV4dEZpZWxkIAogICAgICAgICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBmaW5pc2ggdGhpcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICBjb25zb2xlLmxvZyhzdGF0ZS5jYXNlT3ZlcnZpZXcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBmaW5pc2ggdGhpcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICBjb25zb2xlLmxvZygnaW5zcC4nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPERhdGVGaWVsZCBuYW1lPSJhcnJpdmFsRGF0ZSIgbGFiZWw9IkFycml2YWwgRGF0ZSIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBmaW5pc2ggdGhpcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW50ZW50IH0gZnJvbSAnQGJsdWVwcmludGpzL2NvcmUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdG9hc3RBY3Rpb25zIGZyb20gJy4uLy4uL2FjdGlvbnMvdG9hc3RBY3Rpb25zJwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgSW5zcGVjdGlvblJlcG9ydAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRvYXN0QWN0aW9ucy5hZGRUb2FzdCh0b2FzdCkK</text>
+        <text encoding="base64">aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUZXh0RmllbGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgdGltZW91dDogMTAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBvcnRSZWNlaXZlZERhdGVcPg==</last-search>
+      <last-search>repor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBvcnRSZWNlaXZlZERhdGVcPg==</last-pattern>
+      <last-pattern>repor</last-pattern>
       <last-replace encoding="base64">PExpbms=</last-replace>
       <last-substitute encoding="base64">PFRleHQ=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdWN0aW9uQ29tbWVudFw+</entry>
         <entry encoding="base64">PFRleHQ=</entry>
         <entry>make</entry>
         <entry encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</entry>
@@ -534,6 +534,7 @@
         <entry>report</entry>
         <entry encoding="base64">XDxhcnJpdmFsRGF0ZVw+</entry>
         <entry encoding="base64">XDxyZXBvcnRSZWNlaXZlZERhdGVcPg==</entry>
+        <entry>repor</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Nhc2UvdmFsdWF0aW9u</entry>
