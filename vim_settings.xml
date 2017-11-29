@@ -54,11 +54,11 @@
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="R:/Rem/source/web/src/api/actionsLogApi.js" timestamp="1511867191512">
+      <file name="R:/Rem/source/web/src/api/actionsLogApi.js" timestamp="1511962506478">
         <mark key="'" line="8" column="52" />
         <mark key="[" line="8" column="61" />
-        <mark key="]" line="8" column="62" />
-        <mark key="." line="8" column="62" />
+        <mark key="]" line="8" column="61" />
+        <mark key="." line="8" column="61" />
         <mark key="^" line="9" column="112" />
       </file>
       <file name="R:/Rem/source/web/src/containers/HomePage.js" timestamp="1511960468993">
@@ -189,6 +189,9 @@
         <mark key="^" line="27" column="47" />
         <mark key="." line="27" column="23" />
       </file>
+      <file name="R:/Rem/source/web/src/reducers/newCaseReducer.js" timestamp="1511871357634">
+        <mark key="'" line="26" column="10" />
+      </file>
       <file name="R:/Rem/source/web/src/containers/valuation/ValuationObjectDetailsContainer.js" timestamp="1511875527287">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="8" column="0" />
@@ -200,6 +203,9 @@
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1511961925792">
+        <mark key="'" line="161" column="5" />
       </file>
       <file name="R:/Rem/source/web/src/containers/AuctionVehiclesAssignmentContainer.js" timestamp="1511804542821">
         <mark key="[" line="29" column="48" />
@@ -371,14 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="50" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
-      <jump line="229" column="49" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
-      <jump line="230" column="53" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
-      <jump line="232" column="38" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
-      <jump line="233" column="50" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
-      <jump line="234" column="50" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
-      <jump line="236" column="46" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
-      <jump line="237" column="44" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="238" column="47" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="241" column="43" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
       <jump line="242" column="47" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
@@ -471,19 +469,27 @@
       <jump line="193" column="15" filename="R:/Rem/source/web/src/containers/HomePage.js" />
       <jump line="66" column="34" filename="R:/Rem/source/web/src/containers/HomePage.js" />
       <jump line="280" column="42" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="202" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" />
+      <jump line="46" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" />
+      <jump line="54" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" />
+      <jump line="91" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" />
+      <jump line="141" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" />
+      <jump line="145" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" />
+      <jump line="161" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">fSA=</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fSA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5kaWRhdGVzQ291bnRcPg==</text>
+        <text>comment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGNhbmRpZGF0ZXNDb3VudCA9IHBhdGhPcigwLCBbJ2l0ZW1zJywgJ2xlbmd0aCddLCB0aGlzLnN0YXRlLmNhbmRpZGF0ZUNhc2VzRGF0YSkK</text>
@@ -520,9 +526,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5kaWRhdGVzQ291bnRcPg==</last-search>
+      <last-search>comment</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5kaWRhdGVzQ291bnRcPg==</last-pattern>
+      <last-pattern>comment</last-pattern>
       <last-replace encoding="base64">PExpbms=</last-replace>
       <last-substitute encoding="base64">PFRleHQ=</last-substitute>
       <last-dir>1</last-dir>
@@ -530,7 +536,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbk1ha2VDaGFuZ2VcPg==</entry>
         <entry>var</entry>
         <entry encoding="base64">bGV0IA==</entry>
         <entry encoding="base64">XDxpc0p1c3RpZmljYXRpb25EaWFsb2dPcGVuXD4=</entry>
@@ -550,6 +555,7 @@
         <entry>repor</entry>
         <entry encoding="base64">XDxoNFw+</entry>
         <entry encoding="base64">XDxjYW5kaWRhdGVzQ291bnRcPg==</entry>
+        <entry>comment</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Nhc2UvdmFsdWF0aW9u</entry>
