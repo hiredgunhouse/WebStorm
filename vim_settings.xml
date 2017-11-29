@@ -263,11 +263,11 @@
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1511972195018">
+      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1511973595950">
         <mark key="'" line="190" column="6" />
-        <mark key="[" line="264" column="74" />
-        <mark key="]" line="264" column="74" />
-        <mark key="." line="264" column="74" />
+        <mark key="[" line="264" column="102" />
+        <mark key="]" line="264" column="102" />
+        <mark key="." line="264" column="102" />
         <mark key="^" line="264" column="74" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.js" timestamp="1511860099229">
@@ -308,7 +308,7 @@
         <mark key="." line="140" column="63" />
         <mark key="^" line="140" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511972561525">
+      <file name="/Dummy.txt" timestamp="1511973587517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -528,11 +528,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25WYWxpZGF0aW9uU3RhdGVDaGFuZ2UoaXNTdGF0ZVZhbGlkKHZhbGlkYXRpb25TdGF0ZSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1N0YXRlVmFsaWRcPg==</text>
