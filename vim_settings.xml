@@ -81,11 +81,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1503397759363">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1511869617701">
         <mark key="'" line="204" column="29" />
         <mark key="[" line="143" column="43" />
@@ -153,6 +148,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="22" column="56" />
         <mark key="." line="3" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1496411034009">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/actions/index.js" timestamp="1496920371843">
         <mark key="[" line="2" column="0" />
@@ -267,7 +267,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511881465204">
+      <file name="/Dummy.txt" timestamp="1511954055802">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -293,7 +293,6 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="R:/Rem/source/web/src/api/__mocks__/api.js" timestamp="1511867242004" />
       <file name="R:/Rem/source/web/src/reducers/makesReducer.js" timestamp="1507284157113">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -305,11 +304,6 @@
         <mark key="]" line="310" column="0" />
         <mark key="^" line="329" column="0" />
         <mark key="." line="310" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1496411034009">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1511864965469">
         <mark key="'" line="209" column="32" />
@@ -331,6 +325,11 @@
         <mark key="]" line="77" column="28" />
         <mark key="." line="77" column="28" />
         <mark key="^" line="77" column="41" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1503397759363">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/actions/todoActions.js" timestamp="1510412818726">
         <mark key="[" line="75" column="38" />
