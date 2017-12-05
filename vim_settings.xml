@@ -270,6 +270,9 @@
         <mark key="." line="227" column="0" />
         <mark key="^" line="228" column="47" />
       </file>
+      <file name="R:/Rem/source/web/src/components/controls/MultiSelectField.js" timestamp="1512481622775">
+        <mark key="'" line="38" column="2" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.js" timestamp="1511860099229">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="6" column="2" />
@@ -428,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="37" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="154" column="11" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="162" column="19" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="163" column="28" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
@@ -528,6 +530,7 @@
       <jump line="136" column="17" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="153" column="41" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="154" column="39" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="38" column="2" filename="R:/Rem/source/web/src/components/controls/MultiSelectField.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
