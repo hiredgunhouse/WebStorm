@@ -242,12 +242,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1512553935496">
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1512555188319">
         <mark key="'" line="232" column="0" />
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="6" />
-        <mark key="." line="277" column="6" />
-        <mark key="^" line="281" column="33" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
+        <mark key="^" line="280" column="34" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuction.js" timestamp="1512490918410">
         <mark key="'" line="304" column="10" />
@@ -563,10 +563,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAgIHNlbGVjdGVkSW5kZXhlczogdGhpcy5zdGF0ZS5hc3NpZ25lZENhc2VzRGF0YS5zZWxlY3RlZEluZGV4ZXMuZmlsdGVyKAogICAgICAgICAgICBpID0+IHJvd0luZGV4ZXMuaW5kZXhPZihpKSA9PT0gLTEKICAgICAgICAgICksCiAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>difference</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZE1vZGVsc0lzRGlydHlcPg==</text>
@@ -575,31 +575,31 @@
         <text encoding="base64">ICAgICAgY29uc3QgYXNzaWduZWRDYXNlc0RhdGEgPSBldm9sdmUoCiAgICAgICAge3NlbGVjdGVkSW5kZXhlczogUi5jb25jYXQocm93SWR4cyhyb3dzKSl9LAogICAgICAgIHByZXZTdGF0ZS5hc3NpZ25lZENhc2VzRGF0YQogICAgICApCgogICAgICByZXR1cm4ge2Fzc2lnbmVkQ2FzZXNEYXRhfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAgIHNlbGVjdGVkSW5kZXhlczogdGhpcy5zdGF0ZS5hc3NpZ25lZENhc2VzRGF0YS5zZWxlY3RlZEluZGV4ZXMuZmlsdGVyKAogICAgICAgICAgICBpID0+IHJvd0luZGV4ZXMuaW5kZXhPZihpKSA9PT0gLTEKICAgICAgICAgICksCiAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSA9PiByb3dJbmRleGVzLmluZGV4T2YoaSkgPT09IC0xCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgY29uc3Qgcm93SW5kZXhlcyA9IHJvd0lkeHMocm93cykK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmV2U3RhdGUuYXNzaWduZWRDYXNlc0RhdGEK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLnRoaXMuc3RhdGUuYXNzaWduZWRDYXNlc0RhdGEsCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NpZ25lZENhc2VzRGF0YTogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSA9PiByb3dJbmRleGVzLmluZGV4T2YoaSkgPT09IC0xCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgcm93SW5kZXhlcyA9IHJvd0lkeHMocm93cykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLnRoaXMuc3RhdGUuYXNzaWduZWRDYXNlc0RhdGEsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZXZTdGF0ZS5hc3NpZ25lZENhc2VzRGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NpZ25lZENhc2VzRGF0YTogewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtzZWxlY3RlZEluZGV4ZXM6IFIuY29uY2F0KHJvd0lkeHMocm93cykpfSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
