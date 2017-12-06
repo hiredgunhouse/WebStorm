@@ -82,12 +82,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/VehiclesAssignedToAuction.js" timestamp="1512556639270">
+      <file name="R:/Rem/source/web/src/components/auction/VehiclesAssignedToAuction.js" timestamp="1512557455204">
         <mark key="'" line="70" column="6" />
-        <mark key="[" line="113" column="42" />
-        <mark key="]" line="113" column="42" />
-        <mark key="^" line="113" column="48" />
-        <mark key="." line="113" column="42" />
+        <mark key="[" line="123" column="37" />
+        <mark key="]" line="123" column="37" />
+        <mark key="^" line="115" column="26" />
+        <mark key="." line="123" column="37" />
       </file>
       <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1511972552189">
         <mark key="'" line="205" column="29" />
@@ -570,43 +570,43 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSb3dSZW5kZXJlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JwppbXBvcnQgR3JpZCBmcm9tICcuLi9HcmlkJwppbXBvcnQgUmVhY3REYXRhR3JpZCBmcm9tICdyZWFjdC1kYXRhLWdyaWQnCmltcG9ydCB7IFBvc2l0aW9uLCBEaWFsb2csIEludGVudCwgQnV0dG9uIH0gZnJvbSAnQGJsdWVwcmludGpzL2NvcmUnCmltcG9ydCB7IHBhdGhPciB9IGZyb20gJ3JhbWRhJwppbXBvcnQgRmFGaWxlRXhjZWxPIGZyb20gJ3JlYWN0LWljb25zL2xpYi9mYS9maWxlLWV4Y2VsLW8nCg==</text>
+      <register name="0" type="4">
+        <text>selectedIndexes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEZhRmlsZUV4Y2VsTyBmcm9tICdyZWFjdC1pY29ucy9saWIvZmEvZmlsZS1leGNlbC1vJwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGF0aE9yIH0gZnJvbSAncmFtZGEnCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGF0aE9yIH0gZnJvbSAncmFtZGEnCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IEZhRmlsZUV4Y2VsTyBmcm9tICdyZWFjdC1pY29ucy9saWIvZmEvZmlsZS1leGNlbC1vJwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcGF0aE9yIH0gZnJvbSAncmFtZGEnCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcGF0aE9yIH0gZnJvbSAncmFtZGEnCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAnQGJsdWVwcmludGpzL2NvcmUvZGlzdC9jb21wb25lbnRzL2J1dHRvbi9idXR0b25zJwo=</text>
+        <text encoding="base64">aW1wb3J0IEZhRmlsZUV4Y2VsTyBmcm9tICdyZWFjdC1pY29ucy9saWIvZmEvZmlsZS1leGNlbC1vJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUG9zaXRpb24sIERpYWxvZywgSW50ZW50LCBCdXR0b24gfSBmcm9tICdAYmx1ZXByaW50anMvY29yZScK</text>
+        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAnQGJsdWVwcmludGpzL2NvcmUvZGlzdC9jb21wb25lbnRzL2J1dHRvbi9idXR0b25zJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0RGF0YUdyaWQgZnJvbSAncmVhY3QtZGF0YS1ncmlkJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUG9zaXRpb24sIERpYWxvZywgSW50ZW50LCBCdXR0b24gfSBmcm9tICdAYmx1ZXByaW50anMvY29yZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEdyaWQgZnJvbSAnLi4vR3JpZCcK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0RGF0YUdyaWQgZnJvbSAncmVhY3QtZGF0YS1ncmlkJwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -654,7 +654,6 @@
         <entry encoding="base64">JzwsJz5zL3ByZXYvbmV4dA==</entry>
         <entry encoding="base64">JzwsJz5zL3RvYXN0L3ZhbHVhdGlvbg==</entry>
         <entry>54</entry>
-        <entry>we</entry>
         <entry>ws</entry>
         <entry>w3</entry>
         <entry>.,.+4noh</entry>
@@ -663,6 +662,7 @@
         <entry>168</entry>
         <entry>165</entry>
         <entry>W</entry>
+        <entry>we</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
