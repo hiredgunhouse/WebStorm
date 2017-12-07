@@ -46,7 +46,6 @@
         <mark key="]" line="173" column="68" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="/AuctionList.js" timestamp="1512490710572" />
       <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1511858037868">
         <mark key="'" line="5" column="6" />
         <mark key="[" line="0" column="23" />
@@ -259,12 +258,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1512587545336">
-        <mark key="'" line="380" column="19" />
-        <mark key="[" line="401" column="0" />
-        <mark key="]" line="406" column="20" />
-        <mark key="^" line="405" column="21" />
-        <mark key="." line="401" column="0" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1512632871389">
+        <mark key="'" line="385" column="43" />
+        <mark key="[" line="400" column="0" />
+        <mark key="]" line="400" column="0" />
+        <mark key="." line="400" column="0" />
+        <mark key="^" line="399" column="22" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuction.js" timestamp="1512582664784">
         <mark key="'" line="304" column="10" />
@@ -349,7 +348,6 @@
         <mark key="." line="140" column="63" />
         <mark key="^" line="140" column="63" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AddAuctionDialog.js" timestamp="1512490885894" />
       <file name="/Dummy.txt" timestamp="1512583337845">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
@@ -485,7 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="4" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="297" column="31" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="328" column="31" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="467" column="34" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -585,16 +582,17 @@
       <jump line="0" column="0" filename="R:/Rem/source/web/src/App.css" />
       <jump line="5" column="4" filename="R:/Rem/source/web/src/index.css" />
       <jump line="380" column="19" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="385" column="43" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sLXNtLTEiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJvdyI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtc20tMTIiPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Empty</text>
+        <text>title=&quot;Add&quot;</text>
       </register>
       <register name="/" type="4">
         <text>class=</text>
@@ -603,31 +601,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sLXNtLTEiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJvdyI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtc20tMTIiPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGhyIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC1zbS0xIj48Yj5SZW1vdmU8L2I+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGV4dAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC1zbS03Ij48Yj5Nb2RlbDwvYj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQWRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGhyIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC1zbS0xIj48Yj5SZW1vdmU8L2I+PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC1zbS03Ij48Yj5Nb2RlbDwvYj48L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyb3ciPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sLXNtLTMiPjxiPk1ha2U8L2I+PC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtc20tNyI+PGI+TW9kZWw8L2I+PC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtc20tMSI+PGI+UmVtb3ZlPC9iPjwvZGl2PgogICAgICAgICAgICAgICAgICA8aHIgLz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJvdyI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtc20tMTIiPgogICAgICAgICAgICAgICAgICAgIHt0aGlzLnN0YXRlLnNlbGVjdGVkTW9kZWxzLm1hcChpdGVtID0+ICgKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJvdyIga2V5PXtpdGVtLmtleX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC1zbS0zIj57aXRlbS5tYWtlfTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtc20tNyI+e2l0ZW0ubW9kZWwgfHwgJyd9PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC1zbS0xIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0iYnV0dG9uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InB0LWJ1dHRvbiBwdC1pY29uLXJlbW92ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gdGhpcy5vblJlbW92ZVNlbGVjdGVkTW9kZWwoaXRlbSl9IC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyb3ciPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sLXNtLTQiPgogICAgICAgICAgICAgICAgICAgIDxUeXBlYWhlYWRGaWVsZCBuYW1lPSJtYWtlIiBsYWJlbD0iTWFrZSIgaXRlbXNQcm9wPSJtYWtlcyIKICAgICAgICAgICAgICAgICAgICAgIGFsbG93TmV3CiAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5vbk1ha2VDaGFuZ2V9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtc20tNyI+CiAgICAgICAgICAgICAgICAgICAgPFR5cGVhaGVhZEZpZWxkIG5hbWU9Im1vZGVsIiBsYWJlbD0iTW9kZWwiCiAgICAgICAgICAgICAgICAgICAgICBpdGVtc1Byb3A9Im1vZGVscyIKICAgICAgICAgICAgICAgICAgICAgIGFsbG93TmV3IC8+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sLXNtLTEiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwdC1mb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9InB0LWxhYmVsIgogICAgICAgICAgICAgICAgICAgICAgICBodG1sRm9yPSJhZGRNb2RlbCI+Jm5ic3A7PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gbmFtZT0iYWRkTW9kZWwiIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJwdC1idXR0b24gcHQtaWNvbi1hZGQiCiAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMub25BZGRTZWxlY3RlZE1vZGVsfSAvPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
