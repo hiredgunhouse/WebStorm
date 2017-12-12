@@ -271,13 +271,6 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1513083526830">
-        <mark key="'" line="260" column="2" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="34" column="1" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuction.js" timestamp="1512582664784">
         <mark key="'" line="304" column="10" />
         <mark key="[" line="203" column="24" />
@@ -606,50 +599,43 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3JhbWRhJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWN0aW9uVmVoaWNsZXNBc3NpZ25tZW50QWN0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgYXVjdGlvblZlaGljbGVzQXNzaWdubWVudEFjdGlvbnMgZnJvbSAnLi4vYWN0aW9ucy9hdWN0aW9uVmVoaWNsZXNBc3NpZ25tZW50QWN0aW9ucycK</text>
+        <text encoding="base64">ICBhc3NpZ25WZWhpY2xlcyAoKSB7CiAgICB0aGlzLm9wZW5BdWN0aW9uVmVoaWNsZXNBc3NpZ21lbnREaWFsb2coKQogIH0KCiAgb3BlbkF1Y3Rpb25WZWhpY2xlc0Fzc2lnbWVudERpYWxvZygpIHsKICAgIHRoaXMuc2hvd0F1Y3Rpb25WZWhpY2xlc0Fzc2lnbWVudERpYWxvZygpCiAgfQoKICBjbG9zZUF1Y3Rpb25WZWhpY2xlc0Fzc2lnbWVudERpYWxvZygpIHsKICAgIHRoaXMuaGlkZUF1Y3Rpb25WZWhpY2xlc0Fzc2lnbWVudERpYWxvZygpCiAgfQoKICBzaG93QXVjdGlvblZlaGljbGVzQXNzaWdtZW50RGlhbG9nKCkgewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIHNob3dBdWN0aW9uVmVoaWNsZUFzc2lnbm1lbnREaWFsb2c6IHRydWUKICAgIH0pCiAgfQoKICBoaWRlQXVjdGlvblZlaGljbGVzQXNzaWdtZW50RGlhbG9nKCkgewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIHNob3dBdWN0aW9uVmVoaWNsZUFzc2lnbm1lbnREaWFsb2c6IGZhbHNlCiAgICB9KQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3JhbWRhJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb250YWlucywK</text>
+        <text encoding="base64">ICAgIC8vICAgaGlkZUF1Y3Rpb25WZWhpY2xlc0Fzc2lnbWVudERpYWxvZygpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBib3RoLAo=</text>
+        <text encoding="base64">ICAgIC8vIHNob3dBdWN0aW9uVmVoaWNsZXNBc3NpZ21lbnREaWFsb2coKSB7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>,
-  contains,
-  evolve,
-  find,
-  map,
-  omit,
-  pick,
-  pipe, prop,</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9uRXhwb3J0OiBhdWN0aW9uSWQgPT4gewogICAgICBkaXNwYXRjaChhdWN0aW9uVmVoaWNsZXNBc3NpZ25tZW50QWN0aW9ucy5nZXRBc3NpZ25lVmVoaWNsZXNMaXN0WGxzeChhdWN0aW9uSWQpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNob3dBdWN0aW9uVmVoaWNsZXNBc3NpZ21lbnREaWFsb2coKSB7CiAgICBoaWRlQXVjdGlvblZlaGljbGVzQXNzaWdtZW50RGlhbG9nKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2xvc2VEaWFsb2coKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25DbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaG93QXVjdGlvblZlaGljbGVBc3NpZ25tZW50RGlhbG9nOiBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
