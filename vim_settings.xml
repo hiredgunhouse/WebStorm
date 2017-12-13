@@ -274,8 +274,8 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1513097100454">
-        <mark key="'" line="89" column="38" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1513162419177">
+        <mark key="'" line="291" column="6" />
         <mark key="[" line="120" column="2" />
         <mark key="]" line="120" column="28" />
         <mark key="." line="121" column="65" />
@@ -345,10 +345,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignmentDialog.js" timestamp="1513086977462">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignmentDialog.js" timestamp="1513162454231">
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/index.js" timestamp="1498723053072">
         <mark key="[" line="3" column="0" />
@@ -508,7 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="12" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="242" column="20" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="330" column="21" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="445" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -608,22 +608,23 @@
       <jump line="425" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="141" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="172" column="17" filename="R:/Rem/source/web/src/components/Grid.js" />
+      <jump line="291" column="6" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>setAuctionEditDialogUnsavedChangesFlag</text>
+        <text>AuctionVehiclesAssignmentDialog</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>export</text>
+        <text encoding="base64">XDxpc0F1Y3Rpb25WZWhpY2xlc0Fzc2lnbm1lbnREaWFsb2dPcGVuXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>setAuctionEditDialogUnsavedChangesFlag</text>
+        <text>AuctionVehiclesAssignmentDialog</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
@@ -657,9 +658,9 @@
       </register>
     </registers>
     <search>
-      <last-search>export</last-search>
+      <last-search encoding="base64">XDxpc0F1Y3Rpb25WZWhpY2xlc0Fzc2lnbm1lbnREaWFsb2dPcGVuXD4=</last-search>
       <last-offset />
-      <last-pattern>export</last-pattern>
+      <last-pattern encoding="base64">XDxpc0F1Y3Rpb25WZWhpY2xlc0Fzc2lnbm1lbnREaWFsb2dPcGVuXD4=</last-pattern>
       <last-replace>hide</last-replace>
       <last-substitute>show</last-substitute>
       <last-dir>1</last-dir>
@@ -667,7 +668,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbG9zZUF1Y3Rpb25WZWhpY2xlc0Fzc2lnbm1lbnREaWFsb2dcPg==</entry>
         <entry>closeAu</entry>
         <entry>Assigm</entry>
         <entry encoding="base64">XDxzaG93QXVjdGlvblZlaGljbGVBc3NpZ25tZW50RGlhbG9nXD4=</entry>
@@ -687,6 +687,7 @@
         <entry encoding="base64">XDxjYW5TdG9wRWRpdGluZ0F1Y3Rpb25cPg==</entry>
         <entry encoding="base64">XDxhdWN0aW9uRWRpdERpYWxvZ0hhc1Vuc2F2ZWRDaGFuZ2VzXD4=</entry>
         <entry>export</entry>
+        <entry encoding="base64">XDxpc0F1Y3Rpb25WZWhpY2xlc0Fzc2lnbm1lbnREaWFsb2dPcGVuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL30vKS9n</entry>
