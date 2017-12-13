@@ -258,12 +258,11 @@
         <mark key="." line="152" column="75" />
         <mark key="^" line="152" column="75" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionVehiclesAssignmentContainer.js" timestamp="1513165112136">
-        <mark key="'" line="15" column="38" />
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="15" />
+      <file name="R:/Rem/source/web/src/containers/AuctionVehiclesAssignmentContainer.js" timestamp="1513177228907">
+        <mark key="'" line="16" column="38" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/todoActions.js" timestamp="1496067349332">
         <mark key="[" line="14" column="0" />
@@ -629,7 +628,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1Y3Rpb25EZXRhaWxzOiBvd25Qcm9wcy5hdWN0aW9uRGV0YWlscywK</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -641,31 +640,31 @@
         <text>assignedVehicles</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1Y3Rpb25EZXRhaWxzOiBvd25Qcm9wcy5hdWN0aW9uRGV0YWlscywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdG9wQXNzaWduaW5nVmVoaWNsZXNUb0F1Y3Rpb24oKSB7fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25WZWhpY2xlc0Fzc2lnbmVkVG9BdWN0aW9uPXt0aGlzLm9uVmVoaWNsZXNBc3NpZ25lZFRvQXVjdGlvbn0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVjdGlvbklkPXt0aGlzLnByb3BzLmF1Y3Rpb25JZH0KICAgICAgICAgICAgYXVjdGlvbkRldGFpbHM9e2F1Y3Rpb25EZXRhaWxzfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXVjdGlvbkRldGFpbHM9e2F1Y3Rpb25EZXRhaWxzfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ2Fzc2lnbmVkVmVoaWNsZXMnOiBhc3NpZ25lZFZlaGljbGVzLnNsaWNlKCksCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVoaWNsZXNBc3NpZ25lZFRvQXVjdGlvbj17dmVoaWNsZXNBc3NpZ25lZFRvQXVjdGlvbn0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBzdG9wQXNzaWduaW5nVmVoaWNsZXNUb0F1Y3Rpb24oKSB7fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb25WZWhpY2xlc0Fzc2lnbmVkVG9BdWN0aW9uPXt0aGlzLm9uVmVoaWNsZXNBc3NpZ25lZFRvQXVjdGlvbn0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXVjdGlvbklkPXt0aGlzLnByb3BzLmF1Y3Rpb25JZH0KICAgICAgICAgICAgYXVjdGlvbkRldGFpbHM9e2F1Y3Rpb25EZXRhaWxzfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXVjdGlvbkRldGFpbHM9e2F1Y3Rpb25EZXRhaWxzfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgJ2Fzc2lnbmVkVmVoaWNsZXMnOiBhc3NpZ25lZFZlaGljbGVzLnNsaWNlKCksCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmVoaWNsZXNBc3NpZ25lZFRvQXVjdGlvbj17dmVoaWNsZXNBc3NpZ25lZFRvQXVjdGlvbn0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFzc2lnbmVkVmVoaWNsZXMgPSB0aGlzLnN0YXRlLmFzc2lnbmVkVmVoaWNsZXMuc2xpY2UoKSAvLyBUT0RPIGNvbnNpZGVyIEltbXV0YWJsZS5qcyBzbyB0aGF0IHRoZSBjaGlsZCBjb21wb25lbnQgY2Fubm90IG1lc3Mgd2l0aCB0aGUgZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
