@@ -62,6 +62,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1513261738732">
+        <mark key="'" line="203" column="1" />
+        <mark key="[" line="37" column="34" />
+        <mark key="]" line="37" column="34" />
+        <mark key="^" line="37" column="35" />
+        <mark key="." line="37" column="34" />
+      </file>
       <file name="R:/Rem/source/web/src/api/valuationApi.js" timestamp="1512663635931">
         <mark key="'" line="10" column="38" />
         <mark key="[" line="12" column="4" />
@@ -577,7 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="29" column="15" filename="R:/Rem/source/web/src/containers/AuctionVehiclesAssignmentContainer.js" />
       <jump line="85" column="5" filename="R:/Rem/source/web/src/containers/EditAuctionContainer.js" />
       <jump line="322" column="31" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -677,16 +683,17 @@
       <jump line="14" column="20" filename="R:/Rem/source/web/src/components/auction/AddAuctionDialog.js" />
       <jump line="13" column="8" filename="R:/Rem/source/web/src/components/auction/EditAuctionDialog.js" />
       <jump line="367" column="11" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="203" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgWWVzTm9SZWFkb25seUZpZWxkIH0gZnJvbSAnLi9jb250cm9scy9ZZXNOb1JlYWRvbmx5RmllbGQnCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>old</text>
