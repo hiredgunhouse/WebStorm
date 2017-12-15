@@ -153,8 +153,8 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" timestamp="1513367502681">
-        <mark key="'" line="3" column="29" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" timestamp="1513368488062">
+        <mark key="'" line="43" column="10" />
         <mark key="[" line="50" column="56" />
         <mark key="]" line="51" column="51" />
         <mark key="^" line="51" column="51" />
@@ -769,15 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="19" filename="R:/Rem/source/web/src/components/Grid.js" />
-      <jump line="234" column="2" filename="R:/Rem/source/web/src/components/Grid.js" />
-      <jump line="115" column="41" filename="R:/Rem/source/web/src/components/Grid.js" />
-      <jump line="37" column="9" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="463" column="64" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="54" column="0" filename="R:/Rem/source/web/src/components/auction/AddAuction.js" />
-      <jump line="69" column="9" filename="R:/Rem/source/web/src/components/auction/AddAuction.js" />
-      <jump line="119" column="2" filename="R:/Rem/source/web/src/components/auction/AddAuction.js" />
-      <jump line="67" column="7" filename="R:/Rem/source/web/src/components/auction/AddAuction.js" />
       <jump line="18" column="6" filename="R:/Rem/source/web/src/components/SearchBar.js" />
       <jump line="32" column="8" filename="R:/Rem/source/web/src/components/Costs.js" />
       <jump line="50" column="8" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
@@ -868,7 +859,16 @@
       <jump line="37" column="0" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="42" column="23" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="45" column="21" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="54" column="4" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="3" column="29" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="171" column="73" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="143" column="72" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="126" column="41" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="112" column="26" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="105" column="15" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="89" column="26" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="82" column="15" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="43" column="10" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -881,7 +881,7 @@
         <text>vehicles</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBcPg==</text>
+        <text encoding="base64">XDx2YWx1ZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmVoaWNsZXNUeXBlczogdmFsdWVzKGF1Y3Rpb25EZXRhaWxzLnZlaGljbGVzVHlwZXMpLAo=</text>
@@ -918,9 +918,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBcPg==</last-search>
+      <last-search encoding="base64">XDx2YWx1ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2YWx1ZXNcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>this.</last-substitute>
       <last-dir>1</last-dir>
@@ -928,7 +928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.</entry>
         <entry>editauction</entry>
         <entry>slice</entry>
         <entry>ctor</entry>
@@ -948,6 +947,7 @@
         <entry>copy</entry>
         <entry encoding="base64">XDxwcm9wXD4=</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
+        <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9IFwnLiskLycsLw==</entry>
