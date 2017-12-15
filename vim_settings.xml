@@ -153,11 +153,12 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" timestamp="1513364340028">
-        <mark key="[" line="44" column="43" />
-        <mark key="]" line="44" column="43" />
-        <mark key="^" line="44" column="43" />
-        <mark key="." line="44" column="43" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" timestamp="1513367502681">
+        <mark key="'" line="3" column="29" />
+        <mark key="[" line="50" column="56" />
+        <mark key="]" line="51" column="51" />
+        <mark key="^" line="51" column="51" />
+        <mark key="." line="50" column="61" />
       </file>
       <file name="R:/Rem/source/web/src/utils/dropDownUtils.js" timestamp="1513260791590">
         <mark key="[" line="0" column="7" />
@@ -238,11 +239,11 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionDetailsContainer.js" timestamp="1513364839794">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="1" />
-        <mark key="." line="19" column="0" />
+      <file name="R:/Rem/source/web/src/containers/AuctionDetailsContainer.js" timestamp="1513367117122">
+        <mark key="[" line="11" column="73" />
+        <mark key="]" line="11" column="79" />
+        <mark key="^" line="11" column="79" />
+        <mark key="." line="11" column="79" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.js" timestamp="1511860099229">
         <mark key="[" line="6" column="1" />
@@ -768,9 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="30" filename="R:/Rem/source/web/src/components/Grid.js" />
-      <jump line="209" column="25" filename="R:/Rem/source/web/src/components/Grid.js" />
-      <jump line="15" column="46" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="26" column="19" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="234" column="2" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="115" column="41" filename="R:/Rem/source/web/src/components/Grid.js" />
@@ -868,58 +866,61 @@
       <jump line="519" column="20" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="75" column="9" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="37" column="0" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
+      <jump line="42" column="23" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="45" column="21" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="3" column="29" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlcyA9IG1hcChwcm9wKCd2YWx1ZScpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vehicles</text>
       </register>
       <register name="/" type="4">
-        <text>copy</text>
+        <text encoding="base64">XDxtYXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIGxldCdzIGNvbnNpZGVyIGEgbW9yZSBzeXN0YW1hdGljIGFwcHJvYWNoIHRvIHRoaXMgcHJvYmxlbQo=</text>
+        <text encoding="base64">ICAgICAgdmVoaWNsZXNUeXBlczogdmFsdWVzKGF1Y3Rpb25EZXRhaWxzLnZlaGljbGVzVHlwZXMpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVuc2F2ZWRDaGFuZ2VzQ2FsbGJhY2soKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlcyA9IG1hcChwcm9wKCd2YWx1ZScpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJvd1NlbGVjdGlvbkVuYWJsZWQK</text>
+        <text encoding="base64">ICAgICAgICAgIHVuc2F2ZWRDaGFuZ2VzQ2FsbGJhY2soKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIHJvd1NlbGVjdGlvbkVuYWJsZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0RGF0YUdyaWQgZnJvbSAncmVhY3QtZGF0YS1ncmlkJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJvd1NlbGVjdGlvbkVuYWJsZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0RGF0YUdyaWQgZnJvbSAncmVhY3QtZGF0YS1ncmlkJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQWNjZXB0VmFsdWF0aW9uUm93UmVuZGVyZXIgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogIGNvbnN0cnVjdG9yIChwcm9wcykgewogICAgc3VwZXIocHJvcHMpCgogICAgYmluZEFsbCgKICAgICAgdGhpcywKICAgICAgWwogICAgICAgICdnZXRSb3dTdHlsZScsCiAgICAgICAgJ2dldFJvd0JhY2tncm91bmQnLAogICAgICBdCiAgICApCiAgfQoKICAvLyBUT0RPOiBmaW5pc2ggdGhpcyBzdHlsaW5nIGlzc3VlIChub3QgdGhhdCBzdHJhaWdodGZvcndhcmQgY2F1c2UgcmVhY3QtZGF0YS1naXJkIHBlb3BsZSBmKmNrZWQgdGhpcyB1cCBJTUhPKQogIGdldFJvd1N0eWxlICgpIHsKICAgIHJldHVybiB7CiAgICAgIC8vIGJhY2tncm91bmRDb2xvcjogdGhpcy5nZXRSb3dCYWNrZ3JvdW5kKCkKICAgIH0KICB9CgogIGdldFJvd0JhY2tncm91bmQgKCkgewogICAgcmV0dXJuIHRoaXMucHJvcHMuaWR4ICUgMiA/ICd3aGl0ZScgOiAnZ3JheScKICB9CgogIHJlbmRlciAoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IHN0eWxlPXt0aGlzLmdldFJvd1N0eWxlKCl9PgogICAgICAgIDxSZWFjdERhdGFHcmlkLlJvdyByZWY9InJvdyIgey4uLnRoaXMucHJvcHN9IC8+CiAgICAgIDwvZGl2PgogICAgKQogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdyYW1kYScK</text>
+        <text encoding="base64">Y2xhc3MgQWNjZXB0VmFsdWF0aW9uUm93UmVuZGVyZXIgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogIGNvbnN0cnVjdG9yIChwcm9wcykgewogICAgc3VwZXIocHJvcHMpCgogICAgYmluZEFsbCgKICAgICAgdGhpcywKICAgICAgWwogICAgICAgICdnZXRSb3dTdHlsZScsCiAgICAgICAgJ2dldFJvd0JhY2tncm91bmQnLAogICAgICBdCiAgICApCiAgfQoKICAvLyBUT0RPOiBmaW5pc2ggdGhpcyBzdHlsaW5nIGlzc3VlIChub3QgdGhhdCBzdHJhaWdodGZvcndhcmQgY2F1c2UgcmVhY3QtZGF0YS1naXJkIHBlb3BsZSBmKmNrZWQgdGhpcyB1cCBJTUhPKQogIGdldFJvd1N0eWxlICgpIHsKICAgIHJldHVybiB7CiAgICAgIC8vIGJhY2tncm91bmRDb2xvcjogdGhpcy5nZXRSb3dCYWNrZ3JvdW5kKCkKICAgIH0KICB9CgogIGdldFJvd0JhY2tncm91bmQgKCkgewogICAgcmV0dXJuIHRoaXMucHJvcHMuaWR4ICUgMiA/ICd3aGl0ZScgOiAnZ3JheScKICB9CgogIHJlbmRlciAoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IHN0eWxlPXt0aGlzLmdldFJvd1N0eWxlKCl9PgogICAgICAgIDxSZWFjdERhdGFHcmlkLlJvdyByZWY9InJvdyIgey4uLnRoaXMucHJvcHN9IC8+CiAgICAgIDwvZGl2PgogICAgKQogIH0KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNsb25lIGZyb20gJ3JlYWN0LWljb25zL2ZhLycK</text>
+        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdyYW1kYScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">aW1wb3J0IGNsb25lIGZyb20gJ3JlYWN0LWljb25zL2ZhLycK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>copy</last-search>
+      <last-search encoding="base64">XDxtYXBcPg==</last-search>
       <last-offset />
-      <last-pattern>copy</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>this.</last-substitute>
       <last-dir>1</last-dir>
@@ -927,8 +928,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ID0gLiok</entry>
-        <entry encoding="base64">ID0uKiQ=</entry>
         <entry>this.</entry>
         <entry>editauction</entry>
         <entry>slice</entry>
@@ -947,6 +946,8 @@
         <entry>onClose</entry>
         <entry encoding="base64">XDxjYW5jZWxcPg==</entry>
         <entry>copy</entry>
+        <entry encoding="base64">XDxwcm9wXD4=</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9IFwnLiskLycsLw==</entry>
