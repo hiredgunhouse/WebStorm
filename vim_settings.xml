@@ -153,11 +153,11 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" timestamp="1513345049639">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="5" column="35" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" timestamp="1513364340028">
+        <mark key="[" line="44" column="43" />
+        <mark key="]" line="44" column="43" />
+        <mark key="^" line="44" column="43" />
+        <mark key="." line="44" column="43" />
       </file>
       <file name="R:/Rem/source/web/src/utils/dropDownUtils.js" timestamp="1513260791590">
         <mark key="[" line="0" column="7" />
@@ -237,6 +237,12 @@
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/AuctionDetailsContainer.js" timestamp="1513364839794">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.js" timestamp="1511860099229">
         <mark key="[" line="6" column="1" />
@@ -477,12 +483,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionDetails.js" timestamp="1513345629226">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="40" column="7" />
+      <file name="R:/Rem/source/web/src/components/AuctionDetails.js" timestamp="1513364904210">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="117" column="59" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CreateCaseContainer.js" timestamp="1513250696184">
         <mark key="[" line="16" column="7" />
@@ -654,7 +660,7 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513356831091">
+      <file name="/Dummy.txt" timestamp="1513364450856">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -762,7 +768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="27" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="208" column="30" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="209" column="25" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="15" column="46" filename="R:/Rem/source/web/src/components/Grid.js" />
@@ -862,22 +867,23 @@
       <jump line="516" column="34" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="519" column="20" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="75" column="9" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="37" column="0" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5jZWxcPg==</text>
+        <text>copy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB1cGRhdGVVbnNhdmVkQ2hhbmdlc1N0YXR1cyAoKSB7CiAgICB0aGlzLnByb3BzLnVuc2F2ZWRDaGFuZ2VzQ2FsbGJhY2sodGhpcy5mb3JtSGFzVW5zYXZlZENoYW5nZXMoKSkKICB9Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIGxldCdzIGNvbnNpZGVyIGEgbW9yZSBzeXN0YW1hdGljIGFwcHJvYWNoIHRvIHRoaXMgcHJvYmxlbQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHVuc2F2ZWRDaGFuZ2VzQ2FsbGJhY2soKQo=</text>
@@ -911,9 +917,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5jZWxcPg==</last-search>
+      <last-search>copy</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5jZWxcPg==</last-pattern>
+      <last-pattern>copy</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>this.</last-substitute>
       <last-dir>1</last-dir>
@@ -921,7 +927,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkZpZWxkQ2hhbmdlXD4=</entry>
         <entry encoding="base64">ID0gLiok</entry>
         <entry encoding="base64">ID0uKiQ=</entry>
         <entry>this.</entry>
@@ -941,6 +946,7 @@
         <entry encoding="base64">XDxvbkNsb3NlQXVjdGlvbkVkaXREaWFsb2dcPg==</entry>
         <entry>onClose</entry>
         <entry encoding="base64">XDxjYW5jZWxcPg==</entry>
+        <entry>copy</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9IFwnLiskLycsLw==</entry>
