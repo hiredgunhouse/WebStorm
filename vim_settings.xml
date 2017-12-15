@@ -628,6 +628,12 @@
         <mark key="." line="17" column="13" />
         <mark key="^" line="17" column="13" />
       </file>
+      <file name="R:/Rem/source/web/src/api/auctionApi.js" timestamp="1513363178641">
+        <mark key="[" line="19" column="55" />
+        <mark key="]" line="19" column="58" />
+        <mark key="." line="19" column="58" />
+        <mark key="^" line="19" column="58" />
+      </file>
       <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignmentDialog.js" timestamp="1513264857363">
         <mark key="'" line="7" column="20" />
         <mark key="[" line="1" column="0" />
@@ -747,7 +753,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="20" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuctionDialog.js" timestamp="1513359112453">
+      <file name="R:/Rem/source/web/src/components/auction/EditAuctionDialog.js" timestamp="1513362986792">
         <mark key="'" line="13" column="8" />
         <mark key="[" line="23" column="26" />
         <mark key="]" line="24" column="37" />
@@ -861,11 +867,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVuc2F2ZWRDaGFuZ2VzQ2FsbGJhY2soKQo=</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>this.formHasUnsavedChanges()</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW5jZWxcPg==</text>
