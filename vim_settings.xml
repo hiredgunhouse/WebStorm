@@ -455,7 +455,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1513271025277">
+      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1513337545308">
         <mark key="'" line="420" column="12" />
         <mark key="[" line="383" column="46" />
         <mark key="]" line="383" column="46" />
@@ -500,11 +500,11 @@
         <mark key="^" line="24" column="63" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="R:/Rem/source/web/src/components/Grid.js" timestamp="1513272877989">
+      <file name="R:/Rem/source/web/src/components/Grid.js" timestamp="1513337527433">
         <mark key="'" line="115" column="41" />
-        <mark key="[" line="216" column="26" />
-        <mark key="]" line="216" column="26" />
-        <mark key="." line="216" column="26" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="49" />
+        <mark key="." line="206" column="0" />
         <mark key="^" line="225" column="34" />
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1512663168153">
@@ -780,8 +780,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1pbkhlaWdodD17dGhpcy5wcm9wcy5taW5IZWlnaHQgfHwgNTAwfQo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -793,31 +793,31 @@
         <text encoding="base64">ICBkZXRhaWxzUGF0aDogUHJvcFR5cGVzLnN0cmluZywK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1pbkhlaWdodD17dGhpcy5wcm9wcy5taW5IZWlnaHQgfHwgNTAwfQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Ly8gVE9ETyB1cGRhdGUgcHJvcFR5cGVzIGFuZCBkZWZhdWx0UHJvcHMK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">RW5hYmxlZAogICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBkZXRhaWxzUGF0aDogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBmZXRjaERhdGE6IFByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBmaWx0ZXI6IFByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZCwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
