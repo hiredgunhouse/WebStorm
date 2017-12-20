@@ -114,6 +114,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1513790640886">
+        <mark key="'" line="29" column="39" />
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="7" column="9" />
+      </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/actions/createCaseActions.js" timestamp="1496064098591">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -135,6 +142,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/CustomerAndContractContainer.js" timestamp="1513790665686">
+        <mark key="'" line="6" column="9" />
+        <mark key="[" line="44" column="58" />
+        <mark key="]" line="44" column="58" />
+        <mark key="." line="44" column="58" />
       </file>
       <file name="R:/Rem/source/web/src/components/valuation/ValuationPageHeader.js" timestamp="1508843167320">
         <mark key="[" line="1" column="0" />
@@ -165,12 +178,12 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/valuation/ValuationObjectDetailsContainer.js" timestamp="1511875527287">
+      <file name="R:/Rem/source/web/src/containers/valuation/ValuationObjectDetailsContainer.js" timestamp="1513790717798">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="6" column="36" />
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+        <mark key="^" line="28" column="11" />
       </file>
       <file name="R:/Rem/source/web/src/components/Costs.js" timestamp="1513345583876">
         <mark key="'" line="33" column="8" />
@@ -209,10 +222,10 @@
         <mark key="." line="280" column="73" />
         <mark key="^" line="280" column="73" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" timestamp="1513265905005">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="R:/Rem/source/web/src/containers/valuation/ValuationValuationContainer.js" timestamp="1513790741510">
+        <mark key="[" line="32" column="42" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/caseOverview.js" timestamp="1513250680736">
         <mark key="'" line="0" column="0" />
@@ -282,12 +295,12 @@
         <mark key="]" line="40" column="8" />
         <mark key="." line="40" column="8" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/dictionaryUtils.js" timestamp="1513265688975">
+      <file name="R:/Rem/source/web/src/utils/dictionaryUtils.js" timestamp="1513790558724">
         <mark key="'" line="0" column="7" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="6" column="9" />
       </file>
       <file name="R:/Rem/source/web/src/components/CreateCase.js" timestamp="1513347978082">
         <mark key="'" line="64" column="58" />
@@ -671,10 +684,10 @@
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/InspectionReportContainer.js" timestamp="1511881436929">
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="26" column="34" />
-        <mark key="." line="27" column="38" />
+      <file name="R:/Rem/source/web/src/containers/InspectionReportContainer.js" timestamp="1513790692814">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="25" />
+        <mark key="." line="41" column="25" />
         <mark key="^" line="26" column="34" />
       </file>
       <file name="R:/Rem/source/web/src/actions/noteActions.js" timestamp="1501237508725">
@@ -774,8 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="8" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="39" column="8" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="51" column="0" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="12" column="8" filename="R:/Rem/source/web/src/components/todos/EditTodoDialog.js" />
       <jump line="48" column="8" filename="R:/Rem/source/web/src/components/ValuationGrid.js" />
@@ -874,58 +885,60 @@
       <jump line="43" column="10" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="5" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="340" column="28" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="29" column="39" filename="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" />
+      <jump line="6" column="9" filename="R:/Rem/source/web/src/containers/CustomerAndContractContainer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>followupDate</text>
+        <text>transform</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmVoaWNsZXNUeXBlczogdmFsdWVzKGF1Y3Rpb25EZXRhaWxzLnZlaGljbGVzVHlwZXMpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlcyA9IG1hcChwcm9wKCd2YWx1ZScpKQo=</text>
+        <text encoding="base64">ICAgIG5hbWU6IGl0ZW0ubmFtZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVuc2F2ZWRDaGFuZ2VzQ2FsbGJhY2soKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlcyA9IG1hcChwcm9wKCd2YWx1ZScpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJvd1NlbGVjdGlvbkVuYWJsZWQK</text>
+        <text encoding="base64">ICAgICAgICAgIHVuc2F2ZWRDaGFuZ2VzQ2FsbGJhY2soKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIHJvd1NlbGVjdGlvbkVuYWJsZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0RGF0YUdyaWQgZnJvbSAncmVhY3QtZGF0YS1ncmlkJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJvd1NlbGVjdGlvbkVuYWJsZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0RGF0YUdyaWQgZnJvbSAncmVhY3QtZGF0YS1ncmlkJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgQWNjZXB0VmFsdWF0aW9uUm93UmVuZGVyZXIgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogIGNvbnN0cnVjdG9yIChwcm9wcykgewogICAgc3VwZXIocHJvcHMpCgogICAgYmluZEFsbCgKICAgICAgdGhpcywKICAgICAgWwogICAgICAgICdnZXRSb3dTdHlsZScsCiAgICAgICAgJ2dldFJvd0JhY2tncm91bmQnLAogICAgICBdCiAgICApCiAgfQoKICAvLyBUT0RPOiBmaW5pc2ggdGhpcyBzdHlsaW5nIGlzc3VlIChub3QgdGhhdCBzdHJhaWdodGZvcndhcmQgY2F1c2UgcmVhY3QtZGF0YS1naXJkIHBlb3BsZSBmKmNrZWQgdGhpcyB1cCBJTUhPKQogIGdldFJvd1N0eWxlICgpIHsKICAgIHJldHVybiB7CiAgICAgIC8vIGJhY2tncm91bmRDb2xvcjogdGhpcy5nZXRSb3dCYWNrZ3JvdW5kKCkKICAgIH0KICB9CgogIGdldFJvd0JhY2tncm91bmQgKCkgewogICAgcmV0dXJuIHRoaXMucHJvcHMuaWR4ICUgMiA/ICd3aGl0ZScgOiAnZ3JheScKICB9CgogIHJlbmRlciAoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IHN0eWxlPXt0aGlzLmdldFJvd1N0eWxlKCl9PgogICAgICAgIDxSZWFjdERhdGFHcmlkLlJvdyByZWY9InJvdyIgey4uLnRoaXMucHJvcHN9IC8+CiAgICAgIDwvZGl2PgogICAgKQogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdyYW1kYScK</text>
+        <text encoding="base64">Y2xhc3MgQWNjZXB0VmFsdWF0aW9uUm93UmVuZGVyZXIgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogIGNvbnN0cnVjdG9yIChwcm9wcykgewogICAgc3VwZXIocHJvcHMpCgogICAgYmluZEFsbCgKICAgICAgdGhpcywKICAgICAgWwogICAgICAgICdnZXRSb3dTdHlsZScsCiAgICAgICAgJ2dldFJvd0JhY2tncm91bmQnLAogICAgICBdCiAgICApCiAgfQoKICAvLyBUT0RPOiBmaW5pc2ggdGhpcyBzdHlsaW5nIGlzc3VlIChub3QgdGhhdCBzdHJhaWdodGZvcndhcmQgY2F1c2UgcmVhY3QtZGF0YS1naXJkIHBlb3BsZSBmKmNrZWQgdGhpcyB1cCBJTUhPKQogIGdldFJvd1N0eWxlICgpIHsKICAgIHJldHVybiB7CiAgICAgIC8vIGJhY2tncm91bmRDb2xvcjogdGhpcy5nZXRSb3dCYWNrZ3JvdW5kKCkKICAgIH0KICB9CgogIGdldFJvd0JhY2tncm91bmQgKCkgewogICAgcmV0dXJuIHRoaXMucHJvcHMuaWR4ICUgMiA/ICd3aGl0ZScgOiAnZ3JheScKICB9CgogIHJlbmRlciAoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IHN0eWxlPXt0aGlzLmdldFJvd1N0eWxlKCl9PgogICAgICAgIDxSZWFjdERhdGFHcmlkLlJvdyByZWY9InJvdyIgey4uLnRoaXMucHJvcHN9IC8+CiAgICAgIDwvZGl2PgogICAgKQogIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNsb25lIGZyb20gJ3JlYWN0LWljb25zL2ZhLycK</text>
+        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICdyYW1kYScK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>followupDate</last-search>
+      <last-search>transform</last-search>
       <last-offset />
-      <last-pattern>followupDate</last-pattern>
+      <last-pattern>transform</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>this.</last-substitute>
       <last-dir>1</last-dir>
@@ -933,7 +946,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3NpZ25lZFZlaGljbGVzXD4=</entry>
         <entry encoding="base64">XDxjbG9uZVw+</entry>
         <entry>date</entry>
         <entry encoding="base64">XDxhdWN0aW9uRGF0ZVw+</entry>
@@ -953,6 +965,7 @@
         <entry encoding="base64">XDxhdWN0aW9uRGV0YWlsc1w+</entry>
         <entry>followup</entry>
         <entry>followupDate</entry>
+        <entry>transform</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9ICcuKiQvJywv</entry>
