@@ -348,6 +348,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" timestamp="1513789625518">
+        <mark key="[" line="54" column="1" />
+        <mark key="]" line="54" column="1" />
+        <mark key="." line="54" column="1" />
+      </file>
       <file name="R:/Rem/source/web/src/components/auction/RemoveAuctionsButton.js" timestamp="1512661106635">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="9" column="41" />
@@ -875,13 +880,13 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>clone</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>clone</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdWN0aW9uRGV0YWlsc1w+</text>
+        <text>followupDate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmVoaWNsZXNUeXBlczogdmFsdWVzKGF1Y3Rpb25EZXRhaWxzLnZlaGljbGVzVHlwZXMpLAo=</text>
@@ -918,9 +923,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdWN0aW9uRGV0YWlsc1w+</last-search>
+      <last-search>followupDate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdWN0aW9uRGV0YWlsc1w+</last-pattern>
+      <last-pattern>followupDate</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>this.</last-substitute>
       <last-dir>1</last-dir>
@@ -928,8 +933,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slice</entry>
-        <entry>ctor</entry>
         <entry encoding="base64">XDxhc3NpZ25lZFZlaGljbGVzXD4=</entry>
         <entry encoding="base64">XDxjbG9uZVw+</entry>
         <entry>date</entry>
@@ -948,6 +951,8 @@
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxhdWN0aW9uRGV0YWlsc1w+</entry>
+        <entry>followup</entry>
+        <entry>followupDate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9ICcuKiQvJywv</entry>
