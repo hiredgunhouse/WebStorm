@@ -592,12 +592,12 @@
         <mark key="^" line="24" column="63" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="R:/Rem/source/web/src/components/Grid.js" timestamp="1513804998209">
+      <file name="R:/Rem/source/web/src/components/Grid.js" timestamp="1513858156089">
         <mark key="'" line="209" column="26" />
-        <mark key="[" line="105" column="24" />
-        <mark key="]" line="105" column="30" />
-        <mark key="." line="105" column="30" />
-        <mark key="^" line="105" column="30" />
+        <mark key="[" line="105" column="50" />
+        <mark key="]" line="105" column="50" />
+        <mark key="." line="105" column="50" />
+        <mark key="^" line="105" column="49" />
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" timestamp="1513349346339">
         <mark key="[" line="200" column="0" />
@@ -900,10 +900,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>next</text>
+        <text>Props</text>
       </register>
       <register name="-" type="4">
-        <text>next</text>
+        <text>Props</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NpZ25lZENhc2VzXD4=</text>
