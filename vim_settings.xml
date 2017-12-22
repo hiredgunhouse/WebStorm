@@ -166,12 +166,12 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" timestamp="1513868586615">
+      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" timestamp="1513942313361">
         <mark key="'" line="28" column="6" />
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="^" line="204" column="65" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/utils/dropDownUtils.js" timestamp="1513260791590">
         <mark key="[" line="0" column="7" />
@@ -905,43 +905,43 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW4oJ3ZhbHVhdGlvbkNvbW1lbnQnLCAnVmFsdWF0aW9uIGNvbW1lbnQnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQg</text>
+        <text>BCA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250cmFjdE51bWJlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>PropTypes.arrayOf(PropTypes.object),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW4oJ3JlcG9ydENvc3R1bWVyQkNBJywgJ1JlcG9ydCBDb3N0dW1lciBCQ0EnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW4oJ3ZhbHVhdGlvbkNvbW1lbnQnLCAnVmFsdWF0aW9uIGNvbW1lbnQnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QXVjdGlvblZlaGljbGVBc3NpZ25tZW50Q29udGFpbmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW4oJ2V4cGVjdGVkTG9zc1BlcmNlbnRhZ2UnLCAnRXhwZWN0ZWQgbG9zcyBwZXJjZW50YWdlJyksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW4oJ2V4cGVjdGVkTG9zc0Ftb3VudCcsICdFeHBlY3RlZCBsb3NzIGFtb3VudCcpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW4oJ3JlZ2lzdHJhdGlvbk51bWJlcicsICdSZWdpc3RyYXRpb24gbnVtYmVyJyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QXVjdGlvblZlaGljbGVBc3NpZ25tZW50Q29udGFpbmVyLnByb3BUeXBlcyA9IHByb3BUeXBlcwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">QXVjdGlvblZlaGljbGVBc3NpZ25tZW50Q29udGFpbmVyCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcHJvcFR5cGVzID0gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhdWN0aW9uRGV0YWlsczogUHJvcFR5cGVzLnNoYXBlKHsKICAgIGF1Y3Rpb25Ib3VzZTogLAogICAgYWxsb3dlZE1vZGVsczogLAogICAgdmVoaWNsZVR5cGVzLAogICAgdGF4VHlwZXMKICAgIGFzc2lnbmVkVmVoaWNsZXM6IFByb3BUeXBlcy5zaGFwZSh7fSksCgogIH0pLAogIGFzc2lnbmVkQ2FzZXNEYXRhOiBQcm9wVHlwZXMuc2hhcGUoe30pLAogICAgb25PazogLApvbkNhbmNlbDogLAo=</text>
+        <text encoding="base64">QXVjdGlvblZlaGljbGVBc3NpZ25tZW50Q29udGFpbmVyLnByb3BUeXBlcyA9IHByb3BUeXBlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
