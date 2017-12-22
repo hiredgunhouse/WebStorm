@@ -63,8 +63,8 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/TodoList.js" timestamp="1513354099426">
-        <mark key="'" line="22" column="0" />
+      <file name="R:/Rem/source/web/src/components/TodoList.js" timestamp="1513935904268">
+        <mark key="'" line="111" column="20" />
         <mark key="[" line="41" column="27" />
         <mark key="]" line="41" column="27" />
         <mark key="." line="41" column="27" />
@@ -691,7 +691,7 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513867282188">
+      <file name="/Dummy.txt" timestamp="1513935895398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -799,7 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="35" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="294" column="35" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="33" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="86" column="2" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
@@ -899,6 +898,7 @@
       <jump line="30" column="6" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="0" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="28" column="6" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
+      <jump line="111" column="20" filename="R:/Rem/source/web/src/components/TodoList.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -911,7 +911,7 @@
         <text encoding="base64">ZXhwb3J0IGRlZmF1bHQg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NpZ25lZENhc2VzRGF0YVw+</text>
+        <text encoding="base64">XDxjb250cmFjdE51bWJlclw+</text>
       </register>
       <register name="0" type="4">
         <text>PropTypes.arrayOf(PropTypes.object),</text>
@@ -948,9 +948,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NpZ25lZENhc2VzRGF0YVw+</last-search>
+      <last-search encoding="base64">XDxjb250cmFjdE51bWJlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NpZ25lZENhc2VzRGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb250cmFjdE51bWJlclw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>this.</last-substitute>
       <last-dir>1</last-dir>
@@ -958,7 +958,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkFzc2lnblRvQXVjdGlvblw+</entry>
         <entry encoding="base64">XDxvbkNhbmRpZGF0ZVJvd0NsaWNrXD4=</entry>
         <entry encoding="base64">XDxvbkFzc2lnbmVkUm93Q2xpY2tcPg==</entry>
         <entry encoding="base64">XDxjYW5kaWRhdGVDYXNlc0RhdGFcPg==</entry>
@@ -978,6 +977,7 @@
         <entry>minHe</entry>
         <entry>props.</entry>
         <entry encoding="base64">XDxhc3NpZ25lZENhc2VzRGF0YVw+</entry>
+        <entry encoding="base64">XDxjb250cmFjdE51bWJlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25hbWU6IC8v</entry>
