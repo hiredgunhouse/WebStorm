@@ -166,12 +166,12 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" timestamp="1513942313361">
+      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" timestamp="1513943295452">
         <mark key="'" line="28" column="6" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="^" line="204" column="65" />
-        <mark key="." line="205" column="0" />
+        <mark key="[" line="262" column="26" />
+        <mark key="]" line="262" column="26" />
+        <mark key="^" line="197" column="51" />
+        <mark key="." line="262" column="26" />
       </file>
       <file name="R:/Rem/source/web/src/utils/dropDownUtils.js" timestamp="1513260791590">
         <mark key="[" line="0" column="7" />
@@ -904,17 +904,17 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW4oJ3ZhbHVhdGlvbkNvbW1lbnQnLCAnVmFsdWF0aW9uIGNvbW1lbnQnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>BCA</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250cmFjdE51bWJlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW4oJ3JlcG9ydENvc3R1bWVyQkNBJywgJ1JlcG9ydCBDb3N0dW1lciBCQ0EnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sdW1ucz17WwogICAgICAgICAgICAgIGNvbHVtbignY29udHJhY3ROdW1iZXInLCAnQ29udHJhY3QgTnVtYmVyJyksCiAgICAgICAgICAgICAgY29sdW1uKCdyZWdpc3RyYXRpb25OdW1iZXInLCAnUmVnLiBOdW1iZXInKSwKICAgICAgICAgICAgICBjb2x1bW4oJ21ha2UnLCAnTWFrZScpLAogICAgICAgICAgICAgIGNvbHVtbignbW9kZWwnLCAnTW9kZWwnKSwKICAgICAgICAgICAgICBjb2x1bW4oJ3ZhdCcsICdWQVQnKSwKICAgICAgICAgICAgICBjb2x1bW4oJ3JlZ2lzdHJhdGlvblRheCcsICdSZWcuIFRheCcpLAogICAgICAgICAgICAgIGNvbHVtbignc2FudGFuZGVyVmFsdWF0aW9uJywgJ1NhbnRhbmRlciBWYWx1YXRpb24nKSwKICAgICAgICAgICAgICBjb2x1bW4oJ3JlcG9ydENvc3R1bWVyQkNBJywgJ1JlcG9ydCBDb3N0dW1lciBCQ0EnKSwKICAgICAgICAgICAgICBjb2x1bW4oJ3JlcG9ydENvc3R1bWVyQmlsc2FsZycsICdSZXBvcnQgQ29zdHVtZXIgQmlsc2FsZycpLAogICAgICAgICAgICBdfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb2x1bW4oJ3ZhbHVhdGlvbkNvbW1lbnQnLCAnVmFsdWF0aW9uIGNvbW1lbnQnKQo=</text>
