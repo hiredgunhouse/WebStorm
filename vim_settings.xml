@@ -328,18 +328,11 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/futils.js" timestamp="1515413311633">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="6" />
-        <mark key="." line="63" column="6" />
-        <mark key="^" line="63" column="6" />
-      </file>
-      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1515412206803">
+      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1515422154958">
         <mark key="'" line="221" column="18" />
-        <mark key="[" line="48" column="2" />
-        <mark key="]" line="48" column="6" />
-        <mark key="." line="48" column="6" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
         <mark key="^" line="48" column="6" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/LabelField.js" timestamp="1513265737548">
@@ -675,7 +668,7 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515420128906">
+      <file name="/Dummy.txt" timestamp="1515422133313">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -888,8 +881,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -904,28 +897,28 @@
         <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaXNFcnJvciA9IG9iaiA9PiBvYmogIT09IHVuZGVmaW5lZCAmJiBvYmogaW5zdGFuY2VvZiBFcnJvcgo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCByZXN1bHRJc0Vycm9yID0gcmVzdWx0ICE9PSB1bmRlZmluZWQgJiYgcmVzdWx0IGluc3RhbmNlb2YgRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaXNFcnJvciA9IG9iaiA9PiBvYmogIT09IHVuZGVmaW5lZCAmJiBvYmogaW5zdGFuY2VvZiBFcnJvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCByZXN1bHRJc0Vycm9yID0gcmVzdWx0ICE9PSB1bmRlZmluZWQgJiYgcmVzdWx0IGluc3RhbmNlb2YgRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCByZXN1bHRJc0Vycm9yID0gcmVzdWx0ICE9PSB1bmRlZmluZWQgJiYgcmVzdWx0IGluc3RhbmNlb2YgRXJyb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihyZXN1bHQgPT4gewogICAgICAgICAgbGV0IHJlc3VsdElzRXJyb3IgPSByZXN1bHQgIT09IHVuZGVmaW5lZCAmJiByZXN1bHQgaW5zdGFuY2VvZiBFcnJvcgogICAgICAgICAgaWYgKCFyZXN1bHRJc0Vycm9yKSB7CiAgICAgICAgICAgIG93blByb3BzLnNldFVuc2F2ZWRDaGFuZ2VzU3RhdGUoZmFsc2UpCiAgICAgICAgICAgIG93blByb3BzLm9uQ2xvc2Uoe3JlZnJlc2g6IHRydWV9KQogICAgICAgICAgfQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCByZXN1bHRJc0Vycm9yID0gcmVzdWx0ICE9PSB1bmRlZmluZWQgJiYgcmVzdWx0IGluc3RhbmNlb2YgRXJyb3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihyZXN1bHQgPT4gewogICAgICAgICAgbGV0IHJlc3VsdElzRXJyb3IgPSByZXN1bHQgIT09IHVuZGVmaW5lZCAmJiByZXN1bHQgaW5zdGFuY2VvZiBFcnJvcgogICAgICAgICAgaWYgKCFyZXN1bHRJc0Vycm9yKSB7CiAgICAgICAgICAgIG93blByb3BzLnNldFVuc2F2ZWRDaGFuZ2VzU3RhdGUoZmFsc2UpCiAgICAgICAgICAgIG93blByb3BzLm9uQ2xvc2Uoe3JlZnJlc2g6IHRydWV9KQogICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
