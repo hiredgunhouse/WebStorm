@@ -202,10 +202,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1513356736080">
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="23" column="21" />
-        <mark key="." line="23" column="21" />
+      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1515421091659">
+        <mark key="[" line="62" column="14" />
+        <mark key="]" line="62" column="14" />
+        <mark key="." line="62" column="23" />
         <mark key="^" line="23" column="21" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuction.js" timestamp="1513356768989">
@@ -238,12 +238,10 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AddAuctionContainer.js" timestamp="1513356712665">
-        <mark key="'" line="65" column="14" />
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="17" column="15" />
+      <file name="R:/Rem/source/web/src/containers/AddAuctionContainer.js" timestamp="1515421543023">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
       </file>
       <file name="R:/Rem/source/web/src/containers/AuctionDetailsContainer.js" timestamp="1513367117122">
         <mark key="[" line="11" column="73" />
@@ -444,11 +442,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/EditAuctionContainer.js" timestamp="1515413911379">
+      <file name="R:/Rem/source/web/src/containers/EditAuctionContainer.js" timestamp="1515421128081">
         <mark key="'" line="60" column="6" />
-        <mark key="[" line="94" column="60" />
-        <mark key="]" line="94" column="60" />
-        <mark key="." line="94" column="60" />
+        <mark key="[" line="62" column="16" />
+        <mark key="]" line="62" column="16" />
+        <mark key="." line="62" column="25" />
       </file>
       <file name="R:/Rem/source/web/src/components/ActionsLogNotifier.js" timestamp="1513346659856">
         <mark key="[" line="17" column="0" />
@@ -501,10 +499,10 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="117" column="59" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/CreateCaseContainer.js" timestamp="1513250696184">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
+      <file name="R:/Rem/source/web/src/containers/CreateCaseContainer.js" timestamp="1515421107540">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="25" />
       </file>
       <file name="R:/Rem/source/web/src/validation/validationUtils.js" timestamp="1513266243989">
         <mark key="[" line="41" column="11" />
@@ -891,10 +889,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
