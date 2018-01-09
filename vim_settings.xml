@@ -178,6 +178,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1515515338977">
+        <mark key="[" line="90" column="1" />
+        <mark key="]" line="90" column="1" />
+        <mark key="." line="90" column="1" />
+      </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuction.js" timestamp="1513356768989">
         <mark key="'" line="224" column="17" />
         <mark key="[" line="280" column="73" />
@@ -239,8 +244,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/dictionaryUtils.js" timestamp="1513790558724">
+      <file name="R:/Rem/source/web/src/utils/dictionaryUtils.js" timestamp="1515515448373">
         <mark key="'" line="0" column="7" />
+        <mark key="[" line="34" column="50" />
+        <mark key="]" line="34" column="50" />
+        <mark key="." line="34" column="50" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/makesReducer.js" timestamp="1507284157113">
         <mark key="[" line="2" column="20" />
@@ -391,6 +399,11 @@
         <mark key="]" line="41" column="11" />
         <mark key="." line="41" column="11" />
       </file>
+      <file name="R:/Rem/source/web/src/containers/CreateCaseContainer.js" timestamp="1515515355648">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="22" column="56" />
@@ -454,10 +467,10 @@
         <mark key="." line="206" column="35" />
         <mark key="^" line="198" column="47" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" timestamp="1513349346339">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
+      <file name="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" timestamp="1515515459766">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
       </file>
       <file name="R:/Rem/source/web/src/containers/AuctionVehiclesAssignmentContainer.js" timestamp="1514892095459">
         <mark key="[" line="25" column="0" />
@@ -517,7 +530,7 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515422133313">
+      <file name="/Dummy.txt" timestamp="1515515472429">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -724,11 +737,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwaXBlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvcCA=</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
