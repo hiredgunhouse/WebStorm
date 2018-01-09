@@ -328,12 +328,12 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1515422154958">
-        <mark key="'" line="221" column="18" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-        <mark key="^" line="48" column="6" />
+      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1515511604441">
+        <mark key="'" line="205" column="16" />
+        <mark key="[" line="326" column="116" />
+        <mark key="]" line="326" column="116" />
+        <mark key="^" line="326" column="116" />
+        <mark key="." line="326" column="116" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/LabelField.js" timestamp="1513265737548">
         <mark key="[" line="5" column="0" />
@@ -588,7 +588,6 @@
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="R:/Rem/source/web/node_modules/lodash/isError.js" timestamp="1515411356690" />
       <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1513348526923">
         <mark key="'" line="41" column="34" />
         <mark key="[" line="41" column="0" />
@@ -776,7 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="38" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="270" column="17" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="323" column="21" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="5" column="2" filename="R:/Rem/source/web/src/reducers/auctionVehiclesAssignmentReducer.js" />
@@ -876,6 +874,7 @@
       <jump line="565" column="34" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="182" column="2" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="184" column="9" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="205" column="16" filename="R:/Rem/source/web/src/api/restApi.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
