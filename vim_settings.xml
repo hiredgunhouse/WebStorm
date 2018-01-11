@@ -301,6 +301,11 @@
         <mark key="^" line="50" column="1" />
         <mark key="." line="50" column="1" />
       </file>
+      <file name="R:/Rem/source/web/src/containers/CaseListContainer.js" timestamp="1515700114946">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="R:/Rem/source/web/src/containers/VehicleValuationOverviewContainer.js" timestamp="1509113472282">
         <mark key="[" line="39" column="8" />
         <mark key="]" line="39" column="8" />
@@ -501,12 +506,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1515603918032">
-        <mark key="'" line="493" column="0" />
-        <mark key="[" line="367" column="0" />
-        <mark key="]" line="367" column="0" />
-        <mark key="." line="367" column="0" />
-        <mark key="^" line="367" column="62" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1515700122800">
+        <mark key="'" line="395" column="23" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="366" column="62" />
       </file>
       <file name="R:/Rem/source/web/src/actions/auctionActions.js" timestamp="1515409240588">
         <mark key="'" line="0" column="0" />
@@ -651,8 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="126" column="25" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="127" column="39" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="137" column="17" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="172" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
@@ -751,58 +754,60 @@
       <jump line="382" column="31" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="487" column="34" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="492" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="6" column="8" filename="R:/Rem/source/web/src/containers/CaseListContainer.js" />
+      <jump line="396" column="23" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBUZXh0RmllbGQsCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>debugger</text>
+        <text encoding="base64">XDxkaWN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>AUCTION_STATUS_STARTED</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gZmluaXNoIHRoaXMK</text>
+        <text encoding="base64">ICBUZXh0RmllbGQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gZmluaXNoIHRoaXMK</text>
+        <text encoding="base64">aW1wb3J0IHtkaWN0fSBmcm9tICIuLi91dGlscy9mdXRpbHMiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gZmluaXNoIHRoaXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyo8VGV4dEZpZWxkIG5hbWU9InN0YXR1cyIgbGFiZWw9IlN0YXR1cyIgLz4qL30K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gZmluaXNoIHRoaXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwaXBlLAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcm9wLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyo8VGV4dEZpZWxkIG5hbWU9InN0YXR1cyIgbGFiZWw9IlN0YXR1cyIgLz4qL30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtYXAsCg==</text>
+        <text encoding="base64">ICBwaXBlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBldm9sdmUsCg==</text>
+        <text encoding="base64">ICBwcm9wLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZ3JpZEFjdGlvbnMgZnJvbSAnLi4vLi4vYWN0aW9ucy9ncmlkQWN0aW9ucycK</text>
+        <text encoding="base64">ICBtYXAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>debugger</last-search>
+      <last-search encoding="base64">XDxkaWN0XD4=</last-search>
       <last-offset />
-      <last-pattern>debugger</last-pattern>
+      <last-pattern encoding="base64">XDxkaWN0XD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>this.</last-substitute>
       <last-dir>1</last-dir>
@@ -810,7 +815,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkNhbmRpZGF0ZUNhc2VzUm93c1NlbGVjdGVkXD4=</entry>
         <entry encoding="base64">XDxvblJvd3NTZWxlY3RlZFw+</entry>
         <entry encoding="base64">XDxvblVuYXNzaWduRnJvbUF1Y3Rpb25cPg==</entry>
         <entry encoding="base64">XDxhdWN0aW9uSWRcPg==</entry>
@@ -830,6 +834,7 @@
         <entry>status</entry>
         <entry encoding="base64">XDxnZXRBdWN0aW9uU3RhdHVzVGV4dFw+</entry>
         <entry>debugger</entry>
+        <entry encoding="base64">XDxkaWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywkLyksLw==</entry>
