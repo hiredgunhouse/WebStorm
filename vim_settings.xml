@@ -225,6 +225,13 @@
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1515777754945">
+        <mark key="'" line="298" column="13" />
+        <mark key="[" line="237" column="46" />
+        <mark key="]" line="237" column="46" />
+        <mark key="." line="237" column="46" />
+        <mark key="^" line="237" column="53" />
+      </file>
       <file name="R:/Rem/source/web/src/containers/AuctionDetailsContainer.js" timestamp="1513367117122">
         <mark key="[" line="11" column="73" />
         <mark key="]" line="11" column="79" />
@@ -579,7 +586,7 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515763870098">
+      <file name="/Dummy.txt" timestamp="1515777755771">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -681,7 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="29" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="118" column="29" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="130" column="20" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="134" column="40" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
@@ -781,46 +787,47 @@
       <jump line="17" column="6" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="255" column="26" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="250" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="298" column="13" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gbm90IHVzZWQsIGEgV0lQCg==</text>
+      <register name="&quot;" type="4">
+        <text>concat</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>concat</text>
       </register>
       <register name="/" type="4">
-        <text>toast</text>
+        <text encoding="base64">XDxjYW5CZVZhbHVhdGVkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gbm90IHVzZWQsIGEgV0lQCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgd2l0aFRvYXN0UHJvdG90eXBlID0gKHtkaXNwYXRjaH0pID0+IHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IHsgd2l0aFRvYXN0IH0K</text>
+        <text encoding="base64">Ly8gbm90IHVzZWQsIGEgV0lQCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Ly8gY29uc3Qgd2l0aFRvYXN0UHJvdG90eXBlID0gKHtkaXNwYXRjaH0pID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgd2l0aFRvYXN0ID0gYyh3aXRoVG9hc3RQcm90b3R5cGUpCg==</text>
+        <text encoding="base64">Ly8gZXhwb3J0IHsgd2l0aFRvYXN0IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gLy8gY29uc3Qgd2l0aFRvYXN0ID0gY29ubmVjdCgpKHdpdGhUb2FzdFByb3RvdHlwZSkK</text>
+        <text encoding="base64">Ly8gZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Ly8K</text>
@@ -830,9 +837,9 @@
       </register>
     </registers>
     <search>
-      <last-search>toast</last-search>
+      <last-search encoding="base64">XDxjYW5CZVZhbHVhdGVkXD4=</last-search>
       <last-offset />
-      <last-pattern>toast</last-pattern>
+      <last-pattern encoding="base64">XDxjYW5CZVZhbHVhdGVkXD4=</last-pattern>
       <last-replace>toast</last-replace>
       <last-substitute>model</last-substitute>
       <last-dir>1</last-dir>
@@ -840,7 +847,6 @@
     </search>
     <history>
       <history-search>
-        <entry>httpActions</entry>
         <entry encoding="base64">XDx0aHJvd0Vycm9yXD4=</entry>
         <entry>save</entry>
         <entry>status</entry>
@@ -860,6 +866,7 @@
         <entry encoding="base64">XDxjb21wb3NlXD4=</entry>
         <entry encoding="base64">XDxhZGRUb2FzdFw+</entry>
         <entry>toast</entry>
+        <entry encoding="base64">XDxjYW5CZVZhbHVhdGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvJywv</entry>
