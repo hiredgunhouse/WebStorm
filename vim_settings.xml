@@ -194,12 +194,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1515775326645">
-        <mark key="'" line="28" column="41" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="108" column="67" />
-        <mark key="." line="108" column="0" />
+      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1515776792248">
+        <mark key="'" line="24" column="41" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="90" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuction.js" timestamp="1513356768989">
         <mark key="'" line="224" column="17" />
@@ -359,12 +359,10 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/withToast.js" timestamp="1515775444216">
-        <mark key="'" line="19" column="22" />
-        <mark key="[" line="46" column="22" />
-        <mark key="]" line="46" column="30" />
-        <mark key="^" line="46" column="30" />
-        <mark key="." line="46" column="30" />
+      <file name="R:/Rem/source/web/src/components/withToast.js" timestamp="1515776846093">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/VehiclesAssignedToAuction.js" timestamp="1513946813569">
         <mark key="[" line="30" column="0" />
@@ -450,8 +448,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1515759482534">
-        <mark key="'" line="255" column="17" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1515776811799">
+        <mark key="'" line="250" column="12" />
         <mark key="[" line="258" column="18" />
         <mark key="]" line="258" column="20" />
         <mark key="." line="258" column="20" />
@@ -683,8 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="46" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="85" column="8" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="114" column="29" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="118" column="29" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="130" column="20" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
@@ -751,7 +747,6 @@
       <jump line="64" column="7" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="99" column="44" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="105" column="44" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="250" column="2" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="175" column="17" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="251" column="2" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
@@ -772,7 +767,6 @@
       <jump line="27" column="44" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="8" column="0" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="30" column="0" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
-      <jump line="255" column="17" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="68" column="0" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="31" column="0" filename="R:/Rem/source/web/src/components/withToast.js" />
       <jump line="38" column="0" filename="R:/Rem/source/web/src/components/withToast.js" />
@@ -781,60 +775,64 @@
       <jump line="64" column="6" filename="R:/Rem/source/web/src/components/withToast.js" />
       <jump line="3" column="0" filename="R:/Rem/source/web/src/components/withToast.js" />
       <jump line="45" column="22" filename="R:/Rem/source/web/src/components/withToast.js" />
-      <jump line="4" column="7" filename="R:/Rem/source/web/src/components/withToast.js" />
       <jump line="19" column="22" filename="R:/Rem/source/web/src/components/withToast.js" />
+      <jump line="4" column="9" filename="R:/Rem/source/web/src/components/withToast.js" />
+      <jump line="44" column="14" filename="R:/Rem/source/web/src/components/withToast.js" />
+      <jump line="17" column="6" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="255" column="26" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="250" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gbm90IHVzZWQsIGEgV0lQCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wb3NlXD4=</text>
+        <text>toast</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Ly8gbm90IHVzZWQsIGEgV0lQCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVsbG8gV29ybGQhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgd2l0aFRvYXN0UHJvdG90eXBlID0gKHtkaXNwYXRjaH0pID0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gZGVidWdnZXIK</text>
+        <text encoding="base64">Ly8gZXhwb3J0IHsgd2l0aFRvYXN0IH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gZGVidWdnZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgd2l0aFRvYXN0ID0gYyh3aXRoVG9hc3RQcm90b3R5cGUpCg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgd2l0aFRvYXN0ID0gYyh3aXRoVG9hc3RQcm90b3R5cGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYyA9IGNvbm5lY3QoKQo=</text>
+        <text encoding="base64">Ly8gLy8gY29uc3Qgd2l0aFRvYXN0ID0gY29ubmVjdCgpKHdpdGhUb2FzdFByb3RvdHlwZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wb3NlXD4=</last-search>
+      <last-search>toast</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wb3NlXD4=</last-pattern>
+      <last-pattern>toast</last-pattern>
       <last-replace>toast</last-replace>
       <last-substitute>model</last-substitute>
       <last-dir>1</last-dir>
@@ -850,7 +848,6 @@
         <entry>debugger</entry>
         <entry encoding="base64">XDxkaWN0XD4=</entry>
         <entry>start</entry>
-        <entry>toast</entry>
         <entry>startSelect</entry>
         <entry>startSelected</entry>
         <entry encoding="base64">XDxzdGFydFNlbGVjdGVkQXVjdGlvblw+</entry>
@@ -858,13 +855,13 @@
         <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
         <entry>withToat</entry>
         <entry>model</entry>
-        <entry encoding="base64">XDxhZGRUb2FzdFw+</entry>
         <entry encoding="base64">XDx3aXRoVG9hc3RQcm90b3R5cGVcPg==</entry>
         <entry encoding="base64">XDx3aXRoVG9hc3RcPg==</entry>
         <entry encoding="base64">XDxjb21wb3NlXD4=</entry>
+        <entry encoding="base64">XDxhZGRUb2FzdFw+</entry>
+        <entry>toast</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry encoding="base64">JzwsJz5zLyQvJywv</entry>
         <entry encoding="base64">JzwsJz5zLyA9IC4qJC8nLC8=</entry>
         <entry>.,.+4noh</entry>
@@ -882,6 +879,7 @@
         <entry>s/model/toast</entry>
         <entry>ws</entry>
         <entry>we</entry>
+        <entry>W</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
