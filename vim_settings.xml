@@ -307,7 +307,7 @@
         <mark key="]" line="75" column="38" />
         <mark key="." line="75" column="38" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/auctionVehiclesAssignmentActions.js" timestamp="1515705937110">
+      <file name="R:/Rem/source/web/src/actions/auctionVehiclesAssignmentActions.js" timestamp="1515757397918">
         <mark key="'" line="61" column="3" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="45" />
@@ -555,10 +555,10 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="R:/Rem/source/web/src/api/auctionApi.js" timestamp="1515705773412">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="R:/Rem/source/web/src/api/auctionApi.js" timestamp="1515757808943">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
         <mark key="^" line="4" column="82" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignmentDialog.js" timestamp="1513264857363">
@@ -782,11 +782,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiB0b2FzdCA9PiB7</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>model</text>
