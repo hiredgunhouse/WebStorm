@@ -189,12 +189,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1515754067802">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="95" column="12" />
-        <mark key="]" line="95" column="12" />
-        <mark key="^" line="95" column="12" />
-        <mark key="." line="95" column="12" />
+      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1515760632965">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="1" />
+        <mark key="^" line="100" column="1" />
+        <mark key="." line="100" column="1" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuction.js" timestamp="1513356768989">
         <mark key="'" line="224" column="17" />
@@ -354,11 +354,11 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/withToast.js" timestamp="1515753839353">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="53" />
-        <mark key="^" line="21" column="24" />
-        <mark key="." line="21" column="53" />
+      <file name="R:/Rem/source/web/src/components/withToast.js" timestamp="1515760574268">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="19" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="29" column="19" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/VehiclesAssignedToAuction.js" timestamp="1513946813569">
         <mark key="[" line="30" column="0" />
@@ -444,8 +444,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1515754912487">
-        <mark key="'" line="269" column="2" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1515759482534">
+        <mark key="'" line="255" column="17" />
         <mark key="[" line="258" column="18" />
         <mark key="]" line="258" column="20" />
         <mark key="." line="258" column="20" />
@@ -677,8 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="73" column="21" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="166" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="170" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="8" column="15" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
@@ -777,58 +775,60 @@
       <jump line="27" column="44" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="8" column="0" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="30" column="0" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
+      <jump line="255" column="17" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="68" column="0" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text encoding="base64">XDxhZGRUb2FzdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgbW9kZWxBY3Rpb25zIGZyb20gJy4uL2FjdGlvbnMvZGljdGlvbmFyaWVzL21vZGVsQWN0aW9ucycK</text>
+      <register name="0" type="4">
+        <text>connect(mapStateToProps, mapDispatchToProps)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGRpc3BhdGNoKHRvYXN0QWN0aW9ucy5hZGRUb2FzdCh0b2FzdCkpCg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRpc3BhdGNoKHRvYXN0QWN0aW9ucy5hZGRUb2FzdCh0b2FzdCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYWRkVG9hc3QgPSBjb21wb3NlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgY29ubmVjdCgpKHdpdGhUb2FzdCkgfQo=</text>
+        <text encoding="base64">Y29uc3QgYWRkVG9hc3QgPSBjb21wb3NlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHsgY29ubmVjdCgpKHdpdGhUb2FzdCkgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2l0aFRvYXN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2l0aFRvYXN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search encoding="base64">XDxhZGRUb2FzdFw+</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRUb2FzdFw+</last-pattern>
       <last-replace>toast</last-replace>
       <last-substitute>model</last-substitute>
       <last-dir>1</last-dir>
@@ -836,7 +836,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
         <entry>devel</entry>
         <entry>throwError</entry>
         <entry>httpActions</entry>
@@ -856,6 +855,7 @@
         <entry>withToat</entry>
         <entry encoding="base64">XDx3aXRoVG9hc3RcPg==</entry>
         <entry>model</entry>
+        <entry encoding="base64">XDxhZGRUb2FzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
