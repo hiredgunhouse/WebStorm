@@ -20,13 +20,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="32" column="43" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1516025213189">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="33" column="66" />
-        <mark key="]" line="33" column="66" />
-        <mark key="^" line="33" column="65" />
-        <mark key="." line="33" column="66" />
-      </file>
+      <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1516025213189" />
       <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1515707544296">
         <mark key="'" line="5" column="6" />
         <mark key="[" line="38" column="0" />
@@ -92,10 +86,6 @@
       </file>
       <file name="R:/Rem/source/web/src/api/valuationApi.js" timestamp="1516026182258">
         <mark key="'" line="10" column="38" />
-        <mark key="[" line="72" column="35" />
-        <mark key="]" line="72" column="42" />
-        <mark key="." line="72" column="42" />
-        <mark key="^" line="72" column="42" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/YesNoReadonlyField.js" timestamp="1513260748452">
         <mark key="[" line="4" column="0" />
@@ -374,11 +364,7 @@
         <mark key="." line="0" column="37" />
       </file>
       <file name="R:/Rem/source/web/src/containers/valuation/VehicleValuationOverviewContainer.js" timestamp="1516025139482">
-        <mark key="'" line="16" column="2" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="79" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="29" column="50" />
+        <mark key="^" line="16" column="50" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
