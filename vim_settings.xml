@@ -314,6 +314,9 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
+      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1516034328119">
+        <mark key="'" line="4" column="6" />
+      </file>
       <file name="R:/Rem/source/web/src/containers/CaseNoteContainer.js" timestamp="1513264805957">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -468,7 +471,7 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516023728916">
+      <file name="/Dummy.txt" timestamp="1516034292280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -552,8 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="28" column="6" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="111" column="20" filename="R:/Rem/source/web/src/components/TodoList.js" />
       <jump line="204" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/actions/auctionActions.js" />
@@ -652,6 +653,8 @@
       <jump line="298" column="30" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="299" column="13" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="311" column="33" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="13" column="9" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
+      <jump line="4" column="6" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -664,7 +667,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>can</text>
+        <text encoding="base64">XDxiZWZvcmVQaHlzaWNhbGx5UmVhZHlDaGVja3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdldFJlYWR5Rm9yVmFsdWF0aW9uQ2FzZVN0YXR1c2VzOiBzdWNjZXNzID0+CiAgICAgIHZhbHVhdGlvbkFwaUZhY3RvcnkoJ3JlYWR5Rm9yVmFsdWF0aW9uQ2FzZVN0YXR1c2VzJykuZ2V0KHN1Y2Nlc3MpLAo=</text>
@@ -701,9 +704,9 @@
       </register>
     </registers>
     <search>
-      <last-search>can</last-search>
+      <last-search encoding="base64">XDxiZWZvcmVQaHlzaWNhbGx5UmVhZHlDaGVja3NcPg==</last-search>
       <last-offset />
-      <last-pattern>can</last-pattern>
+      <last-pattern encoding="base64">XDxiZWZvcmVQaHlzaWNhbGx5UmVhZHlDaGVja3NcPg==</last-pattern>
       <last-replace>APPROVAL</last-replace>
       <last-substitute>VALUATION</last-substitute>
       <last-dir>1</last-dir>
@@ -711,8 +714,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRBdWN0aW9uU3RhdHVzVGV4dFw+</entry>
-        <entry>debugger</entry>
         <entry encoding="base64">XDxkaWN0XD4=</entry>
         <entry>start</entry>
         <entry>startSelect</entry>
@@ -731,6 +732,8 @@
         <entry>Valuation</entry>
         <entry>VALUATION</entry>
         <entry>can</entry>
+        <entry encoding="base64">XDxzaWduZWRVcEZvckF1Y3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxiZWZvcmVQaHlzaWNhbGx5UmVhZHlDaGVja3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+4noh</entry>
