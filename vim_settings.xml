@@ -225,8 +225,8 @@
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1515777754945">
-        <mark key="'" line="298" column="13" />
+      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" timestamp="1516022657113">
+        <mark key="'" line="255" column="31" />
         <mark key="[" line="237" column="46" />
         <mark key="]" line="237" column="46" />
         <mark key="." line="237" column="46" />
@@ -688,8 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="29" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="130" column="20" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="134" column="40" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="142" column="45" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="150" column="23" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
@@ -788,6 +786,8 @@
       <jump line="255" column="26" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="250" column="12" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="298" column="13" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="227" column="2" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
+      <jump line="255" column="31" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
