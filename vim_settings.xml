@@ -20,6 +20,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="32" column="43" />
       </file>
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1516290831359">
+        <mark key="[" line="361" column="22" />
+        <mark key="]" line="361" column="22" />
+        <mark key="." line="361" column="22" />
+      </file>
       <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1515707544296">
         <mark key="'" line="5" column="6" />
         <mark key="[" line="38" column="0" />
@@ -245,6 +250,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/components/CustomerAndContract.js" timestamp="1516291334062">
+        <mark key="'" line="185" column="17" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="50" column="31" />
+        <mark key="." line="50" column="31" />
+        <mark key="^" line="50" column="30" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" timestamp="1513789625518">
         <mark key="[" line="54" column="1" />
         <mark key="]" line="54" column="1" />
@@ -289,6 +301,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1516290803753">
+        <mark key="[" line="303" column="22" />
+        <mark key="]" line="303" column="22" />
+        <mark key="." line="303" column="22" />
+        <mark key="^" line="303" column="22" />
+      </file>
       <file name="R:/Rem/source/web/src/reducers/valuationReducer.js" timestamp="1516025329343">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="17" />
@@ -316,10 +334,10 @@
       <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1516034328119">
         <mark key="'" line="4" column="6" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1516279770011">
-        <mark key="[" line="293" column="22" />
-        <mark key="]" line="293" column="22" />
-        <mark key="." line="293" column="22" />
+      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1516290725956">
+        <mark key="[" line="300" column="22" />
+        <mark key="]" line="300" column="22" />
+        <mark key="." line="300" column="22" />
         <mark key="^" line="288" column="13" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CaseNoteContainer.js" timestamp="1513264805957">
@@ -476,7 +494,7 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516034292280">
+      <file name="/Dummy.txt" timestamp="1516290776227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -520,12 +538,12 @@
         <mark key="." line="170" column="42" />
         <mark key="^" line="170" column="42" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1513348548921">
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1516290811177">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
+        <mark key="[" line="220" column="75" />
+        <mark key="]" line="220" column="75" />
         <mark key="^" line="38" column="7" />
-        <mark key="." line="47" column="0" />
+        <mark key="." line="220" column="75" />
       </file>
       <file name="R:/Rem/source/web/src/api/blobApi.js" timestamp="1511856438268">
         <mark key="'" line="8" column="26" />
@@ -560,7 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="20" filename="R:/Rem/source/web/src/components/TodoList.js" />
       <jump line="204" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/actions/auctionActions.js" />
       <jump line="106" column="8" filename="R:/Rem/source/web/src/containers/EditAuctionContainer.js" />
@@ -660,16 +677,17 @@
       <jump line="311" column="33" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="13" column="9" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
       <jump line="4" column="6" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
+      <jump line="184" column="17" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>={true}</text>
+        <text>SelectedRows</text>
       </register>
       <register name="-" type="4">
-        <text>={true}</text>
+        <text>SelectedRows</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
@@ -741,7 +759,6 @@
         <entry>button</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.+4noh</entry>
         <entry>+3,+11m .</entry>
         <entry>+1,+2,+5</entry>
         <entry>+1,+2m+5</entry>
@@ -752,13 +769,14 @@
         <entry encoding="base64">JzwsJz5zLyA9LiokLycsLw==</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMuLycv</entry>
         <entry>238</entry>
-        <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
         <entry>s/model/toast</entry>
         <entry>ws</entry>
         <entry>we</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL1ZhbHVhdGlvbi9BcHByb3ZhbC8=</entry>
         <entry encoding="base64">JzwsJz5zL1ZBTFVBVElPTi9BUFBST1ZBTC8=</entry>
+        <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
+        <entry>prettier</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
