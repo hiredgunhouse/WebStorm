@@ -20,7 +20,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="32" column="43" />
       </file>
-      <file name="R:/Rem/source/web/src/actions/valuationActions.js" timestamp="1516025213189" />
       <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1515707544296">
         <mark key="'" line="5" column="6" />
         <mark key="[" line="38" column="0" />
@@ -316,6 +315,12 @@
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1516034328119">
         <mark key="'" line="4" column="6" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1516279770011">
+        <mark key="[" line="293" column="22" />
+        <mark key="]" line="293" column="22" />
+        <mark key="." line="293" column="22" />
+        <mark key="^" line="288" column="13" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CaseNoteContainer.js" timestamp="1513264805957">
         <mark key="[" line="4" column="0" />
@@ -661,13 +666,13 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>={true}</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>={true}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZWZvcmVQaHlzaWNhbGx5UmVhZHlDaGVja3NcPg==</text>
+        <text>button</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdldFJlYWR5Rm9yVmFsdWF0aW9uQ2FzZVN0YXR1c2VzOiBzdWNjZXNzID0+CiAgICAgIHZhbHVhdGlvbkFwaUZhY3RvcnkoJ3JlYWR5Rm9yVmFsdWF0aW9uQ2FzZVN0YXR1c2VzJykuZ2V0KHN1Y2Nlc3MpLAo=</text>
@@ -704,9 +709,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZWZvcmVQaHlzaWNhbGx5UmVhZHlDaGVja3NcPg==</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZWZvcmVQaHlzaWNhbGx5UmVhZHlDaGVja3NcPg==</last-pattern>
+      <last-pattern>button</last-pattern>
       <last-replace>APPROVAL</last-replace>
       <last-substitute>VALUATION</last-substitute>
       <last-dir>1</last-dir>
@@ -714,8 +719,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaWN0XD4=</entry>
-        <entry>start</entry>
         <entry>startSelect</entry>
         <entry>startSelected</entry>
         <entry encoding="base64">XDxzdGFydFNlbGVjdGVkQXVjdGlvblw+</entry>
@@ -734,6 +737,8 @@
         <entry>can</entry>
         <entry encoding="base64">XDxzaWduZWRVcEZvckF1Y3Rpb25cPg==</entry>
         <entry encoding="base64">XDxiZWZvcmVQaHlzaWNhbGx5UmVhZHlDaGVja3NcPg==</entry>
+        <entry>buton</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+4noh</entry>
