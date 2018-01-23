@@ -214,10 +214,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/config.dev.js" timestamp="1497965413273">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="R:/Rem/source/web/src/config.dev.js" timestamp="1516709996099">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/newTodo.test.js" timestamp="1496827995585">
         <mark key="[" line="26" column="0" />
