@@ -400,7 +400,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1516636744401" />
       <file name="R:/Rem/source/web/src/App.css" timestamp="1512586708307">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="197" column="0" />
@@ -434,6 +433,9 @@
         <mark key="]" line="206" column="35" />
         <mark key="." line="206" column="35" />
         <mark key="^" line="198" column="47" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" timestamp="1516790228880">
+        <mark key="'" line="67" column="1" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NEW/FieldPropTypes.js" timestamp="1504094825634">
         <mark key="[" line="5" column="0" />
@@ -566,7 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/actions/auctionActions.js" />
       <jump line="106" column="8" filename="R:/Rem/source/web/src/containers/EditAuctionContainer.js" />
       <jump line="119" column="50" filename="R:/Rem/source/web/src/api/restApi.js" />
       <jump line="32" column="0" filename="R:/Rem/source/web/src/utils/futils.js" />
@@ -666,6 +667,7 @@
       <jump line="4" column="6" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
       <jump line="184" column="17" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="32" column="2" filename="R:/Rem/source/web/src/actions/auctionActions.js" />
+      <jump line="67" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
