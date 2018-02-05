@@ -87,12 +87,12 @@
         <mark key="]" line="102" column="51" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CaseList.js" timestamp="1517850283300">
+      <file name="R:/Rem/source/web/src/components/CaseList.js" timestamp="1517851929011">
         <mark key="'" line="76" column="11" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="97" column="39" />
-        <mark key="." line="98" column="0" />
+        <mark key="[" line="73" column="15" />
+        <mark key="]" line="73" column="24" />
+        <mark key="^" line="73" column="24" />
+        <mark key="." line="73" column="24" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/StartAuctionsButton.js" timestamp="1515710203058">
         <mark key="'" line="12" column="0" />
@@ -752,11 +752,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldEFwcHJvdmVWYWx1YXRpb25zTGlzdFhsc3g6IHN1Y2Nlc3MgPT4gdmFsdWF0aW9uQXBpRmFjdG9yeSgnYXBwcm92YWxsaXN0eGxzeCcpLmRvd25sb2FkKHN1Y2Nlc3MpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>exact</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>exact</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlRG93bmxvYWRcPg==</text>
