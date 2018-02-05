@@ -87,12 +87,12 @@
         <mark key="]" line="102" column="51" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CaseList.js" timestamp="1517851929011">
-        <mark key="'" line="76" column="11" />
-        <mark key="[" line="73" column="15" />
-        <mark key="]" line="73" column="24" />
-        <mark key="^" line="73" column="24" />
-        <mark key="." line="73" column="24" />
+      <file name="R:/Rem/source/web/src/components/CaseList.js" timestamp="1517852712950">
+        <mark key="'" line="72" column="2" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="100" column="11" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/StartAuctionsButton.js" timestamp="1515710203058">
         <mark key="'" line="12" column="0" />
@@ -739,7 +739,6 @@
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="91" column="44" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="3" column="26" filename="R:/Rem/source/web/src/components/CaseList.js" />
-      <jump line="72" column="2" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="23" column="35" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="98" column="6" filename="R:/Rem/source/web/src/actions/valuationActions.js" />
       <jump line="3" column="7" filename="R:/Rem/source/web/src/actions/valuationActions.js" />
@@ -747,58 +746,59 @@
       <jump line="76" column="11" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="223" column="6" filename="R:/Rem/source/web/src/actions/caseActions.js" />
       <jump line="0" column="7" filename="R:/Rem/source/web/src/actions/caseActions.js" />
+      <jump line="72" column="2" filename="R:/Rem/source/web/src/components/CaseList.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>exact</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaAo=</text>
       </register>
       <register name="-" type="4">
-        <text>exact</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlRG93bmxvYWRcPg==</text>
+        <text encoding="base64">XDxleHBvcnRUb0V4Y2VsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdldENhc2VMaXN0OiBzdWNjZXNzID0+IGNhc2VBcGlGYWN0b3J5KCdsaXN0QnlDYXNlU3RhdHVzU3RhdGlzdGljLycgKyB1cmxQYXJ0KS5nZXQoc3VjY2VzcyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldEFwcHJvdmVWYWx1YXRpb25zTGlzdFhsc3g6IHN1Y2Nlc3MgPT4gdmFsdWF0aW9uQXBpRmFjdG9yeSgnYXBwcm92YWxsaXN0eGxzeCcpLmRvd25sb2FkKHN1Y2Nlc3MpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGZpbGVEb3dubG9hZCBmcm9tICdqcy1maWxlLWRvd25sb2FkJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gb25DbGljaz17dGhpcy5jb3B5VklOc1RvQ2xpcGJvYXJkfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZpbGVEb3dubG9hZCBmcm9tICdqcy1maWxlLWRvd25sb2FkJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYXNlTGlzdAo=</text>
+        <text encoding="base64">ICBleHBvcnRUb0V4Y2VsKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0eXBlOiBhY3Rpb25UeXBlcy5HRVRfQ0FTRV9MSVNUX1NVQ0NFRURFRCwK</text>
+        <text encoding="base64">ICAgICAgICAgIG9uRXhwb3J0PXt0aGlzLnByb3BzLm9uRXhwb3J0fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Q2FzZUxpc3RTdWNjZWVkZWQgPSBjYXNlTGlzdCA9PiAoewo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucHJvcHMub25FeHBvcnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25FeHBvcnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlRG93bmxvYWRcPg==</last-search>
+      <last-search encoding="base64">XDxleHBvcnRUb0V4Y2VsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlRG93bmxvYWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxleHBvcnRUb0V4Y2VsXD4=</last-pattern>
       <last-replace>APPROVAL</last-replace>
       <last-substitute>VALUATION</last-substitute>
       <last-dir>1</last-dir>
@@ -806,7 +806,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZFw+</entry>
         <entry>match</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
@@ -826,6 +825,7 @@
         <entry encoding="base64">XDxjb3B5VklOc1RvQ2xpcGJvYXJkXD4=</entry>
         <entry>render</entry>
         <entry encoding="base64">XDxmaWxlRG93bmxvYWRcPg==</entry>
+        <entry encoding="base64">XDxleHBvcnRUb0V4Y2VsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>+1,+2m+5</entry>
