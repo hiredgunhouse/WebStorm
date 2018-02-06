@@ -86,13 +86,6 @@
         <mark key="^" line="37" column="35" />
         <mark key="." line="37" column="34" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CaseList.js" timestamp="1517852712950">
-        <mark key="'" line="72" column="2" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="100" column="11" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="R:/Rem/source/web/src/api/valuationApi.js" timestamp="1517850309132">
         <mark key="'" line="10" column="38" />
         <mark key="[" line="25" column="0" />
@@ -365,10 +358,7 @@
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1517846300762">
         <mark key="'" line="4" column="6" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="58" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="35" column="53" />
+        <mark key="^" line="33" column="53" />
       </file>
       <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1516290725956">
         <mark key="[" line="300" column="22" />
@@ -645,7 +635,6 @@
       <jump line="76" column="11" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="223" column="6" filename="R:/Rem/source/web/src/actions/caseActions.js" />
       <jump line="0" column="7" filename="R:/Rem/source/web/src/actions/caseActions.js" />
-      <jump line="72" column="2" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="53" column="27" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="504" column="25" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="40" column="24" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
@@ -728,6 +717,7 @@
       <jump line="22" column="0" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
       <jump line="23" column="0" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
       <jump line="28" column="0" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
+      <jump line="72" column="2" filename="R:/Rem/source/web/src/components/CaseList.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
