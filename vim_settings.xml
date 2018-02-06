@@ -30,12 +30,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="43" />
       </file>
-      <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1515707544296">
+      <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1517914996012">
         <mark key="'" line="5" column="6" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="76" />
-        <mark key="^" line="0" column="44" />
-        <mark key="." line="0" column="44" />
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
       </file>
       <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewLeftMenu.js" timestamp="1513266266261">
         <mark key="[" line="1" column="9" />
@@ -54,6 +54,7 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="27" />
       </file>
+      <file name="R:/Rem/source/web/src/containers/ActionsLogNotifierContainer.js" timestamp="1517914820330" />
       <file name="R:/Rem/source/web/src/containers/HomePage.js" timestamp="1512587027598">
         <mark key="[" line="237" column="0" />
         <mark key="]" line="237" column="0" />
@@ -81,24 +82,12 @@
         <mark key="^" line="37" column="35" />
         <mark key="." line="37" column="34" />
       </file>
-      <file name="R:/Rem/source/web/src/constants/actionTypes.js" timestamp="1516025193415">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="102" column="51" />
-        <mark key="." line="101" column="0" />
-      </file>
       <file name="R:/Rem/source/web/src/components/CaseList.js" timestamp="1517852712950">
         <mark key="'" line="72" column="2" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="^" line="100" column="11" />
         <mark key="." line="98" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/auction/StartAuctionsButton.js" timestamp="1515710203058">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/api/valuationApi.js" timestamp="1517850309132">
         <mark key="'" line="10" column="38" />
@@ -153,7 +142,7 @@
         <mark key="'" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
-        <mark key="^" line="222" column="26" />
+        <mark key="^" line="230" column="26" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/utils/dropDownUtils.js" timestamp="1513260791590">
@@ -192,7 +181,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1515776792248">
+      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1517915365377">
         <mark key="'" line="24" column="41" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -256,16 +245,16 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/dictionaryUtils.js" timestamp="1515515448373">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="34" column="50" />
-        <mark key="]" line="34" column="50" />
-        <mark key="." line="34" column="50" />
-      </file>
       <file name="R:/Rem/source/web/src/reducers/makesReducer.js" timestamp="1507284157113">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
+      </file>
+      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1517915216704">
+        <mark key="[" line="349" column="3" />
+        <mark key="]" line="350" column="1" />
+        <mark key="^" line="350" column="1" />
+        <mark key="." line="350" column="1" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/LabelField.js" timestamp="1513265737548">
         <mark key="[" line="5" column="0" />
@@ -333,7 +322,7 @@
       <file name="R:/Rem/source/web/src/containers/DashboardContainer.js" timestamp="1517828976755">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="31" />
-        <mark key="^" line="26" column="19" />
+        <mark key="^" line="10" column="19" />
         <mark key="." line="9" column="31" />
       </file>
       <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1516290803753">
@@ -483,9 +472,6 @@
         <mark key="." line="206" column="35" />
         <mark key="^" line="198" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" timestamp="1516790228880">
-        <mark key="'" line="67" column="1" />
-      </file>
       <file name="R:/Rem/source/web/src/components/Dashboard.js" timestamp="1517831841773">
         <mark key="'" line="42" column="42" />
         <mark key="[" line="99" column="0" />
@@ -505,9 +491,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="366" column="62" />
       </file>
-      <file name="R:/Rem/source/web/src/components/withUnsavedChangesUtils.js" timestamp="1515710185779">
-        <mark key="'" line="96" column="11" />
-      </file>
       <file name="R:/Rem/source/web/src/components/controls/HeaderElement.js" timestamp="1517845857768">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="30" />
@@ -518,12 +501,6 @@
         <mark key="]" line="37" column="11" />
         <mark key="." line="37" column="11" />
         <mark key="^" line="12" column="16" />
-      </file>
-      <file name="R:/Rem/source/web/src/actions/auctionActions.js" timestamp="1517393966292">
-        <mark key="'" line="75" column="11" />
-        <mark key="[" line="53" column="9" />
-        <mark key="]" line="53" column="9" />
-        <mark key="." line="53" column="9" />
       </file>
       <file name="R:/Rem/source/web/src/containers/App.js" timestamp="1513347060943">
         <mark key="'" line="71" column="14" />
@@ -557,7 +534,7 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517850159437">
+      <file name="/Dummy.txt" timestamp="1517915044568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -600,12 +577,6 @@
         <mark key="]" line="170" column="42" />
         <mark key="." line="170" column="42" />
         <mark key="^" line="170" column="42" />
-      </file>
-      <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1517850353319">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="98" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1516290811177">
         <mark key="'" line="47" column="0" />
