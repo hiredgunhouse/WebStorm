@@ -216,6 +216,7 @@
         <mark key="." line="237" column="47" />
         <mark key="^" line="238" column="6" />
       </file>
+      <file name="R:/Rem/source/web/src/containers/AuctionDetailsContainer.js" timestamp="1518018150627" />
       <file name="R:/Rem/source/web/src/components/controls/TextAreaField.js" timestamp="1513265764565">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -356,10 +357,6 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1517846300762">
-        <mark key="'" line="4" column="6" />
-        <mark key="^" line="33" column="53" />
-      </file>
       <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1516290725956">
         <mark key="[" line="300" column="22" />
         <mark key="]" line="300" column="22" />
@@ -400,8 +397,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionDetails.js" timestamp="1513364904210">
-        <mark key="'" line="37" column="0" />
+      <file name="R:/Rem/source/web/src/components/AuctionDetails.js" timestamp="1518018184950">
+        <mark key="'" line="31" column="6" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
@@ -618,7 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="9" filename="R:/Rem/source/web/src/components/valuation/VehicleValuationOverview.js" />
       <jump line="89" column="10" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="111" column="31" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="6" column="17" filename="R:/Rem/source/web/src/components/CaseList.js" />
@@ -718,6 +714,7 @@
       <jump line="23" column="0" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
       <jump line="28" column="0" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
       <jump line="72" column="2" filename="R:/Rem/source/web/src/components/CaseList.js" />
+      <jump line="31" column="6" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -730,7 +727,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
@@ -767,9 +764,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>APPROVAL</last-replace>
       <last-substitute>VALUATION</last-substitute>
       <last-dir>1</last-dir>
@@ -777,7 +774,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3B5VklOc1RvQ2xpcGJvYXJkXD4=</entry>
         <entry>render</entry>
         <entry encoding="base64">XDxmaWxlRG93bmxvYWRcPg==</entry>
         <entry encoding="base64">XDxleHBvcnRUb0V4Y2VsXD4=</entry>
@@ -797,6 +793,7 @@
         <entry encoding="base64">XDxkZWJ1Z2dlclw+</entry>
         <entry>setState</entry>
         <entry>console</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>+1,+2m+12</entry>
