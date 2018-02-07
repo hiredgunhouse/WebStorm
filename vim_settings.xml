@@ -142,6 +142,12 @@
         <mark key="^" line="230" column="26" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" timestamp="1518019849644">
+        <mark key="[" line="218" column="39" />
+        <mark key="]" line="218" column="40" />
+        <mark key="^" line="218" column="40" />
+        <mark key="." line="218" column="40" />
+      </file>
       <file name="R:/Rem/source/web/src/utils/dropDownUtils.js" timestamp="1513260791590">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -796,7 +802,6 @@
         <entry>update</entry>
       </history-search>
       <history-cmd>
-        <entry>+1,+2m+12</entry>
         <entry>+1,+2m+11</entry>
         <entry>+1,+2m+9</entry>
         <entry>+1,+2m+13</entry>
@@ -814,6 +819,7 @@
         <entry>lw</entry>
         <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
         <entry>sw</entry>
+        <entry>219</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
