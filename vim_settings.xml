@@ -480,10 +480,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1515700122800">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1518094587431">
+        <mark key="'" line="681" column="18" />
+        <mark key="[" line="671" column="52" />
+        <mark key="]" line="671" column="52" />
+        <mark key="." line="671" column="41" />
+        <mark key="^" line="671" column="52" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/index.js" timestamp="1517829011841">
         <mark key="'" line="21" column="21" />
@@ -608,20 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="10" filename="R:/Rem/source/web/src/components/CaseList.js" />
-      <jump line="111" column="31" filename="R:/Rem/source/web/src/components/CaseList.js" />
-      <jump line="6" column="17" filename="R:/Rem/source/web/src/components/CaseList.js" />
-      <jump line="121" column="0" filename="R:/Rem/source/web/src/components/CaseList.js" />
-      <jump line="21" column="1" filename="R:/Rem/source/web/src/containers/CaseListContainer.js" />
-      <jump line="123" column="33" filename="R:/Rem/source/web/src/components/CaseList.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/CaseList.js" />
-      <jump line="91" column="44" filename="R:/Rem/source/web/src/components/CaseList.js" />
-      <jump line="3" column="26" filename="R:/Rem/source/web/src/components/CaseList.js" />
-      <jump line="23" column="35" filename="R:/Rem/source/web/src/components/CaseList.js" />
-      <jump line="98" column="6" filename="R:/Rem/source/web/src/actions/valuationActions.js" />
-      <jump line="3" column="7" filename="R:/Rem/source/web/src/actions/valuationActions.js" />
-      <jump line="222" column="6" filename="R:/Rem/source/web/src/actions/caseActions.js" />
-      <jump line="76" column="11" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="223" column="6" filename="R:/Rem/source/web/src/actions/caseActions.js" />
       <jump line="0" column="7" filename="R:/Rem/source/web/src/actions/caseActions.js" />
       <jump line="53" column="27" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
@@ -708,58 +696,72 @@
       <jump line="28" column="0" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
       <jump line="72" column="2" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="31" column="6" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
+      <jump line="701" column="25" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="396" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="405" column="45" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="451" column="32" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="468" column="22" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="577" column="19" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="631" column="28" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="641" column="19" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="647" column="32" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="655" column="22" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="656" column="35" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="671" column="30" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
+      <jump line="681" column="18" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this.props.disabled || this.isAuctionLockedForChanges()</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>this.props.disabled || this.isAuctionLockedForChanges()</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text encoding="base64">XDxkaXNhYmxlZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzYWJsZWQ9e3RoaXMucHJvcHMuZGlzYWJsZWQgfHwgdGhpcy5pc0F1Y3Rpb25Mb2NrZWRGb3JDaGFuZ2VzKCl9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ISh0aGlzLnByb3BzLmRpc2FibGVkIHx8IHRoaXMuaXNBdWN0aW9uTG9ja2VkRm9yQ2hhbmdlcygpKSAmJgogICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZsb2F0OiAncmlnaHQnIH19PgogICAgICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYnRuIGJ0bi1kZWZhdWx0IgogICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgbWFyZ2luUmlnaHQ6ICcxMHB4JyB9fQogICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy5zYXZlQXVjdGlvbn0KICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZH0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICBTYXZlCiAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJidG4gYnRuLWRlZmF1bHQiCiAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBtYXJnaW5SaWdodDogJzEwcHgnIH19CiAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLmNoZWNrQW5kQXBwcm92ZX0KICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcm9wcy5kaXNhYmxlZCB8fAogICAgICAgICAgICAgICAgICAgICAgICBhc3NpZ25lZENvdW50ID09PSAwIHx8CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZm9ybUhhc1Vuc2F2ZWRDaGFuZ2VzKCkKICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICBDaGVjayBhbmQgQXBwcm92ZQogICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYnRuIGJ0bi1kZWZhdWx0IgogICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy5jYW5jZWx9CiAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBtYXJnaW5SaWdodDogJzIwcHgnIH19CiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgQ2FuY2VsCiAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ2NvbXBvbmVudFdpbGxSZWNlaXZlUHJvcHMoKTogaWYnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGlzYWJsZWQ9e3RoaXMucHJvcHMuZGlzYWJsZWQgfHwgdGhpcy5pc0F1Y3Rpb25Mb2NrZWRGb3JDaGFuZ2VzKCl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdjb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKCknKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ21ha2VDYWxsKCk6IGlmJykK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ2NvbXBvbmVudFdpbGxSZWNlaXZlUHJvcHMoKTogaWYnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdtYWtlQ2FsbCgpJykK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdjb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKCknKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdjb21wb25lbnREaWRNb3VudCgpJykK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ21ha2VDYWxsKCk6IGlmJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdyZW5kZXIoKScpCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdtYWtlQ2FsbCgpJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cGRhdGVTZWxlY3RlZFJvd3MoKScpCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdjb21wb25lbnREaWRNb3VudCgpJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjYWxjdWxhdGVDYW5kaWRhdGVzKCkgLSBpc0Zvcm1EaXJ0eScsIHRoaXMuaXNGb3JtRGlydHkpCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdyZW5kZXIoKScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search encoding="base64">XDxkaXNhYmxlZFw+</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern encoding="base64">XDxkaXNhYmxlZFw+</last-pattern>
       <last-replace>APPROVAL</last-replace>
       <last-substitute>VALUATION</last-substitute>
       <last-dir>1</last-dir>
@@ -767,9 +769,6 @@
     </search>
     <history>
       <history-search>
-        <entry>render</entry>
-        <entry encoding="base64">XDxmaWxlRG93bmxvYWRcPg==</entry>
-        <entry encoding="base64">XDxleHBvcnRUb0V4Y2VsXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsRmlsdGVyU3RhdGVcPg==</entry>
         <entry encoding="base64">XDxmZXRjaERhdGFcPg==</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVDYW5kaWRhdGVzXD4=</entry>
@@ -787,6 +786,9 @@
         <entry>setState</entry>
         <entry>console</entry>
         <entry>update</entry>
+        <entry encoding="base64">XDxpc0F1Y3Rpb25Mb2NrZWRGb3JDaGFuZ2VzXD4=</entry>
+        <entry>\clockedfor</entry>
+        <entry encoding="base64">XDxkaXNhYmxlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>+1,+2m+11</entry>
