@@ -32,11 +32,11 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewLeftMenu.js" timestamp="1518102025470">
+      <file name="R:/Rem/source/web/src/components/valuation/VehicleValuationOverviewLeftMenu.js" timestamp="1518182672280">
         <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="27" />
+        <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+        <mark key="^" line="8" column="6" />
       </file>
       <file name="R:/Rem/source/web/src/components/CaseListAllObjects.js" timestamp="1513268655590">
         <mark key="[" line="48" column="0" />
@@ -61,7 +61,6 @@
         <mark key="." line="40" column="64" />
         <mark key="^" line="40" column="67" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/NumericField.js" timestamp="1518110273473" />
       <file name="R:/Rem/source/web/src/reducers/modelsReducer.js" timestamp="1503995825188">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -397,12 +396,12 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewLeftMenu.js" timestamp="1518181581150">
+      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewLeftMenu.js" timestamp="1518182713446">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="8" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="35" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/CreateAuction.js" timestamp="1503580603268">
         <mark key="[" line="0" column="0" />
@@ -436,12 +435,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/App.css" timestamp="1518181483583">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="209" column="13" />
-        <mark key="." line="209" column="13" />
-        <mark key="^" line="209" column="13" />
+      <file name="R:/Rem/source/web/src/App.css" timestamp="1518182699783">
+        <mark key="'" line="204" column="0" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="135" column="10" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/CloseAuctionButton.js" timestamp="1517394586975">
         <mark key="'" line="7" column="2" />
@@ -535,7 +534,7 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518175595475">
+      <file name="/Dummy.txt" timestamp="1518182543852">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -629,8 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="13" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="153" column="18" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="51" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="89" column="45" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="93" column="16" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
@@ -729,58 +726,60 @@
       <jump line="18" column="0" filename="R:/Rem/source/web/node_modules/react-router-dom/index.js" />
       <jump line="5" column="7" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewLeftMenu.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewLeftMenu.js" />
+      <jump line="129" column="0" filename="R:/Rem/source/web/src/App.css" />
+      <jump line="204" column="0" filename="R:/Rem/source/web/src/App.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgZm9udFNpemU6ICcxMjAlJywKICAgICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCBncmF5JywKICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzVweCcsCiAgICAgICAgICBiYWNrZ3JvdW5kOiAnI2VmZWZlZicsCiAgICAgICAgfX0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>Gjensidige</text>
+        <text>left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJyZWltYnVyc2VtZW50VGF4IiBsYWJlbD0iUmVpbWJ1cnNlbWVudCBUYXgiIC8+CiAgICAgICAgICAgIDxUZXh0RmllbGQgbmFtZT0icmVmdW5kVGF4IiBsYWJlbD0iUmVmdW5kIFRheCIgLz4K</text>
+        <text encoding="base64">ICAgICAgLy8gY2xhc3NOYW1lPSJyZW0tbmF2LWxpbmsiCiAgICAgIC8vIGFjdGl2ZUNsYXNzTmFtZT0icmVtLWFjdGl2ZS1uYXYtbGluayIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aDM+SGVsbG88L2gzPgo=</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgZm9udFNpemU6ICcxMjAlJywKICAgICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCBncmF5JywKICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzVweCcsCiAgICAgICAgICBiYWNrZ3JvdW5kOiAnI2VmZWZlZicsCiAgICAgICAgfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiAnJywK</text>
+        <text encoding="base64">fX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiAnJywK</text>
+        <text encoding="base64">c3R5bGU9e3sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgZm9udFNpemU6ICcxMjAlJywKICAgICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCBncmF5JywKICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzVweCcsCiAgICAgICAgICBiYWNrZ3JvdW5kOiAnI2VmZWZlZicsCiAgICAgICAgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ2Nsb3NlRGlhbG9nJywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ3Nob3dNZXNzYWdlJywK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZTogJycsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">bmF2LWxpbms6aG92ZXIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LnJlbS1uYXYtbGluazpob3ZlciBidXR0b24gewogICAgYmFja2dyb3VuZDogcmdiKDIyMSwgMjIxLCAyMjEpICFpbXBvcnRhbnQ7Cn0KCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgYWN0aXZlQ2xhc3NOYW1lPSJyZW0tYWN0aXZlLW5hdi1saW5rIgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY2xhc3NOYW1lPSJyZW0tbmF2LWxpbmsiCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>Gjensidige</last-search>
+      <last-search>left</last-search>
       <last-offset />
-      <last-pattern>Gjensidige</last-pattern>
+      <last-pattern>left</last-pattern>
       <last-replace>Insurance</last-replace>
       <last-substitute>Gjensidige</last-substitute>
       <last-dir>1</last-dir>
@@ -788,7 +787,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkNhbmRpZGF0ZVJvd0NsaWNrXD4=</entry>
         <entry encoding="base64">XDxhc3NpZ25Ub0F1Y3Rpb25cPg==</entry>
         <entry encoding="base64">XDxvbkNhbmRpZGF0ZUNhc2VzUm93c1NlbGVjdGVkXD4=</entry>
         <entry encoding="base64">XDxkZWJ1Z2dlclw+</entry>
@@ -808,6 +806,7 @@
         <entry encoding="base64">XDxzYXZlQ2hhbmdlc1w+</entry>
         <entry encoding="base64">XDxHamVuc2lkaWdlXD4=</entry>
         <entry>Gjensidige</entry>
+        <entry>left</entry>
       </history-search>
       <history-cmd>
         <entry>+1,+2m+13</entry>
