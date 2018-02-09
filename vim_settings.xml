@@ -435,11 +435,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/App.css" timestamp="1518182699783">
-        <mark key="'" line="204" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+      <file name="R:/Rem/source/web/src/App.css" timestamp="1518185282258">
+        <mark key="'" line="200" column="14" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="46" />
+        <mark key="." line="202" column="0" />
         <mark key="^" line="135" column="10" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/CloseAuctionButton.js" timestamp="1517394586975">
@@ -628,9 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="89" column="45" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="93" column="16" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="143" column="17" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="161" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="165" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
@@ -728,22 +725,25 @@
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewLeftMenu.js" />
       <jump line="129" column="0" filename="R:/Rem/source/web/src/App.css" />
       <jump line="204" column="0" filename="R:/Rem/source/web/src/App.css" />
+      <jump line="131" column="1" filename="R:/Rem/source/web/src/App.css" />
+      <jump line="201" column="4" filename="R:/Rem/source/web/src/App.css" />
+      <jump line="200" column="14" filename="R:/Rem/source/web/src/App.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgZm9udFNpemU6ICcxMjAlJywKICAgICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCBncmF5JywKICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzVweCcsCiAgICAgICAgICBiYWNrZ3JvdW5kOiAnI2VmZWZlZicsCiAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJnYigyMjEsIDIyMSwgMjIxKSAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>left</text>
+        <text>active</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2xhc3NOYW1lPSJyZW0tbmF2LWxpbmsiCiAgICAgIC8vIGFjdGl2ZUNsYXNzTmFtZT0icmVtLWFjdGl2ZS1uYXYtbGluayIK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJnYigyMjEsIDIyMSwgMjIxKSAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgICAgZm9udFNpemU6ICcxMjAlJywKICAgICAgICAgIGJvcmRlcjogJzFweCBzb2xpZCBncmF5JywKICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzVweCcsCiAgICAgICAgICBiYWNrZ3JvdW5kOiAnI2VmZWZlZicsCiAgICAgICAgfX0K</text>
@@ -777,9 +777,9 @@
       </register>
     </registers>
     <search>
-      <last-search>left</last-search>
+      <last-search>active</last-search>
       <last-offset />
-      <last-pattern>left</last-pattern>
+      <last-pattern>active</last-pattern>
       <last-replace>Insurance</last-replace>
       <last-substitute>Gjensidige</last-substitute>
       <last-dir>1</last-dir>
@@ -787,7 +787,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3NpZ25Ub0F1Y3Rpb25cPg==</entry>
         <entry encoding="base64">XDxvbkNhbmRpZGF0ZUNhc2VzUm93c1NlbGVjdGVkXD4=</entry>
         <entry encoding="base64">XDxkZWJ1Z2dlclw+</entry>
         <entry>setState</entry>
@@ -807,6 +806,7 @@
         <entry encoding="base64">XDxHamVuc2lkaWdlXD4=</entry>
         <entry>Gjensidige</entry>
         <entry>left</entry>
+        <entry>active</entry>
       </history-search>
       <history-cmd>
         <entry>+1,+2m+13</entry>
