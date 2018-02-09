@@ -240,6 +240,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="R:/Rem/source/web/src/components/Insurance.js" timestamp="1518169398449">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="173" column="75" />
+        <mark key="]" line="173" column="76" />
+        <mark key="." line="173" column="75" />
+      </file>
       <file name="R:/Rem/source/web/src/reducers/makesReducer.js" timestamp="1507284157113">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -357,6 +363,13 @@
         <mark key="]" line="300" column="22" />
         <mark key="." line="300" column="22" />
         <mark key="^" line="288" column="13" />
+      </file>
+      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1518169445445">
+        <mark key="'" line="12" column="35" />
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="43" />
+        <mark key="^" line="12" column="43" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CaseNoteContainer.js" timestamp="1513264805957">
         <mark key="[" line="4" column="0" />
@@ -517,7 +530,7 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518110279338">
+      <file name="/Dummy.txt" timestamp="1518169446704">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -611,23 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="417" column="10" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="134" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="50" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="109" column="2" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="37" column="20" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="90" column="22" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="41" column="0" filename="R:/Rem/source/web/src/api/basicApi.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/api/basicApi.js" />
-      <jump line="51" column="8" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
-      <jump line="10" column="6" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
-      <jump line="29" column="19" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
-      <jump line="31" column="52" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
-      <jump line="43" column="12" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
-      <jump line="44" column="15" filename="R:/Rem/source/web/src/components/ActionsLogNotifier.js" />
-      <jump line="87" column="16" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
-      <jump line="140" column="19" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="114" column="13" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="157" column="9" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
       <jump line="133" column="2" filename="R:/Rem/source/web/src/components/auction/AuctionVehiclesAssignment.js" />
@@ -711,19 +707,36 @@
       <jump line="47" column="7" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="43" column="0" filename="R:/Rem/source/web/src/components/ValuationAndLoss.js" />
       <jump line="48" column="7" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="60" column="4" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="118" column="31" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="119" column="33" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="120" column="36" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="121" column="43" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="122" column="41" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="123" column="35" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="124" column="40" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="168" column="43" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="169" column="45" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="170" column="52" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="173" column="53" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="174" column="46" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="175" column="53" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="176" column="45" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="109" column="0" filename="R:/Rem/source/web/src/components/Insurance.js" />
+      <jump line="12" column="35" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJyZWltYnVyc2VtZW50VGF4IiBsYWJlbD0iUmVpbWJ1cnNlbWVudCBUYXgiIC8+CiAgICAgICAgICAgIDxUZXh0RmllbGQgbmFtZT0icmVmdW5kVGF4IiBsYWJlbD0iUmVmdW5kIFRheCIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>Gjensidige</text>
       </register>
       <register name="-" type="4">
-        <text>Tax</text>
+        <text>Gjensidige</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlQ2hhbmdlc1w+</text>
+        <text>Gjensidige</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJyZWltYnVyc2VtZW50VGF4IiBsYWJlbD0iUmVpbWJ1cnNlbWVudCBUYXgiIC8+CiAgICAgICAgICAgIDxUZXh0RmllbGQgbmFtZT0icmVmdW5kVGF4IiBsYWJlbD0iUmVmdW5kIFRheCIgLz4K</text>
@@ -756,22 +769,20 @@
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBtZXNzYWdlOiAnJyB9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlQ2hhbmdlc1w+</last-search>
+      <last-search>Gjensidige</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlQ2hhbmdlc1w+</last-pattern>
-      <last-replace>APPROVAL</last-replace>
-      <last-substitute>VALUATION</last-substitute>
+      <last-pattern>Gjensidige</last-pattern>
+      <last-replace>Insurance</last-replace>
+      <last-substitute>Gjensidige</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVTZWxlY3RlZFJvd3NcPg==</entry>
-        <entry encoding="base64">XDxvbkNhbmRpZGF0ZUNhc2VzUm93c0Rlc2VsZWN0ZWRcPg==</entry>
         <entry encoding="base64">XDxvbkNhbmRpZGF0ZVJvd0NsaWNrXD4=</entry>
         <entry encoding="base64">XDxhc3NpZ25Ub0F1Y3Rpb25cPg==</entry>
         <entry encoding="base64">XDxvbkNhbmRpZGF0ZUNhc2VzUm93c1NlbGVjdGVkXD4=</entry>
@@ -790,9 +801,10 @@
         <entry encoding="base64">XDxvbkZpZWxkQ2hhbmdlXD4=</entry>
         <entry encoding="base64">XDxjbG9zZURpYWxvZ1w+</entry>
         <entry encoding="base64">XDxzYXZlQ2hhbmdlc1w+</entry>
+        <entry encoding="base64">XDxHamVuc2lkaWdlXD4=</entry>
+        <entry>Gjensidige</entry>
       </history-search>
       <history-cmd>
-        <entry>+1,+2m+11</entry>
         <entry>+1,+2m+9</entry>
         <entry>+1,+2m+13</entry>
         <entry encoding="base64">JzwsJz5zLyA9LiokLycsLw==</entry>
@@ -810,8 +822,9 @@
         <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
         <entry>sw</entry>
         <entry>219</entry>
-        <entry>w</entry>
+        <entry>%s/Gjensidige/Insurance/g</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
