@@ -360,11 +360,11 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1518110257898">
+      <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1518186516534">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="300" column="22" />
-        <mark key="]" line="300" column="22" />
-        <mark key="." line="300" column="22" />
+        <mark key="[" line="223" column="32" />
+        <mark key="]" line="223" column="32" />
+        <mark key="." line="223" column="32" />
         <mark key="^" line="288" column="13" />
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1518169445445">
@@ -534,7 +534,7 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518182543852">
+      <file name="/Dummy.txt" timestamp="1518186511824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -733,11 +733,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJnYigyMjEsIDIyMSwgMjIxKSAhaW1wb3J0YW50Owo=</text>
+      <register name="&quot;" type="4">
+        <text>V</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>active</text>
