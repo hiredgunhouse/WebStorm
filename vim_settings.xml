@@ -55,10 +55,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/HomePage.js" timestamp="1512587027598">
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
+      <file name="R:/Rem/source/web/src/containers/HomePage.js" timestamp="1518176178324">
+        <mark key="[" line="40" column="64" />
+        <mark key="]" line="40" column="64" />
+        <mark key="." line="40" column="64" />
+        <mark key="^" line="40" column="67" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/NumericField.js" timestamp="1518110273473" />
       <file name="R:/Rem/source/web/src/reducers/modelsReducer.js" timestamp="1503995825188">
@@ -530,7 +531,7 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518169446704">
+      <file name="/Dummy.txt" timestamp="1518175595475">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -730,10 +731,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Gjensidige</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Gjensidige</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Gjensidige</text>
@@ -742,34 +743,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPFRleHRGaWVsZCBuYW1lPSJyZWltYnVyc2VtZW50VGF4IiBsYWJlbD0iUmVpbWJ1cnNlbWVudCBUYXgiIC8+CiAgICAgICAgICAgIDxUZXh0RmllbGQgbmFtZT0icmVmdW5kVGF4IiBsYWJlbD0iUmVmdW5kIFRheCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiAnJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aDM+SGVsbG88L2gzPgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgOiAnJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOiAnJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ2Nsb3NlRGlhbG9nJywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ3Nob3dNZXNzYWdlJywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZTogJycsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgJ2Nsb3NlRGlhbG9nJywK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgJ3Nob3dNZXNzYWdlJywK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgbWVzc2FnZTogJycsCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBtZXNzYWdlOiAnJyB9KQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -805,7 +806,6 @@
         <entry>Gjensidige</entry>
       </history-search>
       <history-cmd>
-        <entry>+1,+2m+9</entry>
         <entry>+1,+2m+13</entry>
         <entry encoding="base64">JzwsJz5zLyA9LiokLycsLw==</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMuLycv</entry>
@@ -823,8 +823,9 @@
         <entry>sw</entry>
         <entry>219</entry>
         <entry>%s/Gjensidige/Insurance/g</entry>
-        <entry>noh</entry>
+        <entry>:w</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
