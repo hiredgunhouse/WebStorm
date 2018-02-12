@@ -371,6 +371,12 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
+      <file name="R:/Rem/source/web/src/components/AuthInfo.js" timestamp="1518430196240">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+      </file>
       <file name="R:/Rem/source/web/src/containers/CaseNoteContainer.js" timestamp="1513264805957">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -434,10 +440,6 @@
       </file>
       <file name="R:/Rem/source/web/src/App.css" timestamp="1518429314807">
         <mark key="'" line="200" column="14" />
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="0" />
-        <mark key="." line="250" column="0" />
-        <mark key="^" line="252" column="16" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/CloseAuctionButton.js" timestamp="1517394586975">
         <mark key="'" line="7" column="2" />
@@ -730,11 +732,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qZGlzcGxheTogaW5oZXJpdDsqLwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>white</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVkXD4=</text>
