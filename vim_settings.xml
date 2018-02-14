@@ -386,11 +386,12 @@
         <mark key="." line="223" column="32" />
         <mark key="^" line="288" column="13" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1518607479351">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="16" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="56" column="21" />
+      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1518608232475">
+        <mark key="'" line="63" column="2" />
+        <mark key="[" line="99" column="44" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="99" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/AuthInfo.js" timestamp="1518430196240">
         <mark key="[" line="14" column="30" />
@@ -665,7 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="396" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="405" column="45" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="451" column="32" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -765,16 +765,17 @@
       <jump line="80" column="6" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
       <jump line="96" column="1" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
       <jump line="48" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
+      <jump line="63" column="2" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>data[check.key]</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUb2Rvc1BhbmVsXD4=</text>
@@ -783,31 +784,31 @@
         <text encoding="base64">ICByZXR1cm4gdGFiQ2hlY2tzW3RhYkNoZWNrcy5sZW5ndGggLSAxXVswXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gdGFiQ2hlY2tzW3RhYkNoZWNrcy5sZW5ndGgtMV1bMF0K</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gdGFiQ2hlY2tzWzFdWzBdCg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gdGFiQ2hlY2tzW3RhYkNoZWNrcy5sZW5ndGgtMV1bMF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gdGFiQ2hlY2tzWzFdWzBdCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gdGFiQ2hlY2tzWzFdWzBdCg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gdGFiQ2hlY2tzWzFdWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gdGFiQ2hlY2tzWzFdWzBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICByZXR1cm4gdGFiQ2hlY2tzWzFdWzBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIG9uUm93Q2xpY2s9eyhpZHgsIHJvdywgY2VsbCkgPT4gb3BlbkNhc2Uocm93LmlkKX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
