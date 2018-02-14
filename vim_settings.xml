@@ -386,12 +386,12 @@
         <mark key="." line="223" column="32" />
         <mark key="^" line="288" column="13" />
       </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1518608232475">
-        <mark key="'" line="63" column="2" />
-        <mark key="[" line="99" column="44" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="99" column="0" />
+      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1518611316531">
+        <mark key="'" line="47" column="6" />
+        <mark key="[" line="58" column="37" />
+        <mark key="]" line="58" column="37" />
+        <mark key="." line="58" column="37" />
+        <mark key="^" line="58" column="37" />
       </file>
       <file name="R:/Rem/source/web/src/components/AuthInfo.js" timestamp="1518430196240">
         <mark key="[" line="14" column="30" />
@@ -666,9 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="396" column="11" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="405" column="45" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
-      <jump line="451" column="32" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="468" column="22" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="577" column="19" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
       <jump line="631" column="28" filename="R:/Rem/source/web/src/components/auction/EditAuction.js" />
@@ -766,22 +763,25 @@
       <jump line="96" column="1" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
       <jump line="48" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
       <jump line="63" column="2" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
+      <jump line="42" column="4" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
+      <jump line="108" column="28" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
+      <jump line="47" column="6" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUb2Rvc1BhbmVsXD4=</text>
+        <text encoding="base64">XDxhY3RpdmVUYWJJZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gdGFiQ2hlY2tzW3RhYkNoZWNrcy5sZW5ndGggLSAxXVswXQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjaGVja1ZhbHVlID0gZGF0YVtjaGVjay5rZXldCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
@@ -815,9 +815,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUb2Rvc1BhbmVsXD4=</last-search>
+      <last-search encoding="base64">XDxhY3RpdmVUYWJJZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUb2Rvc1BhbmVsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhY3RpdmVUYWJJZFw+</last-pattern>
       <last-replace>Insurance</last-replace>
       <last-substitute>Gjensidige</last-substitute>
       <last-dir>1</last-dir>
@@ -825,9 +825,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbG9zZURpYWxvZ1w+</entry>
-        <entry encoding="base64">XDxzYXZlQ2hhbmdlc1w+</entry>
-        <entry encoding="base64">XDxHamVuc2lkaWdlXD4=</entry>
         <entry>Gjensidige</entry>
         <entry>left</entry>
         <entry>active</entry>
@@ -845,6 +842,9 @@
         <entry encoding="base64">XDxUYWJzMlw+</entry>
         <entry encoding="base64">XDxiZWZvcmVQaHlzaWNhbGx5UmVhZHlDaGVja3NcPg==</entry>
         <entry encoding="base64">XDxUb2Rvc1BhbmVsXD4=</entry>
+        <entry encoding="base64">XDxkdXJpbmdUYWJcPg==</entry>
+        <entry encoding="base64">XDxhY3RpdmVUYWJcPg==</entry>
+        <entry encoding="base64">XDxhY3RpdmVUYWJJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9LiokLycsLw==</entry>
