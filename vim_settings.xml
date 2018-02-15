@@ -572,7 +572,7 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518624219655">
+      <file name="/Dummy.txt" timestamp="1518693346012">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -636,6 +636,11 @@
         <mark key="." line="77" column="28" />
         <mark key="^" line="77" column="41" />
       </file>
+      <file name="R:/Rem/source/web/src/components/controls/TypeaheadField.js" timestamp="1518693383805">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1503397759363">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -666,9 +671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="193" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
-      <jump line="42" column="0" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="299" column="22" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="45" column="7" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="142" column="2" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
@@ -766,58 +768,61 @@
       <jump line="65" column="9" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="109" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
       <jump line="4" column="7" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
+      <jump line="91" column="25" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="69" column="16" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="70" column="14" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGRlZXBFcXVhbCBmcm9tICdkZWVwLWVxdWFsJwo=</text>
+        <text encoding="base64">ICAgICAgICByZWY9e3JlZiA9PiB0aGlzLl90eXBlYWhlYWQgPSByZWZ9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>: newTabId,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWVwRXF1YWxcPg==</text>
+        <text encoding="base64">XDxfdHlwZWFoZWFkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGRlZXBFcXVhbCBmcm9tICdkZWVwLWVxdWFsJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZWY9e3JlZiA9PiB0aGlzLl90eXBlYWhlYWQgPSByZWZ9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZFRhYklkOgo=</text>
+        <text encoding="base64">ICAvLyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSgocHJldlN0YXRlLCBwcmV2UHJvcHMpID0+ICh7Cg==</text>
+        <text encoding="base64">ICAvLyAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAvLyAgICAgdGhpcy5fdHlwZWFoZWFkLmdldEluc3RhbmNlKCkuY2xlYXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChuZXdUYWJJZCkgewo=</text>
+        <text encoding="base64">ICAvLyAgIGlmICh0aGlzLl90eXBlYWhlYWQpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghZGVlcEVxdWFsKHByb3BzLCB0aGlzLnByb3BzKSkK</text>
+        <text encoding="base64">ICAvLyBpZiAodmFsdWUgPT09ICcnKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKHByb3BzKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgZmllbGRzOiB7CiAgICAgICAgICAuLi5uZXh0UHJvcHMuZmllbGRzLAogICAgICAgIH0sCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgfSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWVwRXF1YWxcPg==</last-search>
+      <last-search encoding="base64">XDxfdHlwZWFoZWFkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWVwRXF1YWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfdHlwZWFoZWFkXD4=</last-pattern>
       <last-replace>Insurance</last-replace>
       <last-substitute>Gjensidige</last-substitute>
       <last-dir>1</last-dir>
@@ -825,7 +830,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVkXD4=</entry>
         <entry encoding="base64">XDxnZXR0aW5nQ2FzZUJ5UmVnaXN0cmF0aW9uTnVtYmVyU3VjY2VlZGVkXD4=</entry>
         <entry encoding="base64">XDxnZXR0aW5nQ2FzZUJ5Q29udHJhY3ROdW1iZXJTdWNjZWVkZWRcPg==</entry>
         <entry encoding="base64">XDxQbGF5Z3JvdW5kUGFnZUNvbnRhaW5lclw+</entry>
@@ -845,6 +849,7 @@
         <entry encoding="base64">XDxzZWxlY3RlZFRhYklkXD4=</entry>
         <entry encoding="base64">XDxzZXRTZWxlY3RlZFRhYklkXD4=</entry>
         <entry encoding="base64">XDxkZWVwRXF1YWxcPg==</entry>
+        <entry encoding="base64">XDxfdHlwZWFoZWFkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>238</entry>
