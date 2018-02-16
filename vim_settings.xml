@@ -358,7 +358,12 @@
         <mark key="]" line="33" column="17" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/MoneyField.js" timestamp="1518783482898" />
+      <file name="R:/Rem/source/web/src/components/controls/MoneyField.js" timestamp="1518785325164">
+        <mark key="[" line="51" column="43" />
+        <mark key="]" line="51" column="43" />
+        <mark key="^" line="51" column="44" />
+        <mark key="." line="51" column="43" />
+      </file>
       <file name="R:/Rem/source/web/src/api/actionsLogApi.js" timestamp="1511966289679">
         <mark key="'" line="8" column="52" />
         <mark key="[" line="12" column="0" />
@@ -778,11 +783,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWY9e3JlZiA9PiB0aGlzLl90eXBlYWhlYWQgPSByZWZ9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>: newTabId,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdHlwZWFoZWFkXD4=</text>
