@@ -20,10 +20,12 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1516290831359">
-        <mark key="[" line="361" column="22" />
-        <mark key="]" line="361" column="22" />
-        <mark key="." line="361" column="22" />
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" timestamp="1519043594631">
+        <mark key="'" line="94" column="6" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="94" column="5" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/validation/validations.test.js" timestamp="1519037137283" />
       <file name="R:/Rem/source/web/src/api/basicApi.js" timestamp="1517921871084">
@@ -269,9 +271,6 @@
         <mark key="." line="139" column="49" />
         <mark key="^" line="139" column="49" />
       </file>
-      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1518188516675">
-        <mark key="'" line="213" column="13" />
-      </file>
       <file name="R:/Rem/source/web/src/components/controls/LabelField.js" timestamp="1513265737548">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -325,9 +324,6 @@
         <mark key="]" line="39" column="8" />
         <mark key="." line="39" column="8" />
       </file>
-      <file name="R:/Rem/source/web/node_modules/react-router-dom/index.js" timestamp="1518181576357">
-        <mark key="'" line="18" column="0" />
-      </file>
       <file name="R:/SCBDK.Internal.Remarketing/source/web/src/components/SantanderNeon.js" timestamp="1496143843636">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -337,9 +333,6 @@
         <mark key="[" line="28" column="15" />
         <mark key="]" line="28" column="15" />
         <mark key="." line="28" column="15" />
-      </file>
-      <file name="R:/Rem/source/web/src/actions/coreViewCaseActions.js" timestamp="1518431123849">
-        <mark key="'" line="3" column="6" />
       </file>
       <file name="R:/Rem/source/web/src/containers/DashboardContainer.js" timestamp="1517828976755">
         <mark key="[" line="9" column="31" />
@@ -358,11 +351,11 @@
         <mark key="]" line="33" column="17" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/MoneyField.js" timestamp="1519035083379">
-        <mark key="'" line="14" column="2" />
-        <mark key="[" line="42" column="43" />
-        <mark key="]" line="42" column="49" />
-        <mark key="." line="42" column="49" />
+      <file name="R:/Rem/source/web/src/components/controls/MoneyField.js" timestamp="1519043663161">
+        <mark key="'" line="40" column="10" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
         <mark key="^" line="42" column="49" />
         <mark key="o" line="12" column="2" />
       </file>
@@ -482,9 +475,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/App.css" timestamp="1518429314807">
-        <mark key="'" line="200" column="14" />
-      </file>
       <file name="R:/Rem/source/web/src/components/auction/CloseAuctionButton.js" timestamp="1517394586975">
         <mark key="'" line="7" column="2" />
         <mark key="[" line="3" column="42" />
@@ -587,7 +577,7 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519037558382">
+      <file name="/Dummy.txt" timestamp="1519043679104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -637,12 +627,12 @@
         <mark key="." line="170" column="42" />
         <mark key="^" line="170" column="42" />
       </file>
-      <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1519042750016">
-        <mark key="'" line="85" column="42" />
-        <mark key="[" line="121" column="23" />
-        <mark key="]" line="121" column="23" />
-        <mark key="^" line="120" column="37" />
-        <mark key="." line="121" column="37" />
+      <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1519043621075">
+        <mark key="'" line="31" column="40" />
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="23" column="7" />
       </file>
       <file name="R:/Rem/source/web/src/api/blobApi.js" timestamp="1511856438268">
         <mark key="'" line="8" column="26" />
@@ -686,27 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="7" filename="R:/Rem/source/web/src/Router.js" />
-      <jump line="14" column="6" filename="R:/Rem/source/web/src/actions/coreViewCaseActions.js" />
-      <jump line="22" column="41" filename="R:/Rem/source/web/src/actions/coreViewCaseActions.js" />
-      <jump line="11" column="37" filename="R:/Rem/source/web/src/actions/coreViewCaseActions.js" />
-      <jump line="3" column="6" filename="R:/Rem/source/web/src/actions/coreViewCaseActions.js" />
-      <jump line="25" column="0" filename="R:/Rem/source/web/src/containers/PlaygroundPage.js" />
-      <jump line="29" column="6" filename="R:/Rem/source/web/src/containers/PlaygroundPageContainer.js" />
-      <jump line="34" column="2" filename="R:/Rem/source/web/src/containers/PlaygroundPageContainer.js" />
-      <jump line="33" column="24" filename="R:/Rem/source/web/src/containers/PlaygroundPage.js" />
-      <jump line="73" column="22" filename="R:/Rem/source/web/src/components/ApproveValuationList.js" />
-      <jump line="67" column="35" filename="R:/Rem/source/web/src/components/ApproveValuationList.js" />
-      <jump line="66" column="31" filename="R:/Rem/source/web/src/components/ApproveValuationList.js" />
-      <jump line="56" column="17" filename="R:/Rem/source/web/src/components/ApproveValuationList.js" />
-      <jump line="151" column="34" filename="R:/Rem/source/web/src/components/ApproveValuationList.js" />
-      <jump line="11" column="6" filename="R:/Rem/source/web/src/components/ApproveValuationList.js" />
-      <jump line="35" column="33" filename="R:/Rem/source/web/src/components/ApproveValuationList.js" />
-      <jump line="44" column="33" filename="R:/Rem/source/web/src/components/ApproveValuationList.js" />
-      <jump line="55" column="22" filename="R:/Rem/source/web/src/components/ApproveValuationList.js" />
-      <jump line="228" column="24" filename="R:/Rem/source/web/src/components/Grid.js" />
-      <jump line="241" column="30" filename="R:/Rem/source/web/src/components/Grid.js" />
-      <jump line="327" column="2" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="337" column="2" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="157" column="10" filename="R:/Rem/source/web/src/components/ApproveValuationList.js" />
       <jump line="225" column="10" filename="R:/Rem/source/web/src/components/Grid.js" />
@@ -778,7 +747,6 @@
       <jump line="33" column="9" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="273" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
       <jump line="277" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
-      <jump line="31" column="40" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
       <jump line="274" column="20" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
       <jump line="173" column="0" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
       <jump line="185" column="11" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
@@ -786,37 +754,71 @@
       <jump line="50" column="7" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
       <jump line="59" column="40" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
       <jump line="85" column="42" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
+      <jump line="271" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="277" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="281" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="292" column="14" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="293" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="297" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="321" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="330" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="339" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="343" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="370" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="380" column="13" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="23" column="40" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="135" column="0" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="190" column="11" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="267" column="41" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="46" column="7" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="56" column="40" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="94" column="6" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="106" column="6" filename="R:/Rem/source/web/src/components/valuation/ValuationValuation.js" />
+      <jump line="31" column="40" filename="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" />
+      <jump line="40" column="10" filename="R:/Rem/source/web/src/components/controls/MoneyField.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>', 'Significant Damage', [money]),</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwovLyBpbXBvcnQgUHJvcFR5cGVzIGZyb20gJ3Byb3AtdHlwZXMnCi8vIGltcG9ydCB7IEZpZWxkQ29udGFpbmVyIH0gZnJvbSAnLi9GaWVsZENvbnRhaW5lcicKLy8gaW1wb3J0IHsgRmllbGRQcm9wVHlwZXMgfSBmcm9tICcuL0ZpZWxkUHJvcFR5cGVzJwovLyBpbXBvcnQgeyBGaWVsZERlZmF1bHRQcm9wcyB9IGZyb20gJy4vRmllbGREZWZhdWx0UHJvcHMnCi8vIGltcG9ydCB7IEZpZWxkQ29udGV4dFR5cGVzIH0gZnJvbSAnLi9GaWVsZENvbnRleHRUeXBlcycKLy8gaW1wb3J0IHsgaGFuZGxlQ2hhbmdlRXZlbnQgfSBmcm9tICcuLi8uLi91dGlscy9mb3JtVXRpbHMnCi8vIGltcG9ydCB7IGlzRmllbGRWYWxpZCwgZmlyc3RFcnJvck1lc3NhZ2UgfSBmcm9tICcuLi8uLi92YWxpZGF0aW9uL3ZhbGlkYXRpb25VdGlscycKLy8gaW1wb3J0IHsgbWVyZ2UsIGRlZmF1bHRUbyB9IGZyb20gJ3JhbWRhJwovLyBpbXBvcnQgeyBiaW5kQWxsIH0gZnJvbSAnbG9kYXNoL3V0aWwnCi8vCi8vIGNvbnN0IHByb3BUeXBlcyA9IHsKLy8gICBjdXJyZW5jeTogUHJvcFR5cGVzLnN0cmluZywKLy8gICBmb3JtYXR0aW5nOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCi8vICAgY3VsdHVyZTogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkCi8vIH0KLy8KLy8gLy8gY29uc3QgcGFyc2VJbnRsTnVtYmVyID0gdmFsdWUgPT4KLy8gLy8gICAgIHZhbHVlLnJlcGxhY2UoL1wuL2csICcnKS5yZXBsYWNlKC8sKFswLTldezAsMn0pLiokLywgJy4kMScpCi8vCi8vIGNvbnN0IGZvcm1hdHRlciA9IGN1cnJlbmN5ID0+IG5ldyBJbnRsLk51bWJlckZvcm1hdCgnZGEtREsnLCB7IHN0eWxlOiAnY3VycmVuY3knLCBjdXJyZW5jeTogY3VycmVuY3kgfSkKLy8KLy8gY2xhc3MgTW9uZXlGaWVsZCBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7Ci8vICAgY29uc3RydWN0b3IocHJvcHMpIHsKLy8gICAgIHN1cGVyKHByb3BzKQovLwovLyAgICAgdGhpcy5zdGF0ZSA9IHsKLy8gICAgICAgY29tbWFQcmVzc2VkOiBmYWxzZQovLyAgICAgfQovLwovLyAgICAgYmluZEFsbCh0aGlzLCBbCi8vICAgICAgICdvbkZpZWxkQ2hhbmdlJywKLy8gICAgIF0pCi8vICAgfQovLwovLyAgIG9uRmllbGRDaGFuZ2UobmFtZSwgdmFsdWUpIHsKLy8gICAgIHZhbHVlID0gdmFsdWUucmVwbGFjZSgnLCcsICcuJykKLy8gICAgIGlmICh2YWx1ZS5pbmRleE9mKCcuJykgPj0gMCkgewovLyAgICAgICB0aGlzLnNldFN0YXRlKHsKLy8gICAgICAgICBjb21tYVByZXNzZWQ6IHRydWUKLy8gICAgICAgfSkKLy8gICAgIH0KLy8gICAgIGNvbnNvbGUubG9nKCdNb25leUZpZWxkOiAnLCB2YWx1ZSkKLy8gICAgIHRoaXMuY29udGV4dC5mb3JtQ29udGV4dC5oYW5kbGVGaWVsZENoYW5nZShuYW1lLCBwYXJzZUZsb2F0KHZhbHVlKSkKLy8gICB9Ci8vCi8vICAgcmVuZGVyICgpIHsKLy8gICAgIGxldCB2YWx1ZSA9IGRlZmF1bHRUbygnJywgdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0LnByb3BzLmZpZWxkc1t0aGlzLnByb3BzLm5hbWVdKQovLyAgICAgaWYgKHRoaXMucHJvcHMuZGlzYWJsZWQgfHwgdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0LnByb3BzLmRpc2FibGVkKSB7Ci8vICAgICAgIHZhbHVlID0gZm9ybWF0dGVyKGRlZmF1bHRUbygnREtLJywgdGhpcy5wcm9wcy5jdXJyZW5jeSkpLmZvcm1hdCh2YWx1ZSkKLy8gICAgIH0gZWxzZSBpZiAodmFsdWUgIT09ICcnKSB7Ci8vICAgICAgIHZhbHVlID0gYCR7dmFsdWV9YC5pbmRleE9mKCcuJykgPj0gMAovLyAgICAgICAgID8gYCR7dmFsdWV9YC5yZXBsYWNlKCcuJywgJywnKQovLyAgICAgICAgIDogKHRoaXMuc3RhdGUuY29tbWFQcmVzc2VkID8gYCR7dmFsdWV9LGAgOiBgJHt2YWx1ZX1gKQovLyAgICAgfQovLwovLyAgICAgY29uc3QgaXNWYWxpZCA9IGlzRmllbGRWYWxpZCh0aGlzLnByb3BzLm5hbWUsIHRoaXMuY29udGV4dC5mb3JtQ29udGV4dCkKLy8gICAgIGNvbnN0IGVycm9yTWVzc2FnZSA9IGZpcnN0RXJyb3JNZXNzYWdlKHRoaXMucHJvcHMubmFtZSwgdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0KQovLwovLyAgICAgcmV0dXJuICgKLy8gICAgICAgPEZpZWxkQ29udGFpbmVyCi8vICAgICAgICAgbmFtZT17dGhpcy5wcm9wcy5uYW1lfQovLyAgICAgICAgIGxhYmVsPXt0aGlzLnByb3BzLmxhYmVsfQovLyAgICAgICAgIHZhbGlkYXRpb249e3tpc1ZhbGlkLCBlcnJvck1lc3NhZ2V9fQovLyAgICAgICA+Ci8vICAgICAgICAgPGRpdiBjbGFzc05hbWU9InB0LWNvbnRyb2wtZ3JvdXAgcHQtZmlsbCI+Ci8vICAgICAgICAgICB7dGhpcy5wcm9wcy5jaGlsZHJlbn0KLy8gICAgICAgICAgIDxpbnB1dAovLyAgICAgICAgICAgICB0eXBlPSJ0ZXh0IgovLyAgICAgICAgICAgICBjbGFzc05hbWU9InB0LWlucHV0IgovLyAgICAgICAgICAgICB2YWx1ZT17dmFsdWV9Ci8vICAgICAgICAgICAgIG9uQ2hhbmdlPXtoYW5kbGVDaGFuZ2VFdmVudCh0aGlzLm9uRmllbGRDaGFuZ2UpCi8vICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgbmFtZT17dGhpcy5wcm9wcy5uYW1lfQovLyAgICAgICAgICAgICBwbGFjZWhvbGRlcj17dGhpcy5wcm9wcy5wbGFjZUhvbGRlciB8fCB0aGlzLnByb3BzLmxhYmVsfQovLyAgICAgICAgICAgICBkaXNhYmxlZD17KHRoaXMucHJvcHMuZGlzYWJsZWQgfHwgdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0LnByb3BzLmRpc2FibGVkKSA/ICdkaXNhYmxlZCcgOiAnJ30KLy8gICAgICAgICAgIC8+Ci8vICAgICAgICAgPC9kaXY+Ci8vICAgICAgIDwvRmllbGRDb250YWluZXI+Ci8vICAgICApCi8vICAgfQovLyB9Ci8vCi8vIE1vbmV5RmllbGQucHJvcFR5cGVzID0gbWVyZ2UoRmllbGRQcm9wVHlwZXMsIHByb3BUeXBlcykKLy8gTW9uZXlGaWVsZC5kZWZhdWx0UHJvcHMgPSBtZXJnZShGaWVsZERlZmF1bHRQcm9wcywge30pCi8vIE1vbmV5RmllbGQuY29udGV4dFR5cGVzID0gbWVyZ2UoRmllbGRDb250ZXh0VHlwZXMsIHt9KQovLwovLyBleHBvcnQgewovLyAgIE1vbmV5RmllbGQKLy8gfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>', 'Significant Damage', [money]),</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlQ2hhbmdlc1w+</text>
+        <text>\$</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsaWRhdGlvbnNGb3IoJ2RhbWFnZUFtb3VudEV4VkFUJywgJ0RhbWFnZSBBbW91bnQgRXggVkFUJywgW21vbmV5XSksCiAgICAgIHZhbGlkYXRpb25zRm9yKCdzaWduaWZpY2FudERhbWFnZScsICdTaWduaWZpY2FudCBEYW1hZ2UnLCBbbW9uZXldKSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgdmFsaWRhdGlvbnNGb3IoJ3NhbnRhbmRlclByb3Zpc2lvbicsICdTYW50YW5kZXIgUHJvdmlzaW9uJywgW21vbmV5XSksCiAgICAgIHZhbGlkYXRpb25zRm9yKCdzYW50YW5kZXJSZXBhaXInLCAnU2FudGFuZGVyIFJlcGFpcicsIFttb25leV0pLAogICAgICB2YWxpZGF0aW9uc0Zvcignc3RhcnRpbmdQcmljZScsICdTdGFydGluZyBQcmljZScsIFttb25leV0pLAogICAgICB2YWxpZGF0aW9uc0ZvcignZXhwZWN0ZWRTYWxlc1ByaWNlJywgJ0V4cGVjdGVkIFNhbGVzIFByaWNlJywgWwogICAgICAgIG1vbmV5LAogICAgICAgIHRoaXMuZ3RlKCdtaW5QcmljZURldmlhdGlvbicpLAogICAgICBdKSwKICAgICAgdmFsaWRhdGlvbnNGb3IoJ2V4cGVjdGVkVGFyZ2V0UHJpY2UnLCAnRXhwZWN0ZWQgVGFyZ2V0IFByaWNlJywgW21vbmV5XSksCiAgICAgIHZhbGlkYXRpb25zRm9yKCdzYW50YW5kZXJWYWx1YXRpb24nLCAnU2FudGFuZGVyIFZhbHVhdGlvbicsIFsKICAgICAgICByZXF1aXJlZCwKICAgICAgICBtb25leSwKICAgICAgXSksCiAgICAgIHZhbGlkYXRpb25zRm9yKCdzYW50YW5kZXJWYWx1YXRpb25FdXJvJywgJ1NhbnRhbmRlciBWYWx1YXRpb24gRVVSTycsIFsKICAgICAgICBtb25leSwKICAgICAgXSksCiAgICAgIHZhbGlkYXRpb25zRm9yKCd2YXRJZCcsICdWYXQnLCBbcmVxdWlyZWRdKSwKICAgICAgdmFsaWRhdGlvbnNGb3IoJ3JlZ2lzdHJhdGlvblRheElkJywgJ1JlZy4gVGF4JywgW3JlcXVpcmVkXSksCiAgICAgIHZhbGlkYXRpb25zRm9yKCd2YWx1YXRlZEJ5JywgJ1ZhbHVhdGVkIGJ5JywgW3JlcXVpcmVkXSksCiAgICAgIHZhbGlkYXRpb25zRm9yKCd2YWx1YXRpb25EYXRlJywgJ1ZhbHVhdGlvbiBEYXRlJywgW3JlcXVpcmVkXSksCiAgICAgIHZhbGlkYXRpb25zRm9yKCdhdWN0aW9uSG91c2VWYWx1YXRpb24nLCAnQXVjdGlvbiBIb3VzZSBWYWx1YXRpb24nLCBbCiAgICAgICAgbW9uZXksCiAgICAgIF0pLAogICAgICB2YWxpZGF0aW9uc0ZvcignYXVjdGlvbkhvdXNlUmV0YWlsJywgJ0F1Y3Rpb24gSG91c2UgUmV0YWlsJywgWwogICAgICAgIG1vbmV5LAogICAgICBdKSwKICAgICAgdmFsaWRhdGlvbnNGb3IoJ2JpbHByaXNlclByb1ZhbHVhdGlvbicsICdCaWxwcmlzZXIgUFJPIFZhbHVhdGlvbicsIFsKICAgICAgICBtb25leSwKICAgICAgXSksCiAgICAgIHZhbGlkYXRpb25zRm9yKCdiaWxwcmlzZXJSZXRhaWxQcmljZScsICdCaWxwcmlzZXIgUFJPIFJldGFpbFByaWNlJywgWwogICAgICAgIG1vbmV5LAogICAgICBdKSwKICAgICAgdmFsaWRhdGlvbnNGb3IoJ2V4cGVjdGVkTG9zc0Ftb3VudCcsICdFeHBlY3RlZCBMb3NzIEFtb3VudCcsIFttb25leV0pLAogICAgICB2YWxpZGF0aW9uc0ZvcignYWN0dWFsTG9zc0Ftb3VudCcsICdBY3R1YWwgTG9zcyBBbW91bnQnLCBbbW9uZXldKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgXSksCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwovLyBpbXBvcnQgUHJvcFR5cGVzIGZyb20gJ3Byb3AtdHlwZXMnCi8vIGltcG9ydCB7IEZpZWxkQ29udGFpbmVyIH0gZnJvbSAnLi9GaWVsZENvbnRhaW5lcicKLy8gaW1wb3J0IHsgRmllbGRQcm9wVHlwZXMgfSBmcm9tICcuL0ZpZWxkUHJvcFR5cGVzJwovLyBpbXBvcnQgeyBGaWVsZERlZmF1bHRQcm9wcyB9IGZyb20gJy4vRmllbGREZWZhdWx0UHJvcHMnCi8vIGltcG9ydCB7IEZpZWxkQ29udGV4dFR5cGVzIH0gZnJvbSAnLi9GaWVsZENvbnRleHRUeXBlcycKLy8gaW1wb3J0IHsgaGFuZGxlQ2hhbmdlRXZlbnQgfSBmcm9tICcuLi8uLi91dGlscy9mb3JtVXRpbHMnCi8vIGltcG9ydCB7IGlzRmllbGRWYWxpZCwgZmlyc3RFcnJvck1lc3NhZ2UgfSBmcm9tICcuLi8uLi92YWxpZGF0aW9uL3ZhbGlkYXRpb25VdGlscycKLy8gaW1wb3J0IHsgbWVyZ2UsIGRlZmF1bHRUbyB9IGZyb20gJ3JhbWRhJwovLyBpbXBvcnQgeyBiaW5kQWxsIH0gZnJvbSAnbG9kYXNoL3V0aWwnCi8vCi8vIGNvbnN0IHByb3BUeXBlcyA9IHsKLy8gICBjdXJyZW5jeTogUHJvcFR5cGVzLnN0cmluZywKLy8gICBmb3JtYXR0aW5nOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCi8vICAgY3VsdHVyZTogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkCi8vIH0KLy8KLy8gLy8gY29uc3QgcGFyc2VJbnRsTnVtYmVyID0gdmFsdWUgPT4KLy8gLy8gICAgIHZhbHVlLnJlcGxhY2UoL1wuL2csICcnKS5yZXBsYWNlKC8sKFswLTldezAsMn0pLiokLywgJy4kMScpCi8vCi8vIGNvbnN0IGZvcm1hdHRlciA9IGN1cnJlbmN5ID0+IG5ldyBJbnRsLk51bWJlckZvcm1hdCgnZGEtREsnLCB7IHN0eWxlOiAnY3VycmVuY3knLCBjdXJyZW5jeTogY3VycmVuY3kgfSkKLy8KLy8gY2xhc3MgTW9uZXlGaWVsZCBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7Ci8vICAgY29uc3RydWN0b3IocHJvcHMpIHsKLy8gICAgIHN1cGVyKHByb3BzKQovLwovLyAgICAgdGhpcy5zdGF0ZSA9IHsKLy8gICAgICAgY29tbWFQcmVzc2VkOiBmYWxzZQovLyAgICAgfQovLwovLyAgICAgYmluZEFsbCh0aGlzLCBbCi8vICAgICAgICdvbkZpZWxkQ2hhbmdlJywKLy8gICAgIF0pCi8vICAgfQovLwovLyAgIG9uRmllbGRDaGFuZ2UobmFtZSwgdmFsdWUpIHsKLy8gICAgIHZhbHVlID0gdmFsdWUucmVwbGFjZSgnLCcsICcuJykKLy8gICAgIGlmICh2YWx1ZS5pbmRleE9mKCcuJykgPj0gMCkgewovLyAgICAgICB0aGlzLnNldFN0YXRlKHsKLy8gICAgICAgICBjb21tYVByZXNzZWQ6IHRydWUKLy8gICAgICAgfSkKLy8gICAgIH0KLy8gICAgIGNvbnNvbGUubG9nKCdNb25leUZpZWxkOiAnLCB2YWx1ZSkKLy8gICAgIHRoaXMuY29udGV4dC5mb3JtQ29udGV4dC5oYW5kbGVGaWVsZENoYW5nZShuYW1lLCBwYXJzZUZsb2F0KHZhbHVlKSkKLy8gICB9Ci8vCi8vICAgcmVuZGVyICgpIHsKLy8gICAgIGxldCB2YWx1ZSA9IGRlZmF1bHRUbygnJywgdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0LnByb3BzLmZpZWxkc1t0aGlzLnByb3BzLm5hbWVdKQovLyAgICAgaWYgKHRoaXMucHJvcHMuZGlzYWJsZWQgfHwgdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0LnByb3BzLmRpc2FibGVkKSB7Ci8vICAgICAgIHZhbHVlID0gZm9ybWF0dGVyKGRlZmF1bHRUbygnREtLJywgdGhpcy5wcm9wcy5jdXJyZW5jeSkpLmZvcm1hdCh2YWx1ZSkKLy8gICAgIH0gZWxzZSBpZiAodmFsdWUgIT09ICcnKSB7Ci8vICAgICAgIHZhbHVlID0gYCR7dmFsdWV9YC5pbmRleE9mKCcuJykgPj0gMAovLyAgICAgICAgID8gYCR7dmFsdWV9YC5yZXBsYWNlKCcuJywgJywnKQovLyAgICAgICAgIDogKHRoaXMuc3RhdGUuY29tbWFQcmVzc2VkID8gYCR7dmFsdWV9LGAgOiBgJHt2YWx1ZX1gKQovLyAgICAgfQovLwovLyAgICAgY29uc3QgaXNWYWxpZCA9IGlzRmllbGRWYWxpZCh0aGlzLnByb3BzLm5hbWUsIHRoaXMuY29udGV4dC5mb3JtQ29udGV4dCkKLy8gICAgIGNvbnN0IGVycm9yTWVzc2FnZSA9IGZpcnN0RXJyb3JNZXNzYWdlKHRoaXMucHJvcHMubmFtZSwgdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0KQovLwovLyAgICAgcmV0dXJuICgKLy8gICAgICAgPEZpZWxkQ29udGFpbmVyCi8vICAgICAgICAgbmFtZT17dGhpcy5wcm9wcy5uYW1lfQovLyAgICAgICAgIGxhYmVsPXt0aGlzLnByb3BzLmxhYmVsfQovLyAgICAgICAgIHZhbGlkYXRpb249e3tpc1ZhbGlkLCBlcnJvck1lc3NhZ2V9fQovLyAgICAgICA+Ci8vICAgICAgICAgPGRpdiBjbGFzc05hbWU9InB0LWNvbnRyb2wtZ3JvdXAgcHQtZmlsbCI+Ci8vICAgICAgICAgICB7dGhpcy5wcm9wcy5jaGlsZHJlbn0KLy8gICAgICAgICAgIDxpbnB1dAovLyAgICAgICAgICAgICB0eXBlPSJ0ZXh0IgovLyAgICAgICAgICAgICBjbGFzc05hbWU9InB0LWlucHV0IgovLyAgICAgICAgICAgICB2YWx1ZT17dmFsdWV9Ci8vICAgICAgICAgICAgIG9uQ2hhbmdlPXtoYW5kbGVDaGFuZ2VFdmVudCh0aGlzLm9uRmllbGRDaGFuZ2UpCi8vICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgbmFtZT17dGhpcy5wcm9wcy5uYW1lfQovLyAgICAgICAgICAgICBwbGFjZWhvbGRlcj17dGhpcy5wcm9wcy5wbGFjZUhvbGRlciB8fCB0aGlzLnByb3BzLmxhYmVsfQovLyAgICAgICAgICAgICBkaXNhYmxlZD17KHRoaXMucHJvcHMuZGlzYWJsZWQgfHwgdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0LnByb3BzLmRpc2FibGVkKSA/ICdkaXNhYmxlZCcgOiAnJ30KLy8gICAgICAgICAgIC8+Ci8vICAgICAgICAgPC9kaXY+Ci8vICAgICAgIDwvRmllbGRDb250YWluZXI+Ci8vICAgICApCi8vICAgfQovLyB9Ci8vCi8vIE1vbmV5RmllbGQucHJvcFR5cGVzID0gbWVyZ2UoRmllbGRQcm9wVHlwZXMsIHByb3BUeXBlcykKLy8gTW9uZXlGaWVsZC5kZWZhdWx0UHJvcHMgPSBtZXJnZShGaWVsZERlZmF1bHRQcm9wcywge30pCi8vIE1vbmV5RmllbGQuY29udGV4dFR5cGVzID0gbWVyZ2UoRmllbGRDb250ZXh0VHlwZXMsIHt9KQovLwovLyBleHBvcnQgewovLyAgIE1vbmV5RmllbGQKLy8gfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb25leSwK</text>
+        <text encoding="base64">ICBpc0ZpZWxkVmFsaWQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXSksCg==</text>
+        <text encoding="base64">ICBkZWNpbWFsTnVtYmVyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmd0ZSgnbWluUHJpY2VEZXZpYXRpb24nKSwK</text>
+        <text encoding="base64">ICBkZWNpbWFsTnVtYmVyLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb25leSwK</text>
+      <register name="5" type="8">
+        <text>validationsFor('
+validationsFor('
+validationsFor('
+validationsFor('
+validationsFor('
+validationsFor('
+validationsFor('
+validationsFor('
+validationsFor('
+validationsFor('
+validationsFor('
+validationsFor('
+validationsFor('</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgXSksCg==</text>
@@ -835,22 +837,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlQ2hhbmdlc1w+</last-search>
+      <last-search>\$</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlQ2hhbmdlc1w+</last-pattern>
-      <last-replace>Insurance</last-replace>
-      <last-substitute>Gjensidige</last-substitute>
+      <last-pattern>\$</last-pattern>
+      <last-replace />
+      <last-substitute>\$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkdXJpbmdUYWJcPg==</entry>
-        <entry encoding="base64">XDxhY3RpdmVUYWJcPg==</entry>
-        <entry>log</entry>
-        <entry encoding="base64">XDxhY3RpdmVUYWJJZFw+</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZFRhYklkXD4=</entry>
-        <entry encoding="base64">XDxzZXRTZWxlY3RlZFRhYklkXD4=</entry>
         <entry encoding="base64">XDxkZWVwRXF1YWxcPg==</entry>
         <entry encoding="base64">XDxfdHlwZWFoZWFkXD4=</entry>
         <entry>\cexvat</entry>
@@ -861,21 +857,18 @@
         <entry encoding="base64">XDx0b0RrTnVtYmVyXD4=</entry>
         <entry>Money</entry>
         <entry>transform</entry>
-        <entry encoding="base64">XDxNb25leUZpZWxkXD4=</entry>
         <entry encoding="base64">XDxkYW1hZ2VBbW91bnRFeFZBVFw+</entry>
+        <entry encoding="base64">XDxNb25leUZpZWxkXD4=</entry>
         <entry>save</entry>
         <entry encoding="base64">XDxzYXZlQ2hhbmdlc1w+</entry>
+        <entry>'.+$</entry>
+        <entry>'.+^</entry>
+        <entry>\'.+^</entry>
+        <entry>'.*$</entry>
+        <entry>$</entry>
+        <entry>\$</entry>
       </history-search>
       <history-cmd>
-        <entry>s/model/toast</entry>
-        <entry encoding="base64">JzwsJz5zL1ZhbHVhdGlvbi9BcHByb3ZhbC8=</entry>
-        <entry encoding="base64">JzwsJz5zL1ZBTFVBVElPTi9BUFBST1ZBTC8=</entry>
-        <entry>prettier</entry>
-        <entry>ws</entry>
-        <entry>.,.+4noh</entry>
-        <entry>lw</entry>
-        <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
-        <entry>sw</entry>
         <entry>219</entry>
         <entry>%s/Gjensidige/Insurance/g</entry>
         <entry>:w</entry>
@@ -883,8 +876,17 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>23</entry>
-        <entry>we</entry>
         <entry>.,.+1noh</entry>
+        <entry>we</entry>
+        <entry encoding="base64">JzwsJz5zLycuKyQvOiBmcm9tRGtOdW1iZXIs</entry>
+        <entry encoding="base64">JzwsJz5zLycuK14vOiBmcm9tRGtOdW1iZXIs</entry>
+        <entry>s/'.*$/: fromDbNumber/</entry>
+        <entry encoding="base64">JzwsJz5zL1wnLiteLzogZnJvbURrTnVtYmVyLA==</entry>
+        <entry encoding="base64">JzwsJz5zLycuKiQvOiBmcm9tRGtOdW1iZXIv</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLCQv</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLw==</entry>
+        <entry encoding="base64">JzwsJz5zL1wkLy8=</entry>
+        <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
