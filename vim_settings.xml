@@ -103,11 +103,10 @@
         <mark key="^" line="37" column="35" />
         <mark key="." line="37" column="34" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CaseList.js" timestamp="1519393138703">
-        <mark key="[" line="217" column="9" />
-        <mark key="]" line="217" column="11" />
-        <mark key="." line="217" column="11" />
-        <mark key="^" line="217" column="11" />
+      <file name="R:/Rem/source/web/src/components/CaseList.js" timestamp="1519395871180">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="4" />
+        <mark key="." line="226" column="4" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/YesNoReadonlyField.js" timestamp="1513260748452">
         <mark key="[" line="4" column="0" />
@@ -820,11 +819,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>div</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb28K</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGb3JtXD4=</text>
@@ -833,34 +832,34 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDRFUgLSBuYW1lOicsIHRoaXMucHJvcHMubmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb28K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhYWE8L1NlbGVjdERhdGVEaWFsb2c+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L1NlbGVjdERhdGVEaWFsb2c+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNldCBQYXltZW50IERhdGUgRm9yIFNlbGVjdGVkIENhc2VzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ0RVIC0gbmFtZTonLCB0aGlzLnByb3BzLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEdyaWQsIHsgY29sdW1uLCBEYXRlRm9ybWF0dGVyLCBTaW1wbGVSb3dSZW5kZXJlciB9IGZyb20gJy4uL0dyaWQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYmluZEFsbCB9IGZyb20gJ2xvZGFzaC91dGlsJwppbXBvcnQgeyBJbnRlbnQgfSBmcm9tICdAYmx1ZXByaW50anMvY29yZS9kaXN0L2NvbW1vbi9pbnRlbnQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L1NlbGVjdERhdGVEaWFsb2c+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -914,8 +913,8 @@
         <entry encoding="base64">JzwsJz5zLyQvLw==</entry>
         <entry encoding="base64">JzwsJz5zL1wkLy8=</entry>
         <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
