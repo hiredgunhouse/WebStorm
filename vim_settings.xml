@@ -196,12 +196,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1519920406407">
+      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1519923355707">
         <mark key="'" line="24" column="45" />
-        <mark key="[" line="68" column="36" />
-        <mark key="]" line="68" column="36" />
-        <mark key="^" line="93" column="78" />
-        <mark key="." line="68" column="36" />
+        <mark key="[" line="54" column="60" />
+        <mark key="]" line="54" column="60" />
+        <mark key="^" line="54" column="60" />
+        <mark key="." line="54" column="60" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuction.js" timestamp="1513356768989">
         <mark key="'" line="224" column="17" />
@@ -491,12 +491,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1519922658661">
+      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1519923375904">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="92" column="49" />
-        <mark key="]" line="93" column="3" />
-        <mark key="." line="93" column="3" />
-        <mark key="^" line="93" column="3" />
+        <mark key="[" line="91" column="40" />
+        <mark key="]" line="92" column="58" />
+        <mark key="." line="92" column="58" />
+        <mark key="^" line="92" column="58" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/CloseAuctionButton.js" timestamp="1517394586975">
         <mark key="'" line="7" column="2" />
