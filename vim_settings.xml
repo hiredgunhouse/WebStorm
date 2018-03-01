@@ -293,12 +293,12 @@
         <mark key="^" line="58" column="32" />
         <mark key="." line="58" column="32" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/futils.js" timestamp="1519678404412">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="130" column="49" />
-        <mark key="]" line="130" column="49" />
-        <mark key="." line="130" column="49" />
-        <mark key="^" line="130" column="44" />
+      <file name="R:/Rem/source/web/src/utils/futils.js" timestamp="1519917453388">
+        <mark key="'" line="43" column="2" />
+        <mark key="[" line="109" column="62" />
+        <mark key="]" line="109" column="62" />
+        <mark key="." line="109" column="62" />
+        <mark key="^" line="109" column="62" />
       </file>
       <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1519679142184">
         <mark key="'" line="16" column="4" />
@@ -407,10 +407,8 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/VehiclesAssignedToAuction.js" timestamp="1519652735337">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="R:/Rem/source/web/src/components/auction/VehiclesAssignedToAuction.js" timestamp="1519916408733">
+        <mark key="^" line="3" column="44" />
       </file>
       <file name="R:/Rem/source/web/src/components/ValuationAndLoss.js" timestamp="1519042631374">
         <mark key="'" line="236" column="22" />
@@ -493,12 +491,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1519832982812">
-        <mark key="'" line="103" column="46" />
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="3" column="32" />
-        <mark key="." line="3" column="32" />
-        <mark key="^" line="3" column="32" />
+      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1519917303045">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="477" column="0" />
+        <mark key="]" line="477" column="0" />
+        <mark key="." line="477" column="0" />
+        <mark key="^" line="476" column="10" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/CloseAuctionButton.js" timestamp="1517394586975">
         <mark key="'" line="7" column="2" />
@@ -540,12 +538,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/Grid.js" timestamp="1519818101357">
-        <mark key="'" line="111" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="43" />
-        <mark key="^" line="112" column="58" />
-        <mark key="." line="5" column="0" />
+      <file name="R:/Rem/source/web/src/components/Grid.js" timestamp="1519917440164">
+        <mark key="'" line="137" column="14" />
+        <mark key="[" line="137" column="22" />
+        <mark key="]" line="138" column="3" />
+        <mark key="^" line="138" column="3" />
+        <mark key="." line="138" column="3" />
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverview.js" timestamp="1519205113515">
         <mark key="[" line="8" column="0" />
@@ -728,16 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="24" filename="R:/Rem/source/web/src/components/Insurance.js" />
-      <jump line="116" column="26" filename="R:/Rem/source/web/src/components/Insurance.js" />
-      <jump line="118" column="6" filename="R:/Rem/source/web/src/components/Insurance.js" />
-      <jump line="128" column="57" filename="R:/Rem/source/web/src/components/Insurance.js" />
-      <jump line="133" column="41" filename="R:/Rem/source/web/src/components/Insurance.js" />
-      <jump line="125" column="37" filename="R:/Rem/source/web/src/components/Insurance.js" />
-      <jump line="135" column="22" filename="R:/Rem/source/web/src/components/Insurance.js" />
-      <jump line="381" column="15" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="386" column="15" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
-      <jump line="5" column="2" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="205" column="46" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="226" column="22" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="387" column="22" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
@@ -770,7 +758,6 @@
       <jump line="167" column="26" filename="R:/Rem/source/web/src/components/CaseList.js" />
       <jump line="338" column="2" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="218" column="32" filename="R:/Rem/source/web/src/components/Grid.js" />
-      <jump line="232" column="2" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="246" column="30" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="328" column="2" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="247" column="31" filename="R:/Rem/source/web/src/components/Grid.js" />
@@ -828,68 +815,76 @@
       <jump line="435" column="52" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="54" column="28" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="102" column="46" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="79" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="224" column="36" filename="R:/Rem/source/web/src/components/Grid.js" />
+      <jump line="228" column="0" filename="R:/Rem/source/web/src/components/Grid.js" />
+      <jump line="230" column="0" filename="R:/Rem/source/web/src/components/Grid.js" />
+      <jump line="232" column="0" filename="R:/Rem/source/web/src/components/Grid.js" />
+      <jump line="137" column="14" filename="R:/Rem/source/web/src/components/Grid.js" />
+      <jump line="121" column="28" filename="R:/Rem/source/web/src/utils/futils.js" />
+      <jump line="24" column="4" filename="R:/Rem/source/web/src/utils/futils.js" />
+      <jump line="32" column="4" filename="R:/Rem/source/web/src/utils/futils.js" />
+      <jump line="17" column="2" filename="R:/Rem/source/web/src/utils/futils.js" />
+      <jump line="43" column="2" filename="R:/Rem/source/web/src/utils/futils.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>deepEqual</text>
+        <text>legal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICghd2luZG93LnByZXZQcm9wcykgd2luZG93LnByZXZQcm9wcyA9IHRoaXMucHJvcHMK</text>
+      <register name="0" type="4">
+        <text>rowSelectionEnabled</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBdWN0aW9uTGlzdCBXaWxsIFJlY2l2ZSBQcm9wcycpCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmV0Y2hEYXRhKCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMuZ3JpZFJvd1NlbGVjdGlvbkRlZiA9IHsKICAgICAgc2hvd0NoZWNrYm94OiB0cnVlLAogICAgICBlbmFibGVTaGlmdFNlbGVjdDogdHJ1ZSwKICAgICAgb25Sb3dzU2VsZWN0ZWQ6IHRoaXMub25Sb3dzU2VsZWN0ZWQsCiAgICAgIG9uUm93c0Rlc2VsZWN0ZWQ6IHRoaXMub25Sb3dzRGVzZWxlY3RlZCwKICAgICAgc2VsZWN0Qnk6IHsKICAgICAgICBpbmRleGVzOiB0aGlzLnN0YXRlLnNlbGVjdGVkSW5kZXhlcywKICAgICAgfSwKICAgIH0KCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmV0Y2hEYXRhKCkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0RGF0YUdyaWQgZnJvbSAncmVhY3QtZGF0YS1ncmlkJwo=</text>
+        <text encoding="base64">ICAgIGlmIChyb3dJZHggPCAwKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>deepEqual</last-search>
+      <last-search>legal</last-search>
       <last-offset />
-      <last-pattern>deepEqual</last-pattern>
+      <last-pattern>legal</last-pattern>
       <last-replace />
       <last-substitute>\$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb3dTZWxlY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxvblJvd3NTZWxlY3RlZFw+</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZEluZGV4ZXNcPg==</entry>
         <entry encoding="base64">XDxvblJvd0NsaWNrXD4=</entry>
         <entry encoding="base64">XDxzaWxlbnRKc29uSHR0cFByZWNvbmZpZ3VyZWRcPg==</entry>
         <entry encoding="base64">XDxza2lwUmVxdWVzdFN0YXJ0U3VjY2Vzc0FuZEZhaWx1cmVcPg==</entry>
@@ -904,12 +899,14 @@
         <entry>calling</entry>
         <entry>redirect</entry>
         <entry>props.fetch</entry>
-        <entry encoding="base64">XDxncmlkUm93U2VsZWN0aW9uRGVmXD4=</entry>
         <entry>willrece</entry>
         <entry>deepEqual</entry>
+        <entry encoding="base64">XDxncmlkUm93U2VsZWN0aW9uRGVmXD4=</entry>
+        <entry>Def</entry>
+        <entry>debugger</entry>
+        <entry>legal</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Gjensidige/Insurance/g</entry>
         <entry>:w</entry>
         <entry>.,.+8noh</entry>
         <entry>W</entry>
@@ -928,6 +925,7 @@
         <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
         <entry>ws</entry>
         <entry>w</entry>
+        <entry>2w</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
