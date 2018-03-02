@@ -286,12 +286,11 @@
         <mark key="^" line="83" column="12" />
         <mark key="." line="136" column="63" />
       </file>
-      <file name="R:/Rem/source/web/src/reducers/actionsLogReducer.js" timestamp="1519993381335">
-        <mark key="'" line="5" column="2" />
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="17" column="47" />
-        <mark key="^" line="17" column="47" />
-        <mark key="." line="17" column="47" />
+      <file name="R:/Rem/source/web/src/reducers/actionsLogReducer.js" timestamp="1520012169602">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/makesReducer.js" timestamp="1507284157113">
         <mark key="[" line="2" column="20" />
@@ -650,7 +649,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520011638515">
+      <file name="/Dummy.txt" timestamp="1520012190251">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -750,7 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="14" filename="R:/Rem/source/web/src/api/restApi.js" />
       <jump line="203" column="9" filename="R:/Rem/source/web/src/api/restApi.js" />
       <jump line="228" column="14" filename="R:/Rem/source/web/src/api/restApi.js" />
       <jump line="252" column="0" filename="R:/Rem/source/web/src/api/restApi.js" />
@@ -850,58 +848,59 @@
       <jump line="132" column="19" filename="R:/Rem/source/web/src/components/ApproveValuationList.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="12" column="67" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="1" column="7" filename="R:/Rem/source/web/src/reducers/actionsLogReducer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>.grid.itemsType === 'kkkkkk' ? state.grid.items : []</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gVE9ETyBlbmFibGUgdGhpcyBhdm9pZCB1bm5lY2Vzc2FyeSBzdWJzY3JpcHRpb24gdHJpZ2dlcnMK</text>
       </register>
       <register name="-" type="4">
         <text>.grid.itemsType === 'kkkkkk' ? state.grid.items : []</text>
       </register>
       <register name="/" type="4">
-        <text>Grid</text>
+        <text encoding="base64">XDxkZWVwRXF1YWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGF1Y3Rpb25zU2VsZWN0b3IgPSBjcmVhdGVTZWxlY3RvcigKICBzdGF0ZSA9PiBzdGF0ZS5ncmlkLml0ZW1zVHlwZSwKICBzdGF0ZSA9PiBzdGF0ZS5ncmlkLml0ZW1zLAogIChpdGVtc1R5cGUsIGl0ZW1zKSA9PgogICAgaXRlbXNUeXBlID09PSAnYXVjdGlvbnMnCiAgICAgID8gc29ydEF1Y3Rpb25zKG1hcChldm9sdmUodHJhbnNmb3JtYXRpb25zKSwgaXRlbXMpKQogICAgICA6IFtdCikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtjcmVhdGVTZWxlY3Rvcn0gZnJvbSAicmVzZWxlY3QiCg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyBlbmFibGUgdGhpcyBhdm9pZCB1bm5lY2Vzc2FyeSBzdWJzY3JpcHRpb24gdHJpZ2dlcnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgPQo=</text>
+        <text encoding="base64">aW1wb3J0IHtjcmVhdGVTZWxlY3Rvcn0gZnJvbSAicmVzZWxlY3QiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGgK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC4uLmF0ZSwK</text>
+        <text encoding="base64">ICAgIGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRldGFpbHNJZD0iaWQiCg==</text>
+        <text encoding="base64">ICAgIC4uLmF0ZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZldGNoRGF0YT17KCkgPT4ge319Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRldGFpbHNJZD0iaWQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKnsuLi50aGlzLnByb3BzfSovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZldGNoRGF0YT17KCkgPT4ge319Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKnsuLi50aGlzLnByb3BzfSovfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>Grid</last-search>
+      <last-search encoding="base64">XDxkZWVwRXF1YWxcPg==</last-search>
       <last-offset />
-      <last-pattern>Grid</last-pattern>
+      <last-pattern encoding="base64">XDxkZWVwRXF1YWxcPg==</last-pattern>
       <last-replace />
       <last-substitute>\$</last-substitute>
       <last-dir>1</last-dir>
@@ -909,7 +908,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addToast</entry>
         <entry>willRe</entry>
         <entry encoding="base64">XDxnZXR0aW5nQWN0aW9uc0xvZ1N1Y2NlZWRlZFw+</entry>
         <entry encoding="base64">XDxzZXR0aW5nQWN0aW9uc0xvZ1JlYWRTdWNjZWVkZWRcPg==</entry>
@@ -929,6 +927,7 @@
         <entry encoding="base64">XDxhdWN0aW9uQmVnaW5EYXRlXD4=</entry>
         <entry>props.</entry>
         <entry>Grid</entry>
+        <entry encoding="base64">XDxkZWVwRXF1YWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+8noh</entry>
