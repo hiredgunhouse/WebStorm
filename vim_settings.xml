@@ -196,12 +196,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1520006398611">
-        <mark key="'" line="69" column="30" />
-        <mark key="[" line="97" column="24" />
-        <mark key="]" line="100" column="8" />
-        <mark key="^" line="100" column="8" />
-        <mark key="." line="100" column="8" />
+      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1520007219560">
+        <mark key="'" line="97" column="6" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="91" />
+        <mark key="^" line="97" column="89" />
+        <mark key="." line="97" column="89" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuction.js" timestamp="1513356768989">
         <mark key="'" line="224" column="17" />
@@ -733,7 +733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewHeader.js" />
       <jump line="56" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewHeader.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewHeader.js" />
       <jump line="58" column="32" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewHeader.js" />
@@ -833,22 +832,23 @@
       <jump line="33" column="40" filename="R:/Rem/source/web/src/actions/actionsLogActions.js" />
       <jump line="5" column="2" filename="R:/Rem/source/web/src/reducers/actionsLogReducer.js" />
       <jump line="69" column="30" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
+      <jump line="97" column="6" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>models</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgY3JlYXRlU29ydEJ5TmFtZVNlbGVjdG9yID0gaW5wdXRTZWxlY3RvciA9PiBjcmVhdGVTZWxlY3RvcihpbnB1dFNlbGVjdG9yLCBzb3J0QnlOYW1lKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>models</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc05ld0ZhaWxlZEV2ZW50XD4=</text>
+        <text encoding="base64">XDxjcmVhdGVTb3J0QnlOYW1lU2VsZWN0b3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgbWFrZXNTZWxlY3RvciA9IGNyZWF0ZVNlbGVjdG9yKAogIHN0YXRlID0+IHN0YXRlLm1ha2VzLAogIGRpY3RGcm9tCikK</text>
+        <text encoding="base64">Y29uc3QgY3JlYXRlU29ydEJ5TmFtZVNlbGVjdG9yID0gaW5wdXRTZWxlY3RvciA9PiBjcmVhdGVTZWxlY3RvcihpbnB1dFNlbGVjdG9yLCBzb3J0QnlOYW1lKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">O3dzCg==</text>
@@ -882,9 +882,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc05ld0ZhaWxlZEV2ZW50XD4=</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVTb3J0QnlOYW1lU2VsZWN0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc05ld0ZhaWxlZEV2ZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVTb3J0QnlOYW1lU2VsZWN0b3JcPg==</last-pattern>
       <last-replace />
       <last-substitute>\$</last-substitute>
       <last-dir>1</last-dir>
@@ -892,7 +892,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXRocm93XD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVSZWRpcmVjdFw+</entry>
         <entry encoding="base64">XDxUZXh0SW5wdXRcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVFcnJvclw+</entry>
@@ -912,6 +911,7 @@
         <entry encoding="base64">XDxzZXR0aW5nQWN0aW9uc0xvZ1JlYWRTdWNjZWVkZWRcPg==</entry>
         <entry encoding="base64">XDxnZXR0aW5nSXNOZXdGYWlsZWRFdmVudEFmdGVySWRTdWNjZWVkZWRcPg==</entry>
         <entry encoding="base64">XDxpc05ld0ZhaWxlZEV2ZW50XD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVTb3J0QnlOYW1lU2VsZWN0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
