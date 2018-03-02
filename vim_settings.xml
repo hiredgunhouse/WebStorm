@@ -196,12 +196,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1520002462524">
-        <mark key="'" line="25" column="45" />
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1520006398611">
+        <mark key="'" line="69" column="30" />
+        <mark key="[" line="97" column="24" />
+        <mark key="]" line="100" column="8" />
+        <mark key="^" line="100" column="8" />
+        <mark key="." line="100" column="8" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/AddAuction.js" timestamp="1513356768989">
         <mark key="'" line="224" column="17" />
@@ -498,12 +498,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1519923375904">
+      <file name="R:/Rem/source/web/src/components/auction/AuctionList.js" timestamp="1520005266228">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="40" />
-        <mark key="]" line="92" column="58" />
-        <mark key="." line="92" column="58" />
-        <mark key="^" line="92" column="58" />
+        <mark key="[" line="96" column="154" />
+        <mark key="]" line="96" column="154" />
+        <mark key="." line="96" column="154" />
+        <mark key="^" line="96" column="107" />
       </file>
       <file name="R:/Rem/source/web/src/components/auction/CloseAuctionButton.js" timestamp="1517394586975">
         <mark key="'" line="7" column="2" />
@@ -633,7 +633,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519993102001">
+      <file name="/Dummy.txt" timestamp="1520004876655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -733,7 +733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="0" filename="R:/Rem/source/web/src/components/AuctionDetails.js" />
       <jump line="4" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewHeader.js" />
       <jump line="56" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewHeader.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewHeader.js" />
@@ -833,49 +832,50 @@
       <jump line="3" column="6" filename="R:/Rem/source/web/src/actions/actionsLogActions.js" />
       <jump line="33" column="40" filename="R:/Rem/source/web/src/actions/actionsLogActions.js" />
       <jump line="5" column="2" filename="R:/Rem/source/web/src/reducers/actionsLogReducer.js" />
+      <jump line="69" column="30" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBhc2NlbmQsCiAgY29tcG9zZSwKICBldm9sdmUsCiAgaWRlbnRpdHksCiAgam9pbiwKICBtYXAsCiAgcHJvcCwKICBzb3J0V2l0aCwKICB0b0xvd2VyLAogIHRyaW0sCn0gZnJvbSAncmFtZGEnCmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>models</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>models</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc05ld0ZhaWxlZEV2ZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhZGRUb2FzdDogdG9hc3RBY3Rpb25zLmFkZFRvYXN0LAo=</text>
+        <text encoding="base64">Y29uc3QgbWFrZXNTZWxlY3RvciA9IGNyZWF0ZVNlbGVjdG9yKAogIHN0YXRlID0+IHN0YXRlLm1ha2VzLAogIGRpY3RGcm9tCikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBhc2NlbmQsCiAgY29tcG9zZSwKICBldm9sdmUsCiAgaWRlbnRpdHksCiAgam9pbiwKICBtYXAsCiAgcHJvcCwKICBzb3J0V2l0aCwKICB0b0xvd2VyLAogIHRyaW0sCn0gZnJvbSAncmFtZGEnCmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50Jwo=</text>
+        <text encoding="base64">O3dzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGljdEZyb20oc3RhdGUubWFrZXMpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5rZXlzKHByZXZQcm9wcykubWFwKChrZXkpID0+ICh7a2V5LCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc3RhdGUuZ3JpZC5pdGVtc1R5cGUgPT09ICdhdWN0aW9ucycKICAgICAgPyBzb3J0QXVjdGlvbnMobWFwKGV2b2x2ZSh0cmFuc2Zvcm1hdGlvbnMpLCBzdGF0ZS5ncmlkLml0ZW1zKSkKICAgICAgOiBbXSwK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0dGluZ0lzTmV3RmFpbGVkRXZlbnRBZnRlcklkU3VjY2VlZGVkID0gaXNOZXdGYWlsZWRFdmVudCA9PiAoewogIHR5cGU6IGFjdGlvblR5cGVzLkdFVFRJTkdfSVNfTkVXX0ZBSUxFRF9FVkVOVF9BRlRFUl9JRF9TVUNDRUVERUQsCiAgaXNOZXdGYWlsZWRFdmVudCwKfSkKCg==</text>
+        <text encoding="base64">aW1wb3J0IHsKICBhc2NlbmQsCiAgY29tcG9zZSwKICBldm9sdmUsCiAgaWRlbnRpdHksCiAgam9pbiwKICBtYXAsCiAgcHJvcCwKICBzb3J0V2l0aCwKICB0b0xvd2VyLAogIHRyaW0sCn0gZnJvbSAncmFtZGEnCmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50Jwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0dGluZ0FjdGlvbnNMb2dTdWNjZWVkZWQgPSBhY3Rpb25zTG9nID0+ICh7CiAgdHlwZTogYWN0aW9uVHlwZXMuR0VUVElOR19BQ1RJT05TX0xPR19TVUNDRUVERUQsCiAgYWN0aW9uc0xvZzogYWN0aW9uc0xvZywKfSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0dGluZ0FjdGlvbnNMb2dTdWNjZWVkZWQgPSBhY3Rpb25zTG9nID0+ICh7CiAgdHlwZTogYWN0aW9uVHlwZXMuR0VUVElOR19BQ1RJT05TX0xPR19TVUNDRUVERUQsCiAgYWN0aW9uc0xvZzogYWN0aW9uc0xvZywKfSkKCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
