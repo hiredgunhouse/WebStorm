@@ -688,8 +688,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/InspectionReport.js" timestamp="1520350478252">
+      <file name="R:/Rem/source/web/src/components/InspectionReport.js" timestamp="1520524761278">
+        <mark key="'" line="325" column="20" />
+        <mark key="[" line="329" column="42" />
+        <mark key="]" line="329" column="43" />
         <mark key="^" line="170" column="42" />
+        <mark key="." line="329" column="43" />
       </file>
       <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1519122285249">
         <mark key="[" line="46" column="43" />
@@ -741,7 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="8" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="435" column="52" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="54" column="28" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="102" column="46" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
@@ -837,10 +840,11 @@
       <jump line="295" column="20" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="297" column="25" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="330" column="20" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
-      <jump line="334" column="20" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="334" column="20" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="338" column="20" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="401" column="0" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
+      <jump line="334" column="20" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
+      <jump line="325" column="20" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
