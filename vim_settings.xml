@@ -682,9 +682,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/InspectionReport.js" timestamp="1520599474298">
-        <mark key="[" line="2" column="0" />
-        <mark key="^" line="2" column="1" />
+      <file name="R:/Rem/source/web/src/components/InspectionReport.js" timestamp="1521212062018">
+        <mark key="'" line="322" column="67" />
+        <mark key="[" line="323" column="0" />
+        <mark key="]" line="323" column="78" />
+        <mark key="." line="323" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1519122285249">
         <mark key="[" line="46" column="43" />
@@ -736,12 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="2" filename="R:/Rem/source/web/src/utils/futils.js" />
-      <jump line="43" column="2" filename="R:/Rem/source/web/src/utils/futils.js" />
-      <jump line="468" column="24" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="539" column="25" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="32" column="30" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
-      <jump line="356" column="18" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="24" column="45" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="537" column="2" filename="R:/Rem/source/web/src/components/auction/AuctionList.js" />
@@ -836,58 +832,64 @@
       <jump line="76" column="42" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="123" column="6" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="95" column="4" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
+      <jump line="39" column="21" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
+      <jump line="351" column="0" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
+      <jump line="208" column="43" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
+      <jump line="209" column="55" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
+      <jump line="321" column="56" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
+      <jump line="322" column="67" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>termAtRepossession</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHRBcmVhRmllbGQgbmFtZT0ib2JqZWN0Q29uZGl0aW9uQ29tbWVudHMiIGxhYmVsPSJDb25kaXRpb24iIC8+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Text</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlQ2hhbmdlc1w+</text>
+        <text>Damage</text>
       </register>
       <register name="0" type="4">
         <text>termAtRepossession</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHRBcmVhRmllbGQgbmFtZT0ib2JqZWN0Q29uZGl0aW9uQ29tbWVudHMiIGxhYmVsPSJDb25kaXRpb24iIC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICByZW5kZXIgKCkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGZldGNoRGF0YT17dGhpcy5wcm9wcy5mZXRjaERhdGF9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZldGNoRGF0YT17KCkgPT4ge319Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICByZW5kZXIgKCkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIGZldGNoRGF0YT17dGhpcy5wcm9wcy5mZXRjaERhdGF9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZldGNoRGF0YT17KCkgPT4ge319Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlQ2hhbmdlc1w+</last-search>
+      <last-search>Damage</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlQ2hhbmdlc1w+</last-pattern>
+      <last-pattern>Damage</last-pattern>
       <last-replace />
       <last-substitute>\$</last-substitute>
       <last-dir>1</last-dir>
@@ -895,8 +897,6 @@
     </search>
     <history>
       <history-search>
-        <entry>items</entry>
-        <entry encoding="base64">XDxjb25jYXRBbmRUcmltXD4=</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1hdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxhdWN0aW9uU3RhdHVzZXNTZWxlY3Rvclw+</entry>
         <entry encoding="base64">XDxhbGxvd2VkTW9kZWxzU2VsZWN0b3JcPg==</entry>
@@ -915,6 +915,8 @@
         <entry encoding="base64">XDx0ZXJtQXRSZXBvc3Nlc3Npb25cPg==</entry>
         <entry>save</entry>
         <entry encoding="base64">XDxzYXZlQ2hhbmdlc1w+</entry>
+        <entry>Condition</entry>
+        <entry>Damage</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
