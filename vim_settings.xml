@@ -509,12 +509,12 @@
         <mark key="]" line="71" column="73" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="R:/Rem/source/web/rel-notes.js" timestamp="1521488274597">
+      <file name="R:/Rem/source/web/rel-notes.js" timestamp="1521490328209">
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="37" />
-        <mark key="." line="20" column="37" />
-        <mark key="^" line="20" column="35" />
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="3" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/dictionaries/auctionHouses.js" timestamp="1498723021408">
         <mark key="[" line="19" column="0" />
