@@ -608,7 +608,8 @@
         <mark key="." line="37" column="11" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/CloseAuction.js" timestamp="1519126716494">
+      <file name="R:/Rem/source/web/src/components/auction/CloseAuction.js" timestamp="1521648069023">
+        <mark key="'" line="185" column="2" />
         <mark key="[" line="3" column="18" />
         <mark key="]" line="4" column="1" />
         <mark key="^" line="4" column="1" />
@@ -662,6 +663,7 @@
         <mark key="^" line="67" column="17" />
         <mark key="." line="67" column="17" />
       </file>
+      <file name="R:/Rem/source/web/src/components/auction/CloseAuctionDialog.js" timestamp="1521647674110" />
       <file name="R:/Rem/source/web/src/actions/noteActions.js" timestamp="1501237508725">
         <mark key="[" line="30" column="34" />
         <mark key="]" line="30" column="34" />
@@ -750,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="40" filename="R:/Rem/source/web/src/actions/actionsLogActions.js" />
       <jump line="5" column="2" filename="R:/Rem/source/web/src/reducers/actionsLogReducer.js" />
       <jump line="97" column="6" filename="R:/Rem/source/web/src/containers/AuctionListContainer.js" />
       <jump line="62" column="19" filename="R:/Rem/source/web/src/containers/EditAuctionContainer.js" />
@@ -850,6 +851,7 @@
       <jump line="2" column="38" filename="R:/Rem/source/web/rel-notes.js" />
       <jump line="4" column="9" filename="R:/Rem/source/web/rel-notes.js" />
       <jump line="14" column="4" filename="R:/Rem/source/web/rel-notes.js" />
+      <jump line="185" column="2" filename="R:/Rem/source/web/src/components/auction/CloseAuction.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -862,7 +864,7 @@
         <text>getMostRecentCommit</text>
       </register>
       <register name="/" type="4">
-        <text>repository</text>
+        <text encoding="base64">XDxjYWxjdWxhdGVSZW1haW5pbmdWZWhpY2xlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyAudGhlbihnZXRNb3N0UmVjZW50Q29tbWl0KQo=</text>
@@ -899,17 +901,16 @@
       </register>
     </registers>
     <search>
-      <last-search>repository</last-search>
+      <last-search encoding="base64">XDxjYWxjdWxhdGVSZW1haW5pbmdWZWhpY2xlc1w+</last-search>
       <last-offset />
-      <last-pattern>repository</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxjdWxhdGVSZW1haW5pbmdWZWhpY2xlc1w+</last-pattern>
       <last-replace />
       <last-substitute>\$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGxvd2VkTW9kZWxzU2VsZWN0b3JcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVTZWxlY3Rvclw+</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1cPg==</entry>
         <entry encoding="base64">XDxhdWN0aW9uQmVnaW5EYXRlXD4=</entry>
@@ -929,6 +930,7 @@
         <entry>Damage</entry>
         <entry encoding="base64">XDxnZXRNb3N0UmVjZW50Q29tbWl0XD4=</entry>
         <entry>repository</entry>
+        <entry encoding="base64">XDxjYWxjdWxhdGVSZW1haW5pbmdWZWhpY2xlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
