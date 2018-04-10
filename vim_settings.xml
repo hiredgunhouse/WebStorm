@@ -140,11 +140,11 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/auction/SellVehicleToDealerButton.js" timestamp="1523356793885">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="55" column="22" />
-        <mark key="." line="26" column="0" />
+      <file name="R:/Rem/source/web/src/components/auction/SellVehicleToDealerButton.js" timestamp="1523368379226">
+        <mark key="[" line="60" column="19" />
+        <mark key="]" line="60" column="19" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="60" column="19" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CustomerAndContractContainer.js" timestamp="1523350614311">
         <mark key="'" line="38" column="4" />
@@ -344,8 +344,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/CustomerAndContract.js" timestamp="1523366209054">
-        <mark key="'" line="102" column="0" />
+      <file name="R:/Rem/source/web/src/components/CustomerAndContract.js" timestamp="1523368419913">
+        <mark key="'" line="52" column="44" />
         <mark key="[" line="39" column="52" />
         <mark key="]" line="39" column="65" />
         <mark key="^" line="39" column="65" />
@@ -777,10 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="12" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
-      <jump line="74" column="11" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
-      <jump line="130" column="40" filename="R:/Rem/source/web/src/components/withForm.js" />
-      <jump line="29" column="8" filename="R:/Rem/source/web/src/components/withForm.js" />
       <jump line="78" column="10" filename="R:/Rem/source/web/src/components/withForm.js" />
       <jump line="79" column="22" filename="R:/Rem/source/web/src/components/withForm.js" />
       <jump line="104" column="22" filename="R:/Rem/source/web/src/components/withForm.js" />
@@ -806,7 +802,6 @@
       <jump line="284" column="24" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="76" column="2" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="150" column="25" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
-      <jump line="52" column="11" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="92" column="14" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="93" column="20" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="133" column="0" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
@@ -877,16 +872,21 @@
       <jump line="50" column="42" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="55" column="44" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
       <jump line="102" column="0" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
+      <jump line="97" column="2" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
+      <jump line="99" column="20" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
+      <jump line="36" column="20" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
+      <jump line="47" column="42" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
+      <jump line="52" column="44" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>updateCollateralStatus</text>
+        <text>={true}</text>
       </register>
       <register name="-" type="4">
-        <text>updateCollateralStatus</text>
+        <text>={true}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW5jZWxDaGFuZ2VzXD4=</text>
@@ -975,8 +975,8 @@
         <entry encoding="base64">JzwsJz5zLyAvXy8=</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
