@@ -431,11 +431,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1523374291556">
-        <mark key="'" line="29" column="14" />
+      <file name="R:/Rem/source/web/src/components/ObjectDetails.js" timestamp="1523378569519">
+        <mark key="'" line="292" column="20" />
         <mark key="[" line="220" column="20" />
         <mark key="]" line="220" column="20" />
-        <mark key="." line="220" column="20" />
+        <mark key="." line="4" column="75" />
         <mark key="^" line="232" column="20" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/valuationReducer.js" timestamp="1516025329343">
@@ -814,7 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="35" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
       <jump line="139" column="35" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
       <jump line="176" column="40" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
       <jump line="177" column="22" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
@@ -914,6 +913,7 @@
       <jump line="140" column="35" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="56" column="40" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="57" column="29" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
+      <jump line="292" column="20" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
