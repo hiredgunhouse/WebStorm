@@ -222,12 +222,12 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1523374361171">
-        <mark key="'" line="177" column="22" />
-        <mark key="[" line="190" column="9" />
-        <mark key="]" line="190" column="11" />
+      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1523435791301">
+        <mark key="'" line="304" column="0" />
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="9" />
         <mark key="^" line="190" column="11" />
-        <mark key="." line="190" column="11" />
+        <mark key="." line="27" column="9" />
       </file>
       <file name="R:/Rem/source/web/src/components/CaseListIncomingObjects.js" timestamp="1513267990540">
         <mark key="[" line="4" column="0" />
@@ -814,7 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="35" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
       <jump line="176" column="40" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
       <jump line="177" column="22" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
       <jump line="22" column="6" filename="R:/Rem/source/web/src/components/Documents.js" />
@@ -914,13 +913,14 @@
       <jump line="56" column="40" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="57" column="29" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="292" column="20" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
+      <jump line="304" column="0" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ2Zvcm1IYXNVbnNhdmVkQ2hhbmdlcycsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
