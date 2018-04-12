@@ -774,6 +774,11 @@
         <mark key="^" line="243" column="17" />
         <mark key="." line="45" column="20" />
       </file>
+      <file name="R:/Rem/source/web/src/api/caseApi.js" timestamp="1523529946400">
+        <mark key="'" line="56" column="4" />
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="57" column="66" />
+      </file>
       <file name="R:/Rem/source/web/src/components/valuation/ValuationObjectDetails.js" timestamp="1519043621075">
         <mark key="'" line="31" column="40" />
         <mark key="[" line="23" column="7" />
@@ -814,8 +819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="22" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
-      <jump line="22" column="6" filename="R:/Rem/source/web/src/components/Documents.js" />
       <jump line="103" column="15" filename="R:/Rem/source/web/src/components/Documents.js" />
       <jump line="104" column="19" filename="R:/Rem/source/web/src/components/Documents.js" />
       <jump line="125" column="19" filename="R:/Rem/source/web/src/components/Documents.js" />
@@ -914,22 +917,24 @@
       <jump line="292" column="20" filename="R:/Rem/source/web/src/components/ObjectDetails.js" />
       <jump line="304" column="0" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
       <jump line="191" column="2" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
+      <jump line="57" column="33" filename="R:/Rem/source/web/src/api/caseApi.js" />
+      <jump line="56" column="4" filename="R:/Rem/source/web/src/api/caseApi.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZXZlbnREZWZhdWx0IH0gZnJvbSAnLi4vLi4vdXRpbHMvZm9ybVV0aWxzJwo=</text>
+      <register name="&quot;" type="4">
+        <text>updateCollectionAgreesToSellStatus</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text encoding="base64">XDx1cGRhdGVDb2xsZWN0aW9uQWdyZWVzVG9TZWxsU3RhdHVzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aFVuc2F2ZWRDaGFuZ2VzUHJvdGVjdGlvbih3aXRoRm9ybShDdXN0b21lckFuZENvbnRyYWN0KSkK</text>
+      <register name="0" type="4">
+        <text>updateCollectionAgreesToSellStatus</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgd2l0aFByZXZlbnREZWZhdWx0IH0gZnJvbSAnLi4vLi4vdXRpbHMvZm9ybVV0aWxzJwo=</text>
@@ -963,9 +968,9 @@
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVDb2xsZWN0aW9uQWdyZWVzVG9TZWxsU3RhdHVzXD4=</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVDb2xsZWN0aW9uQWdyZWVzVG9TZWxsU3RhdHVzXD4=</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -973,7 +978,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxZZXNOb1JlYWRvbmx5RmllbGRcPg==</entry>
         <entry>Form</entry>
         <entry>withPre</entry>
         <entry>onClick</entry>
@@ -993,6 +997,7 @@
         <entry encoding="base64">XDxzZXRGaWxlVG9VcGxvYWRcPg==</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry>state</entry>
+        <entry encoding="base64">XDx1cGRhdGVDb2xsZWN0aW9uQWdyZWVzVG9TZWxsU3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycuK14vOiBmcm9tRGtOdW1iZXIs</entry>
