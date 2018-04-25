@@ -180,12 +180,12 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1523435791301">
-        <mark key="'" line="304" column="0" />
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="27" column="9" />
+      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1524649746585">
+        <mark key="'" line="204" column="2" />
+        <mark key="[" line="193" column="56" />
+        <mark key="]" line="193" column="57" />
         <mark key="^" line="190" column="11" />
-        <mark key="." line="27" column="9" />
+        <mark key="." line="193" column="57" />
       </file>
       <file name="R:/Rem/source/web/src/components/CaseListIncomingObjects.js" timestamp="1513267990540">
         <mark key="[" line="4" column="0" />
@@ -699,7 +699,7 @@
         <mark key="." line="77" column="28" />
         <mark key="^" line="77" column="41" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/TypeaheadField.js" timestamp="1518693383805">
+      <file name="R:/Rem/source/web/src/components/controls/TypeaheadField.js" timestamp="1524649772387">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
@@ -725,9 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="29" filename="R:/Rem/source/web/src/components/Documents.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="1" column="0" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
       <jump line="186" column="14" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
       <jump line="187" column="20" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
       <jump line="0" column="0" filename="R:/Rem/source/web/src/containers/caseOverview/CaseDocumentsListContainer.js" />
@@ -825,19 +822,22 @@
       <jump line="6" column="6" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
       <jump line="18" column="6" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
       <jump line="44" column="46" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
+      <jump line="45" column="11" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
+      <jump line="204" column="2" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Check</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Check</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZWZvcmVMZWdhbGx5UmVhZHlDaGVja3NcPg==</text>
+        <text>Location</text>
       </register>
       <register name="0" type="4">
         <text>updateCollectionAgreesToSellStatus</text>
@@ -874,17 +874,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZWZvcmVMZWdhbGx5UmVhZHlDaGVja3NcPg==</last-search>
+      <last-search>Location</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZWZvcmVMZWdhbGx5UmVhZHlDaGVja3NcPg==</last-pattern>
+      <last-pattern>Location</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGVhclZhbGlkYXRpb25TdGF0ZVw+</entry>
         <entry encoding="base64">XDxBdWN0aW9uQW5kU2FsZVw+</entry>
         <entry encoding="base64">XDxidWlsZE5ld0F1Y3Rpb25BbmRTYWxlXD4=</entry>
         <entry encoding="base64">XDxvblVwbG9hZEludm9pY2VcPg==</entry>
@@ -904,6 +903,7 @@
         <entry encoding="base64">XDxjaGVja2xpc3RcPg==</entry>
         <entry encoding="base64">XDxiZWZvcmVQaHlzaWNhbGx5UmVhZHlDaGVja3NcPg==</entry>
         <entry encoding="base64">XDxiZWZvcmVMZWdhbGx5UmVhZHlDaGVja3NcPg==</entry>
+        <entry>Location</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycuK14vOiBmcm9tRGtOdW1iZXIs</entry>
