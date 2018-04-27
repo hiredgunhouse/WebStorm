@@ -699,11 +699,12 @@
         <mark key="." line="77" column="28" />
         <mark key="^" line="77" column="41" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/TypeaheadField.js" timestamp="1524650499192">
-        <mark key="'" line="40" column="25" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="R:/Rem/source/web/src/components/controls/TypeaheadField.js" timestamp="1524827604398">
+        <mark key="'" line="67" column="18" />
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="69" column="25" />
+        <mark key="." line="69" column="25" />
+        <mark key="^" line="69" column="25" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/errorReducers.js" timestamp="1496932047444">
         <mark key="[" line="11" column="0" />
@@ -726,8 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="6" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="362" column="20" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
       <jump line="365" column="37" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
       <jump line="42" column="6" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
       <jump line="352" column="23" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
@@ -826,13 +825,15 @@
       <jump line="33" column="48" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="36" column="73" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="40" column="25" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="67" column="18" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="15" column="10" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -844,31 +845,31 @@
         <text>updateCollectionAgreesToSellStatus</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZXZlbnREZWZhdWx0IH0gZnJvbSAnLi4vLi4vdXRpbHMvZm9ybVV0aWxzJwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ2Zvcm1IYXNVbnNhdmVkQ2hhbmdlcycsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZXZlbnREZWZhdWx0IH0gZnJvbSAnLi4vLi4vdXRpbHMvZm9ybVV0aWxzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJ3NldEZpZWxkJywK</text>
+        <text encoding="base64">ICAgICAgJ2Zvcm1IYXNVbnNhdmVkQ2hhbmdlcycsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ3Nob3dNZXNzYWdlJywK</text>
+        <text encoding="base64">ICAgICAgJ3NldEZpZWxkJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ2Nsb3NlRGlhbG9nJywK</text>
+        <text encoding="base64">ICAgICAgJ3Nob3dNZXNzYWdlJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ29uRmllbGRDaGFuZ2UnLAo=</text>
+        <text encoding="base64">ICAgICAgJ2Nsb3NlRGlhbG9nJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZXZlbnREZWZhdWx0IH0gZnJvbSAnLi4vdXRpbHMvZm9ybVV0aWxzJwo=</text>
+        <text encoding="base64">ICAgICAgJ29uRmllbGRDaGFuZ2UnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZXZvbHZlLCBvbWl0LCBwaXBlIH0gZnJvbSAncmFtZGEnCmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50JwppbXBvcnQgeyBiaW5kQWxsIH0gZnJvbSAnbG9kYXNoL3V0aWwnCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFByZXZlbnREZWZhdWx0IH0gZnJvbSAnLi4vdXRpbHMvZm9ybVV0aWxzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICcuL2NvbnRyb2xzL0xpbmtGaWVsZCcK</text>
+        <text encoding="base64">aW1wb3J0IHsgZXZvbHZlLCBvbWl0LCBwaXBlIH0gZnJvbSAncmFtZGEnCmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50JwppbXBvcnQgeyBiaW5kQWxsIH0gZnJvbSAnbG9kYXNoL3V0aWwnCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -881,7 +882,7 @@
       <last-replace>_</last-replace>
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
