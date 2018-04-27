@@ -45,12 +45,6 @@
         <mark key="^" line="128" column="1" />
         <mark key="." line="128" column="1" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/CostsContainer.js" timestamp="1523376035994">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="R:/Rem/source/web/src/containers/ObjectDetailsContainer.js" timestamp="1523350879902">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="46" column="0" />
@@ -86,7 +80,7 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="11" />
       </file>
-      <file name="R:/Rem/source/web/src/components/Costs.js" timestamp="1524844449252">
+      <file name="R:/Rem/source/web/src/components/Costs.js" timestamp="1524844948358">
         <mark key="'" line="54" column="2" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="57" />
@@ -99,12 +93,12 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1524844438566">
+      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1524844695215">
         <mark key="'" line="221" column="18" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="57" />
-        <mark key="." line="28" column="31" />
-        <mark key="^" line="28" column="31" />
+        <mark key="[" line="68" column="33" />
+        <mark key="]" line="68" column="36" />
+        <mark key="." line="68" column="36" />
+        <mark key="^" line="68" column="36" />
       </file>
       <file name="R:/Rem/source/web/src/containers/AuctionListContainer.js" timestamp="1520009502988">
         <mark key="'" line="2" column="9" />
@@ -153,12 +147,6 @@
         <mark key="]" line="13" column="56" />
         <mark key="^" line="111" column="17" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/reducers/actionsLogReducer.js" timestamp="1520012169602">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewHeader.js" timestamp="1519205297791">
         <mark key="'" line="58" column="32" />
@@ -248,12 +236,6 @@
         <mark key="]" line="13" column="57" />
         <mark key="^" line="17" column="13" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" timestamp="1524494552836">
-        <mark key="'" line="44" column="46" />
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="32" />
-        <mark key="." line="23" column="32" />
       </file>
       <file name="R:/Rem/source/web/src/components/todos/AddTodoDialog.js" timestamp="1513345939595">
         <mark key="'" line="13" column="36" />
@@ -380,12 +362,6 @@
         <mark key="]" line="52" column="0" />
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
-      </file>
-      <file name="R:/Rem/source/web/src/reducers/caseOverviewReducer.js" timestamp="1524493995267">
-        <mark key="'" line="115" column="2" />
-        <mark key="[" line="112" column="43" />
-        <mark key="]" line="112" column="43" />
-        <mark key="." line="112" column="43" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CreateAuctionContainer.js" timestamp="1512490941358">
         <mark key="'" line="65" column="12" />
@@ -543,11 +519,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaWZTdWNjZXNzIH0gZnJvbSAnLi4vLi4vdXRpbHMvZnV0aWxzJwo=</text>
+      <register name="&quot;" type="4">
+        <text>bool</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bool</text>
       </register>
       <register name="/" type="4">
         <text>fUtils</text>
