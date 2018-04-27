@@ -180,11 +180,11 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1524841064538">
-        <mark key="[" line="219" column="33" />
-        <mark key="]" line="219" column="38" />
-        <mark key="." line="219" column="38" />
-        <mark key="^" line="219" column="38" />
+      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1524841332556">
+        <mark key="[" line="222" column="7" />
+        <mark key="]" line="223" column="5" />
+        <mark key="^" line="223" column="5" />
+        <mark key="." line="223" column="5" />
       </file>
       <file name="R:/Rem/source/web/src/components/CaseListIncomingObjects.js" timestamp="1513267990540">
         <mark key="[" line="4" column="0" />
@@ -299,8 +299,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1524839888898">
-        <mark key="'" line="16" column="4" />
+      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1524841668184">
+        <mark key="'" line="272" column="59" />
         <mark key="[" line="202" column="3" />
         <mark key="]" line="203" column="1" />
         <mark key="." line="203" column="1" />
@@ -728,7 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="20" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="47" column="0" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="154" column="0" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="123" column="0" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
@@ -828,19 +827,20 @@
       <jump line="37" column="9" filename="R:/Rem/source/web/src/components/withForm.js" />
       <jump line="153" column="12" filename="R:/Rem/source/web/src/components/withForm.js" />
       <jump line="165" column="18" filename="R:/Rem/source/web/src/components/withForm.js" />
+      <jump line="272" column="59" filename="R:/Rem/source/web/src/api/restApi.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>success</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>success</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGVhclVuc2F2ZWRDaGFuZ2VzU3RhdHVzXD4=</text>
+        <text encoding="base64">XDxyZXNwb25zZUhhbmRsZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>clearUnsavedChangesStatus</text>
@@ -878,9 +878,9 @@ import { merge, p</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGVhclVuc2F2ZWRDaGFuZ2VzU3RhdHVzXD4=</last-search>
+      <last-search encoding="base64">XDxyZXNwb25zZUhhbmRsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGVhclVuc2F2ZWRDaGFuZ2VzU3RhdHVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNwb25zZUhhbmRsZXJcPg==</last-pattern>
       <last-replace>new</last-replace>
       <last-substitute>old</last-substitute>
       <last-dir>1</last-dir>
@@ -888,7 +888,6 @@ import { merge, p</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkNoYW5nZUNhbGxiYWNrXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxvbklucHV0Q2hhbmdlQ2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxmb3JtQ29udGV4dFw+</entry>
@@ -908,6 +907,7 @@ import { merge, p</text>
         <entry encoding="base64">XDx1cGRhdGVVbnNhdmVkQ2hhbmdlc1N0YXR1c1w+</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxjbGVhclVuc2F2ZWRDaGFuZ2VzU3RhdHVzXD4=</entry>
+        <entry encoding="base64">XDxyZXNwb25zZUhhbmRsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLw==</entry>
