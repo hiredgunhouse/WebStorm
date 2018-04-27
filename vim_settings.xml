@@ -123,7 +123,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1523350885077">
+      <file name="R:/Rem/source/web/src/components/controls/Form.js" timestamp="1524839038605">
         <mark key="'" line="183" column="2" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -180,11 +180,11 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1524838167969">
-        <mark key="[" line="35" column="3" />
-        <mark key="]" line="35" column="3" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="35" column="3" />
+      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1524840284129">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="220" column="11" />
       </file>
       <file name="R:/Rem/source/web/src/components/CaseListIncomingObjects.js" timestamp="1513267990540">
         <mark key="[" line="4" column="0" />
@@ -293,7 +293,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1519679142184">
+      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1524839888898">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="202" column="3" />
         <mark key="]" line="203" column="1" />
@@ -561,10 +561,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/containers/caseOverview/CaseDocumentsListContainer.js" timestamp="1523375873545">
-        <mark key="'" line="7" column="0" />
-        <mark key="^" line="8" column="82" />
-      </file>
       <file name="R:/Rem/source/web/src/components/auction/EditAuction.js" timestamp="1520010776018">
         <mark key="'" line="683" column="18" />
         <mark key="[" line="161" column="74" />
@@ -662,12 +658,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/withForm.js" timestamp="1524838438299">
-        <mark key="'" line="70" column="4" />
-        <mark key="[" line="144" column="38" />
-        <mark key="]" line="145" column="35" />
-        <mark key="." line="145" column="35" />
-        <mark key="^" line="145" column="35" />
+      <file name="R:/Rem/source/web/src/components/withForm.js" timestamp="1524839536459">
+        <mark key="'" line="165" column="18" />
+        <mark key="[" line="153" column="12" />
+        <mark key="]" line="153" column="36" />
+        <mark key="." line="153" column="69" />
+        <mark key="^" line="153" column="71" />
       </file>
       <file name="R:/Rem/source/web/src/containers/CaseAttributeContainer.js" timestamp="1513264812900">
         <mark key="[" line="5" column="0" />
@@ -726,11 +722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="0" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
-      <jump line="5" column="6" filename="R:/Rem/source/web/src/components/CaseNote.js" />
-      <jump line="165" column="18" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
-      <jump line="155" column="14" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
-      <jump line="156" column="20" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="231" column="20" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="47" column="0" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
       <jump line="154" column="0" filename="R:/Rem/source/web/src/components/InspectionReport.js" />
@@ -826,59 +817,64 @@
       <jump line="13" column="7" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="23" column="7" filename="R:/Rem/source/web/src/components/Grid.js" />
       <jump line="58" column="0" filename="R:/Rem/source/web/src/components/Grid.js" />
+      <jump line="127" column="13" filename="R:/Rem/source/web/src/components/withForm.js" />
+      <jump line="66" column="16" filename="R:/Rem/source/web/src/components/withForm.js" />
+      <jump line="37" column="9" filename="R:/Rem/source/web/src/components/withForm.js" />
+      <jump line="153" column="12" filename="R:/Rem/source/web/src/components/withForm.js" />
+      <jump line="165" column="18" filename="R:/Rem/source/web/src/components/withForm.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text encoding="base64">XDxjbGVhclVuc2F2ZWRDaGFuZ2VzU3RhdHVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>hasUnsavedChanges</text>
+        <text>clearUnsavedChangesStatus</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFJlbWFya2V0aW5nSW50ZWdyYXRpb25UZXN0c0Nvbm5lY3Rpb25TdHJpbmdfV29ya2VycyAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ19oYXNVbnNhdmVkQ2hhbmdlczogJywgdGhpcy5faGFzVW5zYXZlZENoYW5nZXMpCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>Valid, firstErrorMessage } from '../../validation/validationUtils'
 import { merge, p</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHV1aWQgZnJvbSAndXVpZC92NCcK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIC8vIGtleT17a2V5fQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgY29uc29sZS5sb2codmFsdWUpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgY29uc29sZS5sb2cobmFtZSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChuYW1lID09ICdtb2RlbCcpIHsK</text>
+        <text encoding="base64">ICAgIC8vICAgY29uc29sZS5sb2codmFsdWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search encoding="base64">XDxjbGVhclVuc2F2ZWRDaGFuZ2VzU3RhdHVzXD4=</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern encoding="base64">XDxjbGVhclVuc2F2ZWRDaGFuZ2VzU3RhdHVzXD4=</last-pattern>
       <last-replace>new</last-replace>
       <last-substitute>old</last-substitute>
       <last-dir>1</last-dir>
@@ -886,7 +882,6 @@ import { merge, p</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUeXBlYWhlYWRGaWVsZFw+</entry>
         <entry encoding="base64">XDxvbkNoYW5nZUNhbGxiYWNrXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxvbklucHV0Q2hhbmdlQ2FsbGJhY2tcPg==</entry>
@@ -906,6 +901,7 @@ import { merge, p</text>
         <entry encoding="base64">XDxmb3JtSGFzVW5zYXZlZENoYW5nZXNcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVVbnNhdmVkQ2hhbmdlc1N0YXR1c1w+</entry>
         <entry>class</entry>
+        <entry encoding="base64">XDxjbGVhclVuc2F2ZWRDaGFuZ2VzU3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLw==</entry>
