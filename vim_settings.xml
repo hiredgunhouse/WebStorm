@@ -56,10 +56,10 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/TodoList.js" timestamp="1513935904268">
-        <mark key="'" line="111" column="20" />
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="27" />
+      <file name="R:/Rem/source/web/src/components/TodoList.js" timestamp="1524829794379">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="37" />
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="27" />
       </file>
@@ -180,12 +180,12 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1524649746585">
-        <mark key="'" line="204" column="2" />
-        <mark key="[" line="193" column="56" />
-        <mark key="]" line="193" column="57" />
-        <mark key="^" line="190" column="11" />
-        <mark key="." line="193" column="57" />
+      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1524832355397">
+        <mark key="'" line="65" column="26" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/components/CaseListIncomingObjects.js" timestamp="1513267990540">
         <mark key="[" line="4" column="0" />
@@ -699,12 +699,12 @@
         <mark key="." line="77" column="28" />
         <mark key="^" line="77" column="41" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/TypeaheadField.js" timestamp="1524829591181">
-        <mark key="'" line="37" column="21" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="51" column="9" />
+      <file name="R:/Rem/source/web/src/components/controls/TypeaheadField.js" timestamp="1524833578641">
+        <mark key="'" line="58" column="4" />
+        <mark key="[" line="56" column="105" />
+        <mark key="]" line="56" column="105" />
+        <mark key="." line="56" column="105" />
+        <mark key="^" line="56" column="105" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/errorReducers.js" timestamp="1496932047444">
         <mark key="[" line="11" column="0" />
@@ -727,52 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="6" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="352" column="23" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="90" column="2" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="145" column="27" filename="R:/Rem/source/web/src/components/withForm.js" />
-      <jump line="43" column="9" filename="R:/Rem/source/web/src/components/withForm.js" />
-      <jump line="74" column="4" filename="R:/Rem/source/web/src/components/withForm.js" />
-      <jump line="102" column="6" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="124" column="0" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
-      <jump line="133" column="8" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="134" column="10" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="138" column="49" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="207" column="4" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="286" column="48" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="296" column="23" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="302" column="14" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="305" column="31" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="308" column="23" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="34" column="9" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="58" column="40" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="59" column="29" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="79" column="36" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="89" column="35" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="93" column="12" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="99" column="12" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="152" column="2" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="259" column="21" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="131" column="2" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="164" column="11" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="170" column="11" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="178" column="9" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="52" column="7" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="106" column="9" filename="R:/Rem/source/web/src/components/caseOverview/DocumentsList.js" />
-      <jump line="63" column="49" filename="R:/Rem/source/web/src/containers/caseOverview/CaseDocumentsListContainer.js" />
-      <jump line="7" column="0" filename="R:/Rem/source/web/src/containers/caseOverview/CaseDocumentsListContainer.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/containers/CostsContainer.js" />
-      <jump line="24" column="0" filename="R:/Rem/source/web/src/components/Costs.js" />
-      <jump line="136" column="20" filename="R:/Rem/source/web/src/components/Costs.js" />
-      <jump line="25" column="6" filename="R:/Rem/source/web/src/components/Costs.js" />
-      <jump line="108" column="14" filename="R:/Rem/source/web/src/components/Costs.js" />
-      <jump line="109" column="20" filename="R:/Rem/source/web/src/components/Costs.js" />
-      <jump line="135" column="0" filename="R:/Rem/source/web/src/components/Costs.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/CustomerAndContract.js" />
-      <jump line="102" column="16" filename="R:/Rem/source/web/src/components/Costs.js" />
-      <jump line="119" column="15" filename="R:/Rem/source/web/src/components/Costs.js" />
-      <jump line="85" column="4" filename="R:/Rem/source/web/src/components/Costs.js" />
-      <jump line="19" column="29" filename="R:/Rem/source/web/src/components/Costs.js" />
       <jump line="45" column="35" filename="R:/Rem/source/web/src/components/Costs.js" />
       <jump line="18" column="40" filename="R:/Rem/source/web/src/components/Costs.js" />
       <jump line="52" column="0" filename="R:/Rem/source/web/src/components/Costs.js" />
@@ -817,7 +771,6 @@
       <jump line="6" column="6" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
       <jump line="18" column="6" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
       <jump line="44" column="46" filename="R:/Rem/source/web/src/components/caseOverview/CaseOverviewChecklist.js" />
-      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
       <jump line="45" column="11" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
       <jump line="204" column="2" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
       <jump line="24" column="18" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
@@ -827,105 +780,152 @@
       <jump line="67" column="18" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="15" column="10" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="37" column="21" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="108" column="25" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="90" column="49" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="97" column="20" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="37" column="0" filename="R:/Rem/source/web/src/components/TodoList.js" />
+      <jump line="50" column="4" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="16" column="0" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="5" column="9" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="68" column="15" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="69" column="17" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="54" column="9" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="66" column="4" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="129" column="4" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="107" column="25" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="43" column="17" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="45" column="31" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="46" column="76" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="48" column="52" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="56" column="35" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="70" column="6" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="86" column="25" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="89" column="28" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="98" column="21" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="100" column="51" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="120" column="45" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="71" column="6" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="77" column="20" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="78" column="78" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="81" column="26" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="118" column="30" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="133" column="8" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="72" column="6" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="135" column="8" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="73" column="6" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="136" column="8" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="167" column="6" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="106" column="50" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="128" column="4" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="125" column="23" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="0" column="0" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
+      <jump line="32" column="52" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
+      <jump line="229" column="8" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
+      <jump line="68" column="4" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
+      <jump line="65" column="26" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
+      <jump line="57" column="15" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="59" column="35" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="58" column="4" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
+      <jump line="14" column="19" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5ld1ZhbHVlID0gbmV4dENvbnRleHQuZm9ybUNvbnRleHQucHJvcHMuZmllbGRzW25leHRQcm9wcy5uYW1lXSB8fCBbXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>vehicleLocation</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUeXBlYWhlYWRGaWVsZFw+</text>
+        <text>old</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduZXh0UHJvcHMnLCBuZXh0UHJvcHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5ld1ZhbHVlID0gbmV4dENvbnRleHQuZm9ybUNvbnRleHQucHJvcHMuZmllbGRzW25leHRQcm9wcy5uYW1lXSB8fCBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9sZFZhbHVlID0gdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0LnByb3BzLmZpZWxkc1t0aGlzLnByb3BzLm5hbWVdIHx8IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmFtZQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9sZFZhbHVlID0gdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0LnByb3BzLmZpZWxkc1t0aGlzLnByb3BzLm5hbWVdIHx8IFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtuYW1lLCBsYWJlbCwgZGlzYWJsZWQsIGxhYmVsS2V5LCB0eXBlYWhlYWRUeXBlLCBpdGVtc1Byb3AsIGFsbG93TmV3LCBtdWx0aXBsZSwgb25DaGFuZ2V9ID0gdGhpcy5wcm9wcwogICAgY29uc3Qge2Zvcm1Db250ZXh0fSA9IHRoaXMuY29udGV4dAoKICAgIGNvbnN0IHZhbHVlID0gZm9ybUNvbnRleHQucHJvcHMuZmllbGRzW25hbWVdIHx8IFtdCiAgICBjb25zdCBpdGVtcyA9IGl0ZW1zRm9yKGl0ZW1zUHJvcCwgdHlwZWFoZWFkVHlwZSwgbXVsdGlwbGUsIGZvcm1Db250ZXh0KQoKICAgIGNvbnN0IGlzVmFsaWQgPSBpc0ZpZWxkVmFsaWQobmFtZSwgZm9ybUNvbnRleHQpCiAgICBjb25zdCBlcnJvck1lc3NhZ2UgPSBmaXJzdEVycm9yTWVzc2FnZShuYW1lLCBmb3JtQ29udGV4dCkK</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuc2V0U3RhdGUodGhpcy5jYWxjdWxhdGVTdGF0ZVVwZGF0ZShuZXh0UHJvcHMsIG5leHRDb250ZXh0KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGxpa2UgaGVyZTogaHR0cDovL2VyaWNnaW8uZ2l0aHViLmlvL3JlYWN0LWJvb3RzdHJhcC10eXBlYWhlYWQvI3B1YmxpYy1tZXRob2RzCg==</text>
+        <text encoding="base64">ICBjYWxjdWxhdGVTdGF0ZVVwZGF0ZSAoCiAgICApCiAgewogICAgLy8KICAgIC8vCiAgICAvLyByZXR1cm4gewogICAgLy8gICB2YWx1ZSwKICAgIC8vICAgaXRlbXMsCiAgICAvLyAgIGlzVmFsaWQsCiAgICAvLyAgIGVycm9yTWVzc2FnZSwKICAgIC8vIH0KICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGtleSA9IHV1aWQoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5ld1ZhbHVlID0gZm9ybUNvbnRleHQucHJvcHMuZmllbGRzW25hbWVdIHx8IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGgK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUeXBlYWhlYWRGaWVsZFw+</last-search>
+      <last-search>old</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUeXBlYWhlYWRGaWVsZFw+</last-pattern>
-      <last-replace>_</last-replace>
-      <last-substitute encoding="base64">IA==</last-substitute>
+      <last-pattern>old</last-pattern>
+      <last-replace>new</last-replace>
+      <last-substitute>old</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvblVwbG9hZEludm9pY2VcPg==</entry>
-        <entry>stae</entry>
-        <entry encoding="base64">XDxDb2xTbTZcPg==</entry>
-        <entry encoding="base64">XDxzaG93RGlhbG9nXD4=</entry>
-        <entry encoding="base64">XDxzZXRGaWVsZFw+</entry>
-        <entry encoding="base64">XDxpc0ZpbGVEaWFsb2dPcGVuXD4=</entry>
-        <entry encoding="base64">XDxtc2dcPg==</entry>
-        <entry encoding="base64">XDxvbkRyb3BGaWxlXD4=</entry>
-        <entry encoding="base64">XDxzZXRGaWxlVG9VcGxvYWRcPg==</entry>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
-        <entry>state</entry>
-        <entry encoding="base64">XDx1cGRhdGVDb2xsZWN0aW9uQWdyZWVzVG9TZWxsU3RhdHVzXD4=</entry>
-        <entry encoding="base64">XDxjb2xsZWN0aW9uQWdyZWVzVG9TZWxsQ2hlY2tcPg==</entry>
-        <entry>check</entry>
-        <entry encoding="base64">XDxjaGVja2xpc3RcPg==</entry>
-        <entry encoding="base64">XDxiZWZvcmVQaHlzaWNhbGx5UmVhZHlDaGVja3NcPg==</entry>
         <entry encoding="base64">XDxiZWZvcmVMZWdhbGx5UmVhZHlDaGVja3NcPg==</entry>
         <entry>Location</entry>
         <entry encoding="base64">XDxpdGVtc1Byb3BcPg==</entry>
         <entry encoding="base64">XDxUeXBlYWhlYWRGaWVsZFw+</entry>
+        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
+        <entry encoding="base64">XDxvbkNoYW5nZUNhbGxiYWNrXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
+        <entry encoding="base64">XDxvbklucHV0Q2hhbmdlQ2FsbGJhY2tcPg==</entry>
+        <entry encoding="base64">XDxmb3JtQ29udGV4dFw+</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry encoding="base64">XDxpdGVtc1w+</entry>
+        <entry encoding="base64">XDx2YWxpZGF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxpc1ZhbGlkXD4=</entry>
+        <entry encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxjYWxjdWxhdGVTdGF0ZVVwZGF0ZVw+</entry>
+        <entry>this.props</entry>
+        <entry>this.state.</entry>
+        <entry>\cunsaved</entry>
+        <entry encoding="base64">XDxoYXNVbnNhdmVkQ2hhbmdlc1w+</entry>
+        <entry>old</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLycuK14vOiBmcm9tRGtOdW1iZXIs</entry>
-        <entry>s/'.*$/: fromDbNumber/</entry>
-        <entry encoding="base64">JzwsJz5zL1wnLiteLzogZnJvbURrTnVtYmVyLA==</entry>
-        <entry encoding="base64">JzwsJz5zLycuKiQvOiBmcm9tRGtOdW1iZXIv</entry>
-        <entry encoding="base64">JzwsJz5zLyQvLCQv</entry>
         <entry encoding="base64">JzwsJz5zLyQvLw==</entry>
         <entry encoding="base64">JzwsJz5zL1wkLy8=</entry>
         <entry>ws</entry>
         <entry>w2</entry>
-        <entry>w3</entry>
         <entry encoding="base64">JzwsJz5zLyAvXy8=</entry>
         <entry>W</entry>
         <entry>.,.+6noh</entry>
         <entry>b</entry>
-        <entry>we</entry>
         <entry>wq</entry>
         <entry>2w</entry>
+        <entry>w\</entry>
+        <entry>w3</entry>
         <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
+        <entry encoding="base64">JzwsJz5zL3RoaXMucHJvcHMvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3RoaXMuc3RhdGUuLy9n</entry>
+        <entry encoding="base64">JzwsJz5zL29sZC9uZXc=</entry>
+        <entry>s</entry>
+        <entry>we</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
