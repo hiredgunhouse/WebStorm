@@ -180,11 +180,11 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="23" />
       </file>
-      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1524840284129">
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="." line="221" column="0" />
-        <mark key="^" line="220" column="11" />
+      <file name="R:/Rem/source/web/src/components/AuctionAndSale.js" timestamp="1524841064538">
+        <mark key="[" line="219" column="33" />
+        <mark key="]" line="219" column="38" />
+        <mark key="." line="219" column="38" />
+        <mark key="^" line="219" column="38" />
       </file>
       <file name="R:/Rem/source/web/src/components/CaseListIncomingObjects.js" timestamp="1513267990540">
         <mark key="[" line="4" column="0" />
@@ -235,6 +235,12 @@
         <mark key="]" line="3" column="55" />
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
+      </file>
+      <file name="R:/Rem/source/web/src/containers/AuctionAndSaleContainer.js" timestamp="1524841037578">
+        <mark key="[" line="61" column="75" />
+        <mark key="]" line="61" column="75" />
+        <mark key="^" line="61" column="83" />
+        <mark key="." line="61" column="75" />
       </file>
       <file name="R:/Rem/source/web/src/components/controls/TextAreaField.js" timestamp="1513265764565">
         <mark key="[" line="1" column="0" />
@@ -658,7 +664,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/components/withForm.js" timestamp="1524839536459">
+      <file name="R:/Rem/source/web/src/components/withForm.js" timestamp="1524840785295">
         <mark key="'" line="165" column="18" />
         <mark key="[" line="153" column="12" />
         <mark key="]" line="153" column="36" />
@@ -827,11 +833,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>success</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>success</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhclVuc2F2ZWRDaGFuZ2VzU3RhdHVzXD4=</text>
@@ -840,32 +846,32 @@
         <text>clearUnsavedChangesStatus</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJlbWFya2V0aW5nSW50ZWdyYXRpb25UZXN0c0Nvbm5lY3Rpb25TdHJpbmdfV29ya2VycyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIFJlbWFya2V0aW5nSW50ZWdyYXRpb25UZXN0c0Nvbm5lY3Rpb25TdHJpbmdfV29ya2VycyAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ19oYXNVbnNhdmVkQ2hhbmdlczogJywgdGhpcy5faGFzVW5zYXZlZENoYW5nZXMpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Valid, firstErrorMessage } from '../../validation/validationUtils'
 import { merge, p</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHV1aWQgZnJvbSAndXVpZC92NCcK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIC8vIGtleT17a2V5fQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgY29uc29sZS5sb2codmFsdWUpCg==</text>
+        <text encoding="base64">ICAgIC8vIH0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
