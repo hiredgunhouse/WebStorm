@@ -699,12 +699,12 @@
         <mark key="." line="77" column="28" />
         <mark key="^" line="77" column="41" />
       </file>
-      <file name="R:/Rem/source/web/src/components/controls/TypeaheadField.js" timestamp="1524834841492">
+      <file name="R:/Rem/source/web/src/components/controls/TypeaheadField.js" timestamp="1524836683891">
         <mark key="'" line="85" column="90" />
-        <mark key="[" line="63" column="10" />
-        <mark key="]" line="63" column="10" />
-        <mark key="." line="63" column="10" />
-        <mark key="^" line="63" column="10" />
+        <mark key="[" line="54" column="84" />
+        <mark key="]" line="54" column="86" />
+        <mark key="." line="54" column="86" />
+        <mark key="^" line="54" column="86" />
       </file>
       <file name="R:/Rem/source/web/src/reducers/errorReducers.js" timestamp="1496932047444">
         <mark key="[" line="11" column="0" />
@@ -833,10 +833,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>new</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNoYW5nZVw+</text>
@@ -844,32 +844,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChuZXh0UHJvcHMubmFtZSAhPT0gJ3ZlaGljbGVMb2NhdGlvbicpCiAgICAgIHJldHVybgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+      <register name="1" type="4">
+        <text>Valid, firstErrorMessage } from '../../validation/validationUtils'
+import { merge, p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5ld1ZhbHVlID0gbmV4dENvbnRleHQuZm9ybUNvbnRleHQucHJvcHMuZmllbGRzW25leHRQcm9wcy5uYW1lXSB8fCBbXQo=</text>
+        <text encoding="base64">aW1wb3J0IHV1aWQgZnJvbSAndXVpZC92NCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9sZFZhbHVlID0gdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0LnByb3BzLmZpZWxkc1t0aGlzLnByb3BzLm5hbWVdIHx8IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGtleT17a2V5fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9sZFZhbHVlID0gdGhpcy5jb250ZXh0LmZvcm1Db250ZXh0LnByb3BzLmZpZWxkc1t0aGlzLnByb3BzLm5hbWVdIHx8IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIC8vIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuc2V0U3RhdGUodGhpcy5jYWxjdWxhdGVTdGF0ZVVwZGF0ZShuZXh0UHJvcHMsIG5leHRDb250ZXh0KSkK</text>
+        <text encoding="base64">ICAgIC8vICAgY29uc29sZS5sb2codmFsdWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYWxjdWxhdGVTdGF0ZVVwZGF0ZSAoCiAgICApCiAgewogICAgLy8KICAgIC8vCiAgICAvLyByZXR1cm4gewogICAgLy8gICB2YWx1ZSwKICAgIC8vICAgaXRlbXMsCiAgICAvLyAgIGlzVmFsaWQsCiAgICAvLyAgIGVycm9yTWVzc2FnZSwKICAgIC8vIH0KICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8vICAgY29uc29sZS5sb2cobmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5ld1ZhbHVlID0gZm9ybUNvbnRleHQucHJvcHMuZmllbGRzW25hbWVdIHx8IFtdCg==</text>
+        <text encoding="base64">ICAgIC8vIGlmIChuYW1lID09ICdtb2RlbCcpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGxpa2UgaGVyZTogaHR0cDovL2VyaWNnaW8uZ2l0aHViLmlvL3JlYWN0LWJvb3RzdHJhcC10eXBlYWhlYWQvI3B1YmxpYy1tZXRob2RzCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
