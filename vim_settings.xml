@@ -65,11 +65,11 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="R:/Rem/source/web/src/api/restApi.test.js" timestamp="1525084629352">
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="51" column="22" />
-        <mark key="^" line="51" column="22" />
-        <mark key="." line="51" column="22" />
+      <file name="R:/Rem/source/web/src/api/restApi.test.js" timestamp="1525085800999">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="12" />
+        <mark key="^" line="38" column="12" />
+        <mark key="." line="38" column="12" />
       </file>
       <file name="R:/Rem/source/web/src/constants/actionTypes.js" timestamp="1523289772368">
         <mark key="'" line="127" column="0" />
@@ -280,6 +280,9 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="32" column="33" />
       </file>
+      <file name="/JavaScript Console" timestamp="1525085648468">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="R:/Rem/source/web/src/containers/AuctionDetailsContainer.js" timestamp="1523373019380">
         <mark key="'" line="62" column="68" />
         <mark key="[" line="3" column="49" />
@@ -343,13 +346,11 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/utils/futils.js" timestamp="1524844414469">
-        <mark key="'" line="40" column="0" />
         <mark key="[" line="223" column="0" />
         <mark key="]" line="223" column="0" />
         <mark key="." line="223" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1525084602017">
-        <mark key="'" line="288" column="21" />
         <mark key="[" line="5" column="42" />
         <mark key="]" line="5" column="59" />
         <mark key="^" line="5" column="59" />
@@ -526,16 +527,16 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlcnIK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>bool</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>call</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaWZTdWNjZXNzIH0gZnJvbSAnLi4vLi4vdXRpbHMvZnV0aWxzJwo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlcnIK</text>
