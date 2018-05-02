@@ -58,6 +58,13 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
+      <file name="R:/Rem/source/web/package.json" timestamp="1525271026413">
+        <mark key="'" line="109" column="7" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="115" column="13" />
+        <mark key="." line="115" column="13" />
+        <mark key="^" line="104" column="11" />
+      </file>
       <file name="R:/Rem/source/web/src/components/SearchBar.js" timestamp="1513345538673">
         <mark key="'" line="21" column="6" />
         <mark key="[" line="16" column="12" />
@@ -65,11 +72,11 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="R:/Rem/source/web/src/api/restApi.test.js" timestamp="1525085800999">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="12" />
-        <mark key="^" line="38" column="12" />
-        <mark key="." line="38" column="12" />
+      <file name="R:/Rem/source/web/src/api/restApi.test.js" timestamp="1525271381323">
+        <mark key="[" line="64" column="2" />
+        <mark key="]" line="64" column="3" />
+        <mark key="." line="64" column="3" />
+        <mark key="^" line="64" column="2" />
       </file>
       <file name="R:/Rem/source/web/src/constants/actionTypes.js" timestamp="1523289772368">
         <mark key="'" line="127" column="0" />
@@ -238,8 +245,8 @@
         <mark key="." line="162" column="3" />
         <mark key="^" line="162" column="3" />
       </file>
-      <file name="R:/Rem/source/web/src/components/withUnsavedChangesUtils.js" timestamp="1524838608004">
-        <mark key="'" line="100" column="46" />
+      <file name="R:/Rem/source/web/src/components/withUnsavedChangesUtils.js" timestamp="1525269375188">
+        <mark key="'" line="103" column="9" />
         <mark key="[" line="100" column="60" />
         <mark key="]" line="100" column="60" />
         <mark key="^" line="100" column="60" />
@@ -310,6 +317,9 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1525270789339">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="R:/Rem/source/web/src/components/Insurance.js" timestamp="1524844495940">
         <mark key="'" line="74" column="2" />
         <mark key="[" line="13" column="0" />
@@ -346,11 +356,12 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/utils/futils.js" timestamp="1524844414469">
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="0" />
-        <mark key="." line="196" column="0" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1525084602017">
+      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1525271239961">
+        <mark key="'" line="152" column="40" />
         <mark key="[" line="5" column="42" />
         <mark key="]" line="5" column="59" />
         <mark key="^" line="5" column="59" />
@@ -421,28 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="17" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="45" column="31" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="46" column="76" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="48" column="52" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="56" column="35" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="70" column="6" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="86" column="25" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="89" column="28" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="98" column="21" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="100" column="51" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="120" column="45" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="71" column="6" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="77" column="20" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="78" column="78" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="81" column="26" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="118" column="30" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="133" column="8" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="72" column="6" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="135" column="8" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="73" column="6" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="136" column="8" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="167" column="6" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="106" column="50" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="128" column="4" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="125" column="23" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
@@ -521,58 +510,80 @@
       <jump line="329" column="10" filename="R:/Rem/source/web/src/api/restApi.js" />
       <jump line="6" column="2" filename="R:/Rem/source/web/src/api/restApi.js" />
       <jump line="288" column="21" filename="R:/Rem/source/web/src/api/restApi.js" />
+      <jump line="73" column="6" filename="R:/Rem/source/web/src/components/withUnsavedChangesUtils.js" />
+      <jump line="92" column="9" filename="R:/Rem/source/web/src/components/withUnsavedChangesUtils.js" />
+      <jump line="103" column="9" filename="R:/Rem/source/web/src/components/withUnsavedChangesUtils.js" />
+      <jump line="46" column="8" filename="R:/Rem/source/web/src/api/restApi.test.js" />
+      <jump line="69" column="8" filename="R:/Rem/source/web/src/api/restApi.test.js" />
+      <jump line="91" column="6" filename="R:/Rem/source/web/src/api/restApi.test.js" />
+      <jump line="83" column="6" filename="R:/Rem/source/web/src/api/restApi.test.js" />
+      <jump line="11" column="6" filename="R:/Rem/source/web/src/api/restApi.test.js" />
+      <jump line="74" column="5" filename="R:/Rem/source/web/package.json" />
+      <jump line="49" column="11" filename="R:/Rem/source/web/package.json" />
+      <jump line="55" column="5" filename="R:/Rem/source/web/package.json" />
+      <jump line="56" column="5" filename="R:/Rem/source/web/package.json" />
+      <jump line="57" column="5" filename="R:/Rem/source/web/package.json" />
+      <jump line="89" column="7" filename="R:/Rem/source/web/package.json" />
+      <jump line="108" column="7" filename="R:/Rem/source/web/package.json" />
+      <jump line="19" column="21" filename="R:/Rem/source/web/src/api/restApi.js" />
+      <jump line="60" column="20" filename="R:/Rem/source/web/src/api/restApi.js" />
+      <jump line="99" column="39" filename="R:/Rem/source/web/src/api/restApi.js" />
+      <jump line="100" column="40" filename="R:/Rem/source/web/src/api/restApi.js" />
+      <jump line="134" column="20" filename="R:/Rem/source/web/src/api/restApi.js" />
+      <jump line="151" column="39" filename="R:/Rem/source/web/src/api/restApi.js" />
+      <jump line="152" column="40" filename="R:/Rem/source/web/src/api/restApi.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text>expect</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>expect</text>
       </register>
       <register name="/" type="4">
-        <text>call</text>
+        <text>Success</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgImV4cGVjdCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlcnIK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZmV0Y2gucmVzZXRNb2NrcygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbURrTnVtYmVyIH0gZnJvbSAnLi4vdXRpbHMvZnV0aWxzJwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbURrTnVtYmVyIH0gZnJvbSAnLi4vdXRpbHMvZnV0aWxzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbURrTnVtYmVyIH0gZnJvbSAnLi4vdXRpbHMvZnV0aWxzJwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdaWlpaWlpaWlpaWlpaWlpaWlpaWlonKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbURrTnVtYmVyIH0gZnJvbSAnLi4vdXRpbHMvZnV0aWxzJwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbURrTnVtYmVyLCBpZlN1Y2Nlc3MgfSBmcm9tICcuLi91dGlscy9mdXRpbHMnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbURrTnVtYmVyIH0gZnJvbSAnLi4vdXRpbHMvZnV0aWxzJwo=</text>
+        <text encoding="base64">ICAgICAgICBoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbURrTnVtYmVyLCAgfSBmcm9tICcuLi91dGlscy9mdXRpbHMnCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXJyJywgZXJyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>call</last-search>
+      <last-search>Success</last-search>
       <last-offset />
-      <last-pattern>call</last-pattern>
+      <last-pattern>Success</last-pattern>
       <last-replace>new</last-replace>
       <last-substitute>old</last-substitute>
       <last-dir>1</last-dir>
@@ -580,9 +591,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpdGVtc1w+</entry>
-        <entry encoding="base64">XDx2YWxpZGF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxpc1ZhbGlkXD4=</entry>
         <entry encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVTdGF0ZVVwZGF0ZVw+</entry>
         <entry>this.props</entry>
@@ -596,10 +604,13 @@
         <entry>class</entry>
         <entry encoding="base64">XDxjbGVhclVuc2F2ZWRDaGFuZ2VzU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxyZXNwb25zZUhhbmRsZXJcPg==</entry>
-        <entry>Success</entry>
         <entry encoding="base64">XDxTdWNjZXNzXD4=</entry>
         <entry>fUtils</entry>
         <entry>call</entry>
+        <entry>console</entry>
+        <entry encoding="base64">XDxzdWNjZXNzRm5cPg==</entry>
+        <entry>jest</entry>
+        <entry>Success</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLw==</entry>
@@ -614,12 +625,12 @@
         <entry>2w</entry>
         <entry>w\</entry>
         <entry>w3</entry>
-        <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMucHJvcHMvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMuc3RhdGUuLy9n</entry>
         <entry encoding="base64">JzwsJz5zL29sZC9uZXc=</entry>
         <entry>s</entry>
         <entry>we</entry>
+        <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
