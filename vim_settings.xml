@@ -75,12 +75,12 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="R:/Rem/source/web/src/api/restApi.test.js" timestamp="1525445487682">
+      <file name="R:/Rem/source/web/src/api/restApi.test.js" timestamp="1525447141118">
         <mark key="'" line="21" column="60" />
-        <mark key="[" line="31" column="6" />
-        <mark key="]" line="31" column="10" />
-        <mark key="^" line="31" column="10" />
-        <mark key="." line="31" column="10" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="46" />
+        <mark key="^" line="51" column="45" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="R:/Rem/source/web/src/constants/actionTypes.js" timestamp="1523289772368">
         <mark key="'" line="127" column="0" />
@@ -356,18 +356,18 @@
         <mark key="^" line="245" column="17" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="R:/Rem/source/web/src/utils/futils.js" timestamp="1525446379700">
-        <mark key="[" line="210" column="13" />
-        <mark key="]" line="210" column="19" />
-        <mark key="." line="210" column="19" />
-        <mark key="^" line="210" column="19" />
+      <file name="R:/Rem/source/web/src/utils/futils.js" timestamp="1525446938174">
+        <mark key="[" line="214" column="21" />
+        <mark key="]" line="214" column="24" />
+        <mark key="^" line="214" column="24" />
+        <mark key="." line="214" column="24" />
       </file>
-      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1525444585013">
-        <mark key="'" line="152" column="40" />
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="59" />
-        <mark key="^" line="5" column="59" />
-        <mark key="." line="5" column="59" />
+      <file name="R:/Rem/source/web/src/api/restApi.js" timestamp="1525446960522">
+        <mark key="'" line="261" column="0" />
+        <mark key="[" line="165" column="27" />
+        <mark key="]" line="166" column="22" />
+        <mark key="." line="166" column="22" />
+        <mark key="^" line="166" column="22" />
       </file>
       <file name="R:/Rem/source/web/src/components/CustomerAndContract.js" timestamp="1524844458380">
         <mark key="'" line="102" column="2" />
@@ -437,9 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="35" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="58" column="4" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
-      <jump line="14" column="19" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="85" column="90" filename="R:/Rem/source/web/src/components/controls/TypeaheadField.js" />
       <jump line="75" column="0" filename="R:/Rem/source/web/src/components/AuctionAndSale.js" />
       <jump line="60" column="4" filename="R:/Rem/source/web/src/components/withForm.js" />
@@ -460,7 +457,6 @@
       <jump line="37" column="9" filename="R:/Rem/source/web/src/components/withForm.js" />
       <jump line="153" column="12" filename="R:/Rem/source/web/src/components/withForm.js" />
       <jump line="165" column="18" filename="R:/Rem/source/web/src/components/withForm.js" />
-      <jump line="272" column="59" filename="R:/Rem/source/web/src/api/restApi.js" />
       <jump line="338" column="10" filename="R:/Rem/source/web/src/api/restApi.js" />
       <jump line="78" column="0" filename="R:/Rem/source/web/src/api/restApi.js" />
       <jump line="95" column="40" filename="R:/Rem/source/web/src/api/restApi.js" />
@@ -537,58 +533,62 @@
       <jump line="82" column="79" filename="R:/Rem/source/web/src/api/restApi.test.js" />
       <jump line="336" column="6" filename="R:/Rem/source/web/src/api/restApi.js" />
       <jump line="21" column="60" filename="R:/Rem/source/web/src/api/restApi.test.js" />
+      <jump line="229" column="6" filename="R:/Rem/source/web/src/api/restApi.js" />
+      <jump line="272" column="9" filename="R:/Rem/source/web/src/api/restApi.js" />
+      <jump line="330" column="10" filename="R:/Rem/source/web/src/api/restApi.js" />
+      <jump line="258" column="0" filename="R:/Rem/source/web/src/api/restApi.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>Success</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBUT0RPIGxldCdzIGRpc2N1c3MgdGhlIHBvaW50IG9mIHRoaXMgdGVzdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Success</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>pipe</text>
+        <text>jsonH</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIGxldCdzIGRpc2N1c3MgdGhlIHBvaW50IG9mIHRoaXMgdGVzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3VjY2Vzcykubm90LnRvQmVDYWxsZWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3VjY2Vzcykubm90LnRvQmVDYWxsZWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3VjY2Vzcykubm90LnRvQmVDYWxsZWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">J2dldCByZXR1cm5zIGVtcHR5IHJlc3BvbnNlIGFuZCBlcnJvciBpcyB0aHJvd24sIGZldGNoIGNhbGxlZCBvbmNlJywgKCkgPT4gewogICAgZmV0Y2gubW9ja1Jlc3BvbnNlT25jZSgnICcpCiAgICAvLyBjb25zdCByZXNwb25zZSA9IHsgcHJvcDE6ICdhYWEnLCBwcm9wMjogMTExIH0KICAgIC8vIGZldGNoLm1vY2tSZXNwb25zZShKU09OLnN0cmluZ2lmeShyZXNwb25zZSkpCgogICAgY29uc3QgZGlzcGF0Y2ggPSBqZXN0LmZuKCkKICAgIGNvbnN0IHN1Y2Nlc3MgPSBqZXN0LmZuKCkKICAgIGNvbnN0IHJlc3RBcGkgPSByZXN0QXBpRmFjdG9yeSgnL3VybC9zb21lJywgZGlzcGF0Y2gsICcnKQogICAgZXhwZWN0LmFzc2VydGlvbnMoMykKCiAgICByZXR1cm4gcmVzdEFwaQogICAgICAuZ2V0KCkgPT4ge30=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHN1Y2Nlc3MgPSBqZXN0LmZuKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb25lKCkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN1Y2Nlc3MgPSBqZXN0LmZuKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN1Y2Nlc3MgPSBqZXN0LmZuKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5ldyBFcnJvcigndGhpcyBzaG91bGQgbm90IGJlIGNhbGxlZCBiZWNhdXNlIHJlcXVlc3QgaGFuZGxpbmcgc2hvdWxkIGZhaWwnKQo=</text>
+        <text encoding="base64">ICAgIC8vIGZldGNoLm1vY2tSZXNwb25zZShKU09OLnN0cmluZ2lmeShyZXNwb25zZSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb25lLmZhaWwoCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHJlc3BvbnNlID0geyBwcm9wMTogJ2FhYScsIHByb3AyOiAxMTEgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>pipe</last-search>
+      <last-search>jsonH</last-search>
       <last-offset />
-      <last-pattern>pipe</last-pattern>
+      <last-pattern>jsonH</last-pattern>
       <last-replace>new</last-replace>
       <last-substitute>old</last-substitute>
       <last-dir>1</last-dir>
@@ -596,10 +596,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cunsaved</entry>
-        <entry encoding="base64">XDxoYXNVbnNhdmVkQ2hhbmdlc1w+</entry>
-        <entry>old</entry>
-        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
         <entry encoding="base64">XDxmb3JtSGFzVW5zYXZlZENoYW5nZXNcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVVbnNhdmVkQ2hhbmdlc1N0YXR1c1w+</entry>
         <entry>class</entry>
@@ -616,9 +612,12 @@
         <entry encoding="base64">XDxkb25lXD4=</entry>
         <entry>done</entry>
         <entry>pipe</entry>
+        <entry encoding="base64">XDxoYW5kbGVFcnJvclw+</entry>
+        <entry>handleNet</entry>
+        <entry encoding="base64">XDxoYW5kbGVOZXR3b3JrRXJyb3JcPg==</entry>
+        <entry>jsonH</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1wkLy8=</entry>
         <entry>ws</entry>
         <entry>w2</entry>
         <entry encoding="base64">JzwsJz5zLyAvXy8=</entry>
@@ -636,6 +635,7 @@
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zb3IgaQ==</entry>
         <entry>dw</entry>
+        <entry>e</entry>
         <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
